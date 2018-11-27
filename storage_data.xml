@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remote" />
+      <item value="overwrite" />
       <item value="备忘" />
       <item value="fd Last Sync Audit Note Time" />
       <item value="Could not reserve enough space for object heap" />
