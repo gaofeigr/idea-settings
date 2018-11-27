@@ -1,0 +1,13 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="embedded" value="false" />
+    <option name="griffin" value="true" />
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.2.2" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+      </map>
+    </option>
+    <option name="javaRebelPath" value="C:\Users\gaofe\.IntelliJIdea2016.3\config\plugins\jr-ide-idea\lib\jrebel\jrebel.jar" />
+  </component>
+</application>
