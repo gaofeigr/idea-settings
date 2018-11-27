@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="offline seat duration" />
+      <item value="auto renew offline seat" />
+      <item value="autorenew offline seat" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="790d8c17d9b6123c" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
