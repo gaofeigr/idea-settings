@@ -4,7 +4,7 @@
     <property name="created">2018-11-26T20:31:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-11-27T22:34:22</property>
+    <property name="modified">2018-11-27T22:37:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -43,6 +43,11 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
