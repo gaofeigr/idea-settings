@@ -1,8 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Platform and Plugin Updates" displayType="NONE" />
-    <notification groupId="Plugins Suggestion" displayType="NONE" />
-    <notification groupId="Spring Configuration Check" displayType="NONE" />
-    <notification groupId="System Messages" displayType="NONE" />
-  </component>
-</application>
