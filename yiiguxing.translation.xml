@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="curren" />
       <item value="Soft Ref LRU Policy MS Per MB" />
       <item value="Reserved Code Cache Size" />
       <item value="null" />

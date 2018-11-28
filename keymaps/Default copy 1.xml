@@ -9,6 +9,9 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
