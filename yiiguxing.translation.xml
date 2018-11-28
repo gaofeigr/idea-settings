@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JRebel enabled automatic compilation for this project" />
+      <item value="You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="curren" />
       <item value="Soft Ref LRU Policy MS Per MB" />
       <item value="Reserved Code Cache Size" />
@@ -13,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
