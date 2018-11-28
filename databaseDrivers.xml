@@ -21,7 +21,7 @@
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlserver.jtds">
+    <driver id="sqlserver.jtds" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
