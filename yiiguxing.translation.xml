@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="#log inbound message and outbound message of webservice" />
+      <item value="# Don't show debug logs for WebTest" />
+      <item value="# Control logging for other open source packages" />
+      <item value="# You can change this to be an absolute path or even an environment variable&#10;# If you're using an environment variable, you will have to set JAVA_OPTS&#10;# to contain this variables - for example in the catalina.sh or catalina.bat&#10;# file" />
+      <item value="# Pattern to output the caller's file name and line number." />
+      <item value="#log4j.logger.com.landray.kmss.guosen.lbpm.node.GuosenAttFtpQueueService=DEBUG, attFtp" />
+      <item value="root Category" />
+      <item value="you start Tomcat from" />
+      <item value="# Configuration for receiving e-mails when ERROR messages occur." />
       <item value="recent files limit" />
       <item value="EXTENDDATASERVICE MAIN MODEL CACHE" />
       <item value="transient" />
@@ -29,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="29" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
