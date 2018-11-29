@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insert imports on paste" />
       <item value="StandardServer.await: Invalid command '' received" />
       <item value="store current layout as default" />
       <item value="JRebel enabled automatic compilation for this project" />
