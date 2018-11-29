@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="StandardServer.await: Invalid command '' received" />
       <item value="store current layout as default" />
       <item value="JRebel enabled automatic compilation for this project" />
       <item value="You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
