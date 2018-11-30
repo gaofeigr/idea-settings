@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Response was of unexpected text/html ContentType. Incoming portion of HTML stream:" />
+      <item value="You will shortly be redirected to an apprioriate page." />
+      <item value="Temporary Redirect&lt;" />
       <item value="PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]" />
       <item value="Guosen Draft Submit Listener" />
       <item value="enforce" />
@@ -46,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
