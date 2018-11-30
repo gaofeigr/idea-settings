@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dafrt" />
+      <item value="getdafrt" />
       <item value="get Fd Process Identity" />
       <item value="handle Event" />
       <item value="#log inbound message and outbound message of webservice" />
