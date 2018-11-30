@@ -3,5 +3,29 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*</mask>
+      <mask>*L</mask>
+      <mask>*Li</mask>
+      <mask>*Lis</mask>
+      <mask>*List</mask>
+      <mask>*Liste</mask>
+      <mask>*Listen</mask>
+      <mask>*Listene</mask>
+      <mask>*Listener</mask>
+      <mask>*Listener.</mask>
+      <mask>*Listener.j</mask>
+      <mask>*Listener.jav</mask>
+      <mask>*Listener.java</mask>
+    </recentFileMasks>
   </component>
 </application>
