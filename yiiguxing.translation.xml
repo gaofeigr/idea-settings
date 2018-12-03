@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="take Node Id" />
+      <item value="Admin End Concurrent Branch Event" />
+      <item value="is Have Manual Branch Node" />
+      <item value="incommings" />
+      <item value="get Outgoing Transitions" />
       <item value="get Destination" />
       <item value="fill Next Nodes" />
       <item value="fill Pre Nodes" />
@@ -46,16 +51,11 @@
       <item value="root Category" />
       <item value="you start Tomcat from" />
       <item value="# Configuration for receiving e-mails when ERROR messages occur." />
-      <item value="recent files limit" />
-      <item value="EXTENDDATASERVICE MAIN MODEL CACHE" />
-      <item value="transient" />
-      <item value="fd expecter name" />
-      <item value="handler Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
