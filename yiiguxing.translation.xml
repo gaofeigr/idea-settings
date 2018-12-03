@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binder" />
+      <item value="COMPLETED" />
+      <item value="DESULT" />
+      <item value="COMPLETE" />
+      <item value="completedesult" />
+      <item value="COMPLETEDESULT" />
+      <item value="Admin Operation Binder" />
+      <item value="guosen admin resume" />
       <item value="TEXT" />
       <item value="guosen Draft Submit Listener" />
       <item value="drafter Submit Event" />
@@ -43,19 +51,13 @@
       <item value="JRebel enabled automatic compilation for this project" />
       <item value="You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="curren" />
-      <item value="Soft Ref LRU Policy MS Per MB" />
-      <item value="Reserved Code Cache Size" />
-      <item value="Arrays" />
-      <item value="km Review Main Service" />
-      <item value="offline seat duration" />
-      <item value="auto renew offline seat" />
-      <item value="autorenew offline seat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="47" />
         <entry key="FRENCH" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
