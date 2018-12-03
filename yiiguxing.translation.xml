@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guosen Draft Submit Listener" />
+      <item value="drafter Submit Event" />
       <item value="unable to find valid certification path to requested target" />
       <item value="Response was of unexpected text/html ContentType. Incoming portion of HTML stream:" />
       <item value="You will shortly be redirected to an apprioriate page." />
@@ -50,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
