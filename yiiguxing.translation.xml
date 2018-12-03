@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integer" />
+      <item value="property" />
+      <item value="Tried to assign property nanos" />
       <item value="binder" />
       <item value="COMPLETED" />
       <item value="DESULT" />
@@ -48,14 +51,11 @@
       <item value="insert imports on paste" />
       <item value="StandardServer.await: Invalid command '' received" />
       <item value="store current layout as default" />
-      <item value="JRebel enabled automatic compilation for this project" />
-      <item value="You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
-      <item value="curren" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
