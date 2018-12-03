@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Execute Result" />
+      <item value="is Pass Type" />
+      <item value="false" />
       <item value="Integer" />
       <item value="property" />
       <item value="Tried to assign property nanos" />
@@ -48,14 +51,11 @@
       <item value="fd Last Sync Audit Note Time" />
       <item value="behaviour" />
       <item value="Behaviour" />
-      <item value="insert imports on paste" />
-      <item value="StandardServer.await: Invalid command '' received" />
-      <item value="store current layout as default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
