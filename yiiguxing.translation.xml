@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Destination" />
+      <item value="fill Next Nodes" />
+      <item value="fill Pre Nodes" />
+      <item value="concurrent" />
+      <item value="suspended" />
+      <item value="get Concurrent Execution" />
+      <item value="find Activity" />
       <item value="get Execute Result" />
       <item value="is Pass Type" />
       <item value="false" />
@@ -44,18 +51,11 @@
       <item value="transient" />
       <item value="fd expecter name" />
       <item value="handler Name" />
-      <item value="guosen Audit Note" />
-      <item value="detail Handler Name" />
-      <item value="remeber" />
-      <item value="null" />
-      <item value="fd Last Sync Audit Note Time" />
-      <item value="behaviour" />
-      <item value="Behaviour" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
