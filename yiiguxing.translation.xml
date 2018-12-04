@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="manual Incommings" />
       <item value="take Node Id" />
+      <item value="take Transition Id" />
+      <item value="task Execution Context" />
+      <item value="manual Incommings" />
       <item value="Admin End Concurrent Branch Event" />
       <item value="is Have Manual Branch Node" />
       <item value="incommings" />
@@ -49,13 +51,11 @@
       <item value="# You can change this to be an absolute path or even an environment variable&#10;# If you're using an environment variable, you will have to set JAVA_OPTS&#10;# to contain this variables - for example in the catalina.sh or catalina.bat&#10;# file" />
       <item value="# Pattern to output the caller's file name and line number." />
       <item value="#log4j.logger.com.landray.kmss.guosen.lbpm.node.GuosenAttFtpQueueService=DEBUG, attFtp" />
-      <item value="root Category" />
-      <item value="you start Tomcat from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
