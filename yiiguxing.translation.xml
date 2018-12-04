@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guosen Review Node Resume Behaviour" />
+      <item value="lbpm Process Current Info Service" />
       <item value="disable cache" />
       <item value="marquee" />
       <item value="update administrative information only in changed subtrees" />
@@ -49,13 +51,11 @@
       <item value="getdafrt" />
       <item value="get Fd Process Identity" />
       <item value="handle Event" />
-      <item value="#log inbound message and outbound message of webservice" />
-      <item value="# Don't show debug logs for WebTest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
