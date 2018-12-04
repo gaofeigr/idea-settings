@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable cache" />
       <item value="marquee" />
       <item value="update administrative information only in changed subtrees" />
       <item value="force" />
@@ -50,7 +51,6 @@
       <item value="handle Event" />
       <item value="#log inbound message and outbound message of webservice" />
       <item value="# Don't show debug logs for WebTest" />
-      <item value="# Control logging for other open source packages" />
     </histories>
     <option name="languageScores">
       <map>
