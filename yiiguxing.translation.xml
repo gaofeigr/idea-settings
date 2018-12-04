@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="marquee" />
       <item value="update administrative information only in changed subtrees" />
       <item value="force" />
       <item value="take Node Id" />
@@ -50,7 +51,6 @@
       <item value="#log inbound message and outbound message of webservice" />
       <item value="# Don't show debug logs for WebTest" />
       <item value="# Control logging for other open source packages" />
-      <item value="# You can change this to be an absolute path or even an environment variable&#10;# If you're using an environment variable, you will have to set JAVA_OPTS&#10;# to contain this variables - for example in the catalina.sh or catalina.bat&#10;# file" />
     </histories>
     <option name="languageScores">
       <map>
