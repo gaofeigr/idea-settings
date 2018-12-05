@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Is Contain Examine" />
       <item value="Guosen Draft Submit For Branch Listener" />
       <item value="node Attribute Extend" />
       <item value="wait For Signal" />
@@ -50,12 +51,11 @@
       <item value="Temporary Redirect&lt;" />
       <item value="PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]" />
       <item value="Guosen Draft Submit Listener" />
-      <item value="enforce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
