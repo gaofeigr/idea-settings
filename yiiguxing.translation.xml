@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merge Project" />
+      <item value="merge Contract" />
+      <item value="add Merged Region" />
+      <item value="info Size" />
+      <item value="set Cell Row Value" />
       <item value="fd Is Contain Examine" />
       <item value="Guosen Draft Submit For Branch Listener" />
       <item value="node Attribute Extend" />
@@ -46,16 +51,11 @@
       <item value="guosen Draft Submit Listener" />
       <item value="drafter Submit Event" />
       <item value="unable to find valid certification path to requested target" />
-      <item value="Response was of unexpected text/html ContentType. Incoming portion of HTML stream:" />
-      <item value="You will shortly be redirected to an apprioriate page." />
-      <item value="Temporary Redirect&lt;" />
-      <item value="PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]" />
-      <item value="Guosen Draft Submit Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="94" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
