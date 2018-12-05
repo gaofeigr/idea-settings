@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guosen Draft Submit For Branch Listener" />
+      <item value="node Attribute Extend" />
+      <item value="wait For Signal" />
       <item value="don't share" />
       <item value="To improve your experience, we would like to collect data on the plugins and features you use. No personal data will be collected. An archive of a few kilobytes will be sent weekly." />
       <item value="guosen Review Node Resume Behaviour" />
@@ -48,14 +51,11 @@
       <item value="PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target]" />
       <item value="Guosen Draft Submit Listener" />
       <item value="enforce" />
-      <item value="Guosen Relation" />
-      <item value="get Dafrt" />
-      <item value="getdafrt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="87" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
