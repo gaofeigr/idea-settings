@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compressionMinSize" />
       <item value="launch" />
       <item value="Document base D:\Server\apache-tomcat-7.0.75\webapps\vanke_ekp does not exist or is not a readable directory" />
       <item value="Failed to start component [StandardServer[8005]]" />
@@ -50,7 +51,6 @@
       <item value="concurrent" />
       <item value="suspended" />
       <item value="get Concurrent Execution" />
-      <item value="find Activity" />
     </histories>
     <option name="languageScores">
       <map>
