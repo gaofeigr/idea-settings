@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unwinding now" />
+      <item value="NETTY CLIENT PIPELINE: IDLE exception" />
       <item value="Client Abort Exception:  java.net.SocketException: Broken pipe" />
       <item value="ClientAbortException:  java.net.SocketException: Broken pipe" />
       <item value="compressionMinSize" />
@@ -15,7 +17,6 @@
       <item value="deploy applications configured in tomcat instance" />
       <item value="Broken pipe " />
       <item value="Broken pipe" />
-      <item value="unwinding now" />
       <item value="Protocol handler start failed" />
       <item value="Tomcat connector in failed state" />
       <item value="coverage" />
@@ -50,7 +51,6 @@
       <item value="get Destination" />
       <item value="fill Next Nodes" />
       <item value="fill Pre Nodes" />
-      <item value="concurrent" />
     </histories>
     <option name="languageScores">
       <map>
