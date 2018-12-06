@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to start component [StandardServer[8005]]" />
+      <item value="Failed to start component [StandardEngine[Catalina]]" />
+      <item value="A child container failed during start" />
+      <item value="socket" />
+      <item value="transport" />
+      <item value="applocaion server was not connected before run configuration stop, reason:javax.management.InstanceNotFoundException:Catalina:type=server" />
+      <item value="deploy applications configured in tomcat instance" />
       <item value="Broken pipe " />
       <item value="Broken pipe" />
       <item value="unwinding now" />
@@ -44,18 +51,11 @@
       <item value="find Activity" />
       <item value="get Execute Result" />
       <item value="is Pass Type" />
-      <item value="false" />
-      <item value="Integer" />
-      <item value="property" />
-      <item value="Tried to assign property nanos" />
-      <item value="binder" />
-      <item value="COMPLETED" />
-      <item value="DESULT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
