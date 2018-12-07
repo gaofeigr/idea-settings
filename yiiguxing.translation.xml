@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" IntelliJ IDEA enables running entire applications as well as classes with the main() method." />
       <item value="thread Priority" />
       <item value="thread Count" />
       <item value="MISFIRE_INSTRUCTION_DO_NOTHING" />
@@ -50,7 +51,6 @@
       <item value="task Execution Context" />
       <item value="manual Incommings" />
       <item value="Admin End Concurrent Branch Event" />
-      <item value="is Have Manual Branch Node" />
     </histories>
     <option name="languageScores">
       <map>
