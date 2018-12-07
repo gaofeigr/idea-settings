@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Client Abort Exception:  java.net.SocketException: Broken pipe" />
+      <item value="ClientAbortException:  java.net.SocketException: Broken pipe" />
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
       <item value="retain All" />
       <item value=" IntelliJ IDEA enables running entire applications as well as classes with the main() method." />
@@ -11,8 +13,6 @@
       <item value="job Store" />
       <item value="unwinding now" />
       <item value="NETTY CLIENT PIPELINE: IDLE exception" />
-      <item value="Client Abort Exception:  java.net.SocketException: Broken pipe" />
-      <item value="ClientAbortException:  java.net.SocketException: Broken pipe" />
       <item value="compressionMinSize" />
       <item value="launch" />
       <item value="Document base D:\Server\apache-tomcat-7.0.75\webapps\vanke_ekp does not exist or is not a readable directory" />
