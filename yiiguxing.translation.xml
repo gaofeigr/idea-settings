@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain All" />
       <item value=" IntelliJ IDEA enables running entire applications as well as classes with the main() method." />
       <item value="thread Priority" />
       <item value="thread Count" />
@@ -50,12 +51,11 @@
       <item value="take Transition Id" />
       <item value="task Execution Context" />
       <item value="manual Incommings" />
-      <item value="Admin End Concurrent Branch Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
