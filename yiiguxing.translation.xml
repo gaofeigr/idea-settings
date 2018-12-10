@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
       <item value="fd Sign Persons" />
       <item value="orphan" />
       <item value="inverse" />
       <item value="HouseKeeper: org.logicalcobwebs.proxool.hrsync.sweep(149)" />
       <item value="max Idle" />
-      <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
       <item value="max Active" />
       <item value="house Keeping Test Sql" />
       <item value="minimum Connection Count" />
