@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
+      <item value="max Active" />
+      <item value="max Idle" />
+      <item value="house Keeping Test Sql" />
+      <item value="minimum Connection Count" />
+      <item value="maximum Connection Count" />
+      <item value="house Keeping Sleep Time" />
+      <item value="was active for 319340 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-9', but the last SQL it performed is unknown because the trace property is not enabled. " />
+      <item value="White spaces are required between publicId and systemId" />
+      <item value="NETTY CLIENT PIPELINE: IDLE exception" />
       <item value="execute Batch" />
       <item value="Client Abort Exception:  java.net.SocketException: Broken pipe" />
       <item value="ClientAbortException:  java.net.SocketException: Broken pipe" />
@@ -13,7 +23,6 @@
       <item value="misfire Threshold" />
       <item value="job Store" />
       <item value="unwinding now" />
-      <item value="NETTY CLIENT PIPELINE: IDLE exception" />
       <item value="compressionMinSize" />
       <item value="launch" />
       <item value="Document base D:\Server\apache-tomcat-7.0.75\webapps\vanke_ekp does not exist or is not a readable directory" />
@@ -42,20 +51,11 @@
       <item value="node Attribute Extend" />
       <item value="wait For Signal" />
       <item value="don't share" />
-      <item value="To improve your experience, we would like to collect data on the plugins and features you use. No personal data will be collected. An archive of a few kilobytes will be sent weekly." />
-      <item value="guosen Review Node Resume Behaviour" />
-      <item value="lbpm Process Current Info Service" />
-      <item value="disable cache" />
-      <item value="marquee" />
-      <item value="update administrative information only in changed subtrees" />
-      <item value="force" />
-      <item value="take Node Id" />
-      <item value="take Transition Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="119" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
