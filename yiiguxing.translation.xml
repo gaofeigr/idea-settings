@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Sign Persons" />
+      <item value="orphan" />
+      <item value="inverse" />
       <item value="HouseKeeper: org.logicalcobwebs.proxool.hrsync.sweep(149)" />
       <item value="max Idle" />
       <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
@@ -48,15 +51,12 @@
       <item value="info Size" />
       <item value="set Cell Row Value" />
       <item value="fd Is Contain Examine" />
-      <item value="Guosen Draft Submit For Branch Listener" />
-      <item value="node Attribute Extend" />
-      <item value="wait For Signal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="120" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="122" />
+        <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
