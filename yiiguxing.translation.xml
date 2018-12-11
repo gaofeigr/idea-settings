@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guosen Authorize" />
       <item value="a" />
       <item value="allocated heap size" />
       <item value="the owning session is closed" />
@@ -50,12 +51,11 @@
       <item value="create No Contail Examine Cell" />
       <item value="merge Project" />
       <item value="merge Contract" />
-      <item value="add Merged Region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="123" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
