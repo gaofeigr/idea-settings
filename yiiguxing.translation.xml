@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="换行" />
       <item value="Lbpm Process" />
       <item value="porcon" />
       <item value="porconpay" />
@@ -50,12 +51,11 @@
       <item value="deploy applications configured in tomcat instance" />
       <item value="Broken pipe " />
       <item value="Broken pipe" />
-      <item value="Protocol handler start failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
