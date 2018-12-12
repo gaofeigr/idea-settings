@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all the elements that are not contained in the specified * collection." />
       <item value="fd Is Contain Examine" />
       <item value="Guosen Authorize" />
       <item value="a" />
@@ -50,12 +51,11 @@
       <item value="proreview Status" />
       <item value="create No Contain Examine Cell" />
       <item value="create No Contail Examine Cell" />
-      <item value="merge Project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="125" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
