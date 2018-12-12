@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intellij" />
+      <item value="eclipse" />
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all the elements that are not contained in the specified * collection." />
       <item value="fd Is Contain Examine" />
       <item value="Guosen Authorize" />
@@ -49,8 +51,6 @@
       <item value="Tomcat connector in failed state" />
       <item value="coverage" />
       <item value="proreview Status" />
-      <item value="create No Contain Examine Cell" />
-      <item value="create No Contail Examine Cell" />
     </histories>
     <option name="languageScores">
       <map>
