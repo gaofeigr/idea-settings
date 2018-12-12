@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="porcon" />
+      <item value="porconpay" />
       <item value="intellij" />
       <item value="eclipse" />
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all the elements that are not contained in the specified * collection." />
@@ -49,13 +51,11 @@
       <item value="Broken pipe" />
       <item value="Protocol handler start failed" />
       <item value="Tomcat connector in failed state" />
-      <item value="coverage" />
-      <item value="proreview Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="127" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
