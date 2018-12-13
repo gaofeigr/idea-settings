@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="事务" />
       <item value="km Turning Headquarters Time" />
       <item value="provides integration with subversion version control system" />
       <item value="subversion integration" />
@@ -50,12 +51,11 @@
       <item value="Failed to start component [StandardServer[8005]]" />
       <item value="Failed to start component [StandardEngine[Catalina]]" />
       <item value="A child container failed during start" />
-      <item value="socket" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
