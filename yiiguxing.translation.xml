@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provides integration with subversion version control system" />
+      <item value="subversion integration" />
       <item value="clear Todo Sign" />
       <item value="copied" />
       <item value="换行" />
@@ -49,8 +51,6 @@
       <item value="A child container failed during start" />
       <item value="socket" />
       <item value="transport" />
-      <item value="applocaion server was not connected before run configuration stop, reason:javax.management.InstanceNotFoundException:Catalina:type=server" />
-      <item value="deploy applications configured in tomcat instance" />
     </histories>
     <option name="languageScores">
       <map>
