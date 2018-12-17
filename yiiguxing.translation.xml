@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manage" />
+      <item value="配置" />
+      <item value="institution" />
+      <item value="制度" />
+      <item value="regime" />
       <item value="sign" />
       <item value="category" />
       <item value="management" />
@@ -46,16 +51,11 @@
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
       <item value="retain All" />
       <item value=" IntelliJ IDEA enables running entire applications as well as classes with the main() method." />
-      <item value="thread Priority" />
-      <item value="thread Count" />
-      <item value="MISFIRE_INSTRUCTION_DO_NOTHING" />
-      <item value="misfire Threshold" />
-      <item value="job Store" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
