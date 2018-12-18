@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign" />
+      <item value="search" />
       <item value="类别名称" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access. &#9;" />
       <item value="Repeated column in mapping for collection" />
@@ -13,7 +15,6 @@
       <item value="institution" />
       <item value="制度" />
       <item value="regime" />
-      <item value="sign" />
       <item value="category" />
       <item value="management" />
       <item value="管理" />
@@ -50,12 +51,11 @@
       <item value="maximum Connection Count" />
       <item value="house Keeping Sleep Time" />
       <item value="was active for 319340 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-9', but the last SQL it performed is unknown because the trace property is not enabled. " />
-      <item value="White spaces are required between publicId and systemId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
