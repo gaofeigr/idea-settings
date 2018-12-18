@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escape" />
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
       <item value="sign" />
       <item value="search" />
@@ -50,12 +51,11 @@
       <item value="house Keeping Test Sql" />
       <item value="minimum Connection Count" />
       <item value="maximum Connection Count" />
-      <item value="house Keeping Sleep Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
