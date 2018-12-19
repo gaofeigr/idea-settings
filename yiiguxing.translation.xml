@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="classification" />
+      <item value="keyword" />
+      <item value="keywordclassification" />
       <item value="organization" />
       <item value="escape" />
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
@@ -48,14 +51,11 @@
       <item value="inverse" />
       <item value="HouseKeeper: org.logicalcobwebs.proxool.hrsync.sweep(149)" />
       <item value="max Idle" />
-      <item value="max Active" />
-      <item value="house Keeping Test Sql" />
-      <item value="minimum Connection Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="155" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
