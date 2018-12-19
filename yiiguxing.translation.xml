@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lancet" />
+      <item value="criterion" />
+      <item value="criterion Select Element" />
+      <item value="&lt;template:replace name=&quot;content&quot;&gt; &lt;!-- 查询条件 --&gt; &lt;list:criteria id=&quot;criteria1&quot;&gt; &lt;list:cri-ref key=&quot;docSubject&quot; ref=&quot;criterion.sys.docSubject&quot; multi=&quot;false&quot;/&gt; &lt;list:cri-criterion title=&quot;${ lfn:message('km-imissivemanagement:kmImissivemanagementMain.search.keywordclassification') }&quot; key=&quot;keywordclassification&quot; multi=&quot;false&quot;&gt; &lt;list:box-title&gt; &lt;div style=&quot;line-height: 30px&quot;&gt;${ lfn:message('km-imissivemanagement:kmImissivemanagementMain.search.keywordclassification') }&lt;/div&gt; &lt;/list:box-title&gt; &lt;list:box-select&gt; &lt;list:item-select type=&quot;lui/criteria/select_panel!CriterionSelectDatas&quot;&gt; &lt;ui:source type=&quot;AjaxJson&quot;&gt; {url:&quot;/km/imissivemanagement/km_imissivemanagement_setting/kmImissivemanagementSetting.do?method=gteAllKeywordClassification&quot;} &lt;/ui:source&gt; &lt;/list:item-select&gt; &lt;/list:box-select&gt;" />
+      <item value="title" />
       <item value="classification" />
       <item value="keyword" />
       <item value="keywordclassification" />
@@ -46,16 +51,11 @@
       <item value="allocated heap size" />
       <item value="the owning session is closed" />
       <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
-      <item value="fd Sign Persons" />
-      <item value="orphan" />
-      <item value="inverse" />
-      <item value="HouseKeeper: org.logicalcobwebs.proxool.hrsync.sweep(149)" />
-      <item value="max Idle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
