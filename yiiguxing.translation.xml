@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keywordclassification" />
       <item value="case" />
       <item value="案例" />
       <item value="fd Is Case" />
@@ -16,7 +17,6 @@
       <item value="title" />
       <item value="classification" />
       <item value="keyword" />
-      <item value="keywordclassification" />
       <item value="organization" />
       <item value="escape" />
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
