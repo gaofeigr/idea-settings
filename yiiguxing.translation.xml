@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Write operations are not allowed in read-only mode (FlushMode.NEVER/MANUAL): Turn your Session into FlushMode.COMMIT/AUTO or remove 'readOnly' marker from transaction definition." />
+      <item value="Invalid Data Access Api Usage Exception" />
       <item value="need" />
       <item value="message" />
       <item value="取消" />
@@ -49,13 +51,11 @@
       <item value="km Turning Headquarters Time" />
       <item value="provides integration with subversion version control system" />
       <item value="subversion integration" />
-      <item value="clear Todo Sign" />
-      <item value="copied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
