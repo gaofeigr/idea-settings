@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whetherthecase" />
+      <item value="get Sys Organization Visible Service" />
+      <item value="get Dialog Root Visible Org Ids" />
+      <item value="branch" />
+      <item value="brach" />
       <item value="lancet" />
       <item value="criterion" />
       <item value="criterion Select Element" />
@@ -46,16 +51,11 @@
       <item value="eclipse" />
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all the elements that are not contained in the specified * collection." />
       <item value="fd Is Contain Examine" />
-      <item value="Guosen Authorize" />
-      <item value="a" />
-      <item value="allocated heap size" />
-      <item value="the owning session is closed" />
-      <item value="was active for 307263 milliseconds and has been removed automaticaly. The Thread responsible was named 'http-8080-16', but the last SQL it performed is unknown because the trace property is not enabled. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
