@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="need" />
       <item value="message" />
       <item value="取消" />
       <item value="mark" />
@@ -50,12 +51,11 @@
       <item value="subversion integration" />
       <item value="clear Todo Sign" />
       <item value="copied" />
-      <item value="换行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
