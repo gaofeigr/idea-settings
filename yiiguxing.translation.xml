@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manage" />
       <item value="Mark Case" />
       <item value="Write operations are not allowed in read-only mode (FlushMode.NEVER/MANUAL): Turn your Session into FlushMode.COMMIT/AUTO or remove 'readOnly' marker from transaction definition." />
       <item value="Invalid Data Access Api Usage Exception" />
@@ -35,7 +36,6 @@
       <item value="Repeated column in mapping for collection" />
       <item value="config" />
       <item value="Manage" />
-      <item value="manage" />
       <item value="ROLE KMIMISSIVEMANAGEMENT manage" />
       <item value="类别" />
       <item value="配置" />
