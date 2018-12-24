@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
+      <item value="Illegal Argument Exception" />
       <item value="parse Org Attribute Info" />
       <item value="Audit Note Data By Handler Signature" />
       <item value="get Staffing Level Filter Result" />
@@ -49,13 +51,11 @@
       <item value="Repeated column in mapping for collection" />
       <item value="config" />
       <item value="Manage" />
-      <item value="ROLE KMIMISSIVEMANAGEMENT manage" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
