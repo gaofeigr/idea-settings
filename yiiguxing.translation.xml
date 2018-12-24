@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit Note Data By Handler Signature" />
       <item value="get Staffing Level Filter Result" />
       <item value="HSSF Data Format" />
       <item value="get Builtin Format" />
@@ -50,12 +51,11 @@
       <item value="ROLE KMIMISSIVEMANAGEMENT manage" />
       <item value="类别" />
       <item value="配置" />
-      <item value="institution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="234" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
