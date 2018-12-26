@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Method Error" />
+      <item value="Soap Fault" />
       <item value="eliminate Callback" />
       <item value="eliminate Circulation" />
       <item value="keywordclassification" />
@@ -49,13 +51,11 @@
       <item value="check A Job And Submitter Primary Sector Whether It Is Same Or Not" />
       <item value="search" />
       <item value="类别名称" />
-      <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access. &#9;" />
-      <item value="Repeated column in mapping for collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="242" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
