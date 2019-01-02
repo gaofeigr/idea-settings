@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd process id" />
+      <item value="167 f 37 f 7 c 7 b 64573 a 92 f 9 e 54111 b 7791" />
       <item value="task Behaviour" />
       <item value="owning" />
       <item value="link" />
@@ -49,13 +51,11 @@
       <item value="Mark Case" />
       <item value="Write operations are not allowed in read-only mode (FlushMode.NEVER/MANUAL): Turn your Session into FlushMode.COMMIT/AUTO or remove 'readOnly' marker from transaction definition." />
       <item value="Invalid Data Access Api Usage Exception" />
-      <item value="need" />
-      <item value="message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="298" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
