@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throws" />
+      <item value="get History Node" />
+      <item value="Lbpm History Node" />
+      <item value="Exception" />
       <item value="find Flow Log By Process Id" />
       <item value="fd process id" />
       <item value="167 f 37 f 7 c 7 b 64573 a 92 f 9 e 54111 b 7791" />
@@ -47,16 +51,13 @@
       <item value="统计" />
       <item value="Schedule" />
       <item value="明细表" />
-      <item value="统计分析" />
-      <item value="manage" />
-      <item value="Mark Case" />
-      <item value="Write operations are not allowed in read-only mode (FlushMode.NEVER/MANUAL): Turn your Session into FlushMode.COMMIT/AUTO or remove 'readOnly' marker from transaction definition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="303" />
         <entry key="FRENCH" value="2" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
