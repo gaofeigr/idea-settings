@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detailed Info" />
+      <item value="详细" />
+      <item value="audit" />
       <item value="throws" />
       <item value="get History Node" />
       <item value="Lbpm History Node" />
@@ -48,14 +51,11 @@
       <item value="export Schedule" />
       <item value="export Statistical" />
       <item value="statistical" />
-      <item value="统计" />
-      <item value="Schedule" />
-      <item value="明细表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="306" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
