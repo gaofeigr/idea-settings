@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Formual Name" />
+      <item value="nigger" />
+      <item value="黑鬼" />
+      <item value="猴子" />
+      <item value="black" />
+      <item value="黑" />
       <item value="detailed Info" />
       <item value="详细" />
       <item value="audit" />
@@ -45,17 +51,11 @@
       <item value="Audit Note Data By Handler Signature" />
       <item value="get Staffing Level Filter Result" />
       <item value="HSSF Data Format" />
-      <item value="get Builtin Format" />
-      <item value="sign" />
-      <item value="data" />
-      <item value="export Schedule" />
-      <item value="export Statistical" />
-      <item value="statistical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="309" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
