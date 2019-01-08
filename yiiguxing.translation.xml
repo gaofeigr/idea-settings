@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Regexp Method Pointcut Advisor" />
+      <item value="advice" />
+      <item value="Doc Key Write Advice" />
+      <item value="Interceptor" />
+      <item value="handle Result If Success" />
+      <item value="Aspect" />
+      <item value="切面" />
+      <item value="Illegal State Exception" />
       <item value="add From Outer System" />
       <item value="important" />
       <item value="father" />
@@ -43,19 +51,11 @@
       <item value="Tooltip" />
       <item value="监听" />
       <item value="linster" />
-      <item value="bubbles" />
-      <item value="cancelable" />
-      <item value="发布" />
-      <item value="You are using an offline license." />
-      <item value="connect" />
-      <item value="inherited" />
-      <item value="translate 3 d" />
-      <item value="opacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="329" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
