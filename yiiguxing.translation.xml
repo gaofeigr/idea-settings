@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="getNodeIdByNodeName(String, Map) makes inefficient use of keySet iterator instead of entrySet iterator" />
+      <item value="getHistoryNode(String, Map) makes inefficient use of keySet iterator instead of entrySet iterator" />
+      <item value="getExpecterName(String, ProcessInstanceInfo, IBaseModel) concatenates strings using + in a loop" />
+      <item value="Method ignores exceptional return value" />
+      <item value="major" />
+      <item value="critical" />
+      <item value="blocker" />
       <item value="add From Outer System" />
       <item value="Interceptor" />
       <item value="Aspect" />
@@ -44,13 +51,6 @@
       <item value="167 f 37 f 7 c 7 b 64573 a 92 f 9 e 54111 b 7791" />
       <item value="task Behaviour" />
       <item value="owning" />
-      <item value="cir Culator Object Name" />
-      <item value="append" />
-      <item value="received Cir Culator Names" />
-      <item value="self" />
-      <item value="fd Remark" />
-      <item value="选择框" />
-      <item value="shelve" />
     </histories>
     <option name="languageScores">
       <map>
