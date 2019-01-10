@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current" />
       <item value="incould" />
       <item value="impl" />
       <item value="handler refuse" />
@@ -50,7 +51,6 @@
       <item value="black" />
       <item value="黑" />
       <item value="detailed Info" />
-      <item value="audit" />
     </histories>
     <option name="languageScores">
       <map>
