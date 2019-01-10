@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit Node Subscript" />
+      <item value="下标" />
+      <item value="audit Node" />
+      <item value="audit Note" />
       <item value="current" />
       <item value="incould" />
       <item value="impl" />
@@ -47,15 +51,11 @@
       <item value="parse Formual Name" />
       <item value="nigger" />
       <item value="黑鬼" />
-      <item value="猴子" />
-      <item value="black" />
-      <item value="黑" />
-      <item value="detailed Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="351" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
