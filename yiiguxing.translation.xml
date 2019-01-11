@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Disable Mobile Form" />
       <item value="filter History Node List" />
       <item value="audit Node Subscript" />
       <item value="下标" />
@@ -50,12 +51,11 @@
       <item value="expend" />
       <item value="Abstract Handler Node" />
       <item value="parse Formual Name" />
-      <item value="nigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="354" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
