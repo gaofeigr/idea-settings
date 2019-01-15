@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handler commission" />
+      <item value="set Audit Node Detaile Info" />
+      <item value="set Audit Nodeqqq Detaile Info" />
+      <item value="e" />
       <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="Condition" />
       <item value="of" />
@@ -25,7 +29,6 @@
       <item value="incould" />
       <item value="impl" />
       <item value="handler refuse" />
-      <item value="handler commission" />
       <item value="the load factor" />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75)." />
       <item value="the initial capacity." />
@@ -48,16 +51,13 @@
       <item value="Regexp Method Pointcut Advisor" />
       <item value="advice" />
       <item value="Doc Key Write Advice" />
-      <item value="handle Result If Success" />
-      <item value="切面" />
-      <item value="Illegal State Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="1083" />
+        <entry key="ENGLISH" value="1094" />
         <entry key="FRENCH" value="2" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
