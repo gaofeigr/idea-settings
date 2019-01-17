@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Form" />
+      <item value="Guosen Process Form" />
+      <item value="process Form Json" />
+      <item value="String" />
+      <item value="put Into Tmp Queue" />
+      <item value="notify Sub Process If Abandon" />
       <item value="控制器" />
       <item value="控制" />
       <item value="DayDistance" />
@@ -45,17 +51,11 @@
       <item value="Method ignores exceptional return value" />
       <item value="major" />
       <item value="critical" />
-      <item value="blocker" />
-      <item value="add From Outer System" />
-      <item value="Interceptor" />
-      <item value="Aspect" />
-      <item value="link" />
-      <item value="hitch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1092" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
