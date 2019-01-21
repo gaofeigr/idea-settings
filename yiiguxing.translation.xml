@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eclipse" />
+      <item value="mars" />
       <item value="MILLISECONDS" />
       <item value="SECONDS" />
       <item value="fire Evict" />
@@ -49,8 +51,6 @@
       <item value="impl" />
       <item value="handler refuse" />
       <item value="the load factor" />
-      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75)." />
-      <item value="the initial capacity." />
     </histories>
     <option name="languageScores">
       <map>
