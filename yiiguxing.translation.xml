@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有时会出现附件没有改变但doc Content仍显示改变的情况，所以在这里双重判断下" />
+      <item value="有时会出现附件没有改变但doc Content仍显示改变的情况" />
       <item value="eclipse" />
       <item value="mars" />
       <item value="MILLISECONDS" />
@@ -49,13 +51,11 @@
       <item value="current" />
       <item value="incould" />
       <item value="impl" />
-      <item value="handler refuse" />
-      <item value="the load factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1100" />
-        <entry key="ENGLISH" value="1112" />
+        <entry key="CHINESE" value="1102" />
+        <entry key="ENGLISH" value="1114" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
