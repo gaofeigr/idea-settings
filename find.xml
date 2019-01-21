@@ -24,8 +24,8 @@
       <mask>*Listener.jav</mask>
       <mask>*Listener.java</mask>
       <mask>*.js</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
