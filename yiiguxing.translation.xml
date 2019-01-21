@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extend Element Property" />
+      <item value="extend Simple Property" />
+      <item value="extend Dao Event Bean" />
       <item value="Report" />
       <item value="Report System initing" />
       <item value="有时会出现附件没有改变但doc Content仍显示改变的情况，所以在这里双重判断下" />
@@ -48,14 +51,11 @@
       <item value="filter History Node List" />
       <item value="audit Node Subscript" />
       <item value="下标" />
-      <item value="audit Node" />
-      <item value="audit Note" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1116" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1119" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
