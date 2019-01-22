@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aaaaa" />
+      <item value="ok" />
+      <item value="o" />
       <item value="true" />
       <item value="get Attachment Info From DB" />
       <item value="insert First Record" />
@@ -48,9 +51,6 @@
       <item value="是否" />
       <item value="命令行" />
       <item value="eliminate" />
-      <item value="historyhandler Opt" />
-      <item value="Commisson" />
-      <item value="转办" />
     </histories>
     <option name="languageScores">
       <map>
