@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Add New Atts" />
+      <item value="attachment Ids获取修改的附件" />
       <item value="Record" />
       <item value="FIXME" />
       <item value="obj" />
@@ -49,13 +51,11 @@
       <item value="set Audit Node Detaile Info" />
       <item value="set Audit Nodeqqq Detaile Info" />
       <item value="e" />
-      <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
-      <item value="Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1126" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="CHINESE" value="1128" />
+        <entry key="ENGLISH" value="1140" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
