@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化存储方式后的查询方法" />
       <item value="att Mains.get(0)." />
       <item value="map" />
       <item value="瞿先旺" />
@@ -50,12 +51,11 @@
       <item value="Guosen Process Form" />
       <item value="process Form Json" />
       <item value="String" />
-      <item value="put Into Tmp Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1154" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
