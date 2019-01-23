@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="att Mains.get(0)." />
+      <item value="map" />
+      <item value="瞿先旺" />
+      <item value="瞿" />
+      <item value="先" />
       <item value="new" />
       <item value="find Att Change List New" />
       <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
@@ -46,16 +51,11 @@
       <item value="process Form Json" />
       <item value="String" />
       <item value="put Into Tmp Queue" />
-      <item value="notify Sub Process If Abandon" />
-      <item value="控制器" />
-      <item value="控制" />
-      <item value="DayDistance" />
-      <item value="handler commission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1146" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1154" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
