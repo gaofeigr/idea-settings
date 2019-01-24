@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this file contain characters which can be lost in current encoding. Do you want to select one of other encoding options?" />
       <item value="Event Sys Flow Discard" />
       <item value="ob" />
       <item value="Ob" />
@@ -50,7 +51,6 @@
       <item value="有时会出现附件没有改变但doc Content仍显示改变的情况" />
       <item value="eclipse" />
       <item value="mars" />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
