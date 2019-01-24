@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have" />
+      <item value="have Add Attachment" />
+      <item value="是否" />
+      <item value="bit" />
       <item value="此方法应该是根据附件key来判断" />
       <item value="但优化后key规则不同" />
       <item value="故需修改此方法判断规则" />
@@ -47,15 +51,11 @@
       <item value="fire Evict" />
       <item value="evict" />
       <item value="distribute" />
-      <item value="Scheduler" />
-      <item value="distribute Image File" />
-      <item value="remote" />
-      <item value="process Form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
-        <entry key="ENGLISH" value="1161" />
+        <entry key="CHINESE" value="1151" />
+        <entry key="ENGLISH" value="1165" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
