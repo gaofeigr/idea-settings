@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="业务接口实现" />
+      <item value="表单留痕" />
       <item value="Target" />
       <item value="this file contain characters which can be lost in current encoding. Do you want to select one of other encoding options?" />
       <item value="Event Sys Flow Discard" />
@@ -49,13 +51,11 @@
       <item value="Report" />
       <item value="Report System initing" />
       <item value="有时会出现附件没有改变但doc Content仍显示改变的情况，所以在这里双重判断下" />
-      <item value="有时会出现附件没有改变但doc Content仍显示改变的情况" />
-      <item value="eclipse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1155" />
-        <entry key="ENGLISH" value="1168" />
+        <entry key="CHINESE" value="1157" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
