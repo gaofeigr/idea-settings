@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="demand" />
       <item value="in line" />
       <item value="is New Version History" />
       <item value="No suitable driver" />
@@ -50,7 +51,6 @@
       <item value="insert First Record" />
       <item value="field Id" />
       <item value="HQL Info" />
-      <item value="hql" />
     </histories>
     <option name="languageScores">
       <map>
