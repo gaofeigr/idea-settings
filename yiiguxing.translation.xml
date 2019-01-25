@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="l" />
       <item value="demand" />
       <item value="in line" />
       <item value="is New Version History" />
@@ -50,12 +51,11 @@
       <item value="get Attachment Info From DB" />
       <item value="insert First Record" />
       <item value="field Id" />
-      <item value="HQL Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1163" />
-        <entry key="ENGLISH" value="1176" />
+        <entry key="CHINESE" value="1164" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
