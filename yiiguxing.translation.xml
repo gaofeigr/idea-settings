@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No suitable driver" />
+      <item value="invoke" />
       <item value="flow Id" />
       <item value="has enter xfrom_history add!" />
       <item value="get Last Exist Att Key" />
@@ -49,13 +51,11 @@
       <item value="hql" />
       <item value="critical" />
       <item value="extend Element Property" />
-      <item value="extend Simple Property" />
-      <item value="extend Dao Event Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1160" />
-        <entry key="ENGLISH" value="1173" />
+        <entry key="CHINESE" value="1162" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
