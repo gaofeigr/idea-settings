@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The maximum value of a Unicode high-surrogate code unit in the * UTF-16 encoding. A high-surrogate is also known as a * &lt;i&gt;leading-surrogate&lt;/i&gt;." />
+      <item value="The maximum value of a Unicode code point." />
+      <item value="serial Version UID" />
       <item value="Review" />
       <item value="vstatus" />
       <item value="m Before" />
@@ -48,14 +51,11 @@
       <item value="new" />
       <item value="find Att Change List New" />
       <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
-      <item value="further occurrences of HTTP header parsing errors will be logged at DEBUG level." />
-      <item value="Attachment" />
-      <item value="have Delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1186" />
+        <entry key="ENGLISH" value="1199" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
