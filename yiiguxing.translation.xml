@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="origin" />
+      <item value="remote name" />
+      <item value="remote" />
       <item value="blog" />
       <item value="demo" />
       <item value="example" />
@@ -48,9 +51,6 @@
       <item value="业务接口实现" />
       <item value="表单留痕" />
       <item value="Target" />
-      <item value="this file contain characters which can be lost in current encoding. Do you want to select one of other encoding options?" />
-      <item value="Event Sys Flow Discard" />
-      <item value="ob" />
     </histories>
     <option name="languageScores">
       <map>
