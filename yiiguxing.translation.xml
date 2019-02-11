@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record" />
+      <item value="记录" />
+      <item value="Borrow" />
+      <item value="借阅" />
+      <item value="borrowing" />
+      <item value="begin" />
+      <item value="opposite" />
+      <item value="对方" />
+      <item value="用印时间" />
+      <item value="amount" />
+      <item value="金额" />
+      <item value="figure" />
+      <item value="handler Type" />
+      <item value="fd Approval Code" />
+      <item value="拟稿" />
       <item value="合同" />
       <item value="origin" />
       <item value="remote name" />
@@ -36,26 +51,11 @@
       <item value="Interface to be implemented by any object that wishes to be notified * of the ServletContext (typically determined by the WebApplicationContext) * that it runs in." />
       <item value="Juergen Hoeller" />
       <item value="Juergen" />
-      <item value="Set the ServletContext that this object runs in. * &lt;p&gt;Invoked after population of normal bean properties but before an init * callback like InitializingBean's &lt;code&gt;afterPropertiesSet&lt;/code&gt; or a * custom init-method. Invoked after ApplicationContextAware's * &lt;code&gt;setApplicationContext&lt;/code&gt;." />
-      <item value="or a * custom init-method. Invoked after ApplicationContextAware's" />
-      <item value="Invoked after population of normal bean properties but before an init * callback like InitializingBean's &lt;code&gt;afterPropertiesSet" />
-      <item value="Set the ServletContext that this object runs in." />
-      <item value="l" />
-      <item value="demand" />
-      <item value="in line" />
-      <item value="is New Version History" />
-      <item value="No suitable driver" />
-      <item value="invoke" />
-      <item value="flow Id" />
-      <item value="has enter xfrom_history add!" />
-      <item value="get Last Exist Att Key" />
-      <item value="业务接口实现" />
-      <item value="表单留痕" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1209" />
+        <entry key="CHINESE" value="1196" />
+        <entry key="ENGLISH" value="1219" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
