@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="imeeting" />
       <item value="归还" />
       <item value="lend" />
       <item value="借出" />
@@ -50,7 +51,6 @@
       <item value="The maximum value of a Unicode code point." />
       <item value="serial Version UID" />
       <item value="Review" />
-      <item value="vstatus" />
     </histories>
     <option name="languageScores">
       <map>
