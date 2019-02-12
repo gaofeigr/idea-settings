@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Km Imeeting Res" />
+      <item value="fd Place" />
       <item value="cal Setting" />
       <item value="hour" />
       <item value="imeeting" />
@@ -49,13 +51,11 @@
       <item value="Proxy" />
       <item value="author" />
       <item value="no address associated with hostname" />
-      <item value="The maximum value of a Unicode high-surrogate code unit in the * UTF-16 encoding. A high-surrogate is also known as a * &lt;i&gt;leading-surrogate&lt;/i&gt;." />
-      <item value="The maximum value of a Unicode code point." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
-        <entry key="ENGLISH" value="1225" />
+        <entry key="CHINESE" value="1200" />
+        <entry key="ENGLISH" value="1226" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
