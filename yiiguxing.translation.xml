@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全屏" />
       <item value="on Erase" />
       <item value="larger" />
       <item value="final" />
@@ -50,12 +51,11 @@
       <item value="DEATH EVERYWHERE!" />
       <item value="death" />
       <item value="死" />
-      <item value="Can chat with a search engine, you‘re not an ordinary human." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="ENGLISH" value="1231" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
