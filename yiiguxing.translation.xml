@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gr" />
       <item value="max" />
       <item value="超大" />
       <item value="全屏" />
@@ -50,7 +51,6 @@
       <item value="import" />
       <item value="sys Wf Process edit" />
       <item value="workflow" />
-      <item value="DEATH EVERYWHERE!" />
     </histories>
     <option name="languageScores">
       <map>
