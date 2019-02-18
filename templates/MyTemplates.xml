@@ -1,0 +1,10 @@
+<templateSet group="MyTemplates">
+  <template name="cann" value="&#10;/**&#10; * @Description $end$&#10; * @Date $date$ $time$&#10; * @Author GaoFei&#10; * @Version 1.0&#10; **/" description="calss头注释" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

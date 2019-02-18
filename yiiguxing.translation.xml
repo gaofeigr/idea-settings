@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
+      <item value="属性" />
+      <item value="恢复" />
+      <item value="Recycled" />
+      <item value="回收站" />
+      <item value="parent" />
+      <item value="分类" />
+      <item value="修改" />
+      <item value="Main body" />
+      <item value="正文" />
+      <item value="状态" />
       <item value="开发中" />
       <item value="shelve" />
       <item value="搁置" />
@@ -40,22 +51,11 @@
       <item value="借阅" />
       <item value="borrowing" />
       <item value="begin" />
-      <item value="opposite" />
-      <item value="对方" />
-      <item value="用印时间" />
-      <item value="amount" />
-      <item value="金额" />
-      <item value="figure" />
-      <item value="handler Type" />
-      <item value="fd Approval Code" />
-      <item value="拟稿" />
-      <item value="合同" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1205" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1206" />
+        <entry key="ENGLISH" value="1247" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
