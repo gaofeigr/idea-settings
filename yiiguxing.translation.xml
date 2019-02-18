@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开发中" />
+      <item value="shelve" />
+      <item value="搁置" />
+      <item value="group Id" />
+      <item value="artifact Id" />
       <item value="colon" />
       <item value="冒号" />
       <item value="居中" />
@@ -46,16 +51,11 @@
       <item value="拟稿" />
       <item value="合同" />
       <item value="origin" />
-      <item value="remote name" />
-      <item value="remote" />
-      <item value="blog" />
-      <item value="demo" />
-      <item value="example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1205" />
+        <entry key="ENGLISH" value="1238" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
