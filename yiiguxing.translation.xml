@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="priority" />
       <item value="have Data" />
       <item value="is Have Data" />
       <item value="is Have" />
@@ -50,7 +51,6 @@
       <item value="propertyUtil.isReferenceTable" />
       <item value=". It cannot be assigned to categoryTable" />
       <item value="freemarker.core.InvalidReferenceException: Error on line 5, column 9 in mobile_basic/mobile_query.jsp propertyUtil.getCategoryTable(table,&quot;简单分类-模板&quot;) is undefined. It cannot be assigned to categoryTable" />
-      <item value="restore" />
     </histories>
     <option name="languageScores">
       <map>
