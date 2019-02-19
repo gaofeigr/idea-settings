@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have Data" />
+      <item value="is Have Data" />
+      <item value="is Have" />
+      <item value="is Hase" />
+      <item value="get Last Hour Imeeting Data" />
+      <item value="get Last Hour Data" />
+      <item value="get Last Hour Date" />
       <item value="操作" />
       <item value="属性" />
       <item value="恢复" />
@@ -44,18 +51,11 @@
       <item value=". It cannot be assigned to categoryTable" />
       <item value="freemarker.core.InvalidReferenceException: Error on line 5, column 9 in mobile_basic/mobile_query.jsp propertyUtil.getCategoryTable(table,&quot;简单分类-模板&quot;) is undefined. It cannot be assigned to categoryTable" />
       <item value="restore" />
-      <item value="person" />
-      <item value="record" />
-      <item value="记录" />
-      <item value="Borrow" />
-      <item value="借阅" />
-      <item value="borrowing" />
-      <item value="begin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1206" />
-        <entry key="ENGLISH" value="1247" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1257" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
