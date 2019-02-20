@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connnection proxy not usable after transaction completion" />
       <item value="transform" />
       <item value="Property Batch Update Exception" />
       <item value="org.hibernate.MappingException: org.hibernate.dialect.SQLServerDialect does not support sequences" />
@@ -50,7 +51,6 @@
       <item value="_final Draw" />
       <item value="最终" />
       <item value="Km Imeeting Res" />
-      <item value="fd Place" />
     </histories>
     <option name="languageScores">
       <map>
