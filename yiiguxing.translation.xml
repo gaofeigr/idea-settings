@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常" />
+      <item value="curren Date" />
       <item value="connnection proxy not usable after transaction completion" />
       <item value="reviewing" />
       <item value="review" />
@@ -49,13 +51,11 @@
       <item value="居中" />
       <item value="connnection proxy not usable after transaction completion " />
       <item value="gr" />
-      <item value="max" />
-      <item value="超大" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1223" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1224" />
+        <entry key="ENGLISH" value="1271" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
