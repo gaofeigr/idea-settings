@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connnection proxy not usable after transaction completion" />
       <item value="reviewing" />
       <item value="review" />
       <item value=" look back" />
@@ -8,7 +9,6 @@
       <item value="parameters" />
       <item value="is Empty" />
       <item value="Any exception that occurs inside the persistence layer or JDBC driver. SQLExceptions are always wrapped by instances of JDBCException." />
-      <item value="connnection proxy not usable after transaction completion" />
       <item value="transform" />
       <item value="Property Batch Update Exception" />
       <item value="org.hibernate.MappingException: org.hibernate.dialect.SQLServerDialect does not support sequences" />
