@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Permission denied" />
       <item value="//当前所有支付单 List&lt;GuosenPayInfo&gt; guosenPayInfos = (List&lt;GuosenPayInfo&gt;) pageContext.getAttribute(&quot;budgetList&quot;); //过滤重复预算项目后的支付单 List&lt;GuosenPayInfo&gt; guosenPayInfosFilter = new ArrayList&lt;GuosenPayInfo&gt;(); //预算项目id List&lt;String&gt; budgetIds = new ArrayList&lt;String&gt;(); for (GuosenPayInfo guosenPayInfo : guosenPayInfos) { String budgetId = guosenPayInfo.getFdBugdet().getFdId(); if (budgetIds.contains(budgetId)) { continue; } budgetIds.add(budgetId); guosenPayInfosFilter.add(guosenPayInfo); }" />
       <item value="//当前所有支付单 List&lt;GuosenPayInfo&gt; guosenPayInfos = (List&lt;GuosenPayInfo&gt;) pageContext.getAttribute(&quot;budgetList&quot;); //过滤重复预算项目后的支付单 List&lt;GuosenPayInfo&gt; guosenPayInfosFilter = new ArrayList&lt;GuosenPayInfo&gt;(); //预算项目id List&lt;String&gt; budgetIds = new ArrayList&lt;String&gt;(); for (GuosenPayInfo guosenPayInfo : guosenPayInfos) { String budgetId = guosenPayInfo.getFdBugdet().getFdId(); if (budgetIds.contains(budgetId)) { continue; } budgetIds.add(budgetId); guosenPayInfosFilter.add(guosenPayInfo);" />
       <item value="//当前所有支付单 List&lt;GuosenPayInfo&gt; guosenPayInfos = (List&lt;GuosenPayInfo&gt;) pageContext.getAttribute(&quot;budgetList&quot;); //过滤重复预算项目后的支付单 List&lt;GuosenPayInfo&gt; guosenPayInfosFilter = new ArrayList&lt;GuosenPayInfo&gt;(); //预算项目id List&lt;String&gt; budgetIds = new ArrayList&lt;String&gt;(); for (GuosenPayInfo guosenPayInfo : guosenPayInfos) { String budgetId = guosenPayInfo.getFdBugdet().getFdId(); if (budgetIds.contains(budgetId)) { continue; } budgetIds.add(budgetId);" />
@@ -50,7 +51,6 @@
       <item value="搁置" />
       <item value="group Id" />
       <item value="artifact Id" />
-      <item value="colon" />
     </histories>
     <option name="languageScores">
       <map>
