@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lui calendar header center" />
+      <item value="lui calendar header title" />
+      <item value="lui calendar header" />
       <item value=" Permission denied" />
       <item value="//当前所有支付单 List&lt;GuosenPayInfo&gt; guosenPayInfos = (List&lt;GuosenPayInfo&gt;) pageContext.getAttribute(&quot;budgetList&quot;); //过滤重复预算项目后的支付单 List&lt;GuosenPayInfo&gt; guosenPayInfosFilter = new ArrayList&lt;GuosenPayInfo&gt;(); //预算项目id List&lt;String&gt; budgetIds = new ArrayList&lt;String&gt;(); for (GuosenPayInfo guosenPayInfo : guosenPayInfos) { String budgetId = guosenPayInfo.getFdBugdet().getFdId(); if (budgetIds.contains(budgetId)) { continue; } budgetIds.add(budgetId); guosenPayInfosFilter.add(guosenPayInfo); }" />
       <item value="//当前所有支付单 List&lt;GuosenPayInfo&gt; guosenPayInfos = (List&lt;GuosenPayInfo&gt;) pageContext.getAttribute(&quot;budgetList&quot;); //过滤重复预算项目后的支付单 List&lt;GuosenPayInfo&gt; guosenPayInfosFilter = new ArrayList&lt;GuosenPayInfo&gt;(); //预算项目id List&lt;String&gt; budgetIds = new ArrayList&lt;String&gt;(); for (GuosenPayInfo guosenPayInfo : guosenPayInfos) { String budgetId = guosenPayInfo.getFdBugdet().getFdId(); if (budgetIds.contains(budgetId)) { continue; } budgetIds.add(budgetId); guosenPayInfosFilter.add(guosenPayInfo);" />
@@ -48,14 +51,11 @@
       <item value="状态" />
       <item value="开发中" />
       <item value="shelve" />
-      <item value="搁置" />
-      <item value="group Id" />
-      <item value="artifact Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1226" />
-        <entry key="ENGLISH" value="1277" />
+        <entry key="CHINESE" value="1233" />
+        <entry key="ENGLISH" value="1284" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
