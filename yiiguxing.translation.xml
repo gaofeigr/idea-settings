@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="选座" />
       <item value="工位" />
       <item value="ignore Timezone" />
       <item value="mistiming" />
@@ -50,12 +51,11 @@
       <item value="have Data" />
       <item value="is Have Data" />
       <item value="is Have" />
-      <item value="is Hase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1241" />
-        <entry key="ENGLISH" value="1299" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
