@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reSize" />
       <item value="fd Already Handler" />
       <item value="ide" />
       <item value="Explorer" />
@@ -50,7 +51,6 @@
       <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * hour of the morning or afternoon. &lt;code&gt;HOUR&lt;/code&gt; is used for the * 12-hour clock (0 - 11). Noon and midnight are represented by 0, not by 12. * E.g., at 10:04:15.250 PM the &lt;code&gt;HOUR&lt;/code&gt; is 10." />
       <item value="HOUR" />
       <item value="previous" />
-      <item value="上一个" />
     </histories>
     <option name="languageScores">
       <map>
