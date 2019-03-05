@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connnection proxy not usable after transaction completion " />
+      <item value="connnection proxy not usable after transaction completion" />
       <item value="charset" />
       <item value="set Seconds" />
       <item value="set Minutes" />
@@ -49,8 +51,6 @@
       <item value="budget List" />
       <item value="异常" />
       <item value="curren Date" />
-      <item value="connnection proxy not usable after transaction completion" />
-      <item value="reviewing" />
     </histories>
     <option name="languageScores">
       <map>
