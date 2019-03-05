@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="charset" />
       <item value="set Seconds" />
       <item value="set Minutes" />
       <item value="Integer" />
@@ -50,12 +51,11 @@
       <item value="curren Date" />
       <item value="connnection proxy not usable after transaction completion" />
       <item value="reviewing" />
-      <item value="review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1251" />
-        <entry key="ENGLISH" value="1314" />
+        <entry key="CHINESE" value="1252" />
+        <entry key="ENGLISH" value="1315" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
