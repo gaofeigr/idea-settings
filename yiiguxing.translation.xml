@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid state, the ResultSet object is closed." />
       <item value="get Minutes" />
       <item value="get Seconds" />
       <item value="get Relation" />
@@ -50,12 +51,11 @@
       <item value="inculd" />
       <item value="导入" />
       <item value="learn" />
-      <item value="lui calendar header center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1257" />
-        <entry key="ENGLISH" value="1320" />
+        <entry key="CHINESE" value="1258" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="FRENCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
