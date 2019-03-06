@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connnection proxy not usable after transaction completion" />
       <item value="Invalid state, the ResultSet object is closed." />
       <item value="get Minutes" />
       <item value="get Seconds" />
@@ -12,7 +13,6 @@
       <item value="Error occurred during initialization of VM" />
       <item value="Unable to allocate 393216KB bitmaps for parallel garbage collection for the requested 12582912KB heap." />
       <item value="connnection proxy not usable after transaction completion " />
-      <item value="connnection proxy not usable after transaction completion" />
       <item value="charset" />
       <item value="set Seconds" />
       <item value="set Minutes" />
