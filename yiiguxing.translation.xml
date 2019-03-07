@@ -1,14 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format String To Data" />
+      <item value="pattern" />
+      <item value="parrent" />
+      <item value="get Seconds" />
+      <item value="get Minutes" />
       <item value="三月" />
       <item value="Mon Mar" />
       <item value="Mon" />
       <item value="Mar" />
       <item value="connnection proxy not usable after transaction completion" />
       <item value="Invalid state, the ResultSet object is closed." />
-      <item value="get Minutes" />
-      <item value="get Seconds" />
       <item value="get Relation" />
       <item value="timer" />
       <item value="timeer" />
@@ -48,14 +51,11 @@
       <item value="中间" />
       <item value="webkit" />
       <item value="stop Propagation" />
-      <item value="合并" />
-      <item value="去重" />
-      <item value="唯一" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1261" />
-        <entry key="ENGLISH" value="1322" />
+        <entry key="CHINESE" value="1266" />
+        <entry key="ENGLISH" value="1327" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
