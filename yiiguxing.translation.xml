@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="could not locate named parameter" />
+      <item value="clear Empty Item" />
+      <item value="clear" />
       <item value="创建者" />
       <item value="未定义" />
       <item value="set Lenient" />
@@ -48,14 +51,11 @@
       <item value="浏览器" />
       <item value="选座" />
       <item value="工位" />
-      <item value="ignore Timezone" />
-      <item value="mistiming" />
-      <item value="时间差" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1331" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1334" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
