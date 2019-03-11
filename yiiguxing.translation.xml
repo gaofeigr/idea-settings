@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LAZY" />
+      <item value="EAGER" />
+      <item value="SQL Server Clob Base.length" />
       <item value="Transient" />
       <item value="子" />
       <item value="classifies" />
@@ -48,14 +51,11 @@
       <item value="后缀" />
       <item value="前缀" />
       <item value="Resource" />
-      <item value="common" />
-      <item value="失败" />
-      <item value="reSize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1276" />
-        <entry key="ENGLISH" value="1341" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1344" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
