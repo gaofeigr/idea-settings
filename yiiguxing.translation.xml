@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="classify" />
       <item value="Unresolved compilation problems" />
       <item value="evaluate" />
       <item value="could not locate named parameter" />
@@ -50,12 +51,11 @@
       <item value="fd Already Handler" />
       <item value="ide" />
       <item value="Explorer" />
-      <item value="浏览器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="CHINESE" value="1274" />
+        <entry key="ENGLISH" value="1337" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
