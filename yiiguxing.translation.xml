@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未定义" />
       <item value="set Minutes" />
       <item value="可以" />
       <item value="* copy by GuosenAuditNoteSyncQuartz" />
@@ -18,7 +19,6 @@
       <item value="clear Empty Item" />
       <item value="clear" />
       <item value="创建者" />
-      <item value="未定义" />
       <item value="set Lenient" />
       <item value="The request sent by the client was syntactically incorrect.  " />
       <item value="is Not Empty" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1348" />
+        <entry key="ENGLISH" value="1349" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
