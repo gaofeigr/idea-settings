@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可以" />
       <item value="* copy by GuosenAuditNoteSyncQuartz" />
       <item value="copy by" />
       <item value="LAZY" />
@@ -50,12 +51,11 @@
       <item value="is Array Intersect" />
       <item value="arg" />
       <item value="asg" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1281" />
-        <entry key="ENGLISH" value="1346" />
+        <entry key="ENGLISH" value="1347" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
