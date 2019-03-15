@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if true of jquery selector the grid will accept widgets dragged from other grids or from outside" />
       <item value="Design your own drag-and-drop dashboards with ease" />
       <item value="If window width is less, grid will be shown in one-column mode" />
       <item value="add new widget" />
@@ -50,7 +51,6 @@
       <item value="Invalid state, the ResultSet object is closed." />
       <item value="get Relation" />
       <item value="timer" />
-      <item value="timeer" />
     </histories>
     <option name="languageScores">
       <map>
