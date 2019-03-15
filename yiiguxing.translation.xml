@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add new widget" />
+      <item value="添加一个工位" />
+      <item value="入职日期" />
+      <item value="日志日期" />
       <item value="画" />
       <item value="position" />
       <item value="dis" />
@@ -47,15 +51,11 @@
       <item value="timeer" />
       <item value="server machine" />
       <item value="development machine" />
-      <item value="Error occurred during initialization of VM" />
-      <item value="Unable to allocate 393216KB bitmaps for parallel garbage collection for the requested 12582912KB heap." />
-      <item value="connnection proxy not usable after transaction completion " />
-      <item value="charset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1285" />
-        <entry key="ENGLISH" value="1354" />
+        <entry key="CHINESE" value="1287" />
+        <entry key="ENGLISH" value="1357" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
