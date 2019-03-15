@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Design your own drag-and-drop dashboards with ease" />
       <item value="If window width is less, grid will be shown in one-column mode" />
       <item value="add new widget" />
       <item value="添加一个工位" />
@@ -50,7 +51,6 @@
       <item value="get Relation" />
       <item value="timer" />
       <item value="timeer" />
-      <item value="server machine" />
     </histories>
     <option name="languageScores">
       <map>
