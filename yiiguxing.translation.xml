@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="日历" />
       <item value="if true of jquery selector the grid will accept widgets dragged from other grids or from outside" />
       <item value="Design your own drag-and-drop dashboards with ease" />
       <item value="If window width is less, grid will be shown in one-column mode" />
@@ -50,12 +51,11 @@
       <item value="connnection proxy not usable after transaction completion" />
       <item value="Invalid state, the ResultSet object is closed." />
       <item value="get Relation" />
-      <item value="timer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1287" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="ENGLISH" value="1358" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
