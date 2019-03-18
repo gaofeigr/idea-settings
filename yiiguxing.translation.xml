@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Place" />
+      <item value="places Detail" />
       <item value="place" />
       <item value="reservation" />
       <item value="预定" />
@@ -49,13 +51,11 @@
       <item value="The request sent by the client was syntactically incorrect.  " />
       <item value="is Not Empty" />
       <item value="array" />
-      <item value="format String To Data" />
-      <item value="pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1289" />
-        <entry key="ENGLISH" value="1365" />
+        <entry key="CHINESE" value="1291" />
+        <entry key="ENGLISH" value="1367" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
