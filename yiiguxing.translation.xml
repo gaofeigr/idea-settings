@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="nested exception is org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 18; The content of elements must consist of well-formed character data or markup." />
       <item value="The content of elements must consist of well-formed character data or markup." />
+      <item value="nested exception is org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 18; The content of elements must consist of well-formed character data or markup." />
       <item value="get Place" />
       <item value="places Detail" />
       <item value="place" />
