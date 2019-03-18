@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
+      <item value="位置" />
+      <item value="position" />
+      <item value="工位" />
+      <item value="station" />
+      <item value="widgets" />
+      <item value="d" />
       <item value="日历" />
       <item value="if true of jquery selector the grid will accept widgets dragged from other grids or from outside" />
       <item value="Design your own drag-and-drop dashboards with ease" />
@@ -10,7 +17,6 @@
       <item value="入职日期" />
       <item value="日志日期" />
       <item value="画" />
-      <item value="position" />
       <item value="dis" />
       <item value="diss" />
       <item value="summarize" />
@@ -45,17 +51,11 @@
       <item value="get Seconds" />
       <item value="get Minutes" />
       <item value="三月" />
-      <item value="Mon Mar" />
-      <item value="Mon" />
-      <item value="Mar" />
-      <item value="connnection proxy not usable after transaction completion" />
-      <item value="Invalid state, the ResultSet object is closed." />
-      <item value="get Relation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1287" />
-        <entry key="ENGLISH" value="1358" />
+        <entry key="CHINESE" value="1289" />
+        <entry key="ENGLISH" value="1363" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
