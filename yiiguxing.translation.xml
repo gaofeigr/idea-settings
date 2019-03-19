@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="choose" />
+      <item value="选择" />
+      <item value="choice" />
+      <item value="check" />
+      <item value="选择check" />
       <item value="no Lazy" />
       <item value="serialized data json" />
       <item value="posix" />
@@ -46,16 +51,11 @@
       <item value="EAGER" />
       <item value="SQL Server Clob Base.length" />
       <item value="Transient" />
-      <item value="子" />
-      <item value="classifies" />
-      <item value="classify" />
-      <item value="Unresolved compilation problems" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1295" />
-        <entry key="ENGLISH" value="1373" />
+        <entry key="ENGLISH" value="1376" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
