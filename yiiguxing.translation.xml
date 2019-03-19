@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="posix" />
       <item value="容器" />
       <item value="Active resource loading counts reached a per-frame limit while the tab was in background. Network requests will be delayed until a previous loading finishes, or the tab is brought to the foreground. See https://www.chromestatus.com/feature/5527160148197376 for more details" />
       <item value="未定义" />
@@ -50,12 +51,11 @@
       <item value="evaluate" />
       <item value="could not locate named parameter" />
       <item value="clear Empty Item" />
-      <item value="clear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1292" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="CHINESE" value="1293" />
+        <entry key="ENGLISH" value="1371" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
