@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requested   action   not   taken.   File   unavailable   (e.g.,   file   not   found,   no   access).  " />
       <item value="red" />
       <item value="fd Is Contain Examine" />
       <item value="choose" />
@@ -50,7 +51,6 @@
       <item value="* copy by GuosenAuditNoteSyncQuartz" />
       <item value="copy by" />
       <item value="LAZY" />
-      <item value="EAGER" />
     </histories>
     <option name="languageScores">
       <map>
