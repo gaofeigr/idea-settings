@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve File" />
       <item value="Requested   action   not   taken.   File   unavailable   (e.g.,   file   not   found,   no   access).  " />
       <item value="red" />
       <item value="fd Is Contain Examine" />
@@ -50,12 +51,11 @@
       <item value="可以" />
       <item value="* copy by GuosenAuditNoteSyncQuartz" />
       <item value="copy by" />
-      <item value="LAZY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1378" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1379" />
         <entry key="FRENCH" value="5" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
