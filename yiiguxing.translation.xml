@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="doot" />
       <item value="attr" />
       <item value="choose Place" />
       <item value="px" />
@@ -50,7 +51,6 @@
       <item value="入职日期" />
       <item value="日志日期" />
       <item value="画" />
-      <item value="dis" />
     </histories>
     <option name="languageScores">
       <map>
