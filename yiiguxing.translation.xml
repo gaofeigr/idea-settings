@@ -1,13 +1,44 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="iframe" />
+      <item value="script" />
+      <item value="url" />
+      <item value="position" />
+      <item value="pc position place" />
+      <item value="pc Position Place" />
+      <item value="place Info" />
+      <item value="forward" />
+      <item value="choose Place" />
+      <item value="100" />
+      <item value="content" />
+      <item value="title" />
+      <item value="lfn" />
+      <item value="message" />
+      <item value="pc Position" />
+      <item value="Ji Ben Xin Xi" />
+      <item value="navwidth" />
+      <item value="menu" />
+      <item value="text" />
+      <item value="pc Position Main" />
+      <item value="pc position main" />
+      <item value="href" />
+      <item value="table" />
+      <item value="expand" />
+      <item value="false" />
+      <item value="method" />
+      <item value="pc" />
+      <item value="py" />
+      <item value="replace" />
+      <item value="sys Lbpm Process view" />
+      <item value="pc Position Main Form" />
+      <item value="600 px" />
+      <item value="src" />
+      <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
       <item value="doot" />
       <item value="attr" />
-      <item value="choose Place" />
       <item value="px" />
       <item value="600" />
-      <item value="600 px" />
-      <item value="100" />
       <item value="Marshalling" />
       <item value="get Net Interface List" />
       <item value="Sigar" />
@@ -20,44 +51,13 @@
       <item value="choice" />
       <item value="check" />
       <item value="选择check" />
-      <item value="no Lazy" />
-      <item value="serialized data json" />
-      <item value="posix" />
-      <item value="容器" />
-      <item value="Active resource loading counts reached a per-frame limit while the tab was in background. Network requests will be delayed until a previous loading finishes, or the tab is brought to the foreground. See https://www.chromestatus.com/feature/5527160148197376 for more details" />
-      <item value="未定义" />
-      <item value="Property 'myLeader' of class com.landray.kmss.sys.organization.model.SysOrgPerson has no read method. SKIPPED" />
-      <item value="The content of elements must consist of well-formed character data or markup." />
-      <item value="nested exception is org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 18; The content of elements must consist of well-formed character data or markup." />
-      <item value="get Place" />
-      <item value="places Detail" />
-      <item value="place" />
-      <item value="reservation" />
-      <item value="预定" />
-      <item value="reserve" />
-      <item value="状态" />
-      <item value="位置" />
-      <item value="position" />
-      <item value="工位" />
-      <item value="station" />
-      <item value="widgets" />
-      <item value="d" />
-      <item value="日历" />
-      <item value="if true of jquery selector the grid will accept widgets dragged from other grids or from outside" />
-      <item value="Design your own drag-and-drop dashboards with ease" />
-      <item value="If window width is less, grid will be shown in one-column mode" />
-      <item value="add new widget" />
-      <item value="添加一个工位" />
-      <item value="入职日期" />
-      <item value="日志日期" />
-      <item value="画" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1306" />
-        <entry key="ENGLISH" value="1387" />
-        <entry key="FRENCH" value="5" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="CHINESE" value="2464" />
+        <entry key="ENGLISH" value="2470" />
+        <entry key="FRENCH" value="28" />
+        <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
