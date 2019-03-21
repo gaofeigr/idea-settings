@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Marshalling" />
       <item value="get Net Interface List" />
       <item value="Sigar" />
       <item value="retrieve File" />
@@ -50,7 +51,6 @@
       <item value="set Seconds" />
       <item value="async" />
       <item value="set Minutes" />
-      <item value="可以" />
     </histories>
     <option name="languageScores">
       <map>
