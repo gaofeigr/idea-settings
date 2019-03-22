@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="operation" />
+      <item value="handler Pass Operation Behaviour" />
       <item value="handler pass guosen" />
       <item value="实线" />
       <item value="dashed" />
@@ -50,12 +51,11 @@
       <item value="Sigar" />
       <item value="retrieve File" />
       <item value="Requested   action   not   taken.   File   unavailable   (e.g.,   file   not   found,   no   access).  " />
-      <item value="red" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2469" />
-        <entry key="ENGLISH" value="2474" />
+        <entry key="CHINESE" value="2472" />
+        <entry key="ENGLISH" value="2477" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
