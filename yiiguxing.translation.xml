@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complex Type" />
+      <item value="annotation" />
+      <item value="Defines a single (usually named) bean. A bean definition may contain nested tags for constructor arguments, property values, lookup methods, and replaced methods. Mixing constructor injection and setter injection on the same bean is explicitly supported." />
+      <item value="Identifies an argument for a replaced method in the event of method overloading." />
+      <item value="The name of the method whose implementation must be replaced by the IoC container. If this method is not overloaded, there is no need to use arg-type subelements. If this method is overloaded, arg-type subelements must be used for all override definitions for the method." />
+      <item value="A bean definition may contain nested tags for constructor arguments, property values, lookup methods, and replaced methods. Mixing constructor injection and setter injection on the same bean is explicitly supported." />
+      <item value="Similar to the lookup method mechanism, the replaced-method element is used to control IoC container method overriding: Method Injection. This mechanism allows the overriding of a method with arbitrary code." />
+      <item value="The unique identifier for a bean. The scope of the identifier is the enclosing bean factory." />
       <item value="method Replacer Bean Name" />
       <item value="Rod Johnson" />
       <item value="Any non-final method can be overridden, irrespective of its * parameters and return types." />
@@ -43,19 +51,11 @@
       <item value="pc" />
       <item value="py" />
       <item value="replace" />
-      <item value="sys Lbpm Process view" />
-      <item value="pc Position Main Form" />
-      <item value="600 px" />
-      <item value="src" />
-      <item value="JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
-      <item value="doot" />
-      <item value="attr" />
-      <item value="px" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2479" />
-        <entry key="ENGLISH" value="2484" />
+        <entry key="CHINESE" value="2487" />
+        <entry key="ENGLISH" value="2492" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
