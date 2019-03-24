@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分隔" />
       <item value="配置" />
       <item value="complex Type" />
       <item value="annotation" />
@@ -50,12 +51,11 @@
       <item value="false" />
       <item value="method" />
       <item value="pc" />
-      <item value="py" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2487" />
-        <entry key="ENGLISH" value="2493" />
+        <entry key="ENGLISH" value="2494" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
