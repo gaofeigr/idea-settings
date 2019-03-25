@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Temp" />
       <item value="Illegal use of &amp;lt;when&amp;gt;-style tag without &amp;lt;choose&amp;gt; as its direct parent" />
       <item value="Illegal" />
       <item value="clear" />
@@ -50,12 +51,11 @@
       <item value="message" />
       <item value="pc Position" />
       <item value="Ji Ben Xin Xi" />
-      <item value="navwidth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2495" />
-        <entry key="ENGLISH" value="2504" />
+        <entry key="CHINESE" value="2496" />
+        <entry key="ENGLISH" value="2505" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
