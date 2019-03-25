@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unresolved compilation problem:" />
+      <item value="GuosenIpUtil cannot be resolved" />
       <item value="lbpm process definition" />
       <item value="电话" />
       <item value="分隔" />
@@ -49,8 +51,6 @@
       <item value="pc position main" />
       <item value="href" />
       <item value="table" />
-      <item value="expand" />
-      <item value="false" />
     </histories>
     <option name="languageScores">
       <map>
