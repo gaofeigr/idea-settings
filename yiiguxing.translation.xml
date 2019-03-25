@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lbpm process definition" />
       <item value="电话" />
       <item value="分隔" />
       <item value="配置" />
@@ -50,12 +51,11 @@
       <item value="table" />
       <item value="expand" />
       <item value="false" />
-      <item value="method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2487" />
-        <entry key="ENGLISH" value="2495" />
+        <entry key="CHINESE" value="2488" />
+        <entry key="ENGLISH" value="2496" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
