@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abroad" />
+      <item value="Write operations are not allowed in read-only mode" />
+      <item value="FLUSH EAGER" />
       <item value="show Temp" />
       <item value="Illegal use of &amp;lt;when&amp;gt;-style tag without &amp;lt;choose&amp;gt; as its direct parent" />
       <item value="Illegal" />
@@ -48,14 +51,11 @@
       <item value="content" />
       <item value="title" />
       <item value="lfn" />
-      <item value="message" />
-      <item value="pc Position" />
-      <item value="Ji Ben Xin Xi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2496" />
-        <entry key="ENGLISH" value="2505" />
+        <entry key="CHINESE" value="2499" />
+        <entry key="ENGLISH" value="2508" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
