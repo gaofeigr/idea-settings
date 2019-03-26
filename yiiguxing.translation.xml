@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="浅红" />
       <item value="fd Name" />
       <item value="fd Phone" />
       <item value="fd Type" />
@@ -50,12 +51,11 @@
       <item value="url" />
       <item value="position" />
       <item value="pc position place" />
-      <item value="pc Position Place" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2504" />
-        <entry key="ENGLISH" value="2513" />
+        <entry key="ENGLISH" value="2514" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
