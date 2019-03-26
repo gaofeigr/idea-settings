@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quik" />
+      <item value="quit" />
       <item value="Abroad" />
       <item value="Write operations are not allowed in read-only mode" />
       <item value="FLUSH EAGER" />
@@ -49,8 +51,6 @@
       <item value="choose Place" />
       <item value="100" />
       <item value="content" />
-      <item value="title" />
-      <item value="lfn" />
     </histories>
     <option name="languageScores">
       <map>
