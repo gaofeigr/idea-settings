@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself" />
       <item value="ok" />
       <item value="process Refuse" />
       <item value="浅红" />
@@ -50,7 +51,6 @@
       <item value="Active resource loading counts reached a per-frame limit while the tab was in background. Network requests will be delayed until a previous loading finishes, or the tab is brought to the foreground" />
       <item value="iframe" />
       <item value="script" />
-      <item value="url" />
     </histories>
     <option name="languageScores">
       <map>
