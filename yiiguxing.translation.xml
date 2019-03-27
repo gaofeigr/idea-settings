@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="微秒" />
       <item value="stringify" />
       <item value="JSON" />
       <item value="choose Places" />
@@ -50,12 +51,11 @@
       <item value="default Manual Node Behaviour" />
       <item value="operation" />
       <item value="handler Pass Operation Behaviour" />
-      <item value="handler pass guosen" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2513" />
-        <entry key="ENGLISH" value="2523" />
+        <entry key="ENGLISH" value="2524" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
