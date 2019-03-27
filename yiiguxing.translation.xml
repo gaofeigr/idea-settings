@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="三月 27, 2019 2:50:43 下午 org.apache.jasper.compiler.TldLocationsCache tldScanJar" />
+      <item value="At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value="NETTY CLIENT PIPELINE: IDLE exception [10.35.4.78:7800]" />
       <item value="HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself" />
       <item value="ok" />
@@ -49,13 +51,11 @@
       <item value="实线" />
       <item value="dashed" />
       <item value="underfined" />
-      <item value="Active resource loading counts reached a per-frame limit while the tab was in background. Network requests will be delayed until a previous loading finishes, or the tab is brought to the foreground" />
-      <item value="iframe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2505" />
-        <entry key="ENGLISH" value="2515" />
+        <entry key="CHINESE" value="2507" />
+        <entry key="ENGLISH" value="2517" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="2" />
