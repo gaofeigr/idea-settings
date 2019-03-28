@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exists" />
+      <item value="self" />
+      <item value="Abroad" />
+      <item value="abroad$" />
+      <item value="abort$" />
       <item value=" Row was updated or deleted by another transaction " />
       <item value="current User Role Ids" />
       <item value="1 row affected in 4ms" />
@@ -24,7 +29,6 @@
       <item value="pc Position Abroad" />
       <item value="quik" />
       <item value="quit" />
-      <item value="Abroad" />
       <item value="Write operations are not allowed in read-only mode" />
       <item value="FLUSH EAGER" />
       <item value="show Temp" />
@@ -33,7 +37,6 @@
       <item value="clear" />
       <item value="清除" />
       <item value="person Exists" />
-      <item value="exists" />
       <item value="Unresolved compilation problem:" />
       <item value="GuosenIpUtil cannot be resolved" />
       <item value="lbpm process definition" />
@@ -48,16 +51,13 @@
       <item value="A bean definition may contain nested tags for constructor arguments, property values, lookup methods, and replaced methods. Mixing constructor injection and setter injection on the same bean is explicitly supported." />
       <item value="Similar to the lookup method mechanism, the replaced-method element is used to control IoC container method overriding: Method Injection. This mechanism allows the overriding of a method with arbitrary code." />
       <item value="The unique identifier for a bean. The scope of the identifier is the enclosing bean factory." />
-      <item value="method Replacer Bean Name" />
-      <item value="Rod Johnson" />
-      <item value="Any non-final method can be overridden, irrespective of its * parameters and return types." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2517" />
-        <entry key="ENGLISH" value="2528" />
+        <entry key="CHINESE" value="2522" />
+        <entry key="ENGLISH" value="2531" />
         <entry key="FRENCH" value="28" />
-        <entry key="PORTUGUESE" value="17" />
+        <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
