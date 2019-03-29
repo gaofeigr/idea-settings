@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are receiving this because you commented." />
       <item value="exists" />
       <item value="self" />
       <item value="Abroad" />
@@ -50,7 +51,6 @@
       <item value="The name of the method whose implementation must be replaced by the IoC container. If this method is not overloaded, there is no need to use arg-type subelements. If this method is overloaded, arg-type subelements must be used for all override definitions for the method." />
       <item value="A bean definition may contain nested tags for constructor arguments, property values, lookup methods, and replaced methods. Mixing constructor injection and setter injection on the same bean is explicitly supported." />
       <item value="Similar to the lookup method mechanism, the replaced-method element is used to control IoC container method overriding: Method Injection. This mechanism allows the overriding of a method with arbitrary code." />
-      <item value="The unique identifier for a bean. The scope of the identifier is the enclosing bean factory." />
     </histories>
     <option name="languageScores">
       <map>
