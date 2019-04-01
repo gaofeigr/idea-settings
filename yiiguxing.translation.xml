@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guosen Supplier Main" />
+      <item value="fd Beneficiary Account" />
+      <item value="fd Supplier Name" />
       <item value="打开浏览器控制台" />
       <item value="repo" />
       <item value="slide" />
@@ -48,14 +51,11 @@
       <item value="电话" />
       <item value="分隔" />
       <item value="配置" />
-      <item value="complex Type" />
-      <item value="annotation" />
-      <item value="Defines a single (usually named) bean. A bean definition may contain nested tags for constructor arguments, property values, lookup methods, and replaced methods. Mixing constructor injection and setter injection on the same bean is explicitly supported." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2523" />
-        <entry key="ENGLISH" value="2533" />
+        <entry key="CHINESE" value="2547" />
+        <entry key="ENGLISH" value="2557" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
