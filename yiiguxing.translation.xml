@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="download Batch Collection Tem File" />
+      <item value="collection" />
+      <item value="收款" />
+      <item value="batch" />
+      <item value="unused" />
       <item value="get Authorize By Handle" />
       <item value="批量" />
       <item value="Payment" />
@@ -46,16 +51,11 @@
       <item value="JSON" />
       <item value="choose Places" />
       <item value="三月 27, 2019 2:50:43 下午 org.apache.jasper.compiler.TldLocationsCache tldScanJar" />
-      <item value="At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
-      <item value="NETTY CLIENT PIPELINE: IDLE exception [10.35.4.78:7800]" />
-      <item value="HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself" />
-      <item value="ok" />
-      <item value="process Refuse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2644" />
-        <entry key="ENGLISH" value="2660" />
+        <entry key="CHINESE" value="2646" />
+        <entry key="ENGLISH" value="2663" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
