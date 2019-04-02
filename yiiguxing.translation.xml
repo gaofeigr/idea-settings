@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="批量导入收款人信息" />
+      <item value="模板" />
+      <item value="下载" />
+      <item value="dowon" />
+      <item value="batch Pay" />
+      <item value="批量" />
+      <item value="bach" />
+      <item value="button" />
+      <item value="botton" />
       <item value="float" />
       <item value="浮动" />
       <item value="l" />
@@ -42,20 +51,11 @@
       <item value="浅红" />
       <item value="fd Name" />
       <item value="fd Phone" />
-      <item value="fd Type" />
-      <item value="fd Unit" />
-      <item value="pc Position Abroad" />
-      <item value="quik" />
-      <item value="quit" />
-      <item value="Write operations are not allowed in read-only mode" />
-      <item value="FLUSH EAGER" />
-      <item value="show Temp" />
-      <item value="Illegal use of &amp;lt;when&amp;gt;-style tag without &amp;lt;choose&amp;gt; as its direct parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2637" />
-        <entry key="ENGLISH" value="2648" />
+        <entry key="CHINESE" value="2643" />
+        <entry key="ENGLISH" value="2657" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
