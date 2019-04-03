@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="carets" />
       <item value="payment" />
       <item value="例外" />
       <item value="异常" />
@@ -50,7 +51,6 @@
       <item value="Abroad" />
       <item value="abroad$" />
       <item value="abort$" />
-      <item value=" Row was updated or deleted by another transaction " />
     </histories>
     <option name="languageScores">
       <map>
