@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hitch" />
+      <item value="connect" />
+      <item value="inherited" />
       <item value="carets" />
       <item value="payment" />
       <item value="例外" />
@@ -48,14 +51,11 @@
       <item value="You are receiving this because you commented." />
       <item value="exists" />
       <item value="self" />
-      <item value="Abroad" />
-      <item value="abroad$" />
-      <item value="abort$" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2651" />
-        <entry key="ENGLISH" value="2670" />
+        <entry key="CHINESE" value="2654" />
+        <entry key="ENGLISH" value="2673" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
