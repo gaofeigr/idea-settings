@@ -5,14 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Action.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*L</mask>
-      <mask>*Li</mask>
-      <mask>*Lis</mask>
       <mask>*List</mask>
       <mask>*Liste</mask>
       <mask>*Listen</mask>
@@ -28,7 +22,21 @@
       <mask>*.js</mask>
       <mask>``</mask>
       <mask>*.jsp</mask>
+      <mask>*ser.java</mask>
+      <mask>*se.java</mask>
+      <mask>*s.java</mask>
       <mask>*.java</mask>
+      <mask>*S.java</mask>
+      <mask>*Se.java</mask>
+      <mask>*Ser.java</mask>
+      <mask>*Serview.java</mask>
+      <mask>*Servie.java</mask>
+      <mask>*Servi.java</mask>
+      <mask>*Servic.java</mask>
+      <mask>*Service.java</mask>
+      <mask>*A.java</mask>
+      <mask>*Acti.java</mask>
+      <mask>*Action.java</mask>
     </recentFileMasks>
   </component>
 </application>
