@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default" />
       <item value="ElasticSearch-SimDoc Plugin, Custom Update Plugin, word, synonymplugin, ElasticSearch Query Plugin" />
       <item value="java.lang.IllegalStateException: Unable to complete the scan for annotations for web application [/ekp] due to a StackOverflowError. Possible root causes include a too low setting for -Xss and illegal cyclic inheritance dependencies. The class hierarchy being processed was [org.bouncycastle.asn1.ASN1EncodableVector-&gt;org.bouncycastle.asn1.DEREncodableVector-&gt;org.bouncycastle.asn1.ASN1EncodableVector]" />
       <item value="org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ekp]]" />
@@ -50,7 +51,6 @@
       <item value="guosen Supplier Main" />
       <item value="fd Beneficiary Account" />
       <item value="fd Supplier Name" />
-      <item value="打开浏览器控制台" />
     </histories>
     <option name="languageScores">
       <map>
