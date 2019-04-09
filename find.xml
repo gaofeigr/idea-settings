@@ -15,7 +15,6 @@
       <mask>*Listener.java</mask>
       <mask>*.xml</mask>
       <mask>*.css</mask>
-      <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>``</mask>
       <mask>*.jsp</mask>
@@ -34,6 +33,7 @@
       <mask>*A.java</mask>
       <mask>*Acti.java</mask>
       <mask>*Action.java</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
