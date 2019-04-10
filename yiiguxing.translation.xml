@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch" />
       <item value="此处将guosen Pay For Qi Huo GS With Fp Service替换为单独的类注入" />
       <item value="default" />
       <item value="ElasticSearch-SimDoc Plugin, Custom Update Plugin, word, synonymplugin, ElasticSearch Query Plugin" />
@@ -25,7 +26,6 @@
       <item value="download Batch Collection Tem File" />
       <item value="collection" />
       <item value="收款" />
-      <item value="batch" />
       <item value="unused" />
       <item value="get Authorize By Handle" />
       <item value="批量" />
