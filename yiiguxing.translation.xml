@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="此处将guosen Pay For Qi Huo GS With Fp Service替换为单独的类注入" />
       <item value="default" />
       <item value="ElasticSearch-SimDoc Plugin, Custom Update Plugin, word, synonymplugin, ElasticSearch Query Plugin" />
       <item value="java.lang.IllegalStateException: Unable to complete the scan for annotations for web application [/ekp] due to a StackOverflowError. Possible root causes include a too low setting for -Xss and illegal cyclic inheritance dependencies. The class hierarchy being processed was [org.bouncycastle.asn1.ASN1EncodableVector-&gt;org.bouncycastle.asn1.DEREncodableVector-&gt;org.bouncycastle.asn1.ASN1EncodableVector]" />
@@ -50,12 +51,11 @@
       <item value="阅读权限过滤" />
       <item value="guosen Supplier Main" />
       <item value="fd Beneficiary Account" />
-      <item value="fd Supplier Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2658" />
-        <entry key="ENGLISH" value="2677" />
+        <entry key="CHINESE" value="2660" />
+        <entry key="ENGLISH" value="2679" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
