@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="go go go" />
+      <item value="gogogo" />
+      <item value="set Fd Circulator" />
+      <item value="set Received Cir Culators" />
       <item value="Target" />
       <item value="get All Declared Methods" />
       <item value="offline seat duration" />
@@ -47,15 +51,11 @@
       <item value="float" />
       <item value="浮动" />
       <item value="l" />
-      <item value="false" />
-      <item value="get Column Map" />
-      <item value="S" />
-      <item value="get Doc Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2662" />
-        <entry key="ENGLISH" value="2681" />
+        <entry key="CHINESE" value="2665" />
+        <entry key="ENGLISH" value="2684" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
