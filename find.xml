@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
       <mask>*List</mask>
       <mask>*Liste</mask>
@@ -16,13 +17,10 @@
       <mask>*Listener.jav</mask>
       <mask>*Listener.java</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
       <mask>``</mask>
-      <mask>*.jsp</mask>
       <mask>*ser.java</mask>
       <mask>*se.java</mask>
       <mask>*s.java</mask>
-      <mask>*.java</mask>
       <mask>*S.java</mask>
       <mask>*Se.java</mask>
       <mask>*Ser.java</mask>
@@ -36,6 +34,9 @@
       <mask>*Action.java</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
