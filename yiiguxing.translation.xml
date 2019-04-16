@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overtime" />
+      <item value="加班" />
+      <item value="afternoon" />
+      <item value="下午" />
+      <item value="forenoon" />
+      <item value="上午" />
+      <item value="morning" />
       <item value="current User Id" />
       <item value="创建者" />
       <item value="creater" />
@@ -44,18 +51,11 @@
       <item value="single man" />
       <item value="单个" />
       <item value="download Batch Collection Tem File" />
-      <item value="collection" />
-      <item value="收款" />
-      <item value="unused" />
-      <item value="get Authorize By Handle" />
-      <item value="批量" />
-      <item value="Payment" />
-      <item value="付款单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2673" />
-        <entry key="ENGLISH" value="2695" />
+        <entry key="CHINESE" value="2674" />
+        <entry key="ENGLISH" value="2699" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
