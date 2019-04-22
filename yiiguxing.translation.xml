@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependencies" />
       <item value="Abstract Guosen Pay For Lang Chao Service" />
       <item value="author" />
       <item value="slide" />
@@ -50,7 +51,6 @@
       <item value="gogogo" />
       <item value="set Fd Circulator" />
       <item value="set Received Cir Culators" />
-      <item value="Target" />
     </histories>
     <option name="languageScores">
       <map>
