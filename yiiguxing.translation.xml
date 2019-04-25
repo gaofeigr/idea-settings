@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
+      <item value="是否" />
+      <item value="statistical weight" />
+      <item value="权重" />
+      <item value="The Weight" />
       <item value="append Exception String" />
       <item value="i" />
       <item value="王炽钦" />
@@ -46,16 +51,11 @@
       <item value="客户" />
       <item value="主维护人" />
       <item value="customer" />
-      <item value="contact" />
-      <item value="linkman" />
-      <item value="business" />
-      <item value="is Amaldar" />
-      <item value="go go go" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2697" />
-        <entry key="ENGLISH" value="2730" />
+        <entry key="CHINESE" value="2698" />
+        <entry key="ENGLISH" value="2734" />
         <entry key="FRENCH" value="28" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
