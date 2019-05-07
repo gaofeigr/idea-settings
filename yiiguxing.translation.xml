@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="score" />
+      <item value="temp Num" />
       <item value="is Auto Add Select Reason" />
       <item value="total Weight Score" />
       <item value="权重" />
@@ -49,13 +51,11 @@
       <item value="inherited" />
       <item value="real Value" />
       <item value="concrete Time" />
-      <item value="concrete time" />
-      <item value="具体时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2708" />
-        <entry key="ENGLISH" value="2746" />
+        <entry key="CHINESE" value="2709" />
+        <entry key="ENGLISH" value="2747" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
