@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="撒旦" />
+      <item value="usual" />
       <item value="ROWS FETCH NEXT" />
       <item value="get Statistical Weight Info" />
       <item value="score" />
@@ -49,13 +51,11 @@
       <item value="Business System Util" />
       <item value="业务" />
       <item value="比较" />
-      <item value="select" />
-      <item value="inherited" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2711" />
-        <entry key="ENGLISH" value="2749" />
+        <entry key="ENGLISH" value="2750" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
