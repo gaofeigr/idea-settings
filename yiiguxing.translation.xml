@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offset" />
+      <item value="offsetsql" />
+      <item value="data Sql" />
       <item value="is Count" />
       <item value="excecute" />
       <item value="函数" />
@@ -48,14 +51,11 @@
       <item value="via" />
       <item value="follow the investment" />
       <item value="跟投" />
-      <item value="investment" />
-      <item value="rata" />
-      <item value="anonymous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2715" />
-        <entry key="ENGLISH" value="2756" />
+        <entry key="CHINESE" value="2718" />
+        <entry key="ENGLISH" value="2759" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
