@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abs" />
+      <item value="Big Decimal" />
+      <item value="ROUND HALF UP" />
       <item value="is History Att" />
       <item value="statistical Weight" />
       <item value="tip" />
@@ -48,14 +51,11 @@
       <item value="dependencies" />
       <item value="Abstract Guosen Pay For Lang Chao Service" />
       <item value="author" />
-      <item value="slide" />
-      <item value="Determines if the class or interface represented by this * &lt;code&gt;Class&lt;/code&gt; object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * &lt;code&gt;Class&lt;/code&gt; parameter. It returns &lt;code&gt;true&lt;/code&gt; if so; * otherwise it returns &lt;code&gt;false&lt;/code&gt;. If this &lt;code&gt;Class&lt;/code&gt; * object represents a primitive type, this method returns * &lt;code&gt;true&lt;/code&gt; if the specified &lt;code&gt;Class&lt;/code&gt; parameter is * exactly this &lt;code&gt;Class&lt;/code&gt; object; otherwise it returns * &lt;code&gt;false&lt;/code&gt;." />
-      <item value="is Assignable From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2726" />
-        <entry key="ENGLISH" value="2766" />
+        <entry key="CHINESE" value="2730" />
+        <entry key="ENGLISH" value="2770" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
