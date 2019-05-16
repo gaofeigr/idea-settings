@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plugin supporting features (Artifact[exploded-war], Facet[web]) is currently disabled." />
+      <item value="end Node" />
       <item value="abs" />
       <item value="Big Decimal" />
       <item value="ROUND HALF UP" />
@@ -49,13 +51,11 @@
       <item value="i" />
       <item value="王炽钦" />
       <item value="dependencies" />
-      <item value="Abstract Guosen Pay For Lang Chao Service" />
-      <item value="author" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2730" />
-        <entry key="ENGLISH" value="2770" />
+        <entry key="CHINESE" value="2732" />
+        <entry key="ENGLISH" value="2772" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
