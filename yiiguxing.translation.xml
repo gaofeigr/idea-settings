@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="PermGen space" />
       <item value="Plugin supporting features (Artifact[exploded-war], Facet[web]) is currently disabled." />
       <item value="end Node" />
       <item value="abs" />
@@ -49,13 +51,11 @@
       <item value="The Weight" />
       <item value="append Exception String" />
       <item value="i" />
-      <item value="王炽钦" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2732" />
-        <entry key="ENGLISH" value="2772" />
+        <entry key="CHINESE" value="2736" />
+        <entry key="ENGLISH" value="2776" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="2" />
