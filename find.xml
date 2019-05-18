@@ -30,10 +30,10 @@
       <mask>*Acti.java</mask>
       <mask>*Action.java</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
