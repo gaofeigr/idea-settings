@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guosen admin resume" />
       <item value="process Refuse" />
       <item value="trigger" />
       <item value="属性" />
@@ -50,15 +51,14 @@
       <item value="att Frame" />
       <item value="fd Split" />
       <item value="is Show" />
-      <item value="控制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2740" />
+        <entry key="CHINESE" value="2741" />
         <entry key="ENGLISH" value="2781" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
       </map>
     </option>
   </component>
