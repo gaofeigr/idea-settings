@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not reserve enough space for object heap" />
       <item value="redraw Hierarchy Block" />
       <item value="描述" />
       <item value="Application Server was not connected before run configuration stop, reason: Unable to ping server at localhost:1090" />
@@ -50,12 +51,11 @@
       <item value="on Flick Animation End" />
       <item value="_run Slide Animation" />
       <item value="Greeting! gaofeigr;  I am Simon, and I am contacting you to find out, if you have need for IT Website or mobile application development services. We are fast Growing Website Services Company and having an in-house software design and development team,  Which has expertise in the following areas: - 1: Website Design 2: Mobile Application 3: Digital Marketing We have very competitive rates for the above services, and should you feel interested, I can send you more details regarding this in my next email. Please let me know if you are interested. Thanks &amp;Regards, Simon Business Development Executive Note: - If you are interested about our portfolio, proposal &amp; client references. please back to reply. " />
-      <item value="Hope you are doing well.  Haven’t heard back from you, just wondering if you are interested in our services!   I would be happy to share our past work details, methodologies &amp; client testimonials.  Kind Regards Simon  Business Development Executive " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2743" />
-        <entry key="ENGLISH" value="2784" />
+        <entry key="CHINESE" value="2744" />
+        <entry key="ENGLISH" value="2785" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
