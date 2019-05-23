@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handler" />
+      <item value="setting Process Handler" />
+      <item value="setting Process Hander" />
+      <item value="setting" />
       <item value="pass" />
       <item value="经过" />
       <item value="process Have Addition Node" />
@@ -47,15 +51,11 @@
       <item value="--use function test" />
       <item value="opposite" />
       <item value="撒旦" />
-      <item value="usual" />
-      <item value="ROWS FETCH NEXT" />
-      <item value="get Statistical Weight Info" />
-      <item value="score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2747" />
-        <entry key="ENGLISH" value="2792" />
+        <entry key="CHINESE" value="2751" />
+        <entry key="ENGLISH" value="2796" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
