@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aa" />
+      <item value="request" />
+      <item value="load Select Categories By Ids" />
+      <item value="You are receiving this email because you previously requested your Outlook.com mailbox to be exported. Please click on the link below to get a copy of your mailbox.   https://wyfnediscnam.file.core.windows.net/fileca70092e282e4e2dbe5c9cf84e5af87d/979d194c6a1a420bab0b55f9847a9980.pst?sv=2017-07-29&amp;sr=f&amp;si=policy979d194c6a1a420bab0b55f9847a9980&amp;sig=QcWFOhM8IOjR0dOKZcHOQ1zLhyeJxSUiUIiDQfKjG5Q%3D.   Note that this export will expire 14 days after receiving this email. Do not share this email or link with anyone as it will give them access to the file with your data.  If you are unable to download the file please try creating a new export from your Outlook options page.  Thank you for using Microsoft products and services. " />
       <item value="Could not reserve enough space for object heap" />
       <item value="redraw Hierarchy Block" />
       <item value="描述" />
@@ -47,15 +51,11 @@
       <item value="off" />
       <item value="absent" />
       <item value="禁用" />
-      <item value="on Touch Move" />
-      <item value="on Flick Animation End" />
-      <item value="_run Slide Animation" />
-      <item value="Greeting! gaofeigr;  I am Simon, and I am contacting you to find out, if you have need for IT Website or mobile application development services. We are fast Growing Website Services Company and having an in-house software design and development team,  Which has expertise in the following areas: - 1: Website Design 2: Mobile Application 3: Digital Marketing We have very competitive rates for the above services, and should you feel interested, I can send you more details regarding this in my next email. Please let me know if you are interested. Thanks &amp;Regards, Simon Business Development Executive Note: - If you are interested about our portfolio, proposal &amp; client references. please back to reply. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2744" />
-        <entry key="ENGLISH" value="2785" />
+        <entry key="CHINESE" value="2746" />
+        <entry key="ENGLISH" value="2787" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
