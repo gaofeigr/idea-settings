@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before" />
+      <item value="get Before History Node By Node Id" />
       <item value="Handler" />
       <item value="setting Process Handler" />
       <item value="setting Process Hander" />
@@ -49,13 +51,11 @@
       <item value="函数" />
       <item value="--not use function test" />
       <item value="--use function test" />
-      <item value="opposite" />
-      <item value="撒旦" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2751" />
-        <entry key="ENGLISH" value="2796" />
+        <entry key="CHINESE" value="2753" />
+        <entry key="ENGLISH" value="2798" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
