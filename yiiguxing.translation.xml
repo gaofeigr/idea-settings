@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permission denied: connect" />
       <item value="执行" />
       <item value="Before" />
       <item value="get Before History Node By Node Id" />
@@ -50,12 +51,11 @@
       <item value="is Count" />
       <item value="excecute" />
       <item value="函数" />
-      <item value="--not use function test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2753" />
-        <entry key="ENGLISH" value="2799" />
+        <entry key="CHINESE" value="2754" />
+        <entry key="ENGLISH" value="2800" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
