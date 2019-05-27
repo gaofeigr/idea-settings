@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHEKP" />
+      <item value="SQL Server Dialect" />
       <item value="Program Exception" />
       <item value="Permission denied: connect" />
       <item value="执行" />
@@ -49,13 +51,11 @@
       <item value="offset" />
       <item value="offsetsql" />
       <item value="data Sql" />
-      <item value="is Count" />
-      <item value="excecute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2755" />
-        <entry key="ENGLISH" value="2801" />
+        <entry key="CHINESE" value="2756" />
+        <entry key="ENGLISH" value="2802" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
