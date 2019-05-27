@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集成" />
       <item value="SHEKP" />
       <item value="SQL Server Dialect" />
       <item value="Program Exception" />
@@ -50,12 +51,11 @@
       <item value="get Internal Form" />
       <item value="offset" />
       <item value="offsetsql" />
-      <item value="data Sql" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2756" />
-        <entry key="ENGLISH" value="2802" />
+        <entry key="ENGLISH" value="2803" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
