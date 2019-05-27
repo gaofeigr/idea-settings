@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询erp中间表状态为创建或驳回的数据的数量" />
       <item value="集成" />
       <item value="SHEKP" />
       <item value="SQL Server Dialect" />
@@ -50,12 +51,11 @@
       <item value="is List Intersect" />
       <item value="get Internal Form" />
       <item value="offset" />
-      <item value="offsetsql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2756" />
-        <entry key="ENGLISH" value="2803" />
+        <entry key="CHINESE" value="2757" />
+        <entry key="ENGLISH" value="2804" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
