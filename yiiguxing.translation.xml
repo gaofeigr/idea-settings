@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status Code" />
+      <item value="audit" />
+      <item value="审核" />
+      <item value="code" />
+      <item value="Verification code" />
+      <item value="审核码" />
       <item value="Event Sys Flow Finish" />
       <item value="fd Erp Process Main Id" />
       <item value="add Main Stmt" />
@@ -45,17 +51,11 @@
       <item value="节点" />
       <item value="补签" />
       <item value="retroactive" />
-      <item value="aa" />
-      <item value="request" />
-      <item value="load Select Categories By Ids" />
-      <item value="You are receiving this email because you previously requested your Outlook.com mailbox to be exported. Please click on the link below to get a copy of your mailbox.   https://wyfnediscnam.file.core.windows.net/fileca70092e282e4e2dbe5c9cf84e5af87d/979d194c6a1a420bab0b55f9847a9980.pst?sv=2017-07-29&amp;sr=f&amp;si=policy979d194c6a1a420bab0b55f9847a9980&amp;sig=QcWFOhM8IOjR0dOKZcHOQ1zLhyeJxSUiUIiDQfKjG5Q%3D.   Note that this export will expire 14 days after receiving this email. Do not share this email or link with anyone as it will give them access to the file with your data.  If you are unable to download the file please try creating a new export from your Outlook options page.  Thank you for using Microsoft products and services. " />
-      <item value="Could not reserve enough space for object heap" />
-      <item value="redraw Hierarchy Block" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2777" />
-        <entry key="ENGLISH" value="2826" />
+        <entry key="CHINESE" value="2778" />
+        <entry key="ENGLISH" value="2830" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
