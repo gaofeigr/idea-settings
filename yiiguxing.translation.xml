@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详细" />
       <item value="detail 1" />
       <item value="get String" />
       <item value="is Null" />
@@ -50,12 +51,11 @@
       <item value="end Node" />
       <item value="abs" />
       <item value="Big Decimal" />
-      <item value="ROUND HALF UP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2766" />
-        <entry key="ENGLISH" value="2814" />
+        <entry key="ENGLISH" value="2815" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
