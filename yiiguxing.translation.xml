@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detail 1" />
+      <item value="get String" />
+      <item value="is Null" />
+      <item value="review Info Rs" />
       <item value="attfil" />
       <item value="标识" />
       <item value="is Amaldar" />
@@ -47,15 +51,11 @@
       <item value="abs" />
       <item value="Big Decimal" />
       <item value="ROUND HALF UP" />
-      <item value="is History Att" />
-      <item value="statistical Weight" />
-      <item value="tip" />
-      <item value="session Val" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2759" />
-        <entry key="ENGLISH" value="2807" />
+        <entry key="CHINESE" value="2766" />
+        <entry key="ENGLISH" value="2814" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
