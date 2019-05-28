@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve File Stream" />
       <item value="status Code" />
       <item value="audit" />
       <item value="审核" />
@@ -50,12 +51,11 @@
       <item value="addition" />
       <item value="节点" />
       <item value="补签" />
-      <item value="retroactive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2778" />
-        <entry key="ENGLISH" value="2830" />
+        <entry key="CHINESE" value="2779" />
+        <entry key="ENGLISH" value="2831" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
