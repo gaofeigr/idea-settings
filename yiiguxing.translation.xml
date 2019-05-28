@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绝对路径" />
       <item value="for" />
       <item value="Col" />
       <item value="Erp Table Col Constant" />
@@ -50,12 +51,11 @@
       <item value="属性" />
       <item value="Invocation Target Exception" />
       <item value="release" />
-      <item value="之前" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2770" />
-        <entry key="ENGLISH" value="2817" />
+        <entry key="ENGLISH" value="2818" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
