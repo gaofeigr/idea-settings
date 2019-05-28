@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attfil" />
+      <item value="标识" />
       <item value="is Amaldar" />
       <item value="certificate" />
       <item value="查询erp中间表状态为创建或驳回的数据的数量" />
@@ -49,13 +51,11 @@
       <item value="statistical Weight" />
       <item value="tip" />
       <item value="session Val" />
-      <item value="Authorize" />
-      <item value="is List Intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2758" />
-        <entry key="ENGLISH" value="2805" />
+        <entry key="CHINESE" value="2759" />
+        <entry key="ENGLISH" value="2807" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
