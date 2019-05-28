@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Erp Process Main Id" />
       <item value="add Main Stmt" />
       <item value="commit" />
       <item value="download" />
@@ -50,12 +51,11 @@
       <item value="Could not reserve enough space for object heap" />
       <item value="redraw Hierarchy Block" />
       <item value="描述" />
-      <item value="Application Server was not connected before run configuration stop, reason: Unable to ping server at localhost:1090" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2775" />
-        <entry key="ENGLISH" value="2824" />
+        <entry key="CHINESE" value="2776" />
+        <entry key="ENGLISH" value="2825" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
