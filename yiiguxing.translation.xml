@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An association from the table km_cusledger_contract_product refers to an unmapped class:" />
+      <item value="unmapped class" />
       <item value="详细" />
       <item value="detail 1" />
       <item value="get String" />
@@ -49,13 +51,11 @@
       <item value="PermGen space" />
       <item value="Plugin supporting features (Artifact[exploded-war], Facet[web]) is currently disabled." />
       <item value="end Node" />
-      <item value="abs" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2766" />
-        <entry key="ENGLISH" value="2815" />
+        <entry key="CHINESE" value="2768" />
+        <entry key="ENGLISH" value="2817" />
         <entry key="FRENCH" value="30" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
