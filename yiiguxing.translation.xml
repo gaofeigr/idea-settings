@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="for" />
       <item value="Col" />
       <item value="Erp Table Col Constant" />
       <item value="from" />
@@ -50,7 +51,6 @@
       <item value="Invocation Target Exception" />
       <item value="release" />
       <item value="之前" />
-      <item value="上一个" />
     </histories>
     <option name="languageScores">
       <map>
