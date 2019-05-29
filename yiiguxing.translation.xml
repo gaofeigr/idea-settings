@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
       <item value="down Each Att" />
       <item value="each" />
       <item value="retrieve File Stream" />
@@ -50,12 +51,11 @@
       <item value="pass" />
       <item value="经过" />
       <item value="process Have Addition Node" />
-      <item value="addition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2779" />
-        <entry key="ENGLISH" value="2831" />
+        <entry key="ENGLISH" value="2832" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
