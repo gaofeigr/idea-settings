@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="down Each Att" />
+      <item value="each" />
       <item value="retrieve File Stream" />
       <item value="status Code" />
       <item value="audit" />
@@ -49,8 +51,6 @@
       <item value="经过" />
       <item value="process Have Addition Node" />
       <item value="addition" />
-      <item value="节点" />
-      <item value="补签" />
     </histories>
     <option name="languageScores">
       <map>
