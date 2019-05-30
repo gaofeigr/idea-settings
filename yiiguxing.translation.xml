@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encountered" />
       <item value="anonymous Paths" />
       <item value="inline evaluation" />
       <item value="解析" />
@@ -50,12 +51,11 @@
       <item value="setting Process Handler" />
       <item value="setting Process Hander" />
       <item value="setting" />
-      <item value="pass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2780" />
-        <entry key="ENGLISH" value="2833" />
+        <entry key="CHINESE" value="2781" />
+        <entry key="ENGLISH" value="2834" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
