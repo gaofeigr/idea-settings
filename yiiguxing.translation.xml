@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve File Stream" />
       <item value="flag" />
       <item value="Encountered" />
       <item value="anonymous Paths" />
@@ -8,7 +9,6 @@
       <item value="解析" />
       <item value="down Each Att" />
       <item value="each" />
-      <item value="retrieve File Stream" />
       <item value="status Code" />
       <item value="audit" />
       <item value="审核" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2781" />
-        <entry key="ENGLISH" value="2834" />
+        <entry key="CHINESE" value="2782" />
+        <entry key="ENGLISH" value="2835" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
