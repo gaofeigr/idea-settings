@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BINARY FILE TYPE" />
+      <item value="set File Type" />
       <item value="reply" />
       <item value="send Command" />
       <item value="is Positive Preliminary" />
@@ -49,13 +51,11 @@
       <item value="SHEKP" />
       <item value="SQL Server Dialect" />
       <item value="Program Exception" />
-      <item value="Permission denied: connect" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2787" />
-        <entry key="ENGLISH" value="2840" />
+        <entry key="CHINESE" value="2789" />
+        <entry key="ENGLISH" value="2842" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
