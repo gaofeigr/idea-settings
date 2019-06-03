@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enter Local Active Mode" />
       <item value="Kmss Un Expect Value Exception" />
       <item value="init From Parameter" />
       <item value="Form" />
@@ -50,12 +51,11 @@
       <item value="attfil" />
       <item value="标识" />
       <item value="is Amaldar" />
-      <item value="certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2795" />
-        <entry key="ENGLISH" value="2847" />
+        <entry key="CHINESE" value="2796" />
+        <entry key="ENGLISH" value="2848" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="3" />
