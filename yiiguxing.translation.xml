@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Is Auto Fetch" />
       <item value="set Max Inactive Interval" />
       <item value="record" />
       <item value="God bless mom." />
@@ -50,12 +51,11 @@
       <item value="for" />
       <item value="Col" />
       <item value="Erp Table Col Constant" />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2802" />
-        <entry key="ENGLISH" value="2853" />
+        <entry key="CHINESE" value="2803" />
+        <entry key="ENGLISH" value="2854" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
