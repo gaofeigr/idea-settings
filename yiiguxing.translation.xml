@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment" />
       <item value="set Is Auto Fetch" />
       <item value="set Max Inactive Interval" />
       <item value="record" />
@@ -50,7 +51,6 @@
       <item value="绝对路径" />
       <item value="for" />
       <item value="Col" />
-      <item value="Erp Table Col Constant" />
     </histories>
     <option name="languageScores">
       <map>
