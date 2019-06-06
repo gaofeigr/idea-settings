@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unwinding now" />
+      <item value="getProcessRelationInfo has thrown exception, unwinding now" />
       <item value="michael page" />
       <item value="is Completed" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access." />
-      <item value="unwinding now" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access.. &#9;net.sf.json.util.JSONTokener.syntaxError(JSONTokener.java:505) &#9;net.sf.json.JSONObject._fromJSONTokener(JSONObject.java:1144) &#9;net.sf.json.JSONObject._fromString(JSONObject.java:1373) &#9;net.sf.json.JSONObject.fromObject(JSONObject.java:161) &#9;net.sf.json.JSONObject.fromObject(JSONObject.java:130) &#9;com.landray.kmss.guosen.relation.extend.quartz.GuosenAuditNoteSyncQuartz.syncNow(GuosenAuditNoteSyncQuartz.java:125) &#9;com.landray.kmss.guosen.relation.extend.quartz.GuosenAuditNoteSyncQuartz.syncAll(GuosenAuditNoteSyncQuartz.java:83) &#9;sun.reflect.GeneratedMethodAccessor3350.invoke(Unknown Source) &#9;sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) &#9;java.lang.reflect.Method.invoke(Method.java:606) &#9;com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.runJob(SysQuartzJobRunner.java:97) &#9;com.landray.kmss.sys.quartz.scheduler.SysQuartzJobRunner.run(SysQuartzJobRunner.java:41) &#9;com.landray.kmss.sys.quartz.scheduler.SysQuartzJobExecutor$ChainRunnable.run(SysQuartzJobExecutor.java:350) &#9;com.landray.kmss.sys.quartz.scheduler.ThreadPoolManager$ProxyTask.run(ThreadPoolManager.java:245) &#9;java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) &#9;java.util.concurrent.FutureTask.run(FutureTask.java:262) &#9;java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178) &#9;java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292) &#9;java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) &#9;java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) &#9;java.lang.Thread.run(Thread.java:745) 任务总历时：0.282秒     " />
       <item value="ACEGI SECURITY CONTEXT" />
@@ -50,12 +51,11 @@
       <item value="Verification code" />
       <item value="审核码" />
       <item value="Event Sys Flow Finish" />
-      <item value="fd Erp Process Main Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2806" />
-        <entry key="ENGLISH" value="2859" />
+        <entry key="CHINESE" value="2808" />
+        <entry key="ENGLISH" value="2861" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
