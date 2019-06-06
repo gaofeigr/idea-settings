@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="michael page" />
       <item value="is Completed" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access." />
       <item value="unwinding now" />
@@ -50,7 +51,6 @@
       <item value="审核码" />
       <item value="Event Sys Flow Finish" />
       <item value="fd Erp Process Main Id" />
-      <item value="add Main Stmt" />
     </histories>
     <option name="languageScores">
       <map>
