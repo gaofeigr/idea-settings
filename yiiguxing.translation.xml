@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interactive" />
       <item value="process Submit" />
       <item value="check Is From Outer" />
       <item value="fd Verification" />
@@ -50,7 +51,6 @@
       <item value="each" />
       <item value="status Code" />
       <item value="audit" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
