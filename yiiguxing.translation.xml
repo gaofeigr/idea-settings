@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Submit" />
+      <item value="check Is From Outer" />
       <item value="fd Verification" />
       <item value="update Draft" />
       <item value="unwinding now" />
@@ -49,13 +51,11 @@
       <item value="status Code" />
       <item value="audit" />
       <item value="审核" />
-      <item value="code" />
-      <item value="Verification code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2810" />
-        <entry key="ENGLISH" value="2863" />
+        <entry key="CHINESE" value="2813" />
+        <entry key="ENGLISH" value="2866" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
