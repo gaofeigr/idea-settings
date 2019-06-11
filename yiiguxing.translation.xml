@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="describe" />
       <item value="serial" />
       <item value="stop Propagation" />
       <item value="interactive" />
@@ -50,12 +51,11 @@
       <item value="inline evaluation" />
       <item value="解析" />
       <item value="down Each Att" />
-      <item value="each" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2815" />
-        <entry key="ENGLISH" value="2867" />
+        <entry key="CHINESE" value="2816" />
+        <entry key="ENGLISH" value="2868" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
