@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not reserve enough space for object heap" />
       <item value="Cannot release connection" />
       <item value="describe" />
       <item value="serial" />
@@ -50,12 +51,11 @@
       <item value="Encountered" />
       <item value="anonymous Paths" />
       <item value="inline evaluation" />
-      <item value="解析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2816" />
-        <entry key="ENGLISH" value="2868" />
+        <entry key="CHINESE" value="2817" />
+        <entry key="ENGLISH" value="2869" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
