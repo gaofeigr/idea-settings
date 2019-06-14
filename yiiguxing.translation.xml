@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tough mvt" />
+      <item value="tough" />
       <item value="fd External Url" />
       <item value="Could not reserve enough space for object heap" />
       <item value="Cannot release connection" />
@@ -49,8 +51,6 @@
       <item value="_open Data Connection_" />
       <item value="retrieve File Stream" />
       <item value="flag" />
-      <item value="Encountered" />
-      <item value="anonymous Paths" />
     </histories>
     <option name="languageScores">
       <map>
