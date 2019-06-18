@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Process" />
+      <item value="update Process Expired" />
+      <item value="update Process Invalid Handler" />
       <item value="batch Privil" />
       <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
       <item value="icon" />
@@ -48,14 +51,11 @@
       <item value="enter Local Active Mode" />
       <item value="Kmss Un Expect Value Exception" />
       <item value="init From Parameter" />
-      <item value="Form" />
-      <item value="init Form Parameter" />
-      <item value="init Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2824" />
-        <entry key="ENGLISH" value="2877" />
+        <entry key="CHINESE" value="2829" />
+        <entry key="ENGLISH" value="2882" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
