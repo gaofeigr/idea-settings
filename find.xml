@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*List</mask>
-      <mask>*Liste</mask>
-      <mask>*Listen</mask>
-      <mask>*Listene</mask>
-      <mask>*Listener</mask>
       <mask>*Listener.</mask>
       <mask>*Listener.j</mask>
       <mask>*Listener.jav</mask>
@@ -34,6 +29,11 @@
       <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
+      <mask>t'r</mask>
+      <mask>t're</mask>
+      <mask>tree</mask>
+      <mask>tree.</mask>
+      <mask>tree.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
