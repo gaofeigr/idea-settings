@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结束" />
       <item value="registered a statement as closed which wasn't known to be open. This could happen if you close a statement twice." />
       <item value="priority" />
       <item value="get Fd Retry" />
@@ -50,12 +51,11 @@
       <item value="BINARY FILE TYPE" />
       <item value="set File Type" />
       <item value="reply" />
-      <item value="send Command" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2822" />
-        <entry key="ENGLISH" value="2874" />
+        <entry key="ENGLISH" value="2875" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
