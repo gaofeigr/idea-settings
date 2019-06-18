@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="icon" />
       <item value="结束" />
       <item value="registered a statement as closed which wasn't known to be open. This could happen if you close a statement twice." />
       <item value="priority" />
@@ -50,7 +51,6 @@
       <item value="init Parameter" />
       <item value="BINARY FILE TYPE" />
       <item value="set File Type" />
-      <item value="reply" />
     </histories>
     <option name="languageScores">
       <map>
