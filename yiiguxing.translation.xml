@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Last Accessed Time" />
+      <item value="get Max Inactive Interval" />
       <item value="is read committed snapshot on" />
       <item value="ALLOW SNAPSHOT ISOLATION" />
       <item value="could not initialize a collection:" />
@@ -49,13 +51,11 @@
       <item value="java.lang.reflect.InvocationTargetException " />
       <item value="Exception occurred inside getter of com.landray.kmss.km.imissive.model.KmImissiveSendMain.docSubject " />
       <item value="guosen admin resume" />
-      <item value="Node Suspend Operation Behaviour" />
-      <item value="No Node Available Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2832" />
-        <entry key="ENGLISH" value="2885" />
+        <entry key="CHINESE" value="2834" />
+        <entry key="ENGLISH" value="2887" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
