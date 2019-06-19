@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adapter" />
       <item value="Coyote" />
       <item value="requires Authentication" />
       <item value="Coyote Adapter" />
@@ -50,13 +51,12 @@
       <item value="token" />
       <item value="合并" />
       <item value="comment" />
-      <item value="set Is Auto Fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2842" />
-        <entry key="ENGLISH" value="2894" />
-        <entry key="FRENCH" value="35" />
+        <entry key="CHINESE" value="2844" />
+        <entry key="ENGLISH" value="2895" />
+        <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
       </map>
