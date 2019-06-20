@@ -17,7 +17,6 @@
       <mask>*A.java</mask>
       <mask>*Acti.java</mask>
       <mask>*Action.java</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
@@ -34,6 +33,7 @@
       <mask>design.</mask>
       <mask>design.x</mask>
       <mask>design.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
