@@ -1,20 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Listener.</mask>
-      <mask>*Listener.j</mask>
-      <mask>*Listener.jav</mask>
-      <mask>*Listener.java</mask>
-      <mask>*.css</mask>
-      <mask>``</mask>
-      <mask>*ser.java</mask>
       <mask>*se.java</mask>
       <mask>*s.java</mask>
       <mask>*S.java</mask>
@@ -38,6 +27,13 @@
       <mask>tree.</mask>
       <mask>tree.jsp</mask>
       <mask>*.xml</mask>
+      <mask>d</mask>
+      <mask>de</mask>
+      <mask>desi</mask>
+      <mask>design</mask>
+      <mask>design.</mask>
+      <mask>design.x</mask>
+      <mask>design.xml</mask>
     </recentFileMasks>
   </component>
 </application>
