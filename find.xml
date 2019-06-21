@@ -3,21 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Action.java" />
     <recentFileMasks>
-      <mask>*se.java</mask>
-      <mask>*s.java</mask>
-      <mask>*S.java</mask>
-      <mask>*Se.java</mask>
-      <mask>*Ser.java</mask>
-      <mask>*Serview.java</mask>
       <mask>*Servie.java</mask>
       <mask>*Servi.java</mask>
       <mask>*Servic.java</mask>
       <mask>*Service.java</mask>
       <mask>*A.java</mask>
       <mask>*Acti.java</mask>
-      <mask>*Action.java</mask>
-      <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
       <mask>t'r</mask>
@@ -25,7 +18,6 @@
       <mask>tree</mask>
       <mask>tree.</mask>
       <mask>tree.jsp</mask>
-      <mask>*.xml</mask>
       <mask>d</mask>
       <mask>de</mask>
       <mask>desi</mask>
@@ -34,6 +26,15 @@
       <mask>design.x</mask>
       <mask>design.xml</mask>
       <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*A</mask>
+      <mask>*Ac</mask>
+      <mask>*Acti</mask>
+      <mask>*Action</mask>
+      <mask>*Action.java</mask>
     </recentFileMasks>
   </component>
 </application>
