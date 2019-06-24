@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="submit Addition" />
       <item value="禁用" />
+      <item value="submit Addition" />
       <item value="set Disabled" />
       <item value="change My Audited HQL Info" />
       <item value="Java heap space" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2847" />
-        <entry key="ENGLISH" value="2899" />
+        <entry key="ENGLISH" value="2900" />
         <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
