@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="security" />
+      <item value="Convertor Base 64" />
+      <item value="䙅堐䵀" />
       <item value="load X Form History List" />
       <item value="通讯" />
       <item value="禁用" />
@@ -48,14 +51,11 @@
       <item value="check Is From Outer" />
       <item value="fd Verification" />
       <item value="update Draft" />
-      <item value="unwinding now" />
-      <item value="getProcessRelationInfo has thrown exception, unwinding now" />
-      <item value="michael page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2848" />
-        <entry key="ENGLISH" value="2902" />
+        <entry key="CHINESE" value="2851" />
+        <entry key="ENGLISH" value="2905" />
         <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
