@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target" />
+      <item value="get Version Data By Field" />
       <item value="security" />
       <item value="Convertor Base 64" />
       <item value="䙅堐䵀" />
@@ -49,13 +51,11 @@
       <item value="interactive" />
       <item value="process Submit" />
       <item value="check Is From Outer" />
-      <item value="fd Verification" />
-      <item value="update Draft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2851" />
-        <entry key="ENGLISH" value="2905" />
+        <entry key="CHINESE" value="2853" />
+        <entry key="ENGLISH" value="2907" />
         <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
