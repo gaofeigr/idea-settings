@@ -1,8 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="22" />
+    <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="FONT_SCALE" value="1.25" />
     <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="EditorSettings">
@@ -16,8 +15,8 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
