@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Framework Detection" displayType="NONE" />
-    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Spring Configuration Check" displayType="NONE" />
-  </component>
-</application>
