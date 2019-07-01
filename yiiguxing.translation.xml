@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kind" />
       <item value="never" />
       <item value="Heap Dump On Out Of Memory Error" />
       <item value="prefer I Pv 4 Stack" />
@@ -50,7 +51,6 @@
       <item value="get Fd Retry" />
       <item value="complete" />
       <item value="Pre-bound JDBC Connection found! HibernateTransactionManager does not support running within DataSourceTransactionManager if told to manage the DataSource itself. It is recommended to use a single HibernateTransactionManager for all transactions on a single DataSource, no matter whether Hibernate or JDBC access." />
-      <item value=" App 'guosen_oa_hk' never started, nothing to dispose of" />
     </histories>
     <option name="languageScores">
       <map>
