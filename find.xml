@@ -1,41 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*Servie.java</mask>
-      <mask>*Servi.java</mask>
-      <mask>*Servic.java</mask>
-      <mask>*Service.java</mask>
-      <mask>*A.java</mask>
-      <mask>*Acti.java</mask>
-      <mask>t'r</mask>
-      <mask>t're</mask>
-      <mask>tree</mask>
-      <mask>tree.</mask>
-      <mask>tree.jsp</mask>
-      <mask>d</mask>
-      <mask>de</mask>
-      <mask>desi</mask>
-      <mask>design</mask>
-      <mask>design.</mask>
-      <mask>design.x</mask>
-      <mask>design.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*A</mask>
-      <mask>*Ac</mask>
-      <mask>*Acti</mask>
-      <mask>*Action</mask>
-      <mask>*Action.java</mask>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
