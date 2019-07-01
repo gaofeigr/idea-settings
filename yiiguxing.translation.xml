@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sys Form Fragment Set History" />
+      <item value="Sys Form Fragment Set Category" />
       <item value="update Fragment" />
       <item value="'Delete' statement without 'where' clears all data in the table" />
       <item value="Unsafe query: 'Delete' statement without 'where' clears all data in the table" />
@@ -49,13 +51,11 @@
       <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
       <item value="icon" />
       <item value="结束" />
-      <item value="registered a statement as closed which wasn't known to be open. This could happen if you close a statement twice." />
-      <item value="priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2869" />
-        <entry key="ENGLISH" value="2920" />
+        <entry key="CHINESE" value="2871" />
+        <entry key="ENGLISH" value="2922" />
         <entry key="FRENCH" value="39" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
