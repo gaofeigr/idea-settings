@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unset settings repository to sync ide settings to jetbrains account" />
       <item value="get Hbm Histries" />
       <item value="Sys Form Fragment Set History" />
       <item value="Sys Form Fragment Set Category" />
@@ -50,7 +51,6 @@
       <item value="update Process Invalid Handler" />
       <item value="batch Privil" />
       <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
-      <item value="icon" />
     </histories>
     <option name="languageScores">
       <map>
