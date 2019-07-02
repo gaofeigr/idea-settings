@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
+      <item value="time To Live" />
+      <item value="multicast Group Port" />
+      <item value="multicast Group Address" />
+      <item value="Sample cache named sampleCache2 This cache contains 1000 elements. Elements will always be held in memory. They are not expired." />
+      <item value="index Schema Cache" />
+      <item value="max Elements In Memory" />
+      <item value="overflow To Disk" />
+      <item value="time To Idle Seconds" />
+      <item value="eternal" />
+      <item value="sample Cache 2" />
       <item value="bootstrap" />
       <item value="report" />
       <item value="auth Fixed Reader Filter" />
@@ -40,23 +51,12 @@
       <item value="Java heap space" />
       <item value="Adapter" />
       <item value="Coyote" />
-      <item value="requires Authentication" />
-      <item value="Coyote Adapter" />
-      <item value="Filter" />
-      <item value="Stack Trace" />
-      <item value="Self-causation not permitted" />
-      <item value="The {@link #fillInStackTrace()} method is called to initialize * the stack trace data in the newly created throwable." />
-      <item value="Constructs a new throwable with &lt;code&gt;null&lt;/code&gt; as its detail message. * The cause is not initialized, and may subsequently be initialized by a * call to {@link #initCause}. * * &lt;p&gt;The {@link #fillInStackTrace()} method is called to initialize * the stack trace data in the newly created throwable." />
-      <item value="get Last Accessed Time" />
-      <item value="get Max Inactive Interval" />
-      <item value="is read committed snapshot on" />
-      <item value="ALLOW SNAPSHOT ISOLATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2878" />
-        <entry key="ENGLISH" value="2929" />
-        <entry key="FRENCH" value="39" />
+        <entry key="CHINESE" value="2889" />
+        <entry key="ENGLISH" value="2938" />
+        <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
       </map>
