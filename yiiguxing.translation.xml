@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authentication Processing Filter" />
+      <item value="Authentication" />
+      <item value="sys Admin Thread Monitor Filter" />
       <item value="criteria" />
       <item value="criterion" />
       <item value="sys" />
@@ -48,14 +51,11 @@
       <item value="'Delete' statement without 'where' clears all data in the table" />
       <item value="Unsafe query: 'Delete' statement without 'where' clears all data in the table" />
       <item value="kind" />
-      <item value="never" />
-      <item value="Heap Dump On Out Of Memory Error" />
-      <item value="prefer I Pv 4 Stack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2919" />
-        <entry key="ENGLISH" value="2966" />
+        <entry key="CHINESE" value="2922" />
+        <entry key="ENGLISH" value="2969" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
