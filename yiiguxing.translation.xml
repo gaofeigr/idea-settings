@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reporter" />
       <item value="slow" />
       <item value="Content is not allowed in prolog" />
       <item value="NETTY CLIENT PIPELINE" />
@@ -50,12 +51,11 @@
       <item value="2048" />
       <item value="Exception" />
       <item value="push Reading Record" />
-      <item value="fd Template Edition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2909" />
-        <entry key="ENGLISH" value="2956" />
+        <entry key="CHINESE" value="2910" />
+        <entry key="ENGLISH" value="2957" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
