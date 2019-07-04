@@ -12,5 +12,6 @@
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>version.xml</mask>
+    <mask>plugin.xml</mask>
   </component>
 </application>
