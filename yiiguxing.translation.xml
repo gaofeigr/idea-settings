@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="criteria" />
+      <item value="criterion" />
+      <item value="sys" />
+      <item value="person" />
+      <item value="available All" />
       <item value="is Org Visible Enable" />
       <item value="DIALOG READER" />
-      <item value="available All" />
       <item value="reporter" />
       <item value="slow" />
       <item value="Content is not allowed in prolog" />
@@ -47,15 +51,11 @@
       <item value="never" />
       <item value="Heap Dump On Out Of Memory Error" />
       <item value="prefer I Pv 4 Stack" />
-      <item value="use Canon Caches" />
-      <item value="Use Conc Mark Sweep GC" />
-      <item value="Soft Ref LRU Policy MS Per MB" />
-      <item value="Reserved Code Cache Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2913" />
-        <entry key="ENGLISH" value="2960" />
+        <entry key="CHINESE" value="2919" />
+        <entry key="ENGLISH" value="2966" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
