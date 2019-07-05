@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release" />
       <item value="max Elements In Memory" />
       <item value="authentication Processing Filter" />
       <item value="Authentication" />
@@ -50,7 +51,6 @@
       <item value="Sys Form Fragment Set Category" />
       <item value="'Delete' statement without 'where' clears all data in the table" />
       <item value="Unsafe query: 'Delete' statement without 'where' clears all data in the table" />
-      <item value="kind" />
     </histories>
     <option name="languageScores">
       <map>
