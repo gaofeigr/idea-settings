@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mounted" />
+      <item value="no space left on device" />
       <item value="RMI TCP Connection(2)-127.0.0.1" />
       <item value="backup" />
       <item value="gateway" />
@@ -49,8 +51,6 @@
       <item value="bootstrap" />
       <item value="report" />
       <item value="auth Fixed Reader Filter" />
-      <item value="base 64 Encodex" />
-      <item value="TEMPLATE_SUBFORM cannot be resolved or is not a field" />
     </histories>
     <option name="languageScores">
       <map>
