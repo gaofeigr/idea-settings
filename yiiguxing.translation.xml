@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fragment Set Update Worker" />
       <item value="I Core Outer Service" />
       <item value="offer" />
       <item value="亚洲" />
@@ -50,12 +51,11 @@
       <item value="multicast Group Address" />
       <item value="overflow To Disk" />
       <item value="time To Idle Seconds" />
-      <item value="eternal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2931" />
-        <entry key="ENGLISH" value="2979" />
+        <entry key="CHINESE" value="2932" />
+        <entry key="ENGLISH" value="2980" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
