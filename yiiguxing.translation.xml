@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interceptor" />
       <item value="issues" />
       <item value="Cannot reactivate, offline seat in use. Click Work online in JRebel configuration to return offline seat." />
       <item value="Fragment Set Update Worker" />
@@ -50,12 +51,11 @@
       <item value="manual" />
       <item value="time To Live" />
       <item value="multicast Group Port" />
-      <item value="multicast Group Address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2933" />
-        <entry key="ENGLISH" value="2981" />
+        <entry key="CHINESE" value="2934" />
+        <entry key="ENGLISH" value="2982" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
