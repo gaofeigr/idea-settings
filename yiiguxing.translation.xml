@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="failure" />
+      <item value="fatal" />
       <item value="exec Generate" />
       <item value="interceptor" />
       <item value="issues" />
@@ -49,8 +51,6 @@
       <item value="index Schema Cache" />
       <item value="Sample cache named sampleCache2 This cache contains 1000 elements. Elements will always be held in memory. They are not expired." />
       <item value="update Fragment" />
-      <item value="manual" />
-      <item value="time To Live" />
     </histories>
     <option name="languageScores">
       <map>
