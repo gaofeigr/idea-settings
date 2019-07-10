@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Heartbeat To All Worker" />
+      <item value="sendHeartbeatToAllWorker" />
+      <item value="all worker server downtime!" />
       <item value="Dict" />
       <item value="clear Entity" />
       <item value="clear Dict" />
@@ -48,9 +51,6 @@
       <item value="cache Manager Peer Provider Factory" />
       <item value="disk Persistent" />
       <item value="max Elements On Disk" />
-      <item value="disk Store" />
-      <item value="Cache for MessageSubscriber" />
-      <item value="Place other configurations following" />
     </histories>
     <option name="languageScores">
       <map>
