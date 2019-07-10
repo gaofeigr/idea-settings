@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dict" />
+      <item value="clear Entity" />
+      <item value="clear Dict" />
       <item value="failure" />
       <item value="fatal" />
       <item value="exec Generate" />
@@ -48,14 +51,11 @@
       <item value="disk Store" />
       <item value="Cache for MessageSubscriber" />
       <item value="Place other configurations following" />
-      <item value="index Schema Cache" />
-      <item value="Sample cache named sampleCache2 This cache contains 1000 elements. Elements will always be held in memory. They are not expired." />
-      <item value="update Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2935" />
-        <entry key="ENGLISH" value="2983" />
+        <entry key="CHINESE" value="2938" />
+        <entry key="ENGLISH" value="2986" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
