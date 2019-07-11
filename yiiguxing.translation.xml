@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Target Url Content Acquirer" />
       <item value="NETTY SERVER PIPELINE: IDLE exception [127.0.0.1:54629]" />
       <item value="send Heartbeat To All Worker" />
       <item value="sendHeartbeatToAllWorker" />
@@ -50,12 +51,11 @@
       <item value="memory Store Eviction Policy" />
       <item value="Could not create disk store. Initial cause was null" />
       <item value="cache Manager Peer Provider Factory" />
-      <item value="disk Persistent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2939" />
-        <entry key="ENGLISH" value="2987" />
+        <entry key="CHINESE" value="2940" />
+        <entry key="ENGLISH" value="2988" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
