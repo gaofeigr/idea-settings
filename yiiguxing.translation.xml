@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Netty" />
       <item value="NETTY CLIENT PIPELINE: IDLE exception [172.24.176.218:7800]" />
       <item value="unable to find valid certification path to requested target" />
       <item value="NETTY SERVER PIPELINE: exception Caught exception." />
       <item value="NETTY SERVER PIPELINE: exceptionCaught exception." />
-      <item value="Netty" />
       <item value="Target Url Content Acquirer" />
       <item value="NETTY SERVER PIPELINE: IDLE exception [127.0.0.1:54629]" />
       <item value="send Heartbeat To All Worker" />
