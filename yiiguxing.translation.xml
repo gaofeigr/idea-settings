@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NETTY CLIENT PIPELINE: IDLE exception [172.24.176.218:7800]" />
+      <item value="unable to find valid certification path to requested target" />
       <item value="NETTY SERVER PIPELINE: exception Caught exception." />
       <item value="NETTY SERVER PIPELINE: exceptionCaught exception." />
       <item value="Netty" />
@@ -49,13 +51,11 @@
       <item value="Content is not allowed in prolog" />
       <item value="NETTY CLIENT PIPELINE" />
       <item value="IDLE exception" />
-      <item value="PKIX path building failed" />
-      <item value="disk Expiry Thread Interval Seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2941" />
-        <entry key="ENGLISH" value="2989" />
+        <entry key="CHINESE" value="2942" />
+        <entry key="ENGLISH" value="2990" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
