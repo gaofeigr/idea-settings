@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation " />
+      <item value="Unexpected update count received" />
+      <item value=". All changes will be rolled back." />
+      <item value="Data Integrity Violation Exception" />
+      <item value="DataIntegrityViolationException" />
       <item value="unable to find valid certification path to requested target" />
       <item value="Netty" />
       <item value="NETTY CLIENT PIPELINE: IDLE exception [172.24.176.218:7800]" />
@@ -46,16 +51,11 @@
       <item value="available All" />
       <item value="is Org Visible Enable" />
       <item value="DIALOG READER" />
-      <item value="reporter" />
-      <item value="slow" />
-      <item value="Content is not allowed in prolog" />
-      <item value="NETTY CLIENT PIPELINE" />
-      <item value="IDLE exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2943" />
-        <entry key="ENGLISH" value="2991" />
+        <entry key="CHINESE" value="2945" />
+        <entry key="ENGLISH" value="2993" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
