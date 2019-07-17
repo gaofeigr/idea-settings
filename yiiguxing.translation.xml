@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="january" />
       <item value="not in [ 0,349 ]." />
       <item value="QRCode content bytes length" />
       <item value="Data truncation " />
@@ -50,7 +51,6 @@
       <item value="criterion" />
       <item value="sys" />
       <item value="person" />
-      <item value="available All" />
     </histories>
     <option name="languageScores">
       <map>
