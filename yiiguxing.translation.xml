@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simsun" />
+      <item value="stop Propagation" />
+      <item value="coor" />
+      <item value="transparent" />
       <item value="Cell Range Address" />
       <item value="opacity" />
       <item value="Misty Rose" />
@@ -13,7 +17,6 @@
       <item value="玩不人员" />
       <item value="external" />
       <item value="外部" />
-      <item value="coor" />
       <item value="copy Clipboard" />
       <item value="copyclipboard" />
       <item value="copy 2 clipboard" />
@@ -48,15 +51,12 @@
       <item value="interceptor" />
       <item value="issues" />
       <item value="Cannot reactivate, offline seat in use. Click Work online in JRebel configuration to return offline seat." />
-      <item value="Fragment Set Update Worker" />
-      <item value="I Core Outer Service" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2958" />
-        <entry key="ENGLISH" value="3009" />
-        <entry key="FRENCH" value="41" />
+        <entry key="CHINESE" value="2962" />
+        <entry key="ENGLISH" value="3012" />
+        <entry key="FRENCH" value="42" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
       </map>
