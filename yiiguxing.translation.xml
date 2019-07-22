@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
+      <item value="abord" />
+      <item value="insiders" />
       <item value="simsun" />
       <item value="stop Propagation" />
       <item value="coor" />
@@ -8,14 +11,11 @@
       <item value="Cell Range Address" />
       <item value="opacity" />
       <item value="Misty Rose" />
-      <item value="abord" />
       <item value="selected" />
       <item value="选中" />
-      <item value="insiders" />
       <item value="内部人员" />
       <item value="外部人员" />
       <item value="玩不人员" />
-      <item value="external" />
       <item value="外部" />
       <item value="copy Clipboard" />
       <item value="copyclipboard" />
@@ -54,9 +54,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2962" />
-        <entry key="ENGLISH" value="3012" />
-        <entry key="FRENCH" value="42" />
+        <entry key="CHINESE" value="2966" />
+        <entry key="ENGLISH" value="3014" />
+        <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
       </map>
