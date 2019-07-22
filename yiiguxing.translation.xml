@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opacity" />
       <item value="Misty Rose" />
       <item value="abord" />
       <item value="selected" />
@@ -50,12 +51,11 @@
       <item value="I Core Outer Service" />
       <item value="offer" />
       <item value="亚洲" />
-      <item value=" unrecognized arguments:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2956" />
-        <entry key="ENGLISH" value="3007" />
+        <entry key="CHINESE" value="2957" />
+        <entry key="ENGLISH" value="3008" />
         <entry key="FRENCH" value="41" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="4" />
