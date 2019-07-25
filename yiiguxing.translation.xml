@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: java.net.ConnectException: Connection refused: no further information" />
+      <item value="SecurityContextHolder set to new context, as request processing completed" />
+      <item value="Public object - authentication not attempted" />
+      <item value="Obtained from ACEGI_SECURITY_CONTEXT a valid SecurityContext and set to SecurityContextHolder" />
+      <item value="Chain processed normally" />
       <item value="Matsu'o Tsurayaba" />
       <item value="revert" />
       <item value="profiler" />
@@ -46,16 +51,11 @@
       <item value="NETTY SERVER PIPELINE: exceptionCaught exception." />
       <item value="Target Url Content Acquirer" />
       <item value="NETTY SERVER PIPELINE: IDLE exception [127.0.0.1:54629]" />
-      <item value="send Heartbeat To All Worker" />
-      <item value="sendHeartbeatToAllWorker" />
-      <item value="all worker server downtime!" />
-      <item value="Dict" />
-      <item value="clear Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2968" />
-        <entry key="ENGLISH" value="3015" />
+        <entry key="CHINESE" value="2977" />
+        <entry key="ENGLISH" value="3024" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
