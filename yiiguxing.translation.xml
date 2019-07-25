@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Complete" />
       <item value="Caused by: java.net.ConnectException: Connection refused: no further information" />
       <item value="SecurityContextHolder set to new context, as request processing completed" />
       <item value="Public object - authentication not attempted" />
@@ -50,12 +51,11 @@
       <item value="NETTY SERVER PIPELINE: exception Caught exception." />
       <item value="NETTY SERVER PIPELINE: exceptionCaught exception." />
       <item value="Target Url Content Acquirer" />
-      <item value="NETTY SERVER PIPELINE: IDLE exception [127.0.0.1:54629]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2977" />
-        <entry key="ENGLISH" value="3024" />
+        <entry key="CHINESE" value="2978" />
+        <entry key="ENGLISH" value="3025" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
