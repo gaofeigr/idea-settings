@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chairman" />
+      <item value="董事长" />
+      <item value="chair" />
       <item value="dependencies" />
       <item value="unmapped" />
       <item value="Custom Join Strategy" />
@@ -48,14 +51,11 @@
       <item value="Data truncation " />
       <item value="Unexpected update count received" />
       <item value=". All changes will be rolled back." />
-      <item value="Data Integrity Violation Exception" />
-      <item value="DataIntegrityViolationException" />
-      <item value="unable to find valid certification path to requested target" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2982" />
-        <entry key="ENGLISH" value="3029" />
+        <entry key="ENGLISH" value="3030" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
