@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPAGATION REQUIRES NEW" />
+      <item value="Quartz" />
       <item value="quartz" />
       <item value="sync Erp Data To Oa" />
       <item value="sync Erp Data To OA" />
@@ -49,13 +51,11 @@
       <item value="acquire String" />
       <item value="start Or Stop Flow" />
       <item value="token" />
-      <item value="january" />
-      <item value="not in [ 0,349 ]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2986" />
-        <entry key="ENGLISH" value="3034" />
+        <entry key="CHINESE" value="2988" />
+        <entry key="ENGLISH" value="3036" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
