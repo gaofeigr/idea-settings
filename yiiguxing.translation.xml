@@ -1,8 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Creation Date Time" />
+      <item value="NON MRP PLANNED" />
+      <item value="Safety Stock Quantity" />
+      <item value="Customer Order Flag" />
+      <item value="Customer Order Enabled Flag" />
+      <item value="Default Buyer Value" />
+      <item value="Buyer Organization Value" />
+      <item value="Unit Of Issue" />
+      <item value="Unit Of Issue Value" />
+      <item value="Unit Weight Quantity" />
+      <item value="Unit" />
+      <item value="Unit Volume Quantity" />
+      <item value="Tracking Unitof Measure" />
+      <item value="Secondary Unitof Measure Value" />
+      <item value="Primary" />
+      <item value="Receiving" />
       <item value="Receiving Routing Id" />
+      <item value="Creation Date Time" />
       <item value="Sales SIN" />
       <item value="Planning Make Buy Code" />
       <item value="Inventory Planning Code" />
@@ -36,26 +51,11 @@
       <item value="dependencies" />
       <item value="unmapped" />
       <item value="Custom Join Strategy" />
-      <item value="get Strategy" />
-      <item value="Strategy" />
-      <item value="is Complete" />
-      <item value="Caused by: java.net.ConnectException: Connection refused: no further information" />
-      <item value="SecurityContextHolder set to new context, as request processing completed" />
-      <item value="Public object - authentication not attempted" />
-      <item value="Obtained from ACEGI_SECURITY_CONTEXT a valid SecurityContext and set to SecurityContextHolder" />
-      <item value="Chain processed normally" />
-      <item value="Matsu'o Tsurayaba" />
-      <item value="revert" />
-      <item value="profiler" />
-      <item value="is Encrypt Enabled" />
-      <item value="ring" />
-      <item value="Token " />
-      <item value="One million Dollars ($1,000,000.00 dollars) has been donated to you  by Manuel Franco who won the Powerball Jackpot of $768.4 million  Dollars in April, 2019. Contact him via Email: sms6025@att.net  for more details " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3018" />
-        <entry key="ENGLISH" value="3066" />
+        <entry key="CHINESE" value="3035" />
+        <entry key="ENGLISH" value="3083" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
