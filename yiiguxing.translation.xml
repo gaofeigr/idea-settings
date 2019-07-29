@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="PROPAGATION REQUIRES NEW" />
+      <item value="No bean class specified on bean definition" />
       <item value="Quartz" />
       <item value="quartz" />
       <item value="sync Erp Data To Oa" />
@@ -50,12 +51,11 @@
       <item value="Import Response Wrapper" />
       <item value="acquire String" />
       <item value="start Or Stop Flow" />
-      <item value="token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2988" />
-        <entry key="ENGLISH" value="3036" />
+        <entry key="CHINESE" value="2991" />
+        <entry key="ENGLISH" value="3039" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
