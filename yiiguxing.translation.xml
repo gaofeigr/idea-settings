@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quartz" />
+      <item value="sync Erp Data To Oa" />
+      <item value="sync Erp Data To OA" />
+      <item value="sync Data" />
       <item value="Chairman" />
       <item value="董事长" />
       <item value="chair" />
@@ -47,15 +51,11 @@
       <item value="token" />
       <item value="january" />
       <item value="not in [ 0,349 ]." />
-      <item value="QRCode content bytes length" />
-      <item value="Data truncation " />
-      <item value="Unexpected update count received" />
-      <item value=". All changes will be rolled back." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2982" />
-        <entry key="ENGLISH" value="3030" />
+        <entry key="CHINESE" value="2986" />
+        <entry key="ENGLISH" value="3034" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="5" />
