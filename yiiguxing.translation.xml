@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inbound Quantity" />
+      <item value="InboundQuantity" />
       <item value="ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
       <item value="synonymplugin" />
       <item value="[Angel Face] loaded [synonymplugin, Custom Update Plugin, ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin], sites []" />
@@ -49,8 +51,6 @@
       <item value="sync Erp Data To OA" />
       <item value="sync Data" />
       <item value="Chairman" />
-      <item value="董事长" />
-      <item value="chair" />
     </histories>
     <option name="languageScores">
       <map>
