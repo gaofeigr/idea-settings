@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PERSON" />
+      <item value="except" />
       <item value="auth All Editors" />
       <item value="Deprecated" />
       <item value="常量" />
@@ -49,13 +51,11 @@
       <item value="offset" />
       <item value="I Yunding Goods Stuff Service" />
       <item value="I Yunding Goods Peg Service" />
-      <item value="transparent native-to-ascii conversion" />
-      <item value="PROPAGATION REQUIRES NEW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3043" />
-        <entry key="ENGLISH" value="3092" />
+        <entry key="CHINESE" value="3045" />
+        <entry key="ENGLISH" value="3094" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
