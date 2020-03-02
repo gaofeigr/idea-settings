@@ -1,15 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rectangle" />
+      <item value="get Translate X" />
+      <item value="the specified Y coordinate" />
+      <item value="the specified X coordinate" />
+      <item value="are specified by the arguments of the same name." />
+      <item value="and whose width and height" />
+      <item value="specified as" />
+      <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is" />
+      <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is * specified as" />
       <item value="extract Regions" />
       <item value="get Text For Region" />
-      <item value="Rectangle" />
+      <item value="set Sort By Position" />
       <item value="add Region" />
       <item value="decrypt" />
       <item value="set Line Separator" />
       <item value="PDF Text Stripper By Area" />
       <item value="set Word Separator" />
-      <item value="set Sort By Position" />
       <item value="Open for reading and writing, as with &lt;tt&gt;&quot;rw&quot;&lt;/tt&gt;, and also * require that every update to the file's content or metadata be * written synchronously to the underlying storage device." />
       <item value="Open for reading only. Invoking any of the &lt;tt&gt;write&lt;/tt&gt; * methods of the resulting object will cause an {" />
       <item value="Open for reading and writing. If the file does not already * exist then an attempt will be made to create it." />
@@ -43,19 +51,11 @@
       <item value="Primary" />
       <item value="Receiving" />
       <item value="Receiving Routing Id" />
-      <item value="Creation Date Time" />
-      <item value="Sales SIN" />
-      <item value="Planning Make Buy Code" />
-      <item value="Inventory Planning Code" />
-      <item value="SO Authorization Code" />
-      <item value="VMI Forecast Type" />
-      <item value="MRP Planning Code" />
-      <item value="Planning Time Fence Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3059" />
-        <entry key="ENGLISH" value="3108" />
+        <entry key="CHINESE" value="3073" />
+        <entry key="ENGLISH" value="3122" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
