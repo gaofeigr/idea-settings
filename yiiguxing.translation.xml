@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="basic" />
+      <item value="base X" />
+      <item value="add Use Water Rectangle" />
       <item value="user Name Rect" />
       <item value="user Num Rect" />
       <item value="title Rect" />
@@ -48,14 +51,11 @@
       <item value="InboundQuantity" />
       <item value="ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
       <item value="synonymplugin" />
-      <item value="[Angel Face] loaded [synonymplugin, Custom Update Plugin, ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin], sites []" />
-      <item value="NON MRP PLANNED" />
-      <item value="Safety Stock Quantity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3091" />
-        <entry key="ENGLISH" value="3141" />
+        <entry key="CHINESE" value="3094" />
+        <entry key="ENGLISH" value="3144" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
