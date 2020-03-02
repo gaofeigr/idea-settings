@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type" />
+      <item value="get Cell Position By Num Y" />
       <item value="first_" />
       <item value="cell" />
       <item value="first cell x" />
@@ -49,13 +51,11 @@
       <item value="Customer Order Enabled Flag" />
       <item value="Default Buyer Value" />
       <item value="Buyer Organization Value" />
-      <item value="Unit Of Issue" />
-      <item value="Unit Of Issue Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3083" />
-        <entry key="ENGLISH" value="3133" />
+        <entry key="CHINESE" value="3085" />
+        <entry key="ENGLISH" value="3135" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
