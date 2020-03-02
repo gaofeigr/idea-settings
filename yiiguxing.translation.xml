@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Open for reading and writing, as with &lt;tt&gt;&quot;rw&quot;&lt;/tt&gt;, and also * require that every update to the file's content or metadata be * written synchronously to the underlying storage device." />
+      <item value="Open for reading only. Invoking any of the &lt;tt&gt;write&lt;/tt&gt; * methods of the resulting object will cause an {" />
+      <item value="Open for reading and writing. If the file does not already * exist then an attempt will be made to create it." />
       <item value="PERSON" />
       <item value="except" />
       <item value="auth All Editors" />
@@ -48,14 +51,11 @@
       <item value="Goods Selects" />
       <item value="total" />
       <item value="limit" />
-      <item value="offset" />
-      <item value="I Yunding Goods Stuff Service" />
-      <item value="I Yunding Goods Peg Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3045" />
-        <entry key="ENGLISH" value="3094" />
+        <entry key="CHINESE" value="3048" />
+        <entry key="ENGLISH" value="3097" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
