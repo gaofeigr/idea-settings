@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extract Regions" />
+      <item value="get Text For Region" />
+      <item value="Rectangle" />
+      <item value="add Region" />
+      <item value="decrypt" />
+      <item value="set Line Separator" />
+      <item value="PDF Text Stripper By Area" />
+      <item value="set Word Separator" />
+      <item value="set Sort By Position" />
       <item value="Open for reading and writing, as with &lt;tt&gt;&quot;rw&quot;&lt;/tt&gt;, and also * require that every update to the file's content or metadata be * written synchronously to the underlying storage device." />
       <item value="Open for reading only. Invoking any of the &lt;tt&gt;write&lt;/tt&gt; * methods of the resulting object will cause an {" />
       <item value="Open for reading and writing. If the file does not already * exist then an attempt will be made to create it." />
@@ -42,20 +51,11 @@
       <item value="VMI Forecast Type" />
       <item value="MRP Planning Code" />
       <item value="Planning Time Fence Code" />
-      <item value="Inventory Organization Id" />
-      <item value="Inventory Planning Method Value" />
-      <item value="库存" />
-      <item value="goodes" />
-      <item value="goods" />
-      <item value="good" />
-      <item value="Goods Selects" />
-      <item value="total" />
-      <item value="limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3048" />
-        <entry key="ENGLISH" value="3097" />
+        <entry key="CHINESE" value="3059" />
+        <entry key="ENGLISH" value="3108" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
