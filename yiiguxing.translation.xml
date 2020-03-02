@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="POSITION TITLE" />
+      <item value="常量" />
+      <item value="get Area Position" />
+      <item value="get Position" />
+      <item value="set Sort By Position" />
       <item value="Rectangle" />
       <item value="get Translate X" />
       <item value="the specified Y coordinate" />
@@ -12,7 +17,6 @@
       <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is * specified as" />
       <item value="extract Regions" />
       <item value="get Text For Region" />
-      <item value="set Sort By Position" />
       <item value="add Region" />
       <item value="decrypt" />
       <item value="set Line Separator" />
@@ -25,7 +29,6 @@
       <item value="except" />
       <item value="auth All Editors" />
       <item value="Deprecated" />
-      <item value="常量" />
       <item value="resolve" />
       <item value="Cannot resolve referenc" />
       <item value="cluster" />
@@ -48,14 +51,11 @@
       <item value="Unit Volume Quantity" />
       <item value="Tracking Unitof Measure" />
       <item value="Secondary Unitof Measure Value" />
-      <item value="Primary" />
-      <item value="Receiving" />
-      <item value="Receiving Routing Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3073" />
-        <entry key="ENGLISH" value="3122" />
+        <entry key="CHINESE" value="3078" />
+        <entry key="ENGLISH" value="3128" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
