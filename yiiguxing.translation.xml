@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Region" />
+      <item value="addRegion" />
       <item value="log 10" />
       <item value="sqrt" />
       <item value="cbrt" />
@@ -49,8 +51,6 @@
       <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is" />
       <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is * specified as" />
       <item value="extract Regions" />
-      <item value="get Text For Region" />
-      <item value="add Region" />
     </histories>
     <option name="languageScores">
       <map>
