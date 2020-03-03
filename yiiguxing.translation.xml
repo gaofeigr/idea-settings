@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new Fixed Thread Pool" />
+      <item value="Future" />
+      <item value="range Closed" />
       <item value="multi Threaded Parse Pdf Table Pages" />
       <item value="sorted" />
       <item value="canny L 2 Gradient" />
@@ -48,14 +51,11 @@
       <item value="cbrt" />
       <item value="ceil" />
       <item value="rint" />
-      <item value="floor" />
-      <item value="Sets the location of this point to the specified double coordinates. * The double values will be rounded to integer values. * Any number smaller than &lt;code&gt;Integer.MIN_VALUE&lt;/code&gt; * will be reset to &lt;code&gt;MIN_VALUE&lt;/code&gt;, and any number * larger than &lt;code&gt;Integer.MAX_VALUE&lt;/code&gt; will be * reset to &lt;code&gt;MAX_VALUE&lt;/code&gt;." />
-      <item value="Returns the location of this point. * This method is included for completeness, to parallel the * &lt;code&gt;getLocation&lt;/code&gt; method of &lt;code&gt;Component&lt;/code&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3159" />
-        <entry key="ENGLISH" value="3208" />
+        <entry key="CHINESE" value="3162" />
+        <entry key="ENGLISH" value="3211" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
