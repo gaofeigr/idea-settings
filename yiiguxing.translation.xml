@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="make file" />
       <item value="Unsatisfied Link Error" />
       <item value="MINUTES" />
       <item value="SECONDS" />
@@ -50,7 +51,6 @@
       <item value="TESTPDF Box" />
       <item value="Assert" />
       <item value="single Threaded Parse Pdf Table Pages" />
-      <item value="multi Threaded Save Pdf Table Page Debug Image" />
     </histories>
     <option name="languageScores">
       <map>
