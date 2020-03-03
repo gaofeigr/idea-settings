@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strip Page" />
+      <item value="TESTPDF Box" />
       <item value="Assert" />
       <item value="single Threaded Parse Pdf Table Pages" />
       <item value="multi Threaded Save Pdf Table Page Debug Image" />
@@ -49,13 +51,11 @@
       <item value="set Sort By Position" />
       <item value="get Translate X" />
       <item value="the specified Y coordinate" />
-      <item value="the specified X coordinate" />
-      <item value="are specified by the arguments of the same name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3118" />
-        <entry key="ENGLISH" value="3167" />
+        <entry key="CHINESE" value="3120" />
+        <entry key="ENGLISH" value="3169" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
