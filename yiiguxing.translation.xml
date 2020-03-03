@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the location of this point to the specified double coordinates. * The double values will be rounded to integer values. * Any number smaller than &lt;code&gt;Integer.MIN_VALUE&lt;/code&gt; * will be reset to &lt;code&gt;MIN_VALUE&lt;/code&gt;, and any number * larger than &lt;code&gt;Integer.MAX_VALUE&lt;/code&gt; will be * reset to &lt;code&gt;MAX_VALUE&lt;/code&gt;." />
+      <item value="Returns the location of this point. * This method is included for completeness, to parallel the * &lt;code&gt;getLocation&lt;/code&gt; method of &lt;code&gt;Component&lt;/code&gt;." />
+      <item value="The &lt;code&gt;Point2D&lt;/code&gt; class defines a point representing a location * in {@code (x,y)} coordinate space. * &lt;p&gt; * This class is only the abstract superclass for all objects that * store a 2D coordinate. * The actual storage representation of the coordinates is left to * the subclass." />
+      <item value="The X coordinate of this &lt;code&gt;Point&lt;/code&gt;. * If no X coordinate is set it will default to 0." />
+      <item value="A point representing a location in {@code (x,y)} coordinate space, * specified in integer precision." />
+      <item value="The width of the &lt;code&gt;Rectangle&lt;/code&gt;." />
+      <item value="If the true result had a location that could be represented within * the range of 32-bit integers, but zero dimension along one or both * axes, then the stored dimensions will be zero in those axes." />
+      <item value="Generally this means that the dimension will be clipped independently * to the range of 32-bit integers except that if the location had to be * moved to store it into its pair of 32-bit fields then the dimensions * will be adjusted relative to the &quot;best representation&quot; of the location. * If the true result had a negative dimension and was therefore * non-existant along one or both axes, the stored dimensions will be * negative numbers in those axes." />
+      <item value="The location of the result will be stored into the {@link #x} and * {@link #y} fields by clipping the true result to the nearest 32-bit value. * The values stored into the {@link #width} and {@link #height} dimension * fields will be chosen as the 32-bit values that encompass the largest * part of the true result as possible." />
+      <item value="part of the true result as possible." />
+      <item value="This class uses 32-bit integers to store its location and dimensions. * Frequently operations may produce a result that exceeds the range of * a 32-bit integer. * The methods will calculate their results in a way that avoids any * 32-bit overflow for intermediate results and then choose the best * representation to store the final results back into the 32-bit fields * which hold the location and dimensions." />
+      <item value="axes, then the stored dimensions will be zero in those axes." />
       <item value="小写" />
       <item value="basic" />
       <item value="base X" />
@@ -39,23 +51,11 @@
       <item value="set Word Separator" />
       <item value="Open for reading and writing, as with &lt;tt&gt;&quot;rw&quot;&lt;/tt&gt;, and also * require that every update to the file's content or metadata be * written synchronously to the underlying storage device." />
       <item value="Open for reading only. Invoking any of the &lt;tt&gt;write&lt;/tt&gt; * methods of the resulting object will cause an {" />
-      <item value="Open for reading and writing. If the file does not already * exist then an attempt will be made to create it." />
-      <item value="PERSON" />
-      <item value="except" />
-      <item value="auth All Editors" />
-      <item value="Deprecated" />
-      <item value="resolve" />
-      <item value="Cannot resolve referenc" />
-      <item value="cluster" />
-      <item value="doc Thumb" />
-      <item value="Inbound Quantity" />
-      <item value="InboundQuantity" />
-      <item value="ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3094" />
-        <entry key="ENGLISH" value="3145" />
+        <entry key="CHINESE" value="3106" />
+        <entry key="ENGLISH" value="3157" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
