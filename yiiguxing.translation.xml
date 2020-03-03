@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canny L 2 Gradient" />
+      <item value="debug Filename" />
+      <item value="debug File Output Dir" />
+      <item value="debug Images" />
+      <item value="approx Dist Scale Factor" />
+      <item value="canny Aperture Size" />
+      <item value="canny Threshold 1" />
+      <item value="CANNY FILTER SETTINGS" />
+      <item value="BINARY INVERTED THRESHOLD SETTINGS" />
+      <item value="bit Max Val" />
+      <item value="bit Threshold" />
+      <item value="false" />
+      <item value="canny Filtering" />
+      <item value="pdf Rendering Dpi" />
+      <item value="DEFAULT PDF DPI" />
       <item value="get Dpi Ratio" />
       <item value="group Rectangles By Row" />
       <item value="rectangles" />
@@ -36,26 +51,11 @@
       <item value="Returns the location of this point. * This method is included for completeness, to parallel the * &lt;code&gt;getLocation&lt;/code&gt; method of &lt;code&gt;Component&lt;/code&gt;." />
       <item value="The &lt;code&gt;Point2D&lt;/code&gt; class defines a point representing a location * in {@code (x,y)} coordinate space. * &lt;p&gt; * This class is only the abstract superclass for all objects that * store a 2D coordinate. * The actual storage representation of the coordinates is left to * the subclass." />
       <item value="The X coordinate of this &lt;code&gt;Point&lt;/code&gt;. * If no X coordinate is set it will default to 0." />
-      <item value="A point representing a location in {@code (x,y)} coordinate space, * specified in integer precision." />
-      <item value="The width of the &lt;code&gt;Rectangle&lt;/code&gt;." />
-      <item value="If the true result had a location that could be represented within * the range of 32-bit integers, but zero dimension along one or both * axes, then the stored dimensions will be zero in those axes." />
-      <item value="Generally this means that the dimension will be clipped independently * to the range of 32-bit integers except that if the location had to be * moved to store it into its pair of 32-bit fields then the dimensions * will be adjusted relative to the &quot;best representation&quot; of the location. * If the true result had a negative dimension and was therefore * non-existant along one or both axes, the stored dimensions will be * negative numbers in those axes." />
-      <item value="The location of the result will be stored into the {@link #x} and * {@link #y} fields by clipping the true result to the nearest 32-bit value. * The values stored into the {@link #width} and {@link #height} dimension * fields will be chosen as the 32-bit values that encompass the largest * part of the true result as possible." />
-      <item value="part of the true result as possible." />
-      <item value="This class uses 32-bit integers to store its location and dimensions. * Frequently operations may produce a result that exceeds the range of * a 32-bit integer. * The methods will calculate their results in a way that avoids any * 32-bit overflow for intermediate results and then choose the best * representation to store the final results back into the 32-bit fields * which hold the location and dimensions." />
-      <item value="axes, then the stored dimensions will be zero in those axes." />
-      <item value="小写" />
-      <item value="basic" />
-      <item value="base X" />
-      <item value="add Use Water Rectangle" />
-      <item value="user Name Rect" />
-      <item value="user Num Rect" />
-      <item value="title Rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3140" />
-        <entry key="ENGLISH" value="3189" />
+        <entry key="CHINESE" value="3156" />
+        <entry key="ENGLISH" value="3205" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
