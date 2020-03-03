@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dpi Ratio" />
+      <item value="group Rectangles By Row" />
+      <item value="rectangles" />
+      <item value="Rect" />
+      <item value="Applies series of filters on page image and extracts table cells bounding rectangles. * Additionally dumps debug PNG images when settings.hasDebugImages() is true." />
+      <item value="s series of filters on page image and extracts table cells bounding rectangles. * Additionally dumps debug PNG images when settings.hasDebugImages() is true." />
+      <item value="get Table Bounding Rectangles" />
+      <item value="Converts BufferedImage to grayscaled OpenCV Mat." />
+      <item value="Parses single PDF page and returns list of rows containing cell texts." />
+      <item value="Parses range of PDF pages and returns list of lists of rows containing cell texts." />
       <item value="java.lang.UnsatisfiedLinkError: C:\Windows\System32\opencv_java341.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform" />
       <item value="opencv java 401" />
       <item value="Unsatisfied Link Error" />
@@ -41,21 +51,11 @@
       <item value="user Name Rect" />
       <item value="user Num Rect" />
       <item value="title Rect" />
-      <item value="Rectangle" />
-      <item value="Position Constant" />
-      <item value="type" />
-      <item value="get Cell Position By Num Y" />
-      <item value="first_" />
-      <item value="cell" />
-      <item value="first cell x" />
-      <item value="单元格" />
-      <item value="BASIC HEIGHT" />
-      <item value="POSITION TITLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3128" />
-        <entry key="ENGLISH" value="3177" />
+        <entry key="CHINESE" value="3140" />
+        <entry key="ENGLISH" value="3189" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
