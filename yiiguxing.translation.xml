@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MINUTES" />
+      <item value="SECONDS" />
+      <item value="Time Unit" />
+      <item value="WAITING" />
+      <item value="socket Read" />
+      <item value="socket Read 0" />
+      <item value="RUNNABLE" />
       <item value="跳出" />
       <item value="开关" />
       <item value="new Fixed Thread Pool" />
@@ -44,18 +51,11 @@
       <item value="Assert" />
       <item value="single Threaded Parse Pdf Table Pages" />
       <item value="multi Threaded Save Pdf Table Page Debug Image" />
-      <item value="single Threaded Save Pdf Table Page Debug Image" />
-      <item value="multi Threaded Save Pdf Page As PNG" />
-      <item value="add Region" />
-      <item value="addRegion" />
-      <item value="log 10" />
-      <item value="sqrt" />
-      <item value="cbrt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3162" />
-        <entry key="ENGLISH" value="3212" />
+        <entry key="CHINESE" value="3169" />
+        <entry key="ENGLISH" value="3219" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
