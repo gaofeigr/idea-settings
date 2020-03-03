@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Link Error" />
       <item value="MINUTES" />
       <item value="SECONDS" />
       <item value="Time Unit" />
@@ -42,7 +43,6 @@
       <item value="Parses range of PDF pages and returns list of lists of rows containing cell texts." />
       <item value="java.lang.UnsatisfiedLinkError: C:\Windows\System32\opencv_java341.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform" />
       <item value="opencv java 401" />
-      <item value="Unsatisfied Link Error" />
       <item value="Avoid this line in all extracted pages. LineIdx can be negative number," />
       <item value="except Line" />
       <item value="except Page" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3169" />
-        <entry key="ENGLISH" value="3219" />
+        <entry key="CHINESE" value="3170" />
+        <entry key="ENGLISH" value="3220" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
