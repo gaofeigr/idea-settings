@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multi Threaded Parse Pdf Table Pages" />
+      <item value="sorted" />
       <item value="canny L 2 Gradient" />
       <item value="debug Filename" />
       <item value="debug File Output Dir" />
@@ -49,13 +51,11 @@
       <item value="floor" />
       <item value="Sets the location of this point to the specified double coordinates. * The double values will be rounded to integer values. * Any number smaller than &lt;code&gt;Integer.MIN_VALUE&lt;/code&gt; * will be reset to &lt;code&gt;MIN_VALUE&lt;/code&gt;, and any number * larger than &lt;code&gt;Integer.MAX_VALUE&lt;/code&gt; will be * reset to &lt;code&gt;MAX_VALUE&lt;/code&gt;." />
       <item value="Returns the location of this point. * This method is included for completeness, to parallel the * &lt;code&gt;getLocation&lt;/code&gt; method of &lt;code&gt;Component&lt;/code&gt;." />
-      <item value="The &lt;code&gt;Point2D&lt;/code&gt; class defines a point representing a location * in {@code (x,y)} coordinate space. * &lt;p&gt; * This class is only the abstract superclass for all objects that * store a 2D coordinate. * The actual storage representation of the coordinates is left to * the subclass." />
-      <item value="The X coordinate of this &lt;code&gt;Point&lt;/code&gt;. * If no X coordinate is set it will default to 0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3156" />
-        <entry key="ENGLISH" value="3205" />
+        <entry key="CHINESE" value="3159" />
+        <entry key="ENGLISH" value="3208" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
