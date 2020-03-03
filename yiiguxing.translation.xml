@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assert" />
+      <item value="single Threaded Parse Pdf Table Pages" />
+      <item value="multi Threaded Save Pdf Table Page Debug Image" />
+      <item value="single Threaded Save Pdf Table Page Debug Image" />
+      <item value="multi Threaded Save Pdf Page As PNG" />
       <item value="add Region" />
       <item value="addRegion" />
       <item value="log 10" />
@@ -46,16 +51,11 @@
       <item value="the specified Y coordinate" />
       <item value="the specified X coordinate" />
       <item value="are specified by the arguments of the same name." />
-      <item value="and whose width and height" />
-      <item value="specified as" />
-      <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is" />
-      <item value="Constructs a new &lt;code&gt;Rectangle&lt;/code&gt; whose upper-left corner is * specified as" />
-      <item value="extract Regions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3113" />
-        <entry key="ENGLISH" value="3162" />
+        <entry key="CHINESE" value="3118" />
+        <entry key="ENGLISH" value="3167" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
