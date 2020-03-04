@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="points" />
+      <item value="bounding Rect" />
+      <item value="Mat Of Point 2 f" />
+      <item value="data Addr" />
+      <item value="native Obj" />
+      <item value="_channels" />
+      <item value="_depth" />
+      <item value="n cols" />
+      <item value="method" />
+      <item value="mode" />
+      <item value="hierarchy" />
+      <item value="contours" />
+      <item value="image" />
+      <item value="has Canny L 2 Gradient" />
+      <item value="get Canny Aperture Size" />
+      <item value="xored" />
+      <item value="contours 2" />
+      <item value="Mat" />
+      <item value="RETR EXTERNAL" />
+      <item value="CHAIN APPROX SIMPLE" />
       <item value="MORPH RECT" />
       <item value="dst" />
       <item value="src" />
@@ -29,33 +49,13 @@
       <item value="canny Filtering" />
       <item value="ADAPTIVE THRESH GAUSSIAN C" />
       <item value="binary inverted threshold" />
-      <item value="contours" />
       <item value="contour" />
       <item value="find Contours" />
-      <item value="DEFAULT PDF DPI" />
-      <item value="pdf Rendering Dpi" />
-      <item value="bit Threshold" />
-      <item value="bit Max Val" />
-      <item value="approx Dist Scale Factor" />
-      <item value="debug File Output Dir" />
-      <item value="debug Images" />
-      <item value="canny L 2 Gradient" />
-      <item value="canny Threshold 1" />
-      <item value="canny Threshold 2" />
-      <item value="canny Aperture Size" />
-      <item value="has Canny L 2 Gradient" />
-      <item value="get Canny Aperture Size" />
-      <item value="CHAIN APPROX SIMPLE" />
-      <item value="RETR EXTERNAL" />
-      <item value="canny Filter" />
-      <item value="draw Contours" />
-      <item value="bitwise xor" />
-      <item value="Canny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3290" />
-        <entry key="ENGLISH" value="3329" />
+        <entry key="CHINESE" value="3313" />
+        <entry key="ENGLISH" value="3349" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
