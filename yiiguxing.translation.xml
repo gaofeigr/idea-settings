@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="列" />
-      <item value="cell" />
-      <item value="常量" />
-      <item value="统计" />
-      <item value="native" />
-      <item value="Unsatisfied Link Error" />
-      <item value="make file" />
-      <item value="MINUTES" />
-      <item value="SECONDS" />
-      <item value="Time Unit" />
-      <item value="WAITING" />
-      <item value="socket Read" />
-      <item value="socket Read 0" />
-      <item value="RUNNABLE" />
-      <item value="跳出" />
-      <item value="开关" />
-      <item value="new Fixed Thread Pool" />
-      <item value="Future" />
-      <item value="range Closed" />
-      <item value="multi Threaded Parse Pdf Table Pages" />
-      <item value="sorted" />
-      <item value="canny L 2 Gradient" />
-      <item value="debug Filename" />
+      <item value="MORPH RECT" />
+      <item value="dst" />
+      <item value="src" />
+      <item value="maxval" />
+      <item value="thresh" />
+      <item value="get Bit Max Val" />
+      <item value="THRESH TOZERO" />
+      <item value="THRESH TRUNC" />
+      <item value="THRESH BINARY" />
+      <item value="THRESH BINARY INV" />
+      <item value="THRESH TOZERO INV" />
+      <item value="THRESH MASK" />
+      <item value="THRESH OTSU" />
+      <item value="THRESH TRIANGLE" />
+      <item value="ADAPTIVE THRESH MEAN C" />
+      <item value="INTER BITS" />
+      <item value="INTER BITS 2" />
+      <item value="INTER TAB SIZE" />
+      <item value="INTER TAB SIZE 2" />
+      <item value="DIST MASK_3" />
+      <item value="DIST MASK_5" />
+      <item value="DIST MASK PRECISE" />
+      <item value="WARP INVERSE MAP" />
+      <item value="DIST WELSCH" />
+      <item value="DIST HUBER" />
+      <item value="canny Filtering" />
+      <item value="ADAPTIVE THRESH GAUSSIAN C" />
+      <item value="binary inverted threshold" />
+      <item value="contours" />
+      <item value="contour" />
+      <item value="find Contours" />
+      <item value="DEFAULT PDF DPI" />
+      <item value="pdf Rendering Dpi" />
+      <item value="bit Threshold" />
+      <item value="bit Max Val" />
+      <item value="approx Dist Scale Factor" />
       <item value="debug File Output Dir" />
       <item value="debug Images" />
-      <item value="approx Dist Scale Factor" />
-      <item value="canny Aperture Size" />
+      <item value="canny L 2 Gradient" />
       <item value="canny Threshold 1" />
-      <item value="CANNY FILTER SETTINGS" />
-      <item value="BINARY INVERTED THRESHOLD SETTINGS" />
-      <item value="bit Max Val" />
-      <item value="bit Threshold" />
-      <item value="false" />
-      <item value="canny Filtering" />
-      <item value="pdf Rendering Dpi" />
-      <item value="DEFAULT PDF DPI" />
-      <item value="get Dpi Ratio" />
-      <item value="group Rectangles By Row" />
-      <item value="rectangles" />
-      <item value="Rect" />
-      <item value="Applies series of filters on page image and extracts table cells bounding rectangles. * Additionally dumps debug PNG images when settings.hasDebugImages() is true." />
-      <item value="s series of filters on page image and extracts table cells bounding rectangles. * Additionally dumps debug PNG images when settings.hasDebugImages() is true." />
-      <item value="get Table Bounding Rectangles" />
-      <item value="Converts BufferedImage to grayscaled OpenCV Mat." />
-      <item value="Parses single PDF page and returns list of rows containing cell texts." />
-      <item value="Parses range of PDF pages and returns list of lists of rows containing cell texts." />
-      <item value="java.lang.UnsatisfiedLinkError: C:\Windows\System32\opencv_java341.dll: Can't load IA 32-bit .dll on a AMD 64-bit platform" />
-      <item value="opencv java 401" />
-      <item value="Avoid this line in all extracted pages. LineIdx can be negative number," />
-      <item value="except Line" />
+      <item value="canny Threshold 2" />
+      <item value="canny Aperture Size" />
+      <item value="has Canny L 2 Gradient" />
+      <item value="get Canny Aperture Size" />
+      <item value="CHAIN APPROX SIMPLE" />
+      <item value="RETR EXTERNAL" />
+      <item value="canny Filter" />
+      <item value="draw Contours" />
+      <item value="bitwise xor" />
+      <item value="Canny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3173" />
-        <entry key="ENGLISH" value="3226" />
+        <entry key="CHINESE" value="3290" />
+        <entry key="ENGLISH" value="3329" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
