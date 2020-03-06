@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dpi Ratio" />
       <item value="datum" />
       <item value="基准" />
       <item value="标准" />
@@ -50,12 +51,11 @@
       <item value="dst" />
       <item value="src" />
       <item value="maxval" />
-      <item value="thresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3336" />
-        <entry key="ENGLISH" value="3374" />
+        <entry key="CHINESE" value="3337" />
+        <entry key="ENGLISH" value="3375" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
