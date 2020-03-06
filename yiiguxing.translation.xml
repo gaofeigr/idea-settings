@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="datum" />
+      <item value="基准" />
+      <item value="标准" />
+      <item value="左下角" />
+      <item value="下" />
+      <item value="下面" />
+      <item value="单元格" />
+      <item value="sorted Rects" />
+      <item value="Rect" />
       <item value="build Debug Filename" />
       <item value="Reverses the order of the elements in the specified list.&lt;p&gt;" />
       <item value="out" />
@@ -42,20 +51,11 @@
       <item value="src" />
       <item value="maxval" />
       <item value="thresh" />
-      <item value="get Bit Max Val" />
-      <item value="THRESH TOZERO" />
-      <item value="THRESH TRUNC" />
-      <item value="THRESH BINARY" />
-      <item value="THRESH BINARY INV" />
-      <item value="THRESH TOZERO INV" />
-      <item value="THRESH MASK" />
-      <item value="THRESH OTSU" />
-      <item value="THRESH TRIANGLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3334" />
-        <entry key="ENGLISH" value="3369" />
+        <entry key="CHINESE" value="3336" />
+        <entry key="ENGLISH" value="3374" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
