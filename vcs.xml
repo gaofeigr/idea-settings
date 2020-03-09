@@ -34,6 +34,10 @@
           <option name="url" value="https://gitee.com/yzh-team/to_do_tool_system/invite_link?invite=2c68ab91a4e7642e089ab37c1100a1fdd4e1f67c06e89bdeb7993663152babc591d2787fd5511e04e766b0d826817bc9" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/yzh-team/to_do_tool_system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
