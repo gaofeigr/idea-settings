@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request interface" />
+      <item value="target url" />
+      <item value="reception data" />
+      <item value="send data" />
+      <item value="log id" />
+      <item value="status" />
+      <item value="Lan Ding Base Todo" />
+      <item value="Sunriver Base Todo" />
+      <item value="任务ID" />
+      <item value="任务" />
+      <item value="flow" />
       <item value="sunriver" />
       <item value="model" />
       <item value="Base Entity" />
@@ -20,15 +31,11 @@
       <item value="请求接口" />
       <item value="请求" />
       <item value="interface" />
-      <item value="target url" />
       <item value="url send" />
       <item value="data reception" />
-      <item value="reception data" />
       <item value="接收" />
       <item value="data send" />
-      <item value="send data" />
       <item value="data" />
-      <item value="status" />
       <item value="log" />
       <item value="Excel" />
       <item value="druid" />
@@ -44,21 +51,14 @@
       <item value="下" />
       <item value="下面" />
       <item value="单元格" />
-      <item value="sorted Rects" />
-      <item value="Rect" />
-      <item value="build Debug Filename" />
-      <item value="Reverses the order of the elements in the specified list.&lt;p&gt;" />
-      <item value="out" />
-      <item value="reverse" />
-      <item value="bitwise xor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3357" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3367" />
+        <entry key="ENGLISH" value="3405" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="SPANISH" value="6" />
+        <entry key="SPANISH" value="8" />
       </map>
     </option>
   </component>
