@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="todo sunriver process done" />
+      <item value="todo sunriver receive notice" />
+      <item value="公文" />
       <item value="Duplicate column name 'create_time'" />
       <item value="关键字" />
       <item value="[2020-03-09 15:55:32] [42000][1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'keys varchar(100) comment '关键字'," />
@@ -48,14 +51,11 @@
       <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 paused." />
       <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 shutting down." />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 80, or configure this application to listen on another port." />
-      <item value="get Dpi Ratio" />
-      <item value="datum" />
-      <item value="基准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3370" />
-        <entry key="ENGLISH" value="3411" />
+        <entry key="CHINESE" value="3372" />
+        <entry key="ENGLISH" value="3414" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="8" />
