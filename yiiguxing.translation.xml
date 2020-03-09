@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receive" />
+      <item value="todo flow instance" />
+      <item value="_interface" />
+      <item value="公告" />
+      <item value="todo sunriver receive todo" />
+      <item value="targets" />
       <item value="todo sunriver process done" />
       <item value="todo sunriver receive notice" />
       <item value="公文" />
@@ -45,20 +51,14 @@
       <item value="data send" />
       <item value="data" />
       <item value="log" />
-      <item value="Excel" />
-      <item value="druid" />
-      <item value="The Tomcat connector configured to listen on port 80 failed to start. The port may already be in use or the connector may be misconfigured." />
-      <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 paused." />
-      <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 shutting down." />
-      <item value="Verify the connector's configuration, identify and stop any process that's listening on port 80, or configure this application to listen on another port." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3372" />
-        <entry key="ENGLISH" value="3414" />
+        <entry key="CHINESE" value="3376" />
+        <entry key="ENGLISH" value="3418" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="SPANISH" value="8" />
+        <entry key="SPANISH" value="9" />
       </map>
     </option>
   </component>
