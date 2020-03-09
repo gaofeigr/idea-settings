@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against.  A Subject instance will acquire these identifying principals automatically after a successful login is performed be executing org.apache.shiro.subject.Subject.login(AuthenticationToken) or when 'Remember Me' functionality is enabled by the SecurityManager.  This exception can also occur when a previously logged-in Subject has logged out which makes it anonymous again.  Because an identity is currently not known due to any of these conditions, authorization is denied." />
       <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against. " />
       <item value="to" />
       <item value="Requires Permissions" />
@@ -50,7 +51,6 @@
       <item value="pay pal me" />
       <item value="marketplace" />
       <item value="The server refused this request because the request entity is in a format not supported by the requested resource for the requested method." />
-      <item value="calendar" />
     </histories>
     <option name="languageScores">
       <map>
