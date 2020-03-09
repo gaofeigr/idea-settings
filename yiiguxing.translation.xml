@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Excel" />
       <item value="druid" />
       <item value="The Tomcat connector configured to listen on port 80 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 paused." />
@@ -50,12 +51,11 @@
       <item value="xored" />
       <item value="contours 2" />
       <item value="Mat" />
-      <item value="RETR EXTERNAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3343" />
-        <entry key="ENGLISH" value="3380" />
+        <entry key="CHINESE" value="3344" />
+        <entry key="ENGLISH" value="3381" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
