@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The server refused this request because the request entity is in a format not supported by the requested resource for the requested method." />
       <item value="calendar" />
       <item value="blob" />
       <item value="auto increment" />
@@ -50,7 +51,6 @@
       <item value="rows Coords" />
       <item value="Rectangle" />
       <item value="contour Idx" />
-      <item value="image" />
     </histories>
     <option name="languageScores">
       <map>
