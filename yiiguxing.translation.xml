@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String" />
+      <item value="java Field" />
+      <item value="is Super Column" />
+      <item value="equals Any Ignore Case" />
+      <item value="pay pal me" />
       <item value="marketplace" />
       <item value="The server refused this request because the request entity is in a format not supported by the requested resource for the requested method." />
       <item value="calendar" />
@@ -46,16 +51,11 @@
       <item value="has Canny Filtering" />
       <item value="binary Inverted Threshold" />
       <item value="row" />
-      <item value="group Rectangles By Row" />
-      <item value="parse Page By Rectangles" />
-      <item value="get Table Bounding Rectangles" />
-      <item value="rows Coords" />
-      <item value="Rectangle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3348" />
-        <entry key="ENGLISH" value="3387" />
+        <entry key="CHINESE" value="3353" />
+        <entry key="ENGLISH" value="3392" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
