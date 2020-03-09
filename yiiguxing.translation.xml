@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Tomcat connector configured to listen on port 80 failed to start. The port may already be in use or the connector may be misconfigured." />
+      <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 paused." />
+      <item value="Scheduler RuoyiScheduler_$_DESKTOP-QKNCRJ21583720127128 shutting down." />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 80, or configure this application to listen on another port." />
       <item value="get Dpi Ratio" />
       <item value="datum" />
@@ -48,14 +51,11 @@
       <item value="Mat" />
       <item value="RETR EXTERNAL" />
       <item value="CHAIN APPROX SIMPLE" />
-      <item value="MORPH RECT" />
-      <item value="dst" />
-      <item value="src" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3338" />
-        <entry key="ENGLISH" value="3376" />
+        <entry key="CHINESE" value="3342" />
+        <entry key="ENGLISH" value="3379" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
