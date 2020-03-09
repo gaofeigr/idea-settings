@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calendar" />
+      <item value="blob" />
+      <item value="auto increment" />
+      <item value="bigint" />
+      <item value="domain" />
+      <item value="请求接口" />
+      <item value="请求" />
+      <item value="interface" />
+      <item value="target url" />
+      <item value="url send" />
+      <item value="data reception" />
+      <item value="reception data" />
+      <item value="接收" />
+      <item value="data send" />
+      <item value="send data" />
+      <item value="data" />
+      <item value="status" />
+      <item value="log" />
       <item value="Excel" />
       <item value="druid" />
       <item value="The Tomcat connector configured to listen on port 80 failed to start. The port may already be in use or the connector may be misconfigured." />
@@ -33,29 +51,11 @@
       <item value="Rectangle" />
       <item value="contour Idx" />
       <item value="image" />
-      <item value="contours" />
-      <item value="arrears" />
-      <item value="points" />
-      <item value="bounding Rect" />
-      <item value="Mat Of Point 2 f" />
-      <item value="data Addr" />
-      <item value="native Obj" />
-      <item value="_channels" />
-      <item value="_depth" />
-      <item value="n cols" />
-      <item value="method" />
-      <item value="mode" />
-      <item value="hierarchy" />
-      <item value="has Canny L 2 Gradient" />
-      <item value="get Canny Aperture Size" />
-      <item value="xored" />
-      <item value="contours 2" />
-      <item value="Mat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3344" />
-        <entry key="ENGLISH" value="3381" />
+        <entry key="CHINESE" value="3348" />
+        <entry key="ENGLISH" value="3387" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="6" />
