@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto increment" />
+      <item value="Incorrect column specifier for column 'instance_id'" />
       <item value="receive" />
       <item value="todo flow instance" />
       <item value="_interface" />
@@ -39,7 +41,6 @@
       <item value="The server refused this request because the request entity is in a format not supported by the requested resource for the requested method." />
       <item value="calendar" />
       <item value="blob" />
-      <item value="auto increment" />
       <item value="bigint" />
       <item value="domain" />
       <item value="请求接口" />
@@ -50,12 +51,11 @@
       <item value="接收" />
       <item value="data send" />
       <item value="data" />
-      <item value="log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3376" />
-        <entry key="ENGLISH" value="3418" />
+        <entry key="CHINESE" value="3379" />
+        <entry key="ENGLISH" value="3421" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="9" />
