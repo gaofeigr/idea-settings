@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate column name 'create_time'" />
+      <item value="关键字" />
+      <item value="[2020-03-09 15:55:32] [42000][1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'keys varchar(100) comment '关键字'," />
+      <item value="Incorrect column specifier for column 'syscode'" />
+      <item value="实例" />
       <item value="request interface" />
       <item value="target url" />
       <item value="reception data" />
@@ -46,16 +51,11 @@
       <item value="get Dpi Ratio" />
       <item value="datum" />
       <item value="基准" />
-      <item value="标准" />
-      <item value="左下角" />
-      <item value="下" />
-      <item value="下面" />
-      <item value="单元格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3367" />
-        <entry key="ENGLISH" value="3405" />
+        <entry key="CHINESE" value="3370" />
+        <entry key="ENGLISH" value="3411" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="8" />
