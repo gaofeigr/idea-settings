@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is already 'todoFlowInstanceController' bean method&#10;public java.lang.String com.todo.web.controller.system.TodoFlowInstanceController.add() mapped." />
+      <item value="here is already 'todoFlowInstanceController' bean method&#10;public java.lang.String com.todo.web.controller.system.TodoFlowInstanceController.add" />
+      <item value=".system.Todo Flow Instance Controller.add()" />
+      <item value="Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'todoNoticeInstanceController' method" />
+      <item value="to {GET /system/instance/add}: There is already 'todoFlowInstanceController' bean method" />
+      <item value="todo Flow Instance Controller" />
+      <item value="todo Notice Instance Controller" />
       <item value="auto increment" />
       <item value="Incorrect column specifier for column 'instance_id'" />
       <item value="receive" />
@@ -44,18 +51,11 @@
       <item value="bigint" />
       <item value="domain" />
       <item value="请求接口" />
-      <item value="请求" />
-      <item value="interface" />
-      <item value="url send" />
-      <item value="data reception" />
-      <item value="接收" />
-      <item value="data send" />
-      <item value="data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3379" />
-        <entry key="ENGLISH" value="3421" />
+        <entry key="CHINESE" value="3386" />
+        <entry key="ENGLISH" value="3428" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="SPANISH" value="9" />
