@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数" />
+      <item value="arg" />
+      <item value="param" />
       <item value="key Property" />
       <item value="use Generated Keys" />
       <item value="parameter" />
@@ -10,7 +13,6 @@
       <item value="paramter" />
       <item value="paramte" />
       <item value="paramt" />
-      <item value="param" />
       <item value="process Done Request By Json" />
       <item value="receive Todo Request By Json" />
       <item value="retract Todo Request By Json" />
@@ -49,15 +51,13 @@
       <item value=".system.Todo Flow Instance Controller.add()" />
       <item value="Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'todoNoticeInstanceController' method" />
       <item value="to {GET /system/instance/add}: There is already 'todoFlowInstanceController' bean method" />
-      <item value="todo Flow Instance Controller" />
-      <item value="todo Notice Instance Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3428" />
-        <entry key="ENGLISH" value="3466" />
+        <entry key="CHINESE" value="3429" />
+        <entry key="ENGLISH" value="3468" />
         <entry key="FRENCH" value="44" />
-        <entry key="PORTUGUESE" value="22" />
+        <entry key="PORTUGUESE" value="23" />
         <entry key="SPANISH" value="9" />
       </map>
     </option>
