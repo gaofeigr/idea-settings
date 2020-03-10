@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="date" />
       <item value="receive Notice Request By Json" />
       <item value="process Done Request By Json" />
       <item value="retract Todo Request By Json" />
@@ -50,12 +51,11 @@
       <item value="Duplicate column name 'create_time'" />
       <item value="关键字" />
       <item value="[2020-03-09 15:55:32] [42000][1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'keys varchar(100) comment '关键字'," />
-      <item value="Incorrect column specifier for column 'syscode'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3409" />
-        <entry key="ENGLISH" value="3453" />
+        <entry key="CHINESE" value="3410" />
+        <entry key="ENGLISH" value="3454" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="21" />
         <entry key="SPANISH" value="9" />
