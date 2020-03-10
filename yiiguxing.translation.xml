@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="client" />
       <item value="receive Notice Request By Json" />
       <item value="server" />
       <item value="服务端" />
-      <item value="client" />
       <item value="from" />
       <item value="我到你" />
       <item value="我来你" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3397" />
-        <entry key="ENGLISH" value="3440" />
+        <entry key="CHINESE" value="3398" />
+        <entry key="ENGLISH" value="3441" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="21" />
         <entry key="SPANISH" value="9" />
