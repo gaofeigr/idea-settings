@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth" />
+      <item value="basic" />
       <item value="parameter" />
       <item value="send Http Request To Sunriver" />
       <item value="请求" />
@@ -49,8 +51,6 @@
       <item value="targets" />
       <item value="todo sunriver process done" />
       <item value="todo sunriver receive notice" />
-      <item value="公文" />
-      <item value="Duplicate column name 'create_time'" />
     </histories>
     <option name="languageScores">
       <map>
