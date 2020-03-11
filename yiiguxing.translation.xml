@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数" />
+      <item value="argument" />
+      <item value="arg" />
+      <item value="retract Todo Request By Json" />
       <item value="Requires Permissions" />
       <item value="a to b" />
       <item value="i to you" />
@@ -11,8 +15,6 @@
       <item value="param" />
       <item value="land ary" />
       <item value="landary" />
-      <item value="参数" />
-      <item value="arg" />
       <item value="key Property" />
       <item value="use Generated Keys" />
       <item value="paramete" />
@@ -22,7 +24,6 @@
       <item value="paramt" />
       <item value="process Done Request By Json" />
       <item value="receive Todo Request By Json" />
-      <item value="retract Todo Request By Json" />
       <item value="switch" />
       <item value="auth" />
       <item value="basic" />
@@ -50,12 +51,11 @@
       <item value="parametes" />
       <item value="parameters" />
       <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against.  A Subject instance will acquire these identifying principals automatically after a successful login is performed be executing org.apache.shiro.subject.Subject.login(AuthenticationToken) or when 'Remember Me' functionality is enabled by the SecurityManager.  This exception can also occur when a previously logged-in Subject has logged out which makes it anonymous again.  Because an identity is currently not known due to any of these conditions, authorization is denied." />
-      <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3435" />
-        <entry key="ENGLISH" value="3472" />
+        <entry key="CHINESE" value="3438" />
+        <entry key="ENGLISH" value="3476" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
