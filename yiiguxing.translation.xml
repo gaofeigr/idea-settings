@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a to b" />
+      <item value="i to you" />
       <item value="File Not Found Exception" />
       <item value="unknown protocol: ldtest.sunriver.cn" />
       <item value="parameter" />
@@ -49,8 +51,6 @@
       <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against.  A Subject instance will acquire these identifying principals automatically after a successful login is performed be executing org.apache.shiro.subject.Subject.login(AuthenticationToken) or when 'Remember Me' functionality is enabled by the SecurityManager.  This exception can also occur when a previously logged-in Subject has logged out which makes it anonymous again.  Because an identity is currently not known due to any of these conditions, authorization is denied." />
       <item value="This subject is anonymous - it does not have any identifying principals and authorization operations require an identity to check against. " />
       <item value="Requires Permissions" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Result Maps collection already contains value for com.todo.system.mapper.TodoFlowInstanceMapper.TodoFlowInstanceResult" />
-      <item value="There is already 'todoFlowInstanceController' bean method&#10;public java.lang.String com.todo.web.controller.system.TodoFlowInstanceController.add() mapped." />
     </histories>
     <option name="languageScores">
       <map>
