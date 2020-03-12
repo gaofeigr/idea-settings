@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Formula Parser" />
+      <item value="get Rule Fact" />
+      <item value="Rule Fact" />
       <item value="400 Bad Request" />
       <item value="Data truncation: Data too long for column 'json_result' at row 1" />
       <item value="set Reception Data" />
@@ -48,14 +51,11 @@
       <item value="server" />
       <item value="服务端" />
       <item value="from" />
-      <item value="我到你" />
-      <item value="我来你" />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3457" />
-        <entry key="ENGLISH" value="3495" />
+        <entry key="CHINESE" value="3462" />
+        <entry key="ENGLISH" value="3500" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
