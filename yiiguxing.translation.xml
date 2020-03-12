@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receive Notice Request By Json" />
       <item value="build Todo Flow Instance" />
       <item value="receive Todo Request By Json" />
       <item value="Formula Parser" />
@@ -39,7 +40,6 @@
       <item value="send Http Request To Sunriver" />
       <item value="请求" />
       <item value="date" />
-      <item value="receive Notice Request By Json" />
       <item value="build Todo F Low Instance To Lding" />
       <item value="build Todo F Low Instance For Lding" />
       <item value="build Todo F Low Instance For Sunriver" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3464" />
-        <entry key="ENGLISH" value="3502" />
+        <entry key="CHINESE" value="3470" />
+        <entry key="ENGLISH" value="3508" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
