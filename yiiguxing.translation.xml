@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Link Error" />
       <item value="Native Library C:\Windows\System32\opencv_java420.dll already loaded in another classloader" />
       <item value="get Notification By Pdf File List" />
       <item value="Global Exception Handler" />
@@ -9,7 +10,6 @@
       <item value="read Unsigned Int" />
       <item value="EOF Exception" />
       <item value="java.lang.UnsatisfiedLinkError: org.opencv.core.Mat.n_Mat()J" />
-      <item value="Unsatisfied Link Error" />
       <item value="buffered Image 2 Grayscale Mat" />
       <item value="buffered Image 2 Mat" />
       <item value="input Stream 2 Mat" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3487" />
-        <entry key="ENGLISH" value="3523" />
+        <entry key="CHINESE" value="3489" />
+        <entry key="ENGLISH" value="3525" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
