@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的请求" />
       <item value="不能为空" />
       <item value="不能 为空" />
       <item value="不能" />
@@ -50,12 +51,11 @@
       <item value="paramet" />
       <item value="parame" />
       <item value="paramte" />
-      <item value="paramt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3489" />
-        <entry key="ENGLISH" value="3526" />
+        <entry key="ENGLISH" value="3527" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
