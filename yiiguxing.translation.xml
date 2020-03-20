@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Reception Data" />
+      <item value="wrap" />
+      <item value="包裹" />
+      <item value="报过" />
+      <item value="包装" />
       <item value="add Sunriver My Request" />
       <item value="i form you" />
       <item value="i for you" />
@@ -45,17 +50,12 @@
       <item value="Rule Fact" />
       <item value="400 Bad Request" />
       <item value="Data truncation: Data too long for column 'json_result' at row 1" />
-      <item value="set Reception Data" />
       <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [todo-system,todo-framework] are excluded from annotation processing" />
-      <item value="your Encrypted Worlds" />
-      <item value="参数" />
-      <item value="argument" />
-      <item value="arg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3496" />
-        <entry key="ENGLISH" value="3537" />
+        <entry key="CHINESE" value="3497" />
+        <entry key="ENGLISH" value="3539" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
