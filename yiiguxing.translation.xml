@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requires Permissions" />
       <item value="set Reception Data" />
       <item value="wrap" />
       <item value="包裹" />
@@ -50,12 +51,11 @@
       <item value="Rule Fact" />
       <item value="400 Bad Request" />
       <item value="Data truncation: Data too long for column 'json_result' at row 1" />
-      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [todo-system,todo-framework] are excluded from annotation processing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3497" />
-        <entry key="ENGLISH" value="3539" />
+        <entry key="CHINESE" value="3498" />
+        <entry key="ENGLISH" value="3540" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
