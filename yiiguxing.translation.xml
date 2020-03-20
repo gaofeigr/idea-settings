@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creator" />
+      <item value="pull Sunriver My Request By Creator" />
+      <item value="pull Sunriver My Request" />
+      <item value="pull" />
+      <item value="sunriver Push My Request" />
+      <item value="拉取" />
+      <item value="poll" />
       <item value="Requires Permissions" />
       <item value="set Reception Data" />
       <item value="wrap" />
@@ -21,7 +28,6 @@
       <item value="push my request" />
       <item value="push My Request" />
       <item value="push" />
-      <item value="pull" />
       <item value="pull My Request" />
       <item value="put My Request" />
       <item value="我的请求" />
@@ -45,17 +51,11 @@
       <item value="notice" />
       <item value="receive Notice Request By Json" />
       <item value="build Todo Flow Instance" />
-      <item value="receive Todo Request By Json" />
-      <item value="Formula Parser" />
-      <item value="get Rule Fact" />
-      <item value="Rule Fact" />
-      <item value="400 Bad Request" />
-      <item value="Data truncation: Data too long for column 'json_result' at row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3498" />
-        <entry key="ENGLISH" value="3540" />
+        <entry key="CHINESE" value="3502" />
+        <entry key="ENGLISH" value="3545" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
