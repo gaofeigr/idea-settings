@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Sunriver My Request" />
+      <item value="i form you" />
+      <item value="i for you" />
+      <item value="i by you" />
+      <item value="来自" />
+      <item value="由我添加你" />
+      <item value="for" />
+      <item value="by" />
+      <item value="add My Request By Sunriver" />
+      <item value="summary Push My Request" />
+      <item value="推送我的请求" />
+      <item value="push my request" />
+      <item value="push My Request" />
+      <item value="push" />
+      <item value="pull" />
+      <item value="pull My Request" />
+      <item value="put My Request" />
       <item value="我的请求" />
       <item value="不能为空" />
       <item value="不能 为空" />
@@ -34,28 +51,11 @@
       <item value="参数" />
       <item value="argument" />
       <item value="arg" />
-      <item value="retract Todo Request By Json" />
-      <item value="Requires Permissions" />
-      <item value="a to b" />
-      <item value="i to you" />
-      <item value="File Not Found Exception" />
-      <item value="unknown protocol: ldtest.sunriver.cn" />
-      <item value="parameter" />
-      <item value="paramter" />
-      <item value="param" />
-      <item value="land ary" />
-      <item value="landary" />
-      <item value="key Property" />
-      <item value="use Generated Keys" />
-      <item value="paramete" />
-      <item value="paramet" />
-      <item value="parame" />
-      <item value="paramte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3489" />
-        <entry key="ENGLISH" value="3527" />
+        <entry key="CHINESE" value="3496" />
+        <entry key="ENGLISH" value="3537" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
