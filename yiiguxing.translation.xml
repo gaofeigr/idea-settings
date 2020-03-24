@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Font parsing exception ---&gt; com.spire.pdf.package.sprzuB: No have this LanguageID" />
       <item value="get Reception Data" />
       <item value="set Reception Data" />
       <item value="INSTANCE TYPE FLOW" />
@@ -50,12 +51,11 @@
       <item value="不能" />
       <item value="Unsatisfied Link Error" />
       <item value="Native Library C:\Windows\System32\opencv_java420.dll already loaded in another classloader" />
-      <item value="get Notification By Pdf File List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3512" />
-        <entry key="ENGLISH" value="3559" />
+        <entry key="CHINESE" value="3513" />
+        <entry key="ENGLISH" value="3560" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
