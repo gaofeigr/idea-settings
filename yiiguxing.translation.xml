@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Permi" />
+      <item value="permission" />
       <item value="focus Cleanup" />
       <item value="shiro" />
       <item value="has Permission" />
@@ -49,13 +51,11 @@
       <item value="i form you" />
       <item value="i for you" />
       <item value="i by you" />
-      <item value="来自" />
-      <item value="由我添加你" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3533" />
-        <entry key="ENGLISH" value="3578" />
+        <entry key="CHINESE" value="3535" />
+        <entry key="ENGLISH" value="3580" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
