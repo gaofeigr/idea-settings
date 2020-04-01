@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DECEMBER" />
+      <item value="Value of the {@link #MONTH} field indicating the * thirteenth month of the year. Although &lt;code&gt;GregorianCalendar&lt;/code&gt; * does not use this value, lunar calendars do." />
+      <item value="UNDECIMBER" />
+      <item value="the last depends on the number * of months in a year." />
+      <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * month. This is a calendar-specific value. The first month of * the year in the Gregorian and Julian calendars is * &lt;code&gt;JANUARY&lt;/code&gt; which is 0; the last depends on the number * of months in a year." />
+      <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * year. This is a calendar-specific value; see subclass documentation." />
       <item value="has Permi" />
       <item value="permission" />
       <item value="focus Cleanup" />
@@ -45,17 +51,11 @@
       <item value="Requires Permissions" />
       <item value="wrap" />
       <item value="包裹" />
-      <item value="报过" />
-      <item value="包装" />
-      <item value="add Sunriver My Request" />
-      <item value="i form you" />
-      <item value="i for you" />
-      <item value="i by you" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3535" />
-        <entry key="ENGLISH" value="3580" />
+        <entry key="CHINESE" value="3541" />
+        <entry key="ENGLISH" value="3585" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
