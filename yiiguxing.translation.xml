@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limit" />
       <item value="select Todo Page" />
       <item value="String" />
       <item value="pull Done Data Total Num" />
@@ -50,12 +51,11 @@
       <item value="进入" />
       <item value="ginseng" />
       <item value="出参" />
-      <item value="入参" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3547" />
-        <entry key="ENGLISH" value="3592" />
+        <entry key="CHINESE" value="3548" />
+        <entry key="ENGLISH" value="3593" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
