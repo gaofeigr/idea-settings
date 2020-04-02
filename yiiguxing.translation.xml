@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pull Done Data Total Num" />
+      <item value="pull Done Data Total" />
+      <item value="done" />
+      <item value="已办" />
+      <item value="待办" />
       <item value="lding Pull Todo Data" />
       <item value="pull" />
       <item value="pull Todo Data" />
@@ -46,16 +51,11 @@
       <item value="入参" />
       <item value="Creator" />
       <item value="pull Sunriver My Request By Creator" />
-      <item value="pull Sunriver My Request" />
-      <item value="sunriver Push My Request" />
-      <item value="拉取" />
-      <item value="poll" />
-      <item value="Requires Permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3543" />
-        <entry key="ENGLISH" value="3587" />
+        <entry key="CHINESE" value="3545" />
+        <entry key="ENGLISH" value="3590" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
