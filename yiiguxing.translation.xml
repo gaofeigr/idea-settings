@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="active" />
+      <item value="infinite" />
+      <item value="can be overwritten by process.env.PORT, if port is in use, a free one will be determined" />
       <item value="limit" />
       <item value="select Todo Page" />
       <item value="String" />
@@ -48,14 +51,11 @@
       <item value="参数" />
       <item value="in Parameart" />
       <item value="出" />
-      <item value="进入" />
-      <item value="ginseng" />
-      <item value="出参" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3548" />
-        <entry key="ENGLISH" value="3593" />
+        <entry key="CHINESE" value="3551" />
+        <entry key="ENGLISH" value="3596" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
