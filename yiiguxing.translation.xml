@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" No route to host" />
+      <item value="refused" />
       <item value="jasper" />
       <item value="embed" />
       <item value="get Header Field" />
@@ -49,8 +51,6 @@
       <item value="Font parsing exception ---&gt; com.spire.pdf.package.sprzuB: No have this LanguageID" />
       <item value="get Reception Data" />
       <item value="set Reception Data" />
-      <item value="INSTANCE TYPE FLOW" />
-      <item value="INSTANCE TYPE NOTICE" />
     </histories>
     <option name="languageScores">
       <map>
