@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jar is missing" />
+      <item value="'dependencies.dependency.version' for org.springframework.session:spring-session:jar is missing. @ com.todo:todo-admin:[unknown-version]" />
+      <item value="Some problems were encountered while processing the POMs:" />
       <item value=" No route to host" />
       <item value="refused" />
       <item value="jasper" />
@@ -48,14 +51,11 @@
       <item value="generic Info" />
       <item value="Fields" />
       <item value="spr Eoa" />
-      <item value="Font parsing exception ---&gt; com.spire.pdf.package.sprzuB: No have this LanguageID" />
-      <item value="get Reception Data" />
-      <item value="set Reception Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3560" />
-        <entry key="ENGLISH" value="3605" />
+        <entry key="CHINESE" value="3563" />
+        <entry key="ENGLISH" value="3608" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
