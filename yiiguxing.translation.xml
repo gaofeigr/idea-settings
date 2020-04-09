@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jasper" />
+      <item value="embed" />
       <item value="get Header Field" />
       <item value="set Instance Follow Redirects" />
       <item value="infinite" />
@@ -49,13 +51,11 @@
       <item value="set Reception Data" />
       <item value="INSTANCE TYPE FLOW" />
       <item value="INSTANCE TYPE NOTICE" />
-      <item value="INSTANCE TYPE MYREQUEST" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3558" />
-        <entry key="ENGLISH" value="3603" />
+        <entry key="CHINESE" value="3560" />
+        <entry key="ENGLISH" value="3605" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
