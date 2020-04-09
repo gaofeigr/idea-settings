@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max Inactive Interval" />
+      <item value="maxInactiveInterval" />
       <item value="cluster Nodes" />
       <item value="cache" />
       <item value="max Redirects" />
@@ -49,8 +51,6 @@
       <item value="Helvetica" />
       <item value="Symbol" />
       <item value="Regular" />
-      <item value="Bold" />
-      <item value="Italic" />
     </histories>
     <option name="languageScores">
       <map>
