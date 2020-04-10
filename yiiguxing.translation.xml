@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8081, or configure this application to listen on another port." />
       <item value="max Inactive Interval" />
       <item value="maxInactiveInterval" />
       <item value="cluster Nodes" />
@@ -50,12 +51,11 @@
       <item value="Courier" />
       <item value="Helvetica" />
       <item value="Symbol" />
-      <item value="Regular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3566" />
-        <entry key="ENGLISH" value="3611" />
+        <entry key="CHINESE" value="3567" />
+        <entry key="ENGLISH" value="3612" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
