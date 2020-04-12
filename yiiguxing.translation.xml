@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reject" />
       <item value="serial Version UID" />
       <item value="exchange" />
       <item value="sticky" />
@@ -50,12 +51,11 @@
       <item value="shiro" />
       <item value="has Permission" />
       <item value="request" />
-      <item value="footer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3570" />
-        <entry key="ENGLISH" value="3616" />
+        <entry key="CHINESE" value="3571" />
+        <entry key="ENGLISH" value="3617" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
