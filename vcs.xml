@@ -38,6 +38,14 @@
           <option name="url" value="https://gitee.com/yzh-team/to_do_tool_system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-inc.dingteam.com" />
+          <option name="userName" value="gaofei_sz@landray.com.cn" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-inc.dingteam.com/project/front-xygzh-gzt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
