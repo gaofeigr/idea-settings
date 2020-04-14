@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="todo stress test" />
+      <item value="todo_stress_test" />
+      <item value="stress testing" />
+      <item value="压力测试" />
+      <item value="压测" />
       <item value="get Date" />
       <item value="finish Infinite" />
       <item value="finish Pull To Refresh" />
@@ -46,16 +51,11 @@
       <item value="Value of the {@link #MONTH} field indicating the * thirteenth month of the year. Although &lt;code&gt;GregorianCalendar&lt;/code&gt; * does not use this value, lunar calendars do." />
       <item value="UNDECIMBER" />
       <item value="the last depends on the number * of months in a year." />
-      <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * month. This is a calendar-specific value. The first month of * the year in the Gregorian and Julian calendars is * &lt;code&gt;JANUARY&lt;/code&gt; which is 0; the last depends on the number * of months in a year." />
-      <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * year. This is a calendar-specific value; see subclass documentation." />
-      <item value="has Permi" />
-      <item value="permission" />
-      <item value="focus Cleanup" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3579" />
-        <entry key="ENGLISH" value="3625" />
+        <entry key="ENGLISH" value="3626" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
