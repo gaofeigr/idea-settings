@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Date" />
       <item value="finish Infinite" />
       <item value="finish Pull To Refresh" />
       <item value="infinite" />
@@ -50,12 +51,11 @@
       <item value="has Permi" />
       <item value="permission" />
       <item value="focus Cleanup" />
-      <item value="shiro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3578" />
-        <entry key="ENGLISH" value="3624" />
+        <entry key="CHINESE" value="3579" />
+        <entry key="ENGLISH" value="3625" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
