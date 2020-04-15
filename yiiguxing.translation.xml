@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Notic Detail Url" />
+      <item value="generate Nitic Detail Url" />
+      <item value="generate ID" />
       <item value="decode Buffer" />
       <item value="subject" />
       <item value="todo stress test" />
@@ -48,14 +51,11 @@
       <item value="待办" />
       <item value="lding Pull Todo Data" />
       <item value="pull" />
-      <item value="pull Todo Data" />
-      <item value="DECEMBER" />
-      <item value="Value of the {@link #MONTH} field indicating the * thirteenth month of the year. Although &lt;code&gt;GregorianCalendar&lt;/code&gt; * does not use this value, lunar calendars do." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3582" />
-        <entry key="ENGLISH" value="3629" />
+        <entry key="CHINESE" value="3585" />
+        <entry key="ENGLISH" value="3632" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
