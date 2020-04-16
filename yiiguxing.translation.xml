@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quit" />
       <item value="generate Notic Detail Url" />
       <item value="generate Nitic Detail Url" />
       <item value="generate ID" />
@@ -50,12 +51,11 @@
       <item value="已办" />
       <item value="待办" />
       <item value="lding Pull Todo Data" />
-      <item value="pull" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3585" />
-        <entry key="ENGLISH" value="3632" />
+        <entry key="CHINESE" value="3587" />
+        <entry key="ENGLISH" value="3634" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="9" />
