@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="done" />
+      <item value="dones" />
+      <item value="todo instance dones" />
+      <item value="receiver" />
+      <item value="todo instance receiver" />
+      <item value="r" />
+      <item value="todo instance receives" />
       <item value="parameter" />
       <item value="参数" />
       <item value="parmeter" />
@@ -44,21 +51,14 @@
       <item value="Required request body is missing" />
       <item value="Unrecognized token 'target': was expecting 'null', 'true', 'false' or NaN" />
       <item value="active" />
-      <item value="can be overwritten by process.env.PORT, if port is in use, a free one will be determined" />
-      <item value="limit" />
-      <item value="select Todo Page" />
-      <item value="String" />
-      <item value="pull Done Data Total Num" />
-      <item value="pull Done Data Total" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3589" />
-        <entry key="ENGLISH" value="3636" />
+        <entry key="CHINESE" value="3596" />
+        <entry key="ENGLISH" value="3642" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
-        <entry key="SPANISH" value="9" />
+        <entry key="SPANISH" value="10" />
       </map>
     </option>
   </component>
