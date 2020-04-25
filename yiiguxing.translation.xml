@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retract Num" />
       <item value="关键字" />
       <item value="Unsupported Operation Exception" />
       <item value="exists Targets" />
@@ -50,12 +51,11 @@
       <item value="jasper" />
       <item value="embed" />
       <item value="get Header Field" />
-      <item value="set Instance Follow Redirects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3600" />
-        <entry key="ENGLISH" value="3647" />
+        <entry key="CHINESE" value="3601" />
+        <entry key="ENGLISH" value="3648" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="10" />
