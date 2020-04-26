@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Opr Type" />
+      <item value="ApplicationListener" />
+      <item value="Additional" />
+      <item value="getFdNodeAdditionalInfo" />
       <item value="retract Num" />
       <item value="关键字" />
       <item value="Unsupported Operation Exception" />
@@ -47,15 +51,11 @@
       <item value="'dependencies.dependency.version' for org.springframework.session:spring-session:jar is missing. @ com.todo:todo-admin:[unknown-version]" />
       <item value="Some problems were encountered while processing the POMs:" />
       <item value=" No route to host" />
-      <item value="refused" />
-      <item value="jasper" />
-      <item value="embed" />
-      <item value="get Header Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3601" />
-        <entry key="ENGLISH" value="3648" />
+        <entry key="CHINESE" value="3602" />
+        <entry key="ENGLISH" value="3649" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="10" />
