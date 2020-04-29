@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project todo-system: Compilation failure&#10;[ERROR]" />
+      <item value="Final Memory:" />
+      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch.&#10;[ERROR] Re-run Maven using the -X switch to enable full debug logging." />
+      <item value="For more information about the errors and possible solutions, please read the following articles:" />
       <item value="get Target From Session" />
       <item value="build Creator Login Name Sql" />
       <item value="to Hex String" />
@@ -47,15 +51,11 @@
       <item value="exchange" />
       <item value="sticky" />
       <item value="中间件" />
-      <item value="get Key Serializer" />
-      <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8081, or configure this application to listen on another port." />
-      <item value="max Inactive Interval" />
-      <item value="maxInactiveInterval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3606" />
-        <entry key="ENGLISH" value="3653" />
+        <entry key="CHINESE" value="3610" />
+        <entry key="ENGLISH" value="3657" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="10" />
