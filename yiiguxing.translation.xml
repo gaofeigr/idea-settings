@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="union" />
       <item value="constraint" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project todo-system: Compilation failure&#10;[ERROR]" />
       <item value="Final Memory:" />
@@ -49,8 +51,6 @@
       <item value="infinite" />
       <item value="reject" />
       <item value="serial Version UID" />
-      <item value="exchange" />
-      <item value="sticky" />
     </histories>
     <option name="languageScores">
       <map>
