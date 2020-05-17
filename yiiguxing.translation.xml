@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exec" />
+      <item value="Cannot allocate memory" />
       <item value="unique" />
       <item value="union" />
       <item value="constraint" />
@@ -49,8 +51,6 @@
       <item value="finish Infinite" />
       <item value="finish Pull To Refresh" />
       <item value="infinite" />
-      <item value="reject" />
-      <item value="serial Version UID" />
     </histories>
     <option name="languageScores">
       <map>
