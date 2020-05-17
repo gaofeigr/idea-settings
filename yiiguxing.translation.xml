@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Undeclared variable: todo_instance_targets_bak" />
       <item value="exec" />
       <item value="Cannot allocate memory" />
       <item value="unique" />
@@ -50,12 +51,11 @@
       <item value="get Date" />
       <item value="finish Infinite" />
       <item value="finish Pull To Refresh" />
-      <item value="infinite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3610" />
-        <entry key="ENGLISH" value="3657" />
+        <entry key="CHINESE" value="3611" />
+        <entry key="ENGLISH" value="3658" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="24" />
         <entry key="SPANISH" value="10" />
