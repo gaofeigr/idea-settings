@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="唯一" />
+      <item value="temp Unique List" />
+      <item value="temp Union List" />
       <item value="done List" />
       <item value="is Exists OA Todo" />
       <item value="Undeclared variable: todo_instance_targets_bak" />
       <item value="exec" />
       <item value="Cannot allocate memory" />
-      <item value="unique" />
       <item value="union" />
       <item value="constraint" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project todo-system: Compilation failure&#10;[ERROR]" />
@@ -48,14 +51,11 @@
       <item value="todo stress test" />
       <item value="todo_stress_test" />
       <item value="stress testing" />
-      <item value="压力测试" />
-      <item value="压测" />
-      <item value="get Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3613" />
-        <entry key="ENGLISH" value="3659" />
+        <entry key="CHINESE" value="3615" />
+        <entry key="ENGLISH" value="3662" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
