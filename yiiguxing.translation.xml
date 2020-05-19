@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receiver" />
       <item value="unique" />
       <item value="唯一" />
       <item value="temp Unique List" />
@@ -35,7 +36,6 @@
       <item value="done" />
       <item value="dones" />
       <item value="todo instance dones" />
-      <item value="receiver" />
       <item value="todo instance receiver" />
       <item value="r" />
       <item value="todo instance receives" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3615" />
-        <entry key="ENGLISH" value="3662" />
+        <entry key="CHINESE" value="3616" />
+        <entry key="ENGLISH" value="3663" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
