@@ -50,6 +50,14 @@
           <option name="url" value="https://git-inc.dingteam.com/project/front-xygzh-gzt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.beeplus.xyz:8092" />
+          <option name="userName" value="SuChaoCheng" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.beeplus.xyz:8092/beeplus/hero-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
