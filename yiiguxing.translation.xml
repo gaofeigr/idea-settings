@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="will not be managed by Spring" />
       <item value="security Context Repository" />
       <item value="the length of time to sleep in milliseconds" />
       <item value="millis" />
@@ -50,12 +51,11 @@
       <item value="generate Notic Detail Url" />
       <item value="generate Nitic Detail Url" />
       <item value="generate ID" />
-      <item value="decode Buffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3619" />
-        <entry key="ENGLISH" value="3665" />
+        <entry key="CHINESE" value="3620" />
+        <entry key="ENGLISH" value="3666" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
