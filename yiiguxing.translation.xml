@@ -1,12 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not subject to any constraint" />
+      <item value="Granted Authorities: ROLE_ANONYMOUS" />
+      <item value="Access is denied" />
+      <item value="denied" />
+      <item value="redirecting to authentication entry point" />
+      <item value="JDBC Connection [com.mysql.jdbc.JDBC4Connection@da94efa] will not be managed by Spring" />
+      <item value="Fetching JDBC Connection from DataSource" />
+      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c399c5a] was not registered for synchronization because synchronization is not active" />
+      <item value="on Invalid Session Detected" />
+      <item value="Next Invalid Session Strategy" />
       <item value="get Method Invoking Job Detail Factory Bean" />
+      <item value="set Cron Expression" />
       <item value="Quartz Job" />
       <item value="Scheduler" />
       <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7aaff9d1] was not registered for synchronization because synchronization is not active" />
       <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3caf545d]" />
-      <item value="Fetching JDBC Connection from DataSource" />
       <item value="Returning JDBC Connection to DataSource" />
       <item value="will not be managed by Spring" />
       <item value="security Context Repository" />
@@ -41,21 +51,11 @@
       <item value="Additional" />
       <item value="getFdNodeAdditionalInfo" />
       <item value="retract Num" />
-      <item value="关键字" />
-      <item value="Unsupported Operation Exception" />
-      <item value="exists Targets" />
-      <item value="use Generated Keys" />
-      <item value="done" />
-      <item value="dones" />
-      <item value="todo instance dones" />
-      <item value="todo instance receiver" />
-      <item value="r" />
-      <item value="todo instance receives" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3629" />
-        <entry key="ENGLISH" value="3675" />
+        <entry key="CHINESE" value="3648" />
+        <entry key="ENGLISH" value="3694" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
