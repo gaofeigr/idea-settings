@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Security Config" />
+      <item value="很抱歉" />
+      <item value="预定失败" />
+      <item value="您的剩余额度不足" />
+      <item value="请购买额度或者使用close" />
+      <item value="call服务" />
+      <item value="ENCRYPTION ALGORITHM ERROR" />
+      <item value="验证码错误" />
+      <item value="导出文件失败" />
+      <item value="9001" />
+      <item value="vw contractbillworkspacemapping" />
+      <item value="collations" />
       <item value="Not subject to any constraint" />
       <item value="Granted Authorities: ROLE_ANONYMOUS" />
       <item value="Access is denied" />
@@ -39,23 +51,11 @@
       <item value="Final Memory:" />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch.&#10;[ERROR] Re-run Maven using the -X switch to enable full debug logging." />
       <item value="For more information about the errors and possible solutions, please read the following articles:" />
-      <item value="get Target From Session" />
-      <item value="build Creator Login Name Sql" />
-      <item value="to Hex String" />
-      <item value="shiro" />
-      <item value="screct" />
-      <item value="idea" />
-      <item value="mac" />
-      <item value="get Opr Type" />
-      <item value="ApplicationListener" />
-      <item value="Additional" />
-      <item value="getFdNodeAdditionalInfo" />
-      <item value="retract Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3648" />
-        <entry key="ENGLISH" value="3694" />
+        <entry key="CHINESE" value="3664" />
+        <entry key="ENGLISH" value="3710" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
