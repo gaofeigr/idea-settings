@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Method Invoking Job Detail Factory Bean" />
+      <item value="Quartz Job" />
+      <item value="Scheduler" />
+      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7aaff9d1] was not registered for synchronization because synchronization is not active" />
+      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3caf545d]" />
+      <item value="Fetching JDBC Connection from DataSource" />
+      <item value="Returning JDBC Connection to DataSource" />
       <item value="will not be managed by Spring" />
       <item value="security Context Repository" />
       <item value="the length of time to sleep in milliseconds" />
@@ -44,18 +51,11 @@
       <item value="todo instance receiver" />
       <item value="r" />
       <item value="todo instance receives" />
-      <item value="parameter" />
-      <item value="参数" />
-      <item value="parmeter" />
-      <item value="quit" />
-      <item value="generate Notic Detail Url" />
-      <item value="generate Nitic Detail Url" />
-      <item value="generate ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3620" />
-        <entry key="ENGLISH" value="3666" />
+        <entry key="CHINESE" value="3629" />
+        <entry key="ENGLISH" value="3675" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
