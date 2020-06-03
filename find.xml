@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*hbm.xml</mask>
-    <mask>*.xml</mask>
     <mask>design.xml</mask>
     <mask>*.jsp</mask>
     <mask>*Request*</mask>
@@ -19,5 +16,6 @@
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
