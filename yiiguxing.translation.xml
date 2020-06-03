@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="project Id" />
+      <item value="contract Id" />
+      <item value="creator Name" />
+      <item value="updated Time" />
+      <item value="created Time" />
+      <item value="contract No" />
+      <item value="customer Id" />
+      <item value="order Id" />
+      <item value="month Rent Amt" />
+      <item value="is Custom Month Rent Amt" />
+      <item value="first Month Rent Amt" />
+      <item value="channel Service Amt" />
       <item value="Api Implicit Param" />
       <item value="Api Implicit Params" />
       <item value="get Authentication Provider" />
@@ -26,8 +38,6 @@
       <item value="&#9;@Request Mapping(value=&quot;/contract Document/find By Contract Id&quot;)&#10;" />
       <item value="missing source code" />
       <item value="clipboard" />
-      <item value="month Rent Amt" />
-      <item value="contract Id" />
       <item value="serial Version UID" />
       <item value="Contract" />
       <item value="prod" />
@@ -41,21 +51,11 @@
       <item value="scc change" />
       <item value="generate" />
       <item value="find By Work Space Id" />
-      <item value="check Month Rent Amt" />
-      <item value="generate Contract Bill" />
-      <item value="Web Security Config" />
-      <item value="很抱歉" />
-      <item value="预定失败" />
-      <item value="您的剩余额度不足" />
-      <item value="请购买额度或者使用close" />
-      <item value="call服务" />
-      <item value="ENCRYPTION ALGORITHM ERROR" />
-      <item value="验证码错误" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3718" />
-        <entry key="ENGLISH" value="3758" />
+        <entry key="CHINESE" value="3734" />
+        <entry key="ENGLISH" value="3773" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
