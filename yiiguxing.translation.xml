@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Authentication Provider" />
+      <item value="authentication Entry Point" />
+      <item value="Next Login Url Authentication Entry Point" />
+      <item value="Next Expired Strategy" />
       <item value="customer Member" />
       <item value="find Contact By Customer Id" />
       <item value="Project Service Type" />
@@ -47,15 +51,11 @@
       <item value="验证码错误" />
       <item value="导出文件失败" />
       <item value="9001" />
-      <item value="vw contractbillworkspacemapping" />
-      <item value="collations" />
-      <item value="Not subject to any constraint" />
-      <item value="Granted Authorities: ROLE_ANONYMOUS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3710" />
-        <entry key="ENGLISH" value="3752" />
+        <entry key="CHINESE" value="3715" />
+        <entry key="ENGLISH" value="3757" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
