@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixme" />
+      <item value="find By Contract Id" />
+      <item value="&#9;@Request Mapping(value=&quot;/contract Document/find By Contract Id&quot;)&#10;" />
       <item value="missing source code" />
       <item value="clipboard" />
       <item value="month Rent Amt" />
@@ -48,14 +51,11 @@
       <item value="Quartz Job" />
       <item value="Scheduler" />
       <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7aaff9d1] was not registered for synchronization because synchronization is not active" />
-      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3caf545d]" />
-      <item value="Returning JDBC Connection to DataSource" />
-      <item value="will not be managed by Spring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3687" />
-        <entry key="ENGLISH" value="3730" />
+        <entry key="CHINESE" value="3696" />
+        <entry key="ENGLISH" value="3738" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
