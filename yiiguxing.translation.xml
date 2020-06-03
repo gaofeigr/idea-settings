@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开发" />
+      <item value="生产" />
+      <item value="prod" />
+      <item value="环境配置文件" />
       <item value="project Id" />
       <item value="contract Id" />
       <item value="creator Name" />
@@ -40,7 +44,6 @@
       <item value="clipboard" />
       <item value="serial Version UID" />
       <item value="Contract" />
-      <item value="prod" />
       <item value="workspace Status Map" />
       <item value="Contract Customer" />
       <item value="get Contract Pay Name" />
@@ -48,14 +51,11 @@
       <item value="find Cancel" />
       <item value="move Invalid Contract Bill" />
       <item value="update Contract Type E Name" />
-      <item value="scc change" />
-      <item value="generate" />
-      <item value="find By Work Space Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3734" />
-        <entry key="ENGLISH" value="3773" />
+        <entry key="ENGLISH" value="3775" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
