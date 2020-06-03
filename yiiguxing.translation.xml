@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Implicit Param" />
+      <item value="Api Implicit Params" />
       <item value="get Authentication Provider" />
       <item value="authentication Entry Point" />
       <item value="Next Login Url Authentication Entry Point" />
@@ -49,13 +51,11 @@
       <item value="call服务" />
       <item value="ENCRYPTION ALGORITHM ERROR" />
       <item value="验证码错误" />
-      <item value="导出文件失败" />
-      <item value="9001" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3715" />
-        <entry key="ENGLISH" value="3757" />
+        <entry key="CHINESE" value="3718" />
+        <entry key="ENGLISH" value="3758" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
