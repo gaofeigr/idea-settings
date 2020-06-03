@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dictionary" />
+      <item value="set Updator" />
+      <item value="check Contract Date" />
       <item value="set Full Pay Name" />
       <item value="get Contract Customer" />
       <item value="find By Id" />
@@ -25,7 +28,6 @@
       <item value="generate" />
       <item value="find By Work Space Id" />
       <item value="check Month Rent Amt" />
-      <item value="check Contract Date" />
       <item value="generate Contract Bill" />
       <item value="Web Security Config" />
       <item value="很抱歉" />
@@ -49,13 +51,11 @@
       <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c399c5a] was not registered for synchronization because synchronization is not active" />
       <item value="on Invalid Session Detected" />
       <item value="Next Invalid Session Strategy" />
-      <item value="get Method Invoking Job Detail Factory Bean" />
-      <item value="set Cron Expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3699" />
-        <entry key="ENGLISH" value="3741" />
+        <entry key="CHINESE" value="3702" />
+        <entry key="ENGLISH" value="3744" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
