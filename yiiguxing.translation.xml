@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer Member" />
+      <item value="find Contact By Customer Id" />
+      <item value="Project Service Type" />
+      <item value="is Account" />
+      <item value="Contract Bill" />
+      <item value="Customer Company" />
+      <item value="find Product By Contract Id" />
+      <item value="contract Item" />
       <item value="Dictionary" />
       <item value="set Updator" />
       <item value="check Contract Date" />
@@ -43,19 +51,11 @@
       <item value="collations" />
       <item value="Not subject to any constraint" />
       <item value="Granted Authorities: ROLE_ANONYMOUS" />
-      <item value="Access is denied" />
-      <item value="denied" />
-      <item value="redirecting to authentication entry point" />
-      <item value="JDBC Connection [com.mysql.jdbc.JDBC4Connection@da94efa] will not be managed by Spring" />
-      <item value="Fetching JDBC Connection from DataSource" />
-      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1c399c5a] was not registered for synchronization because synchronization is not active" />
-      <item value="on Invalid Session Detected" />
-      <item value="Next Invalid Session Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3702" />
-        <entry key="ENGLISH" value="3744" />
+        <entry key="CHINESE" value="3710" />
+        <entry key="ENGLISH" value="3752" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
