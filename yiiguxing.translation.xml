@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="workspace Status Map" />
+      <item value="Contract Customer" />
+      <item value="get Contract Pay Name" />
+      <item value="find Parent" />
+      <item value="find Cancel" />
+      <item value="move Invalid Contract Bill" />
+      <item value="update Contract Type E Name" />
+      <item value="scc change" />
+      <item value="generate" />
+      <item value="find By Work Space Id" />
+      <item value="check Month Rent Amt" />
+      <item value="check Contract Date" />
+      <item value="generate Contract Bill" />
       <item value="Web Security Config" />
       <item value="很抱歉" />
       <item value="预定失败" />
@@ -38,24 +51,11 @@
       <item value="receiver" />
       <item value="unique" />
       <item value="唯一" />
-      <item value="temp Unique List" />
-      <item value="temp Union List" />
-      <item value="done List" />
-      <item value="is Exists OA Todo" />
-      <item value="Undeclared variable: todo_instance_targets_bak" />
-      <item value="exec" />
-      <item value="Cannot allocate memory" />
-      <item value="union" />
-      <item value="constraint" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project todo-system: Compilation failure&#10;[ERROR]" />
-      <item value="Final Memory:" />
-      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch.&#10;[ERROR] Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="For more information about the errors and possible solutions, please read the following articles:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3664" />
-        <entry key="ENGLISH" value="3710" />
+        <entry key="CHINESE" value="3681" />
+        <entry key="ENGLISH" value="3725" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
