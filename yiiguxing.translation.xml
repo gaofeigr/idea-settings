@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="track" />
       <item value="contract Amount Total" />
       <item value="standard Amount Total" />
       <item value="deposit" />
@@ -50,7 +51,6 @@
       <item value="check Contract Date" />
       <item value="set Full Pay Name" />
       <item value="get Contract Customer" />
-      <item value="find By Id" />
     </histories>
     <option name="languageScores">
       <map>
