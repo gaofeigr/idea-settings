@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Required request body is missing:" />
       <item value="serial Version UID" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near" />
       <item value="comment" />
@@ -50,12 +51,11 @@
       <item value="first Month Rent Amt" />
       <item value="channel Service Amt" />
       <item value="Api Implicit Param" />
-      <item value="Api Implicit Params" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3763" />
-        <entry key="ENGLISH" value="3806" />
+        <entry key="CHINESE" value="3764" />
+        <entry key="ENGLISH" value="3807" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
