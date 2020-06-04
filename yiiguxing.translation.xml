@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment" />
+      <item value="contractbill" />
       <item value="primary" />
       <item value="mark" />
       <item value="remark" />
@@ -49,13 +51,11 @@
       <item value="Api Implicit Params" />
       <item value="get Authentication Provider" />
       <item value="authentication Entry Point" />
-      <item value="Next Login Url Authentication Entry Point" />
-      <item value="Next Expired Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3758" />
-        <entry key="ENGLISH" value="3801" />
+        <entry key="CHINESE" value="3761" />
+        <entry key="ENGLISH" value="3804" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
