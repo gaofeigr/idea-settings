@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <histories>
       <item value="contract item gift" />
+      <item value="charge unit id" />
+      <item value="service type id" />
+      <item value="buy service type id" />
+      <item value="service qty" />
+      <item value="Qty" />
+      <item value="Service Qty" />
+      <item value="e" />
+      <item value="Service Type Id" />
       <item value="contract gift item" />
       <item value="gift" />
       <item value="合同赠送项目" />
@@ -43,19 +51,11 @@
       <item value="deposit" />
       <item value="Big Decimal" />
       <item value="move In Date" />
-      <item value="sign Date" />
-      <item value="end Date" />
-      <item value="start Date" />
-      <item value="space List" />
-      <item value="ue" />
-      <item value="WORKSPACE STATUS EMPTY" />
-      <item value="CONTRACT STATUS TERMINATE" />
-      <item value="followup User Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3775" />
-        <entry key="ENGLISH" value="3823" />
+        <entry key="CHINESE" value="3794" />
+        <entry key="ENGLISH" value="3842" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
