@@ -1,7 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gift" />
       <item value="contract item gift" />
+      <item value="产品" />
+      <item value="contract Item List" />
+      <item value="space List" />
+      <item value="a" />
+      <item value="contract Month Rent Free List" />
+      <item value="item gift" />
+      <item value="itemgift" />
+      <item value="contract Note Item Service" />
+      <item value="Description" />
       <item value="charge unit id" />
       <item value="service type id" />
       <item value="buy service type id" />
@@ -11,7 +21,6 @@
       <item value="e" />
       <item value="Service Type Id" />
       <item value="contract gift item" />
-      <item value="gift" />
       <item value="合同赠送项目" />
       <item value="contract giving item" />
       <item value="giving" />
@@ -42,20 +51,11 @@
       <item value="项" />
       <item value="备注" />
       <item value="contract comment item" />
-      <item value="contract remarks" />
-      <item value="permissions ids" />
-      <item value="door customer members" />
-      <item value="track" />
-      <item value="contract Amount Total" />
-      <item value="standard Amount Total" />
-      <item value="deposit" />
-      <item value="Big Decimal" />
-      <item value="move In Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3794" />
-        <entry key="ENGLISH" value="3842" />
+        <entry key="CHINESE" value="3805" />
+        <entry key="ENGLISH" value="3854" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
