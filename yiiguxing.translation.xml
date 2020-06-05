@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contract item gift" />
+      <item value="contract gift item" />
+      <item value="gift" />
+      <item value="合同赠送项目" />
+      <item value="contract giving item" />
+      <item value="giving" />
+      <item value="赠送" />
+      <item value="give" />
+      <item value="presentation" />
+      <item value="donate" />
+      <item value="Presented" />
+      <item value="contractitem" />
       <item value="request" />
       <item value="get Input Stream" />
       <item value="select Contract Note Item Field" />
@@ -39,23 +51,11 @@
       <item value="WORKSPACE STATUS EMPTY" />
       <item value="CONTRACT STATUS TERMINATE" />
       <item value="followup User Name" />
-      <item value="tank" />
-      <item value="开发" />
-      <item value="生产" />
-      <item value="prod" />
-      <item value="环境配置文件" />
-      <item value="project Id" />
-      <item value="contract Id" />
-      <item value="creator Name" />
-      <item value="updated Time" />
-      <item value="created Time" />
-      <item value="contract No" />
-      <item value="customer Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3769" />
-        <entry key="ENGLISH" value="3813" />
+        <entry key="CHINESE" value="3775" />
+        <entry key="ENGLISH" value="3823" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
