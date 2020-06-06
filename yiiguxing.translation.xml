@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="project register addr config" />
+      <item value="visitor register" />
+      <item value="注册地址" />
       <item value="original Amount" />
       <item value="deposit Num" />
       <item value="check Three Month Date" />
@@ -48,14 +51,11 @@
       <item value="contract giving item" />
       <item value="giving" />
       <item value="赠送" />
-      <item value="give" />
-      <item value="presentation" />
-      <item value="donate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3828" />
-        <entry key="ENGLISH" value="3877" />
+        <entry key="CHINESE" value="3830" />
+        <entry key="ENGLISH" value="3880" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
