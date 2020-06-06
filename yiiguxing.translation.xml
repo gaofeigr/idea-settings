@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Three Month Date" />
+      <item value="check Rent Bonus" />
+      <item value="is Check Rent Bonus Flag" />
+      <item value="related Flag" />
+      <item value="original" />
       <item value="full Pay Name" />
       <item value="Contract Customer" />
       <item value="星期六" />
@@ -46,16 +51,11 @@
       <item value="donate" />
       <item value="Presented" />
       <item value="contractitem" />
-      <item value="request" />
-      <item value="get Input Stream" />
-      <item value="select Contract Note Item Field" />
-      <item value="字段" />
-      <item value="select Contract Note Item Filed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3819" />
-        <entry key="ENGLISH" value="3871" />
+        <entry key="CHINESE" value="3824" />
+        <entry key="ENGLISH" value="3876" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="25" />
         <entry key="SPANISH" value="10" />
