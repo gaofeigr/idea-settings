@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buy project service type id" />
+      <item value="product Id" />
+      <item value="contract item gift" />
+      <item value="note" />
+      <item value="contract note item project auth" />
+      <item value="contract note item" />
+      <item value="serial Version UID" />
+      <item value="Contract Item Gift" />
       <item value="beautify" />
       <item value="month Rent Amt" />
       <item value="Editor is already disposed" />
@@ -41,21 +49,13 @@
       <item value="charge unit id" />
       <item value="productId" />
       <item value="gift" />
-      <item value="contract item gift" />
       <item value="产品" />
       <item value="contract Item List" />
-      <item value="space List" />
-      <item value="a" />
-      <item value="contract Month Rent Free List" />
-      <item value="item gift" />
-      <item value="itemgift" />
-      <item value="contract Note Item Service" />
-      <item value="Description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3839" />
-        <entry key="ENGLISH" value="3890" />
+        <entry key="CHINESE" value="3848" />
+        <entry key="ENGLISH" value="3899" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
