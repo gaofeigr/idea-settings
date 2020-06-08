@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Project Register Addr Config Controller" />
       <item value="Project Register Addr Config" />
       <item value="project id" />
       <item value="Contract Item Gift Config" />
@@ -50,12 +51,11 @@
       <item value="unit" />
       <item value="service qty" />
       <item value="charge unit id" />
-      <item value="productId" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3852" />
-        <entry key="ENGLISH" value="3902" />
+        <entry key="CHINESE" value="3853" />
+        <entry key="ENGLISH" value="3903" />
         <entry key="FRENCH" value="44" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
