@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Total Phase Date" />
       <item value="Phase" />
       <item value="get Total Phase" />
       <item value="总的" />
@@ -50,12 +51,11 @@
       <item value="floor" />
       <item value="楼层" />
       <item value="terminate process" />
-      <item value="disconnect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3893" />
-        <entry key="ENGLISH" value="3950" />
+        <entry key="CHINESE" value="3894" />
+        <entry key="ENGLISH" value="3951" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
