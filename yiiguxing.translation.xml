@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repeat" />
+      <item value="重复" />
+      <item value="plex" />
+      <item value="重叠" />
+      <item value="cross" />
+      <item value="交叉" />
+      <item value="overlap" />
+      <item value="end Date 2" />
+      <item value="date Interval Contains Current Month" />
+      <item value="check Date Interval Contains Current Month" />
+      <item value="检查日期间隔包含现在月份" />
+      <item value="check Date Interval Contains Now Month" />
+      <item value="包含" />
+      <item value="check Date Interval Contians Now Month" />
+      <item value="check Date Interval Contians" />
+      <item value="interval" />
+      <item value="区间" />
       <item value="Is Valid" />
       <item value="Is Val Id" />
       <item value="is Custom Deposit" />
@@ -27,7 +44,6 @@
       <item value="end Date Overlap" />
       <item value="start Date Overlap" />
       <item value="new Date Overlap" />
-      <item value="重叠" />
       <item value="join" />
       <item value="日期重叠" />
       <item value="get Total Phase Date" />
@@ -35,27 +51,11 @@
       <item value="get Total Phase" />
       <item value="总的" />
       <item value="统计" />
-      <item value="Contract Month Rent Free" />
-      <item value="Work Space" />
-      <item value="work Space Desk Nos" />
-      <item value="Work Space Desk" />
-      <item value="p" />
-      <item value="original" />
-      <item value="find By Section" />
-      <item value="contract Month Rent Free List" />
-      <item value="lora" />
-      <item value="charge Unit Id" />
-      <item value="validate Is Idle" />
-      <item value="validate" />
-      <item value="set Is Idle" />
-      <item value="validate Bind Parameter" />
-      <item value="vaildate" />
-      <item value="get Is Idle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3914" />
-        <entry key="ENGLISH" value="3975" />
+        <entry key="CHINESE" value="3921" />
+        <entry key="ENGLISH" value="3989" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
