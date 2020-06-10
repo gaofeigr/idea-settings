@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql Session" />
+      <item value="select List" />
+      <item value="get Namespace" />
+      <item value="project Id" />
+      <item value="Integer" />
+      <item value="all Work Space List" />
       <item value="repeat" />
       <item value="重复" />
       <item value="plex" />
@@ -45,17 +51,11 @@
       <item value="start Date Overlap" />
       <item value="new Date Overlap" />
       <item value="join" />
-      <item value="日期重叠" />
-      <item value="get Total Phase Date" />
-      <item value="Phase" />
-      <item value="get Total Phase" />
-      <item value="总的" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3921" />
-        <entry key="ENGLISH" value="3989" />
+        <entry key="CHINESE" value="3930" />
+        <entry key="ENGLISH" value="3998" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
