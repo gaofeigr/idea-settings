@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Custom Deposit" />
       <item value="Work Space Status Id" />
       <item value="find Empty Spec Total" />
       <item value="get Floor" />
@@ -50,12 +51,11 @@
       <item value="get Is Idle" />
       <item value="bind" />
       <item value="unbind" />
-      <item value="unbind Contract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3911" />
-        <entry key="ENGLISH" value="3972" />
+        <entry key="CHINESE" value="3912" />
+        <entry key="ENGLISH" value="3973" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
