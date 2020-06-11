@@ -1,12 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
+      <item value="减去" />
+      <item value="remainder" />
+      <item value="减" />
+      <item value="multiply" />
       <item value="getrent Item Free Price" />
       <item value="real Price" />
       <item value="set Scale" />
       <item value="contract Amt Total" />
       <item value="standard Amount Total" />
-      <item value="subtract" />
       <item value="比较" />
       <item value="重叠" />
       <item value="special" />
@@ -31,7 +35,6 @@
       <item value="phase Start Date Str To Real Amt" />
       <item value="compute If Absent" />
       <item value="phase Real Amt" />
-      <item value="multiply" />
       <item value="spec" />
       <item value="add Init" />
       <item value="set Rent Free Amt Total" />
@@ -48,14 +51,11 @@
       <item value="start Date Overlap" />
       <item value="validate Is Idle" />
       <item value="bind Register Addr" />
-      <item value="add Contract For Work Space Type" />
-      <item value="add Contract Work Space Type" />
-      <item value="Cannot perform refactoring. Selected block should represent a set of statements or an expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4007" />
-        <entry key="ENGLISH" value="4079" />
+        <entry key="CHINESE" value="4011" />
+        <entry key="ENGLISH" value="4085" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
