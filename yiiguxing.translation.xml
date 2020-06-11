@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real Price" />
+      <item value="standard Price" />
       <item value="init Contract Phasr Price" />
       <item value="phase Start Date Str To Real Amt" />
       <item value="compute If Absent" />
@@ -49,13 +51,11 @@
       <item value="select List" />
       <item value="get Namespace" />
       <item value="project Id" />
-      <item value="Integer" />
-      <item value="all Work Space List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3988" />
-        <entry key="ENGLISH" value="4053" />
+        <entry key="CHINESE" value="3990" />
+        <entry key="ENGLISH" value="4055" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
