@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比较" />
+      <item value="重叠" />
+      <item value="special" />
+      <item value="特殊" />
+      <item value="rent Free" />
+      <item value="rent" />
+      <item value="convention" />
+      <item value="常规" />
+      <item value="General" />
+      <item value="rule" />
+      <item value="溢出" />
+      <item value="CONTRACT DEPOSIT NUM INVALID" />
       <item value="super hot desk" />
       <item value="has Flush" />
       <item value="charge Unit Enum" />
@@ -24,7 +36,6 @@
       <item value="set Original Amount" />
       <item value="date Interval Overlap" />
       <item value="overlap" />
-      <item value="重叠" />
       <item value="date Interval Contains" />
       <item value="Interval" />
       <item value="date Interval Contains Current Month" />
@@ -40,22 +51,11 @@
       <item value="contract Charge Unit" />
       <item value="validate" />
       <item value="Register" />
-      <item value="action Item Contract" />
-      <item value="product Type Enum" />
-      <item value="Product Type Enum" />
-      <item value="REQUIRED" />
-      <item value="Propagation" />
-      <item value="agation.REQUIRED) public void saveV2(ContractAddRequestVo contractAddRequestVo) {" />
-      <item value="propagation" />
-      <item value="rollback For" />
-      <item value="Applet Exception" />
-      <item value="pre Phase End Date" />
-      <item value="There is one conflict left unprocessed.&#10;Are you sure you want to save changes and finish merging?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3998" />
-        <entry key="ENGLISH" value="4063" />
+        <entry key="CHINESE" value="4000" />
+        <entry key="ENGLISH" value="4072" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
