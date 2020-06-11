@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spec" />
       <item value="add Init" />
       <item value="compute If Absent" />
       <item value="set Rent Free Amt Total" />
@@ -50,12 +51,11 @@
       <item value="重复" />
       <item value="plex" />
       <item value="cross" />
-      <item value="交叉" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3982" />
-        <entry key="ENGLISH" value="4047" />
+        <entry key="CHINESE" value="3983" />
+        <entry key="ENGLISH" value="4048" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
