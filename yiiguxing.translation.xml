@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Contract For Work Space Type" />
+      <item value="add Contract Work Space Type" />
       <item value="Cannot perform refactoring. Selected block should represent a set of statements or an expression" />
       <item value="first Phase Start Date Str" />
       <item value="contract Charge Unit" />
@@ -49,8 +51,6 @@
       <item value="is Custom Deposit" />
       <item value="Work Space Status Id" />
       <item value="find Empty Spec Total" />
-      <item value="get Floor" />
-      <item value="View's SELECT contains a variable or parameter" />
     </histories>
     <option name="languageScores">
       <map>
