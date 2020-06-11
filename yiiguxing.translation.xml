@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Flush" />
       <item value="charge Unit Enum" />
       <item value="init Contract And Vo" />
       <item value="init Contract By Vo" />
@@ -50,12 +51,11 @@
       <item value="pre Phase End Date" />
       <item value="There is one conflict left unprocessed.&#10;Are you sure you want to save changes and finish merging?" />
       <item value="all Repeat" />
-      <item value="end Date Repeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3995" />
-        <entry key="ENGLISH" value="4060" />
+        <entry key="CHINESE" value="3996" />
+        <entry key="ENGLISH" value="4061" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
