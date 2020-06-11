@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Customer Company Service Impl" />
       <item value="subtract" />
       <item value="减去" />
       <item value="remainder" />
@@ -50,12 +51,11 @@
       <item value="end Date Overlap" />
       <item value="start Date Overlap" />
       <item value="validate Is Idle" />
-      <item value="bind Register Addr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4011" />
-        <entry key="ENGLISH" value="4085" />
+        <entry key="CHINESE" value="4012" />
+        <entry key="ENGLISH" value="4086" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
