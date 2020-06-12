@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="soft" />
+      <item value="hard" />
+      <item value="keep" />
+      <item value="mixed" />
+      <item value="No merged conflicts" />
+      <item value="remote-tracking" />
+      <item value="Merge remote-tracking branch 'origin/dev2.0' into dev2.0 ZhangGuangYuang 2020-6-12 17:31" />
       <item value="2020-06-12 18:01:19.789 ERROR [main] s.d.s.w.s.ApiDescriptionReader - Skipping process path[/move/member/update/email/v2], method[updateEmail] as it has an error." />
       <item value="Skipping process path" />
       <item value="toast" />
@@ -44,13 +51,6 @@
       <item value="set Rent Free Amt Total" />
       <item value="set Contract Amount Total" />
       <item value="set Standard Amount Total" />
-      <item value="set Original Amount" />
-      <item value="date Interval Overlap" />
-      <item value="overlap" />
-      <item value="date Interval Contains" />
-      <item value="Interval" />
-      <item value="date Interval Contains Current Month" />
-      <item value="all Overlap" />
     </histories>
     <option name="languageScores">
       <map>
