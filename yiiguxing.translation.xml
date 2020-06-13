@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stack Overflow Error" />
       <item value="个" />
       <item value="update One Field" />
       <item value="soft" />
@@ -50,12 +51,11 @@
       <item value="phase Real Amt" />
       <item value="spec" />
       <item value="add Init" />
-      <item value="set Rent Free Amt Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4015" />
-        <entry key="ENGLISH" value="4090" />
+        <entry key="CHINESE" value="4016" />
+        <entry key="ENGLISH" value="4091" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
