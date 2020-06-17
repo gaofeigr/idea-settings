@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Related Contract Id" />
       <item value="count New Contract Cnt By Condition" />
       <item value="Contract Query Response Vo" />
       <item value="project Id" />
@@ -50,12 +51,11 @@
       <item value="charge Unit Enum" />
       <item value="init Contract And Vo" />
       <item value="init Contract By Vo" />
-      <item value="by" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4024" />
-        <entry key="ENGLISH" value="4098" />
+        <entry key="CHINESE" value="4025" />
+        <entry key="ENGLISH" value="4099" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
