@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discount Rate" />
       <item value="find Phase By Contract Id" />
       <item value="fill Mail Map By Data" />
       <item value="fill" />
@@ -50,12 +51,11 @@
       <item value="standard Amount Total" />
       <item value="比较" />
       <item value="重叠" />
-      <item value="special" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4040" />
-        <entry key="ENGLISH" value="4114" />
+        <entry key="CHINESE" value="4041" />
+        <entry key="ENGLISH" value="4115" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
