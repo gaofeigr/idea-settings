@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Contract Detail Info By Id" />
+      <item value="find Contract Basic Info By Id" />
       <item value="update Contract Type E Name" />
       <item value="Sales Manage Result Map" />
       <item value="get Rescission Date" />
@@ -49,13 +51,11 @@
       <item value="rent Free" />
       <item value="rent" />
       <item value="convention" />
-      <item value="常规" />
-      <item value="General" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4033" />
-        <entry key="ENGLISH" value="4107" />
+        <entry key="CHINESE" value="4035" />
+        <entry key="ENGLISH" value="4109" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
