@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="communications link failure" />
+      <item value="could not get table metadata" />
+      <item value="first Pay Bill" />
+      <item value="first Performance Bond" />
+      <item value="first Performance" />
       <item value="rent Free End Date" />
       <item value="channel Service Amt Ratio" />
       <item value="Commission Rate Config" />
@@ -46,16 +51,11 @@
       <item value="RJU SPACE ID" />
       <item value="DB Context Holder" />
       <item value="has Limit" />
-      <item value="find No Page" />
-      <item value="Stack Overflow Error" />
-      <item value="个" />
-      <item value="update One Field" />
-      <item value="soft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4067" />
-        <entry key="ENGLISH" value="4142" />
+        <entry key="CHINESE" value="4071" />
+        <entry key="ENGLISH" value="4146" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
