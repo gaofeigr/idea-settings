@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel Service Amt Ratio" />
+      <item value="Commission Rate Config" />
+      <item value="get Base Channel Service Amt" />
+      <item value="get Contract Amount Total" />
+      <item value="get Commision Rate" />
       <item value="The option --database has been used. It may filter parts of transactions, but will include the GTIDs in any case. If you want to exclude or include transactions, you should use the options --exclude-gtids or --include-gtids, respectively, instead." />
       <item value="WAITING FOR THIS LOCK TO BE GRANTED: RECORD LOCKS space id 2239 page no 8 n bits 240 index GEN_CLUST_INDEX of table `todo`.`todo_instance_targets` trx id 7091488 lock_mode X locks rec but not gap waiting Record lock, heap no 154 PHYSICAL RECORD: n_fields 5; compact format; info bits 0  0: len 6; hex 000000008461; asc      a;;  1: len 6; hex 0000006c3f29; asc    l?);;  2: len 7; hex ad0000003907a3; asc     9  ;;  3: len 8; hex 8000000000015ff3; asc       _ ;;  4: len 10; hex 7a68616f686f6e67626f; asc zhaohongbo;;" />
       <item value="Per second averages calculated from the last 11 seconds" />
@@ -46,16 +51,11 @@
       <item value="update One Field" />
       <item value="soft" />
       <item value="hard" />
-      <item value="keep" />
-      <item value="mixed" />
-      <item value="No merged conflicts" />
-      <item value="remote-tracking" />
-      <item value="Merge remote-tracking branch 'origin/dev2.0' into dev2.0 ZhangGuangYuang 2020-6-12 17:31" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4061" />
-        <entry key="ENGLISH" value="4136" />
+        <entry key="CHINESE" value="4066" />
+        <entry key="ENGLISH" value="4141" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
