@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer Address" />
       <item value="communications link failure" />
       <item value="could not get table metadata" />
       <item value="first Pay Bill" />
@@ -50,12 +51,11 @@
       <item value="Super HotDesk" />
       <item value="RJU SPACE ID" />
       <item value="DB Context Holder" />
-      <item value="has Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4071" />
-        <entry key="ENGLISH" value="4146" />
+        <entry key="CHINESE" value="4072" />
+        <entry key="ENGLISH" value="4147" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
