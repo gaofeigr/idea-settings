@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enough" />
+      <item value="balance" />
+      <item value="balance Enough" />
+      <item value="余额充足" />
+      <item value="deposit" />
+      <item value="first Service Charge" />
+      <item value="cash Pledge" />
+      <item value="service Charge Balance" />
+      <item value="service Charge" />
+      <item value="Big Decimal" />
+      <item value="Customer Account Balance Response Vo" />
+      <item value="get Account Balance" />
+      <item value="账户余额" />
+      <item value="get Customer Balance" />
+      <item value="the Balance Of" />
       <item value="CONTRACT FILE Other size" />
       <item value="CONTRACT FILE OTRHER" />
       <item value="Utility class for HTML form decoding. This class contains static methods * for decoding a String from the &lt;CODE&gt;application/x-www-form-urlencoded&lt;/CODE&gt; * MIME format." />
@@ -36,26 +51,11 @@
       <item value="eternal" />
       <item value="overflow To Disk" />
       <item value="time Between Eviction Runs Millis" />
-      <item value="reception data" />
-      <item value="service Standard Amt" />
-      <item value="divide" />
-      <item value="Division undefined" />
-      <item value="ROUND HALF UP" />
-      <item value="set Scale" />
-      <item value="pow" />
-      <item value="Exception in thread &quot;main&quot; java.lang.ArithmeticException: Non-terminating decimal expansion; no exact representable decimal result." />
-      <item value="除法" />
-      <item value="除" />
-      <item value="Contract Query Response Vo" />
-      <item value="discount Rate" />
-      <item value="find Phase By Contract Id" />
-      <item value="fill Mail Map By Data" />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4087" />
-        <entry key="ENGLISH" value="4162" />
+        <entry key="CHINESE" value="4102" />
+        <entry key="ENGLISH" value="4179" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
