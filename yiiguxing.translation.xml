@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FIND IN SET" />
       <item value="get Full Address Info By Customer" />
       <item value="cux administration region" />
       <item value="is security enabled" />
@@ -50,12 +51,11 @@
       <item value="Undeclared Throwable Exception" />
       <item value="Related Contract Id" />
       <item value="count New Contract Cnt By Condition" />
-      <item value="project Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4074" />
-        <entry key="ENGLISH" value="4149" />
+        <entry key="CHINESE" value="4075" />
+        <entry key="ENGLISH" value="4150" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
