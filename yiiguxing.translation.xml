@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot find symbol" />
       <item value="The error occurred while setting parameters" />
       <item value="Undeclared Throwable Exception" />
       <item value="Contract Bill Response Vo" />
@@ -50,7 +51,6 @@
       <item value="first Performance" />
       <item value="rent Free End Date" />
       <item value="channel Service Amt Ratio" />
-      <item value="Commission Rate Config" />
     </histories>
     <option name="languageScores">
       <map>
