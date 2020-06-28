@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependency" />
+      <item value="FIXME change it to the project's website" />
       <item value="multiply" />
       <item value="加" />
       <item value="求和" />
@@ -49,13 +51,11 @@
       <item value="customer Address" />
       <item value="communications link failure" />
       <item value="could not get table metadata" />
-      <item value="first Pay Bill" />
-      <item value="first Performance Bond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4112" />
-        <entry key="ENGLISH" value="4192" />
+        <entry key="CHINESE" value="4114" />
+        <entry key="ENGLISH" value="4194" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
