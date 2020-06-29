@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a" />
+      <item value="lounge" />
       <item value="property" />
       <item value="dependency" />
       <item value="FIXME change it to the project's website" />
@@ -49,8 +51,6 @@
       <item value="get Full Address Info By Customer" />
       <item value="cux administration region" />
       <item value="is security enabled" />
-      <item value="customer Address" />
-      <item value="communications link failure" />
     </histories>
     <option name="languageScores">
       <map>
