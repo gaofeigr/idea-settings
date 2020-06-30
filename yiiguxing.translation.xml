@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Init" />
+      <item value="get Extension Init Info" />
       <item value="account activity" />
       <item value="Mapped Statements collection does not contain value for com.beeplus.next.custom.entity.OutEntrySheet.findAccountAmtByCustomerI" />
       <item value="account amt customer v" />
@@ -49,13 +51,11 @@
       <item value="账户余额" />
       <item value="get Customer Balance" />
       <item value="the Balance Of" />
-      <item value="CONTRACT FILE Other size" />
-      <item value="CONTRACT FILE OTRHER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4134" />
-        <entry key="ENGLISH" value="4212" />
+        <entry key="CHINESE" value="4136" />
+        <entry key="ENGLISH" value="4214" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="28" />
         <entry key="SPANISH" value="10" />
