@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status Total Number" />
+      <item value="total Number" />
       <item value="lt" />
       <item value="commission" />
       <item value="总数" />
@@ -49,13 +51,11 @@
       <item value="Bill Type" />
       <item value="栈溢出" />
       <item value="balance Enough" />
-      <item value="unsigned Long Compare" />
-      <item value="need Increment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4147" />
-        <entry key="ENGLISH" value="4224" />
+        <entry key="CHINESE" value="4149" />
+        <entry key="ENGLISH" value="4226" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
