@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lt" />
       <item value="commission" />
       <item value="总数" />
       <item value="contract Status Statistics" />
@@ -50,11 +51,10 @@
       <item value="balance Enough" />
       <item value="unsigned Long Compare" />
       <item value="need Increment" />
-      <item value="set Service Charge Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4146" />
+        <entry key="CHINESE" value="4147" />
         <entry key="ENGLISH" value="4224" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
