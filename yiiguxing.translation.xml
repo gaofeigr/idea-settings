@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="张鹭" />
+      <item value="sendedemaillog" />
       <item value="note is optional" />
       <item value="rju" />
       <item value="note" />
@@ -49,13 +51,11 @@
       <item value="a" />
       <item value="lounge" />
       <item value="property" />
-      <item value="dependency" />
-      <item value="FIXME change it to the project's website" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4155" />
-        <entry key="ENGLISH" value="4232" />
+        <entry key="CHINESE" value="4156" />
+        <entry key="ENGLISH" value="4233" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
