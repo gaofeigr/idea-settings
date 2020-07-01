@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all Registration Addr List" />
+      <item value="all Registration List" />
+      <item value="Autowired" />
+      <item value="Professional" />
+      <item value="pmp" />
       <item value="status Total Number" />
       <item value="total Number" />
       <item value="lt" />
@@ -46,16 +51,11 @@
       <item value="cannot find symbol" />
       <item value="The error occurred while setting parameters" />
       <item value="Undeclared Throwable Exception" />
-      <item value="Contract Bill Response Vo" />
-      <item value="Bill" />
-      <item value="Bill Type" />
-      <item value="栈溢出" />
-      <item value="balance Enough" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4149" />
-        <entry key="ENGLISH" value="4226" />
+        <entry key="CHINESE" value="4152" />
+        <entry key="ENGLISH" value="4228" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
