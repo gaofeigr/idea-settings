@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tracker Name" />
       <item value="all Registration Addr List" />
       <item value="all Registration List" />
       <item value="Autowired" />
@@ -50,12 +51,11 @@
       <item value="求和" />
       <item value="cannot find symbol" />
       <item value="The error occurred while setting parameters" />
-      <item value="Undeclared Throwable Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4152" />
-        <entry key="ENGLISH" value="4228" />
+        <entry key="CHINESE" value="4154" />
+        <entry key="ENGLISH" value="4230" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
