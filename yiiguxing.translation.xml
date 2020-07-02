@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Appellation Name" />
+      <item value="appellation Name" />
+      <item value="bcc" />
       <item value="Sys Notify Email Context" />
       <item value="sysnotifycontext" />
       <item value="notify" />
@@ -48,15 +51,12 @@
       <item value="Init" />
       <item value="get Extension Init Info" />
       <item value="account activity" />
-      <item value="Mapped Statements collection does not contain value for com.beeplus.next.custom.entity.OutEntrySheet.findAccountAmtByCustomerI" />
-      <item value="account amt customer v" />
-      <item value="service Charge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4167" />
-        <entry key="ENGLISH" value="4245" />
-        <entry key="FRENCH" value="45" />
+        <entry key="CHINESE" value="4171" />
+        <entry key="ENGLISH" value="4248" />
+        <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
       </map>
