@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="saas" />
+      <item value="soft" />
       <item value="Use server cipher suite during handshake" />
       <item value="乘" />
       <item value="set Scale" />
@@ -49,8 +51,6 @@
       <item value="amount" />
       <item value="Debt" />
       <item value="check Is Debt 1" />
-      <item value="tip" />
-      <item value="first Service Bill" />
     </histories>
     <option name="languageScores">
       <map>
