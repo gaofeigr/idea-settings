@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回收" />
+      <item value="FINISH expire CONTENT CC" />
+      <item value="到期" />
       <item value="PASS APPROVAL TITLE EMAIL CREATOR" />
       <item value="model name" />
       <item value="作废" />
@@ -48,14 +51,11 @@
       <item value="rju" />
       <item value="note" />
       <item value="备注" />
-      <item value="is optional" />
-      <item value="tracker Name" />
-      <item value="all Registration Addr List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4191" />
-        <entry key="ENGLISH" value="4273" />
+        <entry key="CHINESE" value="4194" />
+        <entry key="ENGLISH" value="4276" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
