@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sys Notify Email Context" />
       <item value="sysnotifycontext" />
       <item value="notify" />
       <item value="native" />
@@ -50,12 +51,11 @@
       <item value="Mapped Statements collection does not contain value for com.beeplus.next.custom.entity.OutEntrySheet.findAccountAmtByCustomerI" />
       <item value="account amt customer v" />
       <item value="service Charge" />
-      <item value="overdue Fine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4166" />
-        <entry key="ENGLISH" value="4244" />
+        <entry key="CHINESE" value="4167" />
+        <entry key="ENGLISH" value="4245" />
         <entry key="FRENCH" value="45" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
