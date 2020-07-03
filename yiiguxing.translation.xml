@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source Title" />
+      <item value="source Content" />
+      <item value="build Email Notify Str" />
       <item value="回收" />
       <item value="FINISH expire CONTENT CC" />
       <item value="到期" />
@@ -48,14 +51,11 @@
       <item value="张鹭" />
       <item value="sendedemaillog" />
       <item value="note is optional" />
-      <item value="rju" />
-      <item value="note" />
-      <item value="备注" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4194" />
-        <entry key="ENGLISH" value="4276" />
+        <entry key="CHINESE" value="4197" />
+        <entry key="ENGLISH" value="4279" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
