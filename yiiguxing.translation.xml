@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Future" />
+      <item value="a Future representing pending completion of the task" />
+      <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down." />
+      <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
+      <item value="Submits a value-returning task for execution and returns a * Future representing the pending results of the task. The * Future's {@code get} method will return the task's result upon * successful completion." />
       <item value="notify general template" />
       <item value="general template" />
       <item value="source Title" />
@@ -46,16 +51,11 @@
       <item value="set Scale" />
       <item value="move Point Right" />
       <item value="除" />
-      <item value="the context to use." />
-      <item value="Math Context" />
-      <item value="divide" />
-      <item value="Non-terminating decimal expansion; no exact representable decimal result." />
-      <item value="张鹭" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4199" />
-        <entry key="ENGLISH" value="4281" />
+        <entry key="CHINESE" value="4204" />
+        <entry key="ENGLISH" value="4286" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
