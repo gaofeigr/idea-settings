@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Env URL" />
+      <item value="pre" />
+      <item value="prod" />
       <item value="find Contract Detail Info By Id" />
       <item value="approve" />
       <item value="Accept" />
@@ -48,14 +51,11 @@
       <item value="notify" />
       <item value="native" />
       <item value="Wakes up a single thread that is waiting on this object's * monitor. If any threads are waiting on this object, one of them * is chosen to be awakened. The choice is arbitrary and occurs at * the discretion of the implementation. A thread waits on an object's * monitor by calling one of the {@code wait} methods." />
-      <item value="saas" />
-      <item value="soft" />
-      <item value="Use server cipher suite during handshake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4209" />
-        <entry key="ENGLISH" value="4291" />
+        <entry key="CHINESE" value="4212" />
+        <entry key="ENGLISH" value="4293" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
