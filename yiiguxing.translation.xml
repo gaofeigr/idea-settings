@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment Process" />
+      <item value="Comment" />
+      <item value="Inst Activity" />
+      <item value="proc Inst Activity Comment Dao" />
       <item value="Utility Class" />
       <item value="util" />
       <item value="dec" />
@@ -47,15 +51,11 @@
       <item value="审批" />
       <item value="常量" />
       <item value="get Appellation Name" />
-      <item value="appellation Name" />
-      <item value="bcc" />
-      <item value="Sys Notify Email Context" />
-      <item value="sysnotifycontext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4214" />
-        <entry key="ENGLISH" value="4294" />
+        <entry key="CHINESE" value="4218" />
+        <entry key="ENGLISH" value="4298" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
