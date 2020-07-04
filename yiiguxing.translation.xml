@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dec" />
       <item value="get Env URL" />
       <item value="pre" />
       <item value="prod" />
@@ -50,7 +51,6 @@
       <item value="sysnotifycontext" />
       <item value="notify" />
       <item value="native" />
-      <item value="Wakes up a single thread that is waiting on this object's * monitor. If any threads are waiting on this object, one of them * is chosen to be awakened. The choice is arbitrary and occurs at * the discretion of the implementation. A thread waits on an object's * monitor by calling one of the {@code wait} methods." />
     </histories>
     <option name="languageScores">
       <map>
