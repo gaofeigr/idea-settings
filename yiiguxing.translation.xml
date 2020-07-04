@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Utility Class" />
+      <item value="util" />
       <item value="dec" />
       <item value="get Env URL" />
       <item value="pre" />
@@ -49,13 +51,11 @@
       <item value="bcc" />
       <item value="Sys Notify Email Context" />
       <item value="sysnotifycontext" />
-      <item value="notify" />
-      <item value="native" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4212" />
-        <entry key="ENGLISH" value="4293" />
+        <entry key="CHINESE" value="4214" />
+        <entry key="ENGLISH" value="4294" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
