@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mail" />
+      <item value="email" />
+      <item value="find Dests By Id" />
+      <item value="activities" />
       <item value="do Comment Callback" />
       <item value="comment Process" />
       <item value="contract comment" />
@@ -47,15 +51,11 @@
       <item value="approve Name" />
       <item value="operation Name" />
       <item value="process" />
-      <item value="拒绝" />
-      <item value="CONTRACT EMAIL TITLE PASS CREATOR" />
-      <item value="完成" />
-      <item value="审批" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4221" />
-        <entry key="ENGLISH" value="4301" />
+        <entry key="CHINESE" value="4225" />
+        <entry key="ENGLISH" value="4305" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
