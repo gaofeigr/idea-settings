@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
+      <item value="contract retrieve" />
+      <item value="contract EXPIRATION" />
+      <item value="contract Rescission" />
+      <item value="contract Sign" />
       <item value="broker Commission" />
       <item value="抄送" />
       <item value="contract cc config" />
@@ -46,16 +51,11 @@
       <item value="source Title" />
       <item value="source Content" />
       <item value="build Email Notify Str" />
-      <item value="回收" />
-      <item value="FINISH expire CONTENT CC" />
-      <item value="到期" />
-      <item value="PASS APPROVAL TITLE EMAIL CREATOR" />
-      <item value="model name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4241" />
-        <entry key="ENGLISH" value="4322" />
+        <entry key="CHINESE" value="4246" />
+        <entry key="ENGLISH" value="4327" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
