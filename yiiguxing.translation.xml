@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remaining Time Map" />
+      <item value="get Contract Remaining Time List" />
+      <item value="get Contract Remaining Time" />
+      <item value="get Contract Remaining" />
       <item value="remaining Day" />
       <item value="remaining Days" />
       <item value="remaining Month" />
@@ -47,15 +51,11 @@
       <item value="get Env URL" />
       <item value="pre" />
       <item value="prod" />
-      <item value="find Contract Detail Info By Id" />
-      <item value="approve" />
-      <item value="Accept" />
-      <item value="Sneaky Throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4254" />
-        <entry key="ENGLISH" value="4336" />
+        <entry key="CHINESE" value="4258" />
+        <entry key="ENGLISH" value="4340" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
