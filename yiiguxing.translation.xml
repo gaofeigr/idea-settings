@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="two Month" />
+      <item value="six Month" />
+      <item value="more Month" />
       <item value="get Contract Remaining Time List" />
       <item value="You can't specify target table 'teammember' for update in FROM clause" />
       <item value="remaining Time Map" />
@@ -48,14 +51,11 @@
       <item value="proc Inst Activity Comment Dao" />
       <item value="Utility Class" />
       <item value="util" />
-      <item value="dec" />
-      <item value="get Env URL" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4261" />
-        <entry key="ENGLISH" value="4343" />
+        <entry key="CHINESE" value="4264" />
+        <entry key="ENGLISH" value="4346" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
