@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remaining Day" />
+      <item value="remaining Days" />
+      <item value="remaining Month" />
+      <item value="remaining Months" />
+      <item value="remaining days" />
+      <item value="剩余天数" />
+      <item value="Range" />
+      <item value="month Range" />
       <item value="get CC User Email List" />
       <item value="select CC User Email List" />
       <item value="retrieve" />
@@ -43,19 +51,11 @@
       <item value="approve" />
       <item value="Accept" />
       <item value="Sneaky Throws" />
-      <item value="Future" />
-      <item value="a Future representing pending completion of the task" />
-      <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down." />
-      <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
-      <item value="Submits a value-returning task for execution and returns a * Future representing the pending results of the task. The * Future's {@code get} method will return the task's result upon * successful completion." />
-      <item value="notify general template" />
-      <item value="general template" />
-      <item value="source Title" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4248" />
-        <entry key="ENGLISH" value="4329" />
+        <entry key="CHINESE" value="4254" />
+        <entry key="ENGLISH" value="4336" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
