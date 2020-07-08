@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recycle" />
+      <item value="回收" />
+      <item value="Remaining" />
       <item value="two Month" />
       <item value="six Month" />
       <item value="more Month" />
@@ -48,14 +51,11 @@
       <item value="contract comment" />
       <item value="Comment" />
       <item value="Inst Activity" />
-      <item value="proc Inst Activity Comment Dao" />
-      <item value="Utility Class" />
-      <item value="util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4264" />
-        <entry key="ENGLISH" value="4346" />
+        <entry key="CHINESE" value="4265" />
+        <entry key="ENGLISH" value="4348" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
