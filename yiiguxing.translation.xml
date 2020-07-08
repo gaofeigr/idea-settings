@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can't specify target table 'teammember' for update in FROM clause" />
       <item value="remaining Time Map" />
       <item value="get Contract Remaining Time List" />
       <item value="get Contract Remaining Time" />
@@ -50,12 +51,11 @@
       <item value="dec" />
       <item value="get Env URL" />
       <item value="pre" />
-      <item value="prod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4258" />
-        <entry key="ENGLISH" value="4340" />
+        <entry key="CHINESE" value="4259" />
+        <entry key="ENGLISH" value="4341" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
