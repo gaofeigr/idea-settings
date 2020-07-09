@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column count doesn't match value count at row 1" />
       <item value="build Chinese Change Excel V 2" />
       <item value="distinct" />
       <item value="Mapped Statements collection does not contain value for com.beeplus.next.custom.entity.ContractCCConfig.getCCUserIdList" />
@@ -50,12 +51,11 @@
       <item value="mail" />
       <item value="email" />
       <item value="find Dests By Id" />
-      <item value="activities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4270" />
-        <entry key="ENGLISH" value="4353" />
+        <entry key="CHINESE" value="4271" />
+        <entry key="ENGLISH" value="4354" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
