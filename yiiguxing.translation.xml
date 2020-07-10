@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this Contract Deposit" />
+      <item value="thiscontract Deposit" />
+      <item value="contract Deposit" />
+      <item value="deposit" />
+      <item value="本合同押金" />
       <item value="com.sun.mail.smtp.SMTPSendFailedException: 421 HL:ICC Your IP is rejected because of too many concurrent SMTP connections. For more information, please visit https://feedback.qiye.163.com/bounce/WD80XjUgCTwQKCgUdDkqIhkCJm4bHhxodEBHW0MUQw%3D%3D for resolution." />
       <item value="Failed to close server connection after message failures; nested exception is javax.mail.MessagingException: Can't send command to SMTP host; nested exception is: java.net.SocketException: Connection closed by remote host. Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 421 HL:ICC Your IP is rejected because of too many concurrent SMTP connections. For more information, please visit https://feedback.qiye.163.com/bounce/WD80XjUgCTwQKCgUdDkqIhkCJm4bHhxodEBHW0MUQw%3D%3D for resolution.&#10;; message exception details (1) are:" />
       <item value="get Detail Full Url" />
@@ -46,16 +51,11 @@
       <item value="only Leader" />
       <item value="only Lader" />
       <item value="Team" />
-      <item value="circulated" />
-      <item value="process circulation" />
-      <item value="process circulated" />
-      <item value="传阅" />
-      <item value="Circulation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4276" />
-        <entry key="ENGLISH" value="4360" />
+        <entry key="CHINESE" value="4282" />
+        <entry key="ENGLISH" value="4366" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="29" />
         <entry key="SPANISH" value="10" />
