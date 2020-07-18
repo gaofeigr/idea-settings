@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prev" />
+      <item value="Contract Start Date For Previous" />
+      <item value="previous" />
+      <item value="previou" />
+      <item value="上一个合同开始日期" />
+      <item value="previo" />
+      <item value="previ" />
+      <item value="ou" />
+      <item value="previou Contract Start Date" />
+      <item value="prev Contract Start Date" />
+      <item value="previous Contract Start Date" />
+      <item value="上一个" />
+      <item value="Contract Start Date Before" />
+      <item value="before Contract Start Date" />
       <item value="Permission denied" />
       <item value="TIMESTAMPDIFF" />
       <item value="If the Client terminates this agreement in advance" />
@@ -37,27 +51,13 @@
       <item value="compute If Absent" />
       <item value="recycle" />
       <item value="回收" />
-      <item value="Remaining" />
-      <item value="two Month" />
-      <item value="six Month" />
-      <item value="more Month" />
-      <item value="get Contract Remaining Time List" />
-      <item value="You can't specify target table 'teammember' for update in FROM clause" />
-      <item value="remaining Time Map" />
-      <item value="get Contract Remaining Time" />
-      <item value="get Contract Remaining" />
-      <item value="remaining Day" />
-      <item value="remaining Days" />
-      <item value="remaining Month" />
-      <item value="remaining Months" />
-      <item value="remaining days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4298" />
-        <entry key="ENGLISH" value="4379" />
+        <entry key="CHINESE" value="4310" />
+        <entry key="ENGLISH" value="4389" />
         <entry key="FRENCH" value="46" />
-        <entry key="PORTUGUESE" value="29" />
+        <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
       </map>
     </option>
