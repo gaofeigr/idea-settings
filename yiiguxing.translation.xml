@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="as" />
+      <item value="flush Notice Status As Pass" />
+      <item value="flush Notice Status For Pass" />
+      <item value="为" />
+      <item value="flush Notice Status To Pass" />
+      <item value="flush Notice For Pass" />
       <item value="msg Subject" />
       <item value="通知" />
       <item value="prev" />
@@ -45,17 +51,11 @@
       <item value="完整" />
       <item value="operate" />
       <item value="operations Management" />
-      <item value="Column count doesn't match value count at row 1" />
-      <item value="build Chinese Change Excel V 2" />
-      <item value="distinct" />
-      <item value="Mapped Statements collection does not contain value for com.beeplus.next.custom.entity.ContractCCConfig.getCCUserIdList" />
-      <item value="If the specified key is not already associated with a value (or is mapped * to {@code null}), attempts to compute its value using the given mapping * function and enters it into this map unless {@code null}. * * &lt;p&gt;If the function returns {@code null} no mapping is recorded. If * the function itself throws an (unchecked) exception, the * exception is rethrown, and no mapping is recorded. The most * common usage is to construct a new object serving as an initial * mapped value or memoized result, as in:" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4311" />
-        <entry key="ENGLISH" value="4390" />
+        <entry key="CHINESE" value="4315" />
+        <entry key="ENGLISH" value="4395" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
