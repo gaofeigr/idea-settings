@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have a new badge! You contributed code to the 2020 GitHub Archive Program and now have a badge for it. Thank you for being part of the program!  To opt out of displaying this badge, visit your profile settings." />
       <item value="Arctic Code Vault" />
       <item value="Arctic Code Vault Contributor Lancet contributed code to 1 repository in the 2020 GitHub Archive Program:" />
       <item value="comment Content" />
@@ -50,7 +51,6 @@
       <item value="完成" />
       <item value="Reject" />
       <item value="Assistant City Leader" />
-      <item value="set Scale" />
     </histories>
     <option name="languageScores">
       <map>
