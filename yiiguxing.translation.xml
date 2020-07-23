@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [server-next,next-custom-server] are excluded from annotation processing" />
       <item value="X" />
       <item value="II" />
       <item value="I" />
@@ -50,7 +51,6 @@
       <item value="condition" />
       <item value="get English Note By Contract Id" />
       <item value="Breakpoint reached" />
-      <item value="electricity" />
     </histories>
     <option name="languageScores">
       <map>
