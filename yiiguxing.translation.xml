@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ratio" />
       <item value="拒绝" />
       <item value="refuse" />
       <item value="reject" />
@@ -50,12 +51,11 @@
       <item value="Contract Start Date Before" />
       <item value="before Contract Start Date" />
       <item value="Permission denied" />
-      <item value="TIMESTAMPDIFF" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4331" />
-        <entry key="ENGLISH" value="4415" />
+        <entry key="CHINESE" value="4332" />
+        <entry key="ENGLISH" value="4416" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
