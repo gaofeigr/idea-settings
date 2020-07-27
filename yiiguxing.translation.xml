@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Rju Floor" />
       <item value="subtract" />
       <item value="减" />
       <item value="除" />
@@ -50,12 +51,11 @@
       <item value="上一个合同开始日期" />
       <item value="previo" />
       <item value="previ" />
-      <item value="ou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4338" />
-        <entry key="ENGLISH" value="4425" />
+        <entry key="CHINESE" value="4339" />
+        <entry key="ENGLISH" value="4426" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
