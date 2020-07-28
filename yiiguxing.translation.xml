@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="element cannot be mapped to a null key" />
+      <item value=" Permission denied " />
       <item value="Bill Date" />
       <item value="Stop Service Remind" />
       <item value="Late Fee Remind" />
       <item value="Bill Remind" />
+      <item value="element cannot be mapped to a null key" />
       <item value="ambiguous" />
       <item value="Lock wait timeout exceeded; try restarting transaction; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction" />
       <item value="try restarting transaction" />
@@ -50,12 +51,11 @@
       <item value="flush Notice Status For Pass" />
       <item value="为" />
       <item value="flush Notice Status To Pass" />
-      <item value="flush Notice For Pass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4348" />
-        <entry key="ENGLISH" value="4435" />
+        <entry key="CHINESE" value="4352" />
+        <entry key="ENGLISH" value="4439" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
