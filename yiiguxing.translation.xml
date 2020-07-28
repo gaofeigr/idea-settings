@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bill Date" />
+      <item value="Stop Service Remind" />
+      <item value="Late Fee Remind" />
+      <item value="Bill Remind" />
       <item value="ambiguous" />
       <item value="Lock wait timeout exceeded; try restarting transaction; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction" />
       <item value="try restarting transaction" />
@@ -47,15 +51,11 @@
       <item value="flush Notice Status To Pass" />
       <item value="flush Notice For Pass" />
       <item value="msg Subject" />
-      <item value="通知" />
-      <item value="prev" />
-      <item value="Contract Start Date For Previous" />
-      <item value="previous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4343" />
-        <entry key="ENGLISH" value="4430" />
+        <entry key="CHINESE" value="4347" />
+        <entry key="ENGLISH" value="4434" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
