@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous" />
       <item value="Lock wait timeout exceeded; try restarting transaction; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction" />
       <item value="try restarting transaction" />
       <item value="Lock wait timeout exceeded" />
@@ -50,12 +51,11 @@
       <item value="prev" />
       <item value="Contract Start Date For Previous" />
       <item value="previous" />
-      <item value="previou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4342" />
-        <entry key="ENGLISH" value="4429" />
+        <entry key="CHINESE" value="4343" />
+        <entry key="ENGLISH" value="4430" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
