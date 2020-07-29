@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a {@code Collector} implementing a &quot;group by&quot; operation on * input elements of type {@code T}, grouping elements according to a * classification function, and returning the results in a {@code Map}." />
       <item value="ELIFECYCLE" />
       <item value="divide" />
       <item value="Bill Date" />
@@ -50,12 +51,11 @@
       <item value="notify Approve All Msg" />
       <item value="gt" />
       <item value="Notify" />
-      <item value="Notice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4370" />
-        <entry key="ENGLISH" value="4457" />
+        <entry key="CHINESE" value="4371" />
+        <entry key="ENGLISH" value="4458" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
