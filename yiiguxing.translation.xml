@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="msg Subject" />
+      <item value="msg Title" />
       <item value="ico" />
       <item value="distinct User Map" />
       <item value="distinct" />
@@ -49,13 +51,11 @@
       <item value="status" />
       <item value="take" />
       <item value="take Up" />
-      <item value="customer" />
-      <item value="source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4377" />
-        <entry key="ENGLISH" value="4464" />
+        <entry key="CHINESE" value="4379" />
+        <entry key="ENGLISH" value="4466" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
