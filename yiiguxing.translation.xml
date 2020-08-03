@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ico" />
       <item value="distinct User Map" />
       <item value="distinct" />
       <item value="SMTP Address Failed Exception" />
@@ -50,7 +51,6 @@
       <item value="take Up" />
       <item value="customer" />
       <item value="source" />
-      <item value="来源" />
     </histories>
     <option name="languageScores">
       <map>
