@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Process Sys Notify List" />
+      <item value="P" />
+      <item value="Notify" />
+      <item value="处理" />
       <item value="msg Subject" />
       <item value="msg Title" />
       <item value="ico" />
@@ -47,15 +51,11 @@
       <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [server-next,next-custom-server] are excluded from annotation processing" />
       <item value="X" />
       <item value="II" />
-      <item value="I" />
-      <item value="status" />
-      <item value="take" />
-      <item value="take Up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4379" />
-        <entry key="ENGLISH" value="4466" />
+        <entry key="CHINESE" value="4382" />
+        <entry key="ENGLISH" value="4470" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
