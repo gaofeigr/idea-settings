@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable" />
       <item value="学习" />
       <item value="VAT" />
       <item value="divide" />
@@ -50,7 +51,6 @@
       <item value="new bill_25 th" />
       <item value="remind" />
       <item value="remind_20 th" />
-      <item value="late fee_1 st" />
     </histories>
     <option name="languageScores">
       <map>
