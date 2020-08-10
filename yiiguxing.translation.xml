@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TIMESTAMPDIFF" />
       <item value="disable" />
       <item value="学习" />
       <item value="VAT" />
@@ -50,12 +51,11 @@
       <item value="Late Fee Remind" />
       <item value="new bill_25 th" />
       <item value="remind" />
-      <item value="remind_20 th" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4397" />
-        <entry key="ENGLISH" value="4492" />
+        <entry key="CHINESE" value="4398" />
+        <entry key="ENGLISH" value="4493" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
