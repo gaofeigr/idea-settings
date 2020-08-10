@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assistant" />
       <item value="end Date Exclusive" />
       <item value="start Date Inclusive" />
       <item value="Apr" />
@@ -50,7 +51,6 @@
       <item value="distinct" />
       <item value="SMTP Address Failed Exception" />
       <item value="zhenyinxiang" />
-      <item value="Connection refused: connect" />
     </histories>
     <option name="languageScores">
       <map>
