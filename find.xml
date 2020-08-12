@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*um.java" />
     <mask>*.properties</mask>
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
@@ -18,5 +19,6 @@
     <mask>pom.xml</mask>
     <mask>*enum.java</mask>
     <mask>*map.xml</mask>
+    <mask>*um.java</mask>
   </component>
 </application>
