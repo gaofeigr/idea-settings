@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Nation" />
       <item value="can Display" />
       <item value="fd Weight" />
       <item value="Refuse" />
@@ -50,11 +51,10 @@
       <item value="update First Login State" />
       <item value="牛家人" />
       <item value="郜飞" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4428" />
+        <entry key="CHINESE" value="4429" />
         <entry key="ENGLISH" value="4522" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
