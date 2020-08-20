@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dismissal" />
       <item value="Path expected for join" />
       <item value="Org Dialog Recent Contact List" />
       <item value="is Valid" />
@@ -50,12 +51,11 @@
       <item value="VAT" />
       <item value="get Bill Amt" />
       <item value="detail" />
-      <item value="with Out Tax Amt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4442" />
-        <entry key="ENGLISH" value="4531" />
+        <entry key="CHINESE" value="4443" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
