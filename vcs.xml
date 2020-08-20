@@ -40,7 +40,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git-inc.dingteam.com" />
-          <option name="userName" value="gaofei_sz@landray.com.cn" />
+          <option name="userName" value="leiyb" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git-inc.dingteam.com/project/front-xygzh-gzt.git" />
@@ -60,6 +60,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.beeplus.xyz:8092/beeplus/hero-web2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-inc.dingteam.com/project" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
