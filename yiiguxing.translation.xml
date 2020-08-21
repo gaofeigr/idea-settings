@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Show Praise Btn" />
       <item value="get Current User First Dept Name" />
       <item value="cell.get Cell Type()" />
       <item value="dismissal" />
@@ -50,11 +51,10 @@
       <item value="TIMESTAMPDIFF" />
       <item value="disable" />
       <item value="学习" />
-      <item value="VAT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4445" />
+        <entry key="CHINESE" value="4446" />
         <entry key="ENGLISH" value="4534" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
