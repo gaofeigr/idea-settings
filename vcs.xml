@@ -66,6 +66,14 @@
           <option name="url" value="https://git-inc.dingteam.com/project" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-inc.dingteam.com/project/dingteam-chinagas-safetyscore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-inc.dingteam.com/project/front-chinagas-safetyscore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
