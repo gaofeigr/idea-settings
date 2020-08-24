@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
-      <item value="Failed to execute CommandLineRunner" />
-      <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
+      <item value="Socket Dispatcher" />
+      <item value="Exception occured. Channel: [id: 0xaecd4391, L:/127.0.0.1:51828 - R:localhost/127.0.0.1:6379]&#10;java.io.IOException: 远程主机强迫关闭了一个现有的连接。" />
+      <item value="Exception occured" />
+      <item value="occured" />
+      <item value="17:48:16.456 [redisson-netty-1-8] ERROR o.r.c.h.CommandsQueue - [exceptionCaught,153] - Exception occured. Channel: [id: 0x636b36de, L:/127.0.0.1:50883 - R:localhost/127.0.0.1:6379]" />
+      <item value="root of context hierarchy" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="Failed to execute CommandLineRunner" />
+      <item value="Auto Configuration Report Logging Initializer" />
+      <item value="Connection refused: connect" />
+      <item value="Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
+      <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="get Column Enums Label" />
       <item value="km Agreement Card" />
       <item value="Handover" />
@@ -41,21 +49,13 @@
       <item value="set Scale" />
       <item value="divide" />
       <item value="GlobalConfigUtils setMetaData Fail" />
-      <item value="Connection refused: connect" />
       <item value="Could not create connection to database server. Attempted reconnect 3 times. Giving up." />
       <item value="Assistant" />
-      <item value="end Date Exclusive" />
-      <item value="start Date Inclusive" />
-      <item value="Apr" />
-      <item value="Mar" />
-      <item value="Feb" />
-      <item value="Wed Apr" />
-      <item value="to Day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4453" />
-        <entry key="ENGLISH" value="4541" />
+        <entry key="CHINESE" value="4463" />
+        <entry key="ENGLISH" value="4551" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
