@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
+      <item value="Failed to execute CommandLineRunner" />
+      <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="get Column Enums Label" />
       <item value="km Agreement Card" />
@@ -48,14 +51,11 @@
       <item value="Feb" />
       <item value="Wed Apr" />
       <item value="to Day" />
-      <item value="今天" />
-      <item value="to Daydate Format" />
-      <item value="倍数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4450" />
-        <entry key="ENGLISH" value="4538" />
+        <entry key="CHINESE" value="4453" />
+        <entry key="ENGLISH" value="4541" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
