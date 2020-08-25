@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
       <item value="Socket Dispatcher" />
       <item value="Exception occured. Channel: [id: 0xaecd4391, L:/127.0.0.1:51828 - R:localhost/127.0.0.1:6379]&#10;java.io.IOException: 远程主机强迫关闭了一个现有的连接。" />
       <item value="Exception occured" />
@@ -50,7 +51,6 @@
       <item value="divide" />
       <item value="GlobalConfigUtils setMetaData Fail" />
       <item value="Could not create connection to database server. Attempted reconnect 3 times. Giving up." />
-      <item value="Assistant" />
     </histories>
     <option name="languageScores">
       <map>
