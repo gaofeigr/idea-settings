@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="control Address Attr Default Value Self" />
       <item value="豆蔻年华" />
       <item value="Data Integrity Violation Exception" />
       <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
@@ -50,12 +51,11 @@
       <item value="We're sorry but hero-web2 doesn't work properly without JavaScript enabled. Please enable it to continue." />
       <item value="subtract" />
       <item value="set Scale" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4465" />
-        <entry key="ENGLISH" value="4553" />
+        <entry key="CHINESE" value="4466" />
+        <entry key="ENGLISH" value="4554" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
