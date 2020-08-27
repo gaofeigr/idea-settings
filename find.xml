@@ -16,8 +16,8 @@
     <mask>*enum.java</mask>
     <mask>*map.xml</mask>
     <mask>*um.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
