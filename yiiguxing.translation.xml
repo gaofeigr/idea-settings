@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alter" />
+      <item value="alert" />
       <item value="addition Sign" />
       <item value="eval" />
       <item value="control Address Attr Default Value Self" />
@@ -49,13 +51,11 @@
       <item value="handler Pass Operation Event" />
       <item value="lbpm Handler Refuse Event" />
       <item value="lbpm Process Finish Event" />
-      <item value="amos" />
-      <item value="We're sorry but hero-web2 doesn't work properly without JavaScript enabled. Please enable it to continue." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4467" />
-        <entry key="ENGLISH" value="4555" />
+        <entry key="CHINESE" value="4469" />
+        <entry key="ENGLISH" value="4556" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
