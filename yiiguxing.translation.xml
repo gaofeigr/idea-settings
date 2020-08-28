@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Your online security is important to us. Please wait while we secure your connection ..." />
       <item value="alter" />
       <item value="alert" />
       <item value="addition Sign" />
@@ -50,7 +51,6 @@
       <item value="lbpm Handler Communicate Event" />
       <item value="handler Pass Operation Event" />
       <item value="lbpm Handler Refuse Event" />
-      <item value="lbpm Process Finish Event" />
     </histories>
     <option name="languageScores">
       <map>
