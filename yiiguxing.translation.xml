@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="晚上见" />
       <item value="Your online security is important to us. Please wait while we secure your connection ..." />
       <item value="alter" />
       <item value="alert" />
@@ -50,12 +51,11 @@
       <item value="lbpm Handler Commission Event" />
       <item value="lbpm Handler Communicate Event" />
       <item value="handler Pass Operation Event" />
-      <item value="lbpm Handler Refuse Event" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4469" />
-        <entry key="ENGLISH" value="4556" />
+        <entry key="ENGLISH" value="4557" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
