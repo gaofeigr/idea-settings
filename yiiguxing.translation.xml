@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unit Price" />
+      <item value="单价" />
+      <item value="total Price" />
+      <item value="total Account" />
       <item value="audit Contract Quantity" />
       <item value="审核合同数量" />
       <item value="审核" />
@@ -47,15 +51,11 @@
       <item value="Exception occured" />
       <item value="occured" />
       <item value="17:48:16.456 [redisson-netty-1-8] ERROR o.r.c.h.CommandsQueue - [exceptionCaught,153] - Exception occured. Channel: [id: 0x636b36de, L:/127.0.0.1:50883 - R:localhost/127.0.0.1:6379]" />
-      <item value="root of context hierarchy" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
-      <item value="Failed to execute CommandLineRunner" />
-      <item value="Auto Configuration Report Logging Initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4500" />
-        <entry key="ENGLISH" value="4588" />
+        <entry key="CHINESE" value="4504" />
+        <entry key="ENGLISH" value="4592" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
