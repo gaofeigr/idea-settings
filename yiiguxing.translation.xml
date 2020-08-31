@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reviewer Opinion" />
+      <item value="复核人意见" />
+      <item value="advice From The Legal Clerk" />
+      <item value="法务员意见" />
+      <item value="问题代码" />
+      <item value="single Back" />
+      <item value="退单" />
+      <item value="chargeback" />
+      <item value="receive Time" />
+      <item value="audit Time" />
+      <item value="审核" />
+      <item value="接收" />
+      <item value="Sample" />
+      <item value="amount" />
+      <item value="金额" />
+      <item value="money" />
+      <item value="name Of Counterparty" />
+      <item value="name Of Our Unit" />
+      <item value="unit Dept" />
+      <item value="create Dept" />
+      <item value="create Person" />
       <item value="origin" />
       <item value="orgin" />
       <item value="pathspec 'project'' did not match any file(s) known to git. " />
@@ -30,32 +51,11 @@
       <item value="Auto Configuration Report Logging Initializer" />
       <item value="Connection refused: connect" />
       <item value="Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
-      <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
-      <item value="get Column Enums Label" />
-      <item value="km Agreement Card" />
-      <item value="Handover" />
-      <item value="fd Show Praise Btn" />
-      <item value="get Current User First Dept Name" />
-      <item value="cell.get Cell Type()" />
-      <item value="dismissal" />
-      <item value="Path expected for join" />
-      <item value="Org Dialog Recent Contact List" />
-      <item value="is Valid" />
-      <item value="有效" />
-      <item value="validt" />
-      <item value="is Validt" />
-      <item value="validet" />
-      <item value="SOLID FOREGROUND" />
-      <item value="a negative integer, zero, or a positive integer as the * first argument is less than, equal to, or greater than the * second." />
-      <item value="compare To" />
-      <item value="create Drop Down List" />
-      <item value="ontrial" />
-      <item value="employee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4473" />
-        <entry key="ENGLISH" value="4561" />
+        <entry key="CHINESE" value="4497" />
+        <entry key="ENGLISH" value="4585" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
