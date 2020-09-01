@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
@@ -12,7 +12,6 @@
     <mask>*Request*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*enum.java</mask>
     <mask>*map.xml</mask>
@@ -22,5 +21,6 @@
     <mask>*type*.xml</mask>
     <mask>enums.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
