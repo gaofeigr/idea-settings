@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction is already completed - do not call commit or rollback more than once per transaction" />
+      <item value="a different object with the same identifier value was already associated with the session" />
+      <item value="事务" />
+      <item value="Could not synchronize database state with session" />
+      <item value="Connection is read-only. Queries leading to data modification are not allowed" />
+      <item value="ueries leading to data modification are not allowed" />
       <item value="exclude Me" />
       <item value="calculate Dept Person Num" />
       <item value="success" />
@@ -45,17 +51,11 @@
       <item value="card Screen Content" />
       <item value="card All" />
       <item value="creator" />
-      <item value="get Org Name Lang Json Array 4 Notify" />
-      <item value="晚上见" />
-      <item value="Your online security is important to us. Please wait while we secure your connection ..." />
-      <item value="alter" />
-      <item value="alert" />
-      <item value="addition Sign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4514" />
-        <entry key="ENGLISH" value="4603" />
+        <entry key="CHINESE" value="4520" />
+        <entry key="ENGLISH" value="4610" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
