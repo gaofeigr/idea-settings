@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitting directory" />
       <item value="Transaction is already completed - do not call commit or rollback more than once per transaction" />
       <item value="a different object with the same identifier value was already associated with the session" />
       <item value="事务" />
@@ -50,7 +51,6 @@
       <item value=" Paths with -a does not make sense." />
       <item value="card Screen Content" />
       <item value="card All" />
-      <item value="creator" />
     </histories>
     <option name="languageScores">
       <map>
