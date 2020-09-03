@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Pre Dept Id" />
+      <item value="dept" />
       <item value="async" />
       <item value="omitting directory" />
       <item value="Transaction is already completed - do not call commit or rollback more than once per transaction" />
@@ -49,13 +51,11 @@
       <item value="orgin" />
       <item value="pathspec 'project'' did not match any file(s) known to git. " />
       <item value=" Paths with -a does not make sense." />
-      <item value="card Screen Content" />
-      <item value="card All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4521" />
-        <entry key="ENGLISH" value="4611" />
+        <entry key="CHINESE" value="4523" />
+        <entry key="ENGLISH" value="4613" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
