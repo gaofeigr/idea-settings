@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Educations" />
       <item value="disable" />
       <item value="approve Type" />
       <item value="criterion" />
@@ -50,12 +51,11 @@
       <item value="money" />
       <item value="name Of Counterparty" />
       <item value="name Of Our Unit" />
-      <item value="unit Dept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4527" />
-        <entry key="ENGLISH" value="4617" />
+        <entry key="CHINESE" value="4528" />
+        <entry key="ENGLISH" value="4618" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
