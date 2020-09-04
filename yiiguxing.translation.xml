@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="负数" />
+      <item value="减" />
       <item value="get Age Date By Year" />
       <item value="get Netural Age" />
       <item value="Netural" />
@@ -49,13 +51,11 @@
       <item value="chargeback" />
       <item value="receive Time" />
       <item value="audit Time" />
-      <item value="接收" />
-      <item value="Sample" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4533" />
-        <entry key="ENGLISH" value="4623" />
+        <entry key="ENGLISH" value="4625" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
