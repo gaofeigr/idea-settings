@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout" />
+      <item value="erase" />
       <item value="redraw By Source" />
       <item value="together" />
       <item value="wogether" />
@@ -49,13 +51,11 @@
       <item value="advice From The Legal Clerk" />
       <item value="法务员意见" />
       <item value="问题代码" />
-      <item value="single Back" />
-      <item value="退单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4534" />
-        <entry key="ENGLISH" value="4626" />
+        <entry key="CHINESE" value="4536" />
+        <entry key="ENGLISH" value="4628" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
