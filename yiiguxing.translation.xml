@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Age Date By Year" />
+      <item value="get Netural Age" />
+      <item value="Netural" />
+      <item value="get Date By Year" />
+      <item value="get Date Of Year" />
       <item value="get Educations" />
       <item value="disable" />
       <item value="approve Type" />
@@ -46,16 +51,11 @@
       <item value="audit Time" />
       <item value="接收" />
       <item value="Sample" />
-      <item value="amount" />
-      <item value="金额" />
-      <item value="money" />
-      <item value="name Of Counterparty" />
-      <item value="name Of Our Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4528" />
-        <entry key="ENGLISH" value="4618" />
+        <entry key="CHINESE" value="4533" />
+        <entry key="ENGLISH" value="4623" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
