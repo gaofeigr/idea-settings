@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="together" />
+      <item value="wogether" />
       <item value="负数" />
       <item value="减" />
       <item value="get Age Date By Year" />
@@ -49,8 +51,6 @@
       <item value="single Back" />
       <item value="退单" />
       <item value="chargeback" />
-      <item value="receive Time" />
-      <item value="audit Time" />
     </histories>
     <option name="languageScores">
       <map>
