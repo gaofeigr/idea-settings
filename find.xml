@@ -18,8 +18,8 @@
     <mask>*type*.xml</mask>
     <mask>enums.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
