@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plan b" />
       <item value="layout" />
       <item value="erase" />
       <item value="redraw By Source" />
@@ -50,7 +51,6 @@
       <item value="复核人意见" />
       <item value="advice From The Legal Clerk" />
       <item value="法务员意见" />
-      <item value="问题代码" />
     </histories>
     <option name="languageScores">
       <map>
