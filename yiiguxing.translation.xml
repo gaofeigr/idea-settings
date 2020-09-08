@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="warning Contract" />
+      <item value="warning Trial" />
+      <item value="warning Birthday" />
       <item value="No row with the given identifier exists" />
       <item value="Criterion Simple Datas" />
-      <item value="warning Contract" />
       <item value="Dear Beneficiary,     I hope" />
       <item value="Hello Dear,  How are you doing today ? Please there is a lady called Mrs. Mary Polinice, she was in our office this morning trying to pay the required fees of 500 Euro to claim your fundsAccording to her statement she stated that you're one of the victims who corona virus killed 48 hours ago so we are contacting you now to confirm if you're really dead or alive?  Thank You.  Regards,  John Andersson The Chief Judges Sweden Telephone: +46769514600 E-mail: johnandersson1147@gmail.com Address: Kungsgatan 12a Stockholm Sweden. " />
       <item value="Beneficiary" />
@@ -49,13 +51,11 @@
       <item value="set Alignment" />
       <item value="is Sample" />
       <item value="单选" />
-      <item value="unit Price" />
-      <item value="单价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4542" />
-        <entry key="ENGLISH" value="4633" />
+        <entry key="CHINESE" value="4546" />
+        <entry key="ENGLISH" value="4637" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
