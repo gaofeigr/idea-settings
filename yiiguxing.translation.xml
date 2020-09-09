@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memory" />
       <item value="warning Contract" />
       <item value="warning Trial" />
       <item value="warning Birthday" />
@@ -50,12 +51,11 @@
       <item value="set Vertical Alignment" />
       <item value="set Alignment" />
       <item value="is Sample" />
-      <item value="单选" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4546" />
-        <entry key="ENGLISH" value="4637" />
+        <entry key="CHINESE" value="4547" />
+        <entry key="ENGLISH" value="4638" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
