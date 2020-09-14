@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="找到" />
+      <item value="searched Code" />
+      <item value="searchd Code" />
+      <item value="searched" />
+      <item value="cath" />
       <item value="child" />
       <item value="small Classification Json" />
       <item value="get Cusledger Area" />
@@ -46,16 +51,11 @@
       <item value="get Educations" />
       <item value="disable" />
       <item value="approve Type" />
-      <item value="criterion" />
-      <item value="rtexprvalue" />
-      <item value="Found two representations of same collection" />
-      <item value="Row was updated or deleted by another transaction (or unsaved-value mapping was incorrect)" />
-      <item value="fd Pre Dept Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4567" />
-        <entry key="ENGLISH" value="4660" />
+        <entry key="CHINESE" value="4572" />
+        <entry key="ENGLISH" value="4665" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
