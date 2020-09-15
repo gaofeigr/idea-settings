@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公司" />
       <item value="找到" />
       <item value="searched Code" />
       <item value="searchd Code" />
@@ -50,12 +51,11 @@
       <item value="get Date Of Year" />
       <item value="get Educations" />
       <item value="disable" />
-      <item value="approve Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4572" />
-        <entry key="ENGLISH" value="4665" />
+        <entry key="CHINESE" value="4573" />
+        <entry key="ENGLISH" value="4666" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
