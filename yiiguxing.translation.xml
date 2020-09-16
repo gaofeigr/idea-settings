@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="orig" />
+      <item value="dest" />
       <item value="公司" />
       <item value="找到" />
       <item value="searched Code" />
@@ -49,13 +51,11 @@
       <item value="Netural" />
       <item value="get Date By Year" />
       <item value="get Date Of Year" />
-      <item value="get Educations" />
-      <item value="disable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4573" />
-        <entry key="ENGLISH" value="4666" />
+        <entry key="CHINESE" value="4575" />
+        <entry key="ENGLISH" value="4667" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
