@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="choose" />
       <item value="alignment" />
       <item value="mobile" />
       <item value="Km Carmng Infomation Index Action" />
@@ -50,12 +51,11 @@
       <item value="searched" />
       <item value="cath" />
       <item value="child" />
-      <item value="small Classification Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4622" />
-        <entry key="ENGLISH" value="4717" />
+        <entry key="CHINESE" value="4623" />
+        <entry key="ENGLISH" value="4718" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
