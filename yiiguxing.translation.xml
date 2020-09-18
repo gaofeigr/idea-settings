@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mobile" />
       <item value="Km Carmng Infomation Index Action" />
       <item value="receive" />
       <item value="jointly" />
@@ -50,12 +51,11 @@
       <item value="child" />
       <item value="small Classification Json" />
       <item value="get Cusledger Area" />
-      <item value="specific Problem" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4620" />
-        <entry key="ENGLISH" value="4715" />
+        <entry key="CHINESE" value="4621" />
+        <entry key="ENGLISH" value="4716" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
