@@ -21,7 +21,7 @@
     <mask>enums.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
