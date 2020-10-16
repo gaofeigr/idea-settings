@@ -1,8 +1,11 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -11,7 +14,6 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
