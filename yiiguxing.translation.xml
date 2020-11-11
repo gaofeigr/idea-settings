@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delta compression using up to 12 threads.&#10;Total 30 (delta 15), reused 0 (delta 0)&#10;remote: PermissionDenied: Permission Deny: You are not allowed to push this branch. error: failed to push some refs to 'git@codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git'&#10;To codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git&#10;!&#9;refs/heads/master:refs/heads/master&#9;[remote rejected] (pre-receive hook declined)" />
+      <item value="remote: PermissionDenied: Permission Deny: You are not allowed to push this branch." />
+      <item value="Total 30 (delta 15), reused 0 (delta 0)" />
+      <item value="Delta compression using up to 12 threads." />
+      <item value="error: failed to push some refs to 'git@codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git'" />
+      <item value=": You are not allowed to push this branch." />
+      <item value="SUCCESS" />
+      <item value="You are not allowed to push this branch." />
       <item value="fd Repair Fee" />
       <item value="fd Maintenance Fee" />
       <item value="delete Confirm" />
@@ -43,19 +51,11 @@
       <item value="approval" />
       <item value="accept" />
       <item value="Accordion Panel" />
-      <item value="4 m" />
-      <item value="4 pda" />
-      <item value="fill" />
-      <item value="grid" />
-      <item value="insurance Info View" />
-      <item value="maintenance Info" />
-      <item value="maintenance Info View" />
-      <item value="Insurance Info View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4639" />
-        <entry key="ENGLISH" value="4735" />
+        <entry key="CHINESE" value="4646" />
+        <entry key="ENGLISH" value="4742" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
