@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OFF" />
       <item value="triggering Policy" />
       <item value="Delta compression using up to 12 threads.&#10;Total 30 (delta 15), reused 0 (delta 0)&#10;remote: PermissionDenied: Permission Deny: You are not allowed to push this branch. error: failed to push some refs to 'git@codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git'&#10;To codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git&#10;!&#9;refs/heads/master:refs/heads/master&#9;[remote rejected] (pre-receive hook declined)" />
       <item value="remote: PermissionDenied: Permission Deny: You are not allowed to push this branch." />
@@ -50,7 +51,6 @@
       <item value="authenticate" />
       <item value="destory" />
       <item value="approval" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
