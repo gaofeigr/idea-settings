@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="less than" />
       <item value="Log Clean Task" />
       <item value="is Valid Class Name" />
       <item value="Reserve Days" />
@@ -50,7 +51,6 @@
       <item value="fd Repair Fee" />
       <item value="fd Maintenance Fee" />
       <item value="delete Confirm" />
-      <item value="delete Confrm" />
     </histories>
     <option name="languageScores">
       <map>
