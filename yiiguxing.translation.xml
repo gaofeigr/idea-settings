@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instance Log Partition Job" />
+      <item value="instance Logpartition Job" />
+      <item value="partition" />
       <item value="Post Construct" />
       <item value="use Legacy Datetime Code" />
       <item value="useLegacyDatetimeCode" />
@@ -48,14 +51,11 @@
       <item value="remote: PermissionDenied: Permission Deny: You are not allowed to push this branch." />
       <item value="Total 30 (delta 15), reused 0 (delta 0)" />
       <item value="Delta compression using up to 12 threads." />
-      <item value="error: failed to push some refs to 'git@codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/xiangyuan/to_do_tool_system.git'" />
-      <item value=": You are not allowed to push this branch." />
-      <item value="SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4671" />
-        <entry key="ENGLISH" value="4772" />
+        <entry key="CHINESE" value="4674" />
+        <entry key="ENGLISH" value="4775" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
