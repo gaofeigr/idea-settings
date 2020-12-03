@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specified key was too long; max key length is 3072 bytes" />
       <item value="navigate Pages" />
       <item value="Extend the javafx.application.Application class overriding init, start and stop." />
       <item value="launch Application" />
@@ -50,12 +51,11 @@
       <item value="周日" />
       <item value="日志清理" />
       <item value="The file is absent or does not have execute permission This file is needed to run this program " />
-      <item value="# For example, set the org.apache.catalina.util.LifecycleBase logger to log # each component that extends LifecycleBase changing state:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4680" />
-        <entry key="ENGLISH" value="4781" />
+        <entry key="CHINESE" value="4681" />
+        <entry key="ENGLISH" value="4782" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
