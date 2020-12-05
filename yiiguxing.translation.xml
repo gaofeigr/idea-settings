@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="setSession Storage Enabled" />
+      <item value="is Session Creation Enabled" />
       <item value="Creates and executes a one-shot action that becomes enabled * after the given delay." />
       <item value="MILLISECONDS" />
       <item value="Specified key was too long; max key length is 3072 bytes" />
@@ -49,8 +51,6 @@
       <item value="interval" />
       <item value="delete Last Week Todo Interface Log" />
       <item value="delete Last Week Todo Interface Log By Ids" />
-      <item value="上一周" />
-      <item value="周日" />
     </histories>
     <option name="languageScores">
       <map>
