@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Current time: 20-12-25 上午12:43" />
+      <item value="Last access time:" />
+      <item value="has expired. Last access time: 20-12-16 上午3:41." />
+      <item value="Session with id [14e68b1e-0553-493b-8015-b4c896387ecf] has expired. Last access time: 20-12-16 上午3:41. Current time: 20-12-25 上午12:43. Session timeout is set to 1800 seconds (30 minutes)" />
+      <item value="has expired" />
       <item value="SECONDS" />
       <item value="expire" />
       <item value="Incorrect string value: '\xE5\xBE\x85\xE5\x8A\x9E...' for column 'dept_name' at row 1" />
@@ -46,16 +51,11 @@
       <item value="is Clustered" />
       <item value="reserve" />
       <item value="保留" />
-      <item value="quartz job" />
-      <item value="quartz.job" />
-      <item value="quart.job" />
-      <item value="quartjob" />
-      <item value="vertical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4691" />
-        <entry key="ENGLISH" value="4792" />
+        <entry key="CHINESE" value="4694" />
+        <entry key="ENGLISH" value="4799" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
