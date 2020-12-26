@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上一版本" />
+      <item value="last version" />
+      <item value="last" />
       <item value="Current time: 20-12-25 上午12:43" />
       <item value="Last access time:" />
       <item value="has expired. Last access time: 20-12-16 上午3:41." />
@@ -48,14 +51,11 @@
       <item value="tx Isolation Level Serializable" />
       <item value="max Misfires To Handle At A Time" />
       <item value="cluster Checkin Interval" />
-      <item value="is Clustered" />
-      <item value="reserve" />
-      <item value="保留" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4694" />
-        <entry key="ENGLISH" value="4799" />
+        <entry key="ENGLISH" value="4800" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
