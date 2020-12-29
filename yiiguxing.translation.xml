@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avg" />
       <item value="上一版本" />
       <item value="last version" />
       <item value="last" />
@@ -50,7 +51,6 @@
       <item value="Scheduler meta-data: Quartz Scheduler (v2.3.0) 'RuoyiScheduler' with instanceId 'ld-server1605552543521'   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.   NOT STARTED.   Currently in standby mode.   Number of jobs executed: 0   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.   Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered. " />
       <item value="tx Isolation Level Serializable" />
       <item value="max Misfires To Handle At A Time" />
-      <item value="cluster Checkin Interval" />
     </histories>
     <option name="languageScores">
       <map>
