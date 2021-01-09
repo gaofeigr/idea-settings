@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="argument" />
       <item value="domain" />
       <item value="蓝桥domain" />
       <item value="photo Text" />
@@ -50,12 +51,11 @@
       <item value="LESS" />
       <item value=" MAXVALUE can only be used in last partition definition" />
       <item value="Table has no partition for value 752279" />
-      <item value="Constant, random or timezone-dependent expressions in (sub)partitioning function are not allowed " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4708" />
-        <entry key="ENGLISH" value="4819" />
+        <entry key="CHINESE" value="4711" />
+        <entry key="ENGLISH" value="4822" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
