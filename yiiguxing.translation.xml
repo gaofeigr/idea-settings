@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thank" />
       <item value="boundary" />
       <item value="temp File Save Path" />
       <item value="argument" />
@@ -50,7 +51,6 @@
       <item value="launch Application" />
       <item value="Launcher Impl" />
       <item value="unrecognized" />
-      <item value="LESS" />
     </histories>
     <option name="languageScores">
       <map>
