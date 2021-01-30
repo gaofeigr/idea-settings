@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="over Group" />
+      <item value="集团" />
       <item value="over Person" />
       <item value="over" />
       <item value="超越多少人" />
@@ -49,13 +51,11 @@
       <item value="year Avg Data" />
       <item value="avg" />
       <item value="上一版本" />
-      <item value="last version" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4726" />
-        <entry key="ENGLISH" value="4843" />
+        <entry key="CHINESE" value="4727" />
+        <entry key="ENGLISH" value="4845" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
