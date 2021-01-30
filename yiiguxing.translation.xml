@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not create connection to database server. Attempted reconnect 3 times. Giving up." />
       <item value="thank" />
       <item value="boundary" />
       <item value="temp File Save Path" />
@@ -50,12 +51,11 @@
       <item value="Extend the javafx.application.Application class overriding init, start and stop." />
       <item value="launch Application" />
       <item value="Launcher Impl" />
-      <item value="unrecognized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4713" />
-        <entry key="ENGLISH" value="4824" />
+        <entry key="CHINESE" value="4714" />
+        <entry key="ENGLISH" value="4825" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
