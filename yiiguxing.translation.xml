@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检查 标准" />
+      <item value="标准" />
       <item value="回复" />
       <item value="评价" />
       <item value="微信" />
@@ -49,13 +51,11 @@
       <item value="target" />
       <item value="count Number" />
       <item value="sum" />
-      <item value="avg Hour Todo" />
-      <item value="Could not create connection to database server. Attempted reconnect 3 times. Giving up." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4728" />
-        <entry key="ENGLISH" value="4860" />
+        <entry key="ENGLISH" value="4861" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
