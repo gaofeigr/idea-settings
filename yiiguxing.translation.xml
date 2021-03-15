@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested PropertyAccessExceptions (1) are:" />
       <item value="设施" />
       <item value="Mechanical and electrical" />
       <item value="机电" />
@@ -50,12 +51,11 @@
       <item value="boundary" />
       <item value="temp File Save Path" />
       <item value="argument" />
-      <item value="domain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4727" />
-        <entry key="ENGLISH" value="4855" />
+        <entry key="CHINESE" value="4728" />
+        <entry key="ENGLISH" value="4856" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
