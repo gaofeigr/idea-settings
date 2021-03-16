@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escape" />
+      <item value="ROUND HALF UP" />
       <item value="Quality Check Cmp Service Imp" />
       <item value="Quality Check Cmp Action" />
       <item value="quality Check Mae" />
       <item value="score" />
-      <item value="escape" />
       <item value="评分" />
       <item value="评价等级" />
       <item value="KI" />
@@ -50,12 +51,11 @@
       <item value="more" />
       <item value="greater" />
       <item value="大于" />
-      <item value="超过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4735" />
-        <entry key="ENGLISH" value="4872" />
+        <entry key="CHINESE" value="4737" />
+        <entry key="ENGLISH" value="4874" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="10" />
