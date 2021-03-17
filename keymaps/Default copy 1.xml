@@ -51,6 +51,9 @@
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="RemoveBom">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*hbm.xml</mask>
@@ -17,12 +18,12 @@
     <mask>*type*.xml</mask>
     <mask>enums.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*view.jsp</mask>
     <mask>*.jsp</mask>
     <mask>*mvc.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.hbm.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
