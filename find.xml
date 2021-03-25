@@ -21,8 +21,8 @@
     <mask>*.jsp</mask>
     <mask>*mvc.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.hbm.xml</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
