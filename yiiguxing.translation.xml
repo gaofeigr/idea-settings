@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0" />
+      <item value="Re-run Maven using the -X switch to enable full debug logging." />
+      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean (default-clean) on project demo3: Failed to clean project: Failed to delete D:\_WORK\demo3\target\demo3-0.0.1-SNAPSHOT.jar -&gt; [Help 1]" />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean (default-clean) on project demo3: Failed to clean project: Failed to delete D:\_WORK\demo3\target -&gt; [Help 1]&#10;[ERROR]" />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.5.2:install (default-cli) on project demo3: The packaging for this project did not assign a file to the build artifact -&gt; [Help 1]&#10;[ERROR]" />
       <item value="suecss" />
       <item value="No node available" />
       <item value="after" />
@@ -45,17 +51,11 @@
       <item value="pool" />
       <item value="泳池" />
       <item value="safe" />
-      <item value="安全" />
-      <item value="comprehensive" />
-      <item value="综合" />
-      <item value="环境" />
-      <item value="项目" />
-      <item value="cust" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4754" />
-        <entry key="ENGLISH" value="4890" />
+        <entry key="CHINESE" value="4760" />
+        <entry key="ENGLISH" value="4896" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
