@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sys Student Repository" />
+      <item value="get Dynamic Props" />
+      <item value="get Mechanisms" />
+      <item value="persistence" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0" />
       <item value="Re-run Maven using the -X switch to enable full debug logging." />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
@@ -47,15 +51,11 @@
       <item value="nested PropertyAccessExceptions (1) are:" />
       <item value="设施" />
       <item value="Mechanical and electrical" />
-      <item value="机电" />
-      <item value="pool" />
-      <item value="泳池" />
-      <item value="safe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4760" />
-        <entry key="ENGLISH" value="4896" />
+        <entry key="CHINESE" value="4764" />
+        <entry key="ENGLISH" value="4900" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
