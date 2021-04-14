@@ -90,6 +90,10 @@
           <option name="url" value="https://git.landray.com.cn/mk-group/v5/assemble/mk-app-base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.landray.com.cn" />
+          <option name="userName" value="luoming_sz" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
