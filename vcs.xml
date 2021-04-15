@@ -94,6 +94,10 @@
           <option name="url" value="http://git.landray.com.cn" />
           <option name="userName" value="luoming_sz" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/business.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK" />
