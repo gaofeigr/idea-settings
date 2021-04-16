@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inheritance Type" />
+      <item value="SINGLE TABLE" />
+      <item value="Inheritance" />
       <item value="swagger Enable" />
       <item value="No operations defined in spec!" />
       <item value="repositories" />
@@ -48,14 +51,11 @@
       <item value="the Weight" />
       <item value="customer" />
       <item value="custmer" />
-      <item value="custo\mer" />
-      <item value="cate" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4788" />
-        <entry key="ENGLISH" value="4924" />
+        <entry key="CHINESE" value="4791" />
+        <entry key="ENGLISH" value="4927" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
