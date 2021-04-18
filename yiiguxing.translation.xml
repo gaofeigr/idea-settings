@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入口" />
+      <item value="sys attach file slice summary" />
       <item value="Inheritance Type" />
       <item value="SINGLE TABLE" />
       <item value="Inheritance" />
@@ -49,13 +51,11 @@
       <item value="I Sys Metadata Parser" />
       <item value="I Sys Metadata Dao" />
       <item value="the Weight" />
-      <item value="customer" />
-      <item value="custmer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4791" />
-        <entry key="ENGLISH" value="4927" />
+        <entry key="CHINESE" value="4792" />
+        <entry key="ENGLISH" value="4929" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
