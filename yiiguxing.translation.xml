@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix Url" />
+      <item value="get Org Staffing Level Info" />
+      <item value="Essence" />
+      <item value="Essence Org Sync In IAM Provider" />
+      <item value="IAM" />
       <item value="入口" />
       <item value="sys attach file slice summary" />
       <item value="Inheritance Type" />
@@ -46,16 +51,11 @@
       <item value="No node available" />
       <item value="after" />
       <item value="active" />
-      <item value="gradient" />
-      <item value="do nothing……" />
-      <item value="I Sys Metadata Parser" />
-      <item value="I Sys Metadata Dao" />
-      <item value="the Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4792" />
-        <entry key="ENGLISH" value="4929" />
+        <entry key="CHINESE" value="4797" />
+        <entry key="ENGLISH" value="4933" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
