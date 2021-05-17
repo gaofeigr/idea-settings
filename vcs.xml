@@ -98,6 +98,18 @@
           <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/business.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/mk-oppo-bpm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/mk-oppo-org.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/mk-oppo-sso.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaproject\_WORK\oppo" />
