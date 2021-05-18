@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called method" />
+      <item value="Method called" />
+      <item value="A method is called" />
+      <item value="lt" />
+      <item value="gt" />
       <item value="prefix Url" />
       <item value="get Org Staffing Level Info" />
       <item value="Essence" />
@@ -46,16 +51,11 @@
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean (default-clean) on project demo3: Failed to clean project: Failed to delete D:\_WORK\demo3\target\demo3-0.0.1-SNAPSHOT.jar -&gt; [Help 1]" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean (default-clean) on project demo3: Failed to clean project: Failed to delete D:\_WORK\demo3\target -&gt; [Help 1]&#10;[ERROR]" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.5.2:install (default-cli) on project demo3: The packaging for this project did not assign a file to the build artifact -&gt; [Help 1]&#10;[ERROR]" />
-      <item value="suecss" />
-      <item value="No node available" />
-      <item value="after" />
-      <item value="active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4797" />
-        <entry key="ENGLISH" value="4933" />
+        <entry key="CHINESE" value="4802" />
+        <entry key="ENGLISH" value="4937" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
