@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synchronized" />
       <item value="millis" />
       <item value="NANOSECONDS" />
       <item value="shutdown" />
@@ -50,12 +51,11 @@
       <item value="sys Org Class Config Service" />
       <item value="sys Org Sync Controller" />
       <item value="Sys Org Sync Controller" />
-      <item value="discovery-center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4819" />
-        <entry key="ENGLISH" value="4954" />
+        <entry key="CHINESE" value="4820" />
+        <entry key="ENGLISH" value="4955" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
