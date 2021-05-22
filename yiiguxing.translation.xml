@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MINUTES" />
+      <item value="SECONDS" />
+      <item value="Resend error flow to OPPO bpm center" />
+      <item value="Resend error flow OPPO bpm center" />
+      <item value="Resend" />
+      <item value="reSend Error flow OPPO Bpm center" />
+      <item value="流程" />
+      <item value="reSend Error process OPPO Bpm center" />
+      <item value="reSend Error bpm OPPO Bpm center" />
+      <item value="reSend Error OPPO Bpm center" />
+      <item value="ProActive/GCM add subcomponents" />
       <item value="EAGER" />
       <item value="Called method" />
       <item value="Method called" />
@@ -40,22 +51,11 @@
       <item value="artifact Id" />
       <item value="Description: Field sysOrgElementSummaryService in com.landray.sys.notify.core.service.SysNotifySourceModuleService required a bean of type 'com.landray.sys.org.api.ISysOrgElementSummaryApi' that could not be found. The injection point has the following annotations: - @org.springframework.beans.factory.annotation.Autowired(required=true) Action: Consider defining a bean of type 'com.landray.sys.org.api.ISysOrgElementSummaryApi' in your configuration." />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors? Enable" />
-      <item value="Establishing SSL connection without server's identity verification is not recommended." />
-      <item value="receive:com.landray.common.core.event.Meta Changed Event:[&quot;Meta Entity&quot;]" />
-      <item value="fd Grade" />
-      <item value="Sys Student Repository" />
-      <item value="get Dynamic Props" />
-      <item value="get Mechanisms" />
-      <item value="persistence" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0" />
-      <item value="Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean (default-clean) on project demo3: Failed to clean project: Failed to delete D:\_WORK\demo3\target\demo3-0.0.1-SNAPSHOT.jar -&gt; [Help 1]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4803" />
-        <entry key="ENGLISH" value="4938" />
+        <entry key="CHINESE" value="4813" />
+        <entry key="ENGLISH" value="4949" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
