@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Move or commit them before checkout" />
       <item value="远程主机强迫关闭了一个现有的连接" />
       <item value="Cannot shutdown ReplicaAwareInstanceRegistry" />
       <item value="examine" />
@@ -50,12 +51,11 @@
       <item value="repositories" />
       <item value="Push master to origin/master was rejected by remote" />
       <item value="failed to push some refs to 'https://git.landray.com.cn/project-group/oppo/oppo-backend/business.git'" />
-      <item value="There is no tracking information for the current branch. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4838" />
-        <entry key="ENGLISH" value="4972" />
+        <entry key="CHINESE" value="4839" />
+        <entry key="ENGLISH" value="4973" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
