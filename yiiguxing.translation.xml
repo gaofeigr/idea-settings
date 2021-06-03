@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRAN VAR" />
+      <item value="get Tran Vars" />
+      <item value="tran Thread Local" />
       <item value="mechanisms" />
       <item value="The Oppo System Integration Interface invokes an abnormal retry task" />
       <item value="切换" />
@@ -48,14 +51,11 @@
       <item value="prefix Url" />
       <item value="get Org Staffing Level Info" />
       <item value="Essence" />
-      <item value="Essence Org Sync In IAM Provider" />
-      <item value="IAM" />
-      <item value="入口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4847" />
-        <entry key="ENGLISH" value="4982" />
+        <entry key="CHINESE" value="4850" />
+        <entry key="ENGLISH" value="4983" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
