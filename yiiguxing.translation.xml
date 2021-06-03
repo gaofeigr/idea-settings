@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assertion Error" />
+      <item value="children" />
+      <item value="quiet" />
+      <item value="trace Json" />
+      <item value="sleep interrupted" />
+      <item value="DEFINED PORT" />
+      <item value="No runnable methods" />
+      <item value="Oppo Bpm Sync Error Controller Test" />
+      <item value="Class not found" />
+      <item value="Prohibited package name" />
+      <item value="Cannot instantiate test(s): java.lang.SecurityException: Prohibited package name: java.com.landray.oppo.bpm.core.controller" />
       <item value="read Only" />
       <item value="ISOLATION DEFAULT" />
       <item value="PROPAGATION REQUIRED" />
@@ -40,22 +51,11 @@
       <item value="Resend error flow OPPO bpm center" />
       <item value="Resend" />
       <item value="reSend Error flow OPPO Bpm center" />
-      <item value="流程" />
-      <item value="reSend Error process OPPO Bpm center" />
-      <item value="reSend Error bpm OPPO Bpm center" />
-      <item value="reSend Error OPPO Bpm center" />
-      <item value="ProActive/GCM add subcomponents" />
-      <item value="EAGER" />
-      <item value="Called method" />
-      <item value="Method called" />
-      <item value="A method is called" />
-      <item value="lt" />
-      <item value="gt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4853" />
-        <entry key="ENGLISH" value="4986" />
+        <entry key="CHINESE" value="4866" />
+        <entry key="ENGLISH" value="4999" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
