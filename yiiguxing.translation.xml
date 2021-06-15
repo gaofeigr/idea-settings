@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect string value: '\xE5\x88\x9B\xE5\xBB\xBA...' for column 'fd_content' at row 1" />
+      <item value="fd content" />
+      <item value="column" />
+      <item value="closing inbound before receiving peer's close_notify" />
+      <item value="close notify" />
+      <item value="decode" />
+      <item value="Feign Error Decoder" />
+      <item value="failed" />
+      <item value="Design Element Group" />
+      <item value="save All" />
+      <item value="Design Element Remote Api Client" />
+      <item value="Hystrix Runtime Exception" />
       <item value="Operator On Error Resume Next Via Function$4" />
       <item value="call" />
       <item value="Abstract Command$22" />
@@ -9,7 +21,6 @@
       <item value="sleep interrupted" />
       <item value=" Pulling images required for setting up a Kubernetes cluster [preflight] This might take a minute or two, depending on the speed of your internet connection [preflight] You can also perform this action in beforehand using 'kubeadm config images pull'" />
       <item value="End-of-central-directory signature not found.  Either this file is not   a zipfile, or it constitutes one disk of a multi-part archive.  In the   latter case the central directory and zipfile comment will be found on   the last disk(s) of this archive." />
-      <item value="closing inbound before receiving peer's close_notify" />
       <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
       <item value="conditions" />
       <item value="contains" />
@@ -40,22 +51,11 @@
       <item value="mechanisms" />
       <item value="The Oppo System Integration Interface invokes an abnormal retry task" />
       <item value="切换" />
-      <item value="de-registration failedCannot execute request on any known server" />
-      <item value="Cannot execute request on any known server" />
-      <item value="Connection refused: connect at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)" />
-      <item value="Connection refused: connect" />
-      <item value="Request execution error" />
-      <item value="Exception occured. Channel" />
-      <item value="Move or commit them before checkout" />
-      <item value="远程主机强迫关闭了一个现有的连接" />
-      <item value="Cannot shutdown ReplicaAwareInstanceRegistry" />
-      <item value="examine" />
-      <item value="copy To" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4882" />
-        <entry key="ENGLISH" value="5015" />
+        <entry key="CHINESE" value="4895" />
+        <entry key="ENGLISH" value="5028" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
