@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Operator On Error Resume Next Via Function$4" />
+      <item value="call" />
+      <item value="Abstract Command$22" />
+      <item value="failed and no fallback available." />
+      <item value="DesignElementRemoteApiClient#saveAll(DesignElementGroup) failed and no fallback available." />
+      <item value="sleep interrupted" />
       <item value=" Pulling images required for setting up a Kubernetes cluster [preflight] This might take a minute or two, depending on the speed of your internet connection [preflight] You can also perform this action in beforehand using 'kubeadm config images pull'" />
       <item value="End-of-central-directory signature not found.  Either this file is not   a zipfile, or it constitutes one disk of a multi-part archive.  In the   latter case the central directory and zipfile comment will be found on   the last disk(s) of this archive." />
       <item value="closing inbound before receiving peer's close_notify" />
@@ -19,7 +25,6 @@
       <item value="children" />
       <item value="quiet" />
       <item value="trace Json" />
-      <item value="sleep interrupted" />
       <item value="DEFINED PORT" />
       <item value="No runnable methods" />
       <item value="Oppo Bpm Sync Error Controller Test" />
@@ -46,16 +51,11 @@
       <item value="Cannot shutdown ReplicaAwareInstanceRegistry" />
       <item value="examine" />
       <item value="copy To" />
-      <item value="replicate By Ids" />
-      <item value="replicate From" />
-      <item value="Search Report" />
-      <item value="MINUTES" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4876" />
-        <entry key="ENGLISH" value="5009" />
+        <entry key="CHINESE" value="4882" />
+        <entry key="ENGLISH" value="5015" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
