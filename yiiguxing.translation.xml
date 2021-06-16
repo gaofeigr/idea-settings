@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no protocol:" />
       <item value="closing inbound before receiving peer's close_notify" />
       <item value="Incorrect string value: '\xE5\x88\x9B\xE5\xBB\xBA...' for column 'fd_content' at row 1" />
       <item value="fd content" />
@@ -50,12 +51,11 @@
       <item value="tran Thread Local" />
       <item value="mechanisms" />
       <item value="The Oppo System Integration Interface invokes an abnormal retry task" />
-      <item value="切换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4896" />
-        <entry key="ENGLISH" value="5029" />
+        <entry key="CHINESE" value="4897" />
+        <entry key="ENGLISH" value="5030" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
