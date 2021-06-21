@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Oppo Bpm Report Controller" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="state" />
+      <item value="stat" />
       <item value="execute" />
       <item value="java.net.SocketException: Connection reset" />
       <item value="keep Alive Time" />
@@ -47,15 +51,11 @@
       <item value="Class not found" />
       <item value="Prohibited package name" />
       <item value="Cannot instantiate test(s): java.lang.SecurityException: Prohibited package name: java.com.landray.oppo.bpm.core.controller" />
-      <item value="read Only" />
-      <item value="ISOLATION DEFAULT" />
-      <item value="PROPAGATION REQUIRED" />
-      <item value="TRAN VAR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4901" />
-        <entry key="ENGLISH" value="5034" />
+        <entry key="CHINESE" value="4903" />
+        <entry key="ENGLISH" value="5036" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
