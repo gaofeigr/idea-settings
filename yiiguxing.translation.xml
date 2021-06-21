@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modifying" />
+      <item value="Test Success!handlerPassEvent" />
       <item value="EAGER" />
       <item value="task Receive Time" />
       <item value="Process statistics assessment template table" />
@@ -49,13 +51,11 @@
       <item value="Oppo Bpm Search Report Vo" />
       <item value="调用" />
       <item value="Assertion Error" />
-      <item value="children" />
-      <item value="quiet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4909" />
-        <entry key="ENGLISH" value="5043" />
+        <entry key="CHINESE" value="4911" />
+        <entry key="ENGLISH" value="5045" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
