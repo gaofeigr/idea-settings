@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Stat Overview" />
+      <item value="find Stat Assess System Approval Efficiency" />
+      <item value="find Stat More Than 24 Hour List" />
+      <item value="find Stat System Approval Efficiency" />
+      <item value="find Stat Template Statistics" />
+      <item value="考核" />
+      <item value="Operand should contain 1 column(s)" />
       <item value="in field list is ambiguous" />
       <item value="assess Node Avg Duration" />
       <item value="which is not functionally dependent on columns in GROUP BY clause" />
@@ -28,7 +35,6 @@
       <item value="task Receive Time" />
       <item value="Process statistics assessment template table" />
       <item value="考核模板ID" />
-      <item value="考核" />
       <item value="Oppo Bpm Stat Basic" />
       <item value="报表" />
       <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually: " />
@@ -45,17 +51,11 @@
       <item value="Incorrect string value: '\xE5\x88\x9B\xE5\xBB\xBA...' for column 'fd_content' at row 1" />
       <item value="fd content" />
       <item value="column" />
-      <item value="close notify" />
-      <item value="decode" />
-      <item value="Feign Error Decoder" />
-      <item value="failed" />
-      <item value="Design Element Group" />
-      <item value="save All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4932" />
-        <entry key="ENGLISH" value="5066" />
+        <entry key="CHINESE" value="4939" />
+        <entry key="ENGLISH" value="5073" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
