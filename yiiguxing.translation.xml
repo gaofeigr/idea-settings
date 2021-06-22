@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incompatible Class Change Error" />
+      <item value="Implementing class" />
       <item value="system Approval Node Efficiency" />
       <item value="System Approval Node Efficiency" />
       <item value="Efficiency" />
@@ -49,13 +51,11 @@
       <item value="DesignElementRemoteApiClient#saveAll(DesignElementGroup) failed and no fallback available." />
       <item value="sleep interrupted" />
       <item value=" Pulling images required for setting up a Kubernetes cluster [preflight] This might take a minute or two, depending on the speed of your internet connection [preflight] You can also perform this action in beforehand using 'kubeadm config images pull'" />
-      <item value="End-of-central-directory signature not found.  Either this file is not   a zipfile, or it constitutes one disk of a multi-part archive.  In the   latter case the central directory and zipfile comment will be found on   the last disk(s) of this archive." />
-      <item value="conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4921" />
-        <entry key="ENGLISH" value="5055" />
+        <entry key="CHINESE" value="4923" />
+        <entry key="ENGLISH" value="5057" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
