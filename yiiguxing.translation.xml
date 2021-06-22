@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="day Finish Ratio" />
+      <item value="select total.total, assessTotal.assessTotal, finishNodeCount.finishNodeCount, assessFinishNodeCount.assessFinishNodeCount&#10;, (nodeAvgDuration.nodeAvgDuration / finishNodeCount.finishNodeCount) as nodeAvgDuration&#10;, (assessNodeAvgDuration.assessNodeAvgDuration / assessFinishNodeCount.assessFinishNodeCount) as assessNodeAvgDuration&#10;, dayFinishCount.dayFinishCount, assessDayFinishCount.assessDayFinishCount&#10;, (dayFinishCount.dayFinishCount / finishNodeCount.finishNodeCount) as dayFinishRatio&#10;, (assessDayFinishCount.assessDayFinishCount / assessFinishNodeCount.assessFinishNodeCount) as assessDayFinishRatio&#10;from (select count(fd_process_id) as total from oppo_bpm_stat_basic where fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 group by fd_process_id) total, (select count(assessTotal) as assessTotal from (select fd_process_id as assessTotal from oppo_bpm_stat_basic inner join oppo_bpm_stat_check_template on oppo_bpm_stat_basic.fd_template_id = oppo_bpm_stat_check_template.fd_check_template_id where fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 group by fd_process_id) temp) assessTotal, (select count(fd_node_id) as finishNodeCount from oppo_bpm_stat_basic where fd_handle_duration is not null and fd_handle_duration &lt;&gt; '' and fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 group by fd_node_id ) finishNodeCount, (select count(assessFinishNodeCount) as assessFinishNodeCount from (select fd_node_id as assessFinishNodeCount from oppo_bpm_stat_basic inner join oppo_bpm_stat_check_template on oppo_bpm_stat_basic.fd_template_id = oppo_bpm_stat_check_template.fd_check_template_id where fd_handle_duration is not null and fd_handle_duration &lt;&gt; '' and fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 group by fd_node_id) temp) assessFinishNodeCount, (select sum(fd_handle_duration) as nodeAvgDuration from oppo_bpm_stat_basic where fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 and fd_handle_duration is not null and fd_handle_duration &lt;&gt; '') nodeAvgDuration, (select sum(fd_handle_duration) as assessNodeAvgDuration from oppo_bpm_stat_basic inner join oppo_bpm_stat_check_template on oppo_bpm_stat_basic.fd_template_id = oppo_bpm_stat_check_template.fd_check_template_id where fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 and fd_handle_duration is not null and fd_handle_duration &lt;&gt; '') assessNodeAvgDuration, (select count(fd_node_id) as dayFinishCount from oppo_bpm_stat_basic where fd_is_within24 = 1 and fd_handle_duration is not null and fd_handle_duration &lt;&gt; '' and fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 group by fd_node_id) dayFinishCount, (select count(assessDayFinishCount) as assessDayFinishCount from (select fd_node_id as assessDayFinishCount from oppo_bpm_stat_basic inner join oppo_bpm_stat_check_template on oppo_bpm_stat_basic.fd_template_id = oppo_bpm_stat_check_template.fd_check_template_id where fd_is_within24 = 1 and fd_process_create_time &gt;= ?1 and fd_process_create_time &lt;= ?2 and fd_handle_duration is not null and fd_handle_duration &lt;&gt; '' group by fd_node_id) temp) assessDayFinishCount" />
       <item value="Accessors" />
       <item value="chain" />
       <item value="Illegal Argument Exception" />
@@ -49,13 +51,11 @@
       <item value="execute" />
       <item value="java.net.SocketException: Connection reset" />
       <item value="keep Alive Time" />
-      <item value="is Deamon" />
-      <item value="no protocol:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4943" />
-        <entry key="ENGLISH" value="5077" />
+        <entry key="CHINESE" value="4945" />
+        <entry key="ENGLISH" value="5079" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
