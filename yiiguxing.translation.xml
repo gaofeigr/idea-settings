@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accessors" />
+      <item value="chain" />
       <item value="Illegal Argument Exception" />
       <item value="could not extract ResultSet" />
       <item value="find Stat Overview" />
@@ -49,13 +51,11 @@
       <item value="keep Alive Time" />
       <item value="is Deamon" />
       <item value="no protocol:" />
-      <item value="closing inbound before receiving peer's close_notify" />
-      <item value="Incorrect string value: '\xE5\x88\x9B\xE5\xBB\xBA...' for column 'fd_content' at row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4941" />
-        <entry key="ENGLISH" value="5075" />
+        <entry key="CHINESE" value="4943" />
+        <entry key="ENGLISH" value="5077" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
