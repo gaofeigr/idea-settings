@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mng Show Roles" />
+      <item value="ROLE OPPO BPM stat" />
       <item value="the milliseconds since January 1, 1970, 00:00:00 GMT." />
       <item value="jun" />
       <item value="Wed" />
@@ -49,13 +51,11 @@
       <item value="task Receive Time" />
       <item value="Process statistics assessment template table" />
       <item value="考核模板ID" />
-      <item value="Oppo Bpm Stat Basic" />
-      <item value="报表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4952" />
-        <entry key="ENGLISH" value="5085" />
+        <entry key="CHINESE" value="4954" />
+        <entry key="ENGLISH" value="5086" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
