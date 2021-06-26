@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="department" />
+      <item value="department Level" />
+      <item value="department Job Level" />
       <item value="avg Approval Duration" />
       <item value="300-315" />
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
@@ -48,14 +51,11 @@
       <item value="System Approval Node" />
       <item value="weekly Approval Efficiency" />
       <item value="node Approve More Than 24 Hour Lists" />
-      <item value="process Template Data Statistics" />
-      <item value="listener Stat Context" />
-      <item value="Modifying" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4961" />
-        <entry key="ENGLISH" value="5093" />
+        <entry key="CHINESE" value="4964" />
+        <entry key="ENGLISH" value="5096" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
