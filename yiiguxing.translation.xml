@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cluster health check failed: Failed to communicate with API server during namespace check: Get &quot;https://192.168.171.138:6443/api/v1/namespaces/kube-system?timeout=45s&quot;: context deadline exceeded; Pre-pulling kubernetes images" />
+      <item value="Pre-pulling kubernetes images" />
       <item value="Cannot proceed with upgrade of controlplane since 1 host(s) cannot be reached prior to upgrade" />
       <item value=" Error response from daemon: driver failed programming external connectivity on endpoint rke-etcd-port-listener" />
       <item value="No chain/target/match by that name." />
@@ -49,8 +51,6 @@
       <item value="find Stat System Approval Efficiency" />
       <item value="find Stat Template Statistics" />
       <item value="考核" />
-      <item value="Operand should contain 1 column(s)" />
-      <item value="in field list is ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
