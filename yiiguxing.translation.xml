@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Etcd" />
+      <item value="Control Plane" />
+      <item value="Worker" />
       <item value="The cluster needs to have at least one node with each role in order for Rancher to finish provisioning." />
       <item value="cannot find symbol" />
       <item value="construct" />
@@ -48,9 +51,6 @@
       <item value="assess Day Finish Count" />
       <item value="find Stat Statistics" />
       <item value="Encountered a duplicated sql alias" />
-      <item value="native Query" />
-      <item value="Overview" />
-      <item value="Incompatible Class Change Error" />
     </histories>
     <option name="languageScores">
       <map>
