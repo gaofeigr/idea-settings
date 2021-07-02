@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot find symbol" />
       <item value="total" />
       <item value="* Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * millisecond within the second. * E.g., at 10:04:15.250 PM the &lt;code&gt;MILLISECOND&lt;/code&gt; is 250." />
       <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * millisecond within the second." />
@@ -30,7 +31,6 @@
       <item value="Control Plane" />
       <item value="Worker" />
       <item value="The cluster needs to have at least one node with each role in order for Rancher to finish provisioning." />
-      <item value="cannot find symbol" />
       <item value="construct" />
       <item value="Failed to initialize pool: Public Key Retrieval is not allowed" />
       <item value="migration" />
