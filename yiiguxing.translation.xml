@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approval Duration" />
+      <item value="avg Approval Duration" />
       <item value="cannot find symbol" />
       <item value="total" />
       <item value="* Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * millisecond within the second. * E.g., at 10:04:15.250 PM the &lt;code&gt;MILLISECOND&lt;/code&gt; is 250." />
@@ -41,7 +43,6 @@
       <item value="department" />
       <item value="department Level" />
       <item value="department Job Level" />
-      <item value="avg Approval Duration" />
       <item value="300-315" />
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
       <item value="401 null" />
@@ -50,12 +51,11 @@
       <item value="mng Show Roles" />
       <item value="ROLE OPPO BPM stat" />
       <item value="the milliseconds since January 1, 1970, 00:00:00 GMT." />
-      <item value="jun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4981" />
-        <entry key="ENGLISH" value="5116" />
+        <entry key="CHINESE" value="4983" />
+        <entry key="ENGLISH" value="5118" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
