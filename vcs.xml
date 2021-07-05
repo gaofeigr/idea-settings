@@ -126,9 +126,13 @@
           <option name="url" value="https://git.landray.com.cn/project-group/oppo/oppo-backend/mk-oppo-common-log.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@codeup.aliyun.com:5f3c8f396207a1a8b17f8e2f/tools/RuoYi-Vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\ideaproject\_WORK\oppo" />
+    <option name="cloneParentDir" value="D:\ideaproject\_WORK\vanke" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
