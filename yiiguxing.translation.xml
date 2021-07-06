@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Additional Information" />
       <item value="Unsupported platform for fsevents" />
       <item value="I Oppo Bpm Search Report Api" />
       <item value="Oppo Bpm Search Report Api" />
@@ -50,12 +51,11 @@
       <item value="Could not locate PropertySource and the fail fast property is set, failing" />
       <item value="401 null" />
       <item value="Subquery returns more than 1 row" />
-      <item value="ROLE SYSORG SUPER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4986" />
-        <entry key="ENGLISH" value="5121" />
+        <entry key="CHINESE" value="4987" />
+        <entry key="ENGLISH" value="5122" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
