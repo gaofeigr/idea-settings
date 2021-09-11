@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do After All Analysed" />
       <item value="Exception in thread &quot;main&quot; org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document" />
       <item value="System info: host: 'DESKTOP-QKNCRJ2', ip: '192.168.171.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'" />
       <item value="The path to the driver executable must be set by the webdriver.chrome.driver system property;" />
@@ -50,12 +51,11 @@
       <item value="construct" />
       <item value="Failed to initialize pool: Public Key Retrieval is not allowed" />
       <item value="migration" />
-      <item value="迁移" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5004" />
-        <entry key="ENGLISH" value="5136" />
+        <entry key="CHINESE" value="5005" />
+        <entry key="ENGLISH" value="5137" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
