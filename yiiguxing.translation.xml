@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wps Cloud Office" />
       <item value="synonymplugin, Custom Update Plugin, ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
       <item value="synonymplugin" />
       <item value="policy" />
@@ -50,12 +51,11 @@
       <item value="ago" />
       <item value="gest" />
       <item value="Pre-pulling kubernetes images" />
-      <item value="note" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5019" />
-        <entry key="ENGLISH" value="5150" />
+        <entry key="CHINESE" value="5020" />
+        <entry key="ENGLISH" value="5151" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
