@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cloud" />
+      <item value="_is Wps Cloud Enable" />
       <item value="wps Cloud Office" />
       <item value="synonymplugin, Custom Update Plugin, ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
       <item value="synonymplugin" />
@@ -49,13 +51,11 @@
       <item value="Incorrect datetime value: '产品模板' for column 'fd_create_time' at row 1" />
       <item value="[dialer] Setup tunnel for host [192.168.171.139]" />
       <item value="ago" />
-      <item value="gest" />
-      <item value="Pre-pulling kubernetes images" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5020" />
-        <entry key="ENGLISH" value="5151" />
+        <entry key="CHINESE" value="5022" />
+        <entry key="ENGLISH" value="5153" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
