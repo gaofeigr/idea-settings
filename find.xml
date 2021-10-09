@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="在线阅读替换为wps" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*hbm.xml</mask>
