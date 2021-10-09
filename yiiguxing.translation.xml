@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a" />
+      <item value="bbs" />
       <item value="Cloud" />
       <item value="_is Wps Cloud Enable" />
       <item value="wps Cloud Office" />
@@ -49,8 +51,6 @@
       <item value="Referencing column 'fd_basic_id' and referenced column 'fd_id' in foreign key constraint 'FKpmnmvcl9vm2x86x676h9b7qqo' are incompatible." />
       <item value="Incorrect datetime value" />
       <item value="Incorrect datetime value: '产品模板' for column 'fd_create_time' at row 1" />
-      <item value="[dialer] Setup tunnel for host [192.168.171.139]" />
-      <item value="ago" />
     </histories>
     <option name="languageScores">
       <map>
