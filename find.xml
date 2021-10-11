@@ -23,8 +23,8 @@
     <mask>*.hbm.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
