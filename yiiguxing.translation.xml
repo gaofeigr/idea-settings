@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disabled" />
       <item value="SYSROLE USER" />
       <item value="Encountered illegal body of tag &quot;c:import&quot; tag, given its attributes." />
       <item value="a" />
@@ -50,7 +51,6 @@
       <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * hour of the day. &lt;code&gt;HOUR_OF_DAY&lt;/code&gt; is used for the 24-hour clock. * E.g., at 10:04:15.250 PM the &lt;code&gt;HOUR_OF_DAY&lt;/code&gt; is 22." />
       <item value="MINUTE" />
       <item value="USING BTREE" />
-      <item value="Referencing column 'fd_basic_id' and referenced column 'fd_id' in foreign key constraint 'FKpmnmvcl9vm2x86x676h9b7qqo' are incompatible." />
     </histories>
     <option name="languageScores">
       <map>
