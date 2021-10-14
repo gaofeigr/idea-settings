@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is exceeding the 65535 bytes limit" />
       <item value="disabled" />
       <item value="SYSROLE USER" />
       <item value="Encountered illegal body of tag &quot;c:import&quot; tag, given its attributes." />
@@ -50,12 +51,11 @@
       <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * minute within the hour. * E.g., at 10:04:15.250 PM the &lt;code&gt;MINUTE&lt;/code&gt; is 4." />
       <item value="Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * hour of the day. &lt;code&gt;HOUR_OF_DAY&lt;/code&gt; is used for the 24-hour clock. * E.g., at 10:04:15.250 PM the &lt;code&gt;HOUR_OF_DAY&lt;/code&gt; is 22." />
       <item value="MINUTE" />
-      <item value="USING BTREE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5024" />
-        <entry key="ENGLISH" value="5155" />
+        <entry key="CHINESE" value="5025" />
+        <entry key="ENGLISH" value="5156" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
