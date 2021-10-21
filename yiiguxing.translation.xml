@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mixin" />
+      <item value="destroy Recursive" />
+      <item value="destroy Loading" />
+      <item value="on Complete" />
       <item value="dependences" />
       <item value="right" />
       <item value="pic Float" />
       <item value="height" />
       <item value="build Footer" />
-      <item value="destroy Recursive" />
       <item value="refresh Complete" />
       <item value="resolve" />
       <item value="deferred" />
@@ -48,14 +51,11 @@
       <item value="Scheduling Exception" />
       <item value="scheduling" />
       <item value="springframework" />
-      <item value="set Additional Information" />
-      <item value="Unsupported platform for fsevents" />
-      <item value="I Oppo Bpm Search Report Api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5039" />
-        <entry key="ENGLISH" value="5170" />
+        <entry key="CHINESE" value="5043" />
+        <entry key="ENGLISH" value="5174" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
