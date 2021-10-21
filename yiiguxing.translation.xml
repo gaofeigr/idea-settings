@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inherited" />
+      <item value="inherit" />
       <item value="mixin" />
       <item value="destroy Recursive" />
       <item value="destroy Loading" />
@@ -15,7 +17,6 @@
       <item value="deferred" />
       <item value="post Mix In Properties" />
       <item value="draw By Even" />
-      <item value="inherited" />
       <item value="Security framework of XStream not explicitly initialized, using predefined black list on your own risk." />
       <item value="is exceeding the 65535 bytes limit" />
       <item value="disabled" />
@@ -50,12 +51,11 @@
       <item value="Scheduler Factory Bean$1" />
       <item value="Scheduling Exception" />
       <item value="scheduling" />
-      <item value="springframework" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5043" />
-        <entry key="ENGLISH" value="5174" />
+        <entry key="CHINESE" value="5045" />
+        <entry key="ENGLISH" value="5176" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="11" />
