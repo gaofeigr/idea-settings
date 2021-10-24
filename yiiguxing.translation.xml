@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Company Changed" />
       <item value="fd Job" />
       <item value="fd Enterprise Name" />
       <item value="doc Main" />
@@ -50,12 +51,11 @@
       <item value="Cloud" />
       <item value="_is Wps Cloud Enable" />
       <item value="wps Cloud Office" />
-      <item value="synonymplugin, Custom Update Plugin, ElasticSearch-SimDoc Plugin, word, ElasticSearch Query Plugin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5068" />
-        <entry key="ENGLISH" value="5198" />
+        <entry key="CHINESE" value="5069" />
+        <entry key="ENGLISH" value="5199" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
