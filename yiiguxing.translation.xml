@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escape" />
       <item value="after Company Changed" />
       <item value="fd Job" />
       <item value="fd Enterprise Name" />
@@ -50,12 +51,11 @@
       <item value="bbs" />
       <item value="Cloud" />
       <item value="_is Wps Cloud Enable" />
-      <item value="wps Cloud Office" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5069" />
-        <entry key="ENGLISH" value="5199" />
+        <entry key="CHINESE" value="5070" />
+        <entry key="ENGLISH" value="5200" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
