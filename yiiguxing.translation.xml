@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fade In" />
       <item value="save Quick" />
       <item value="publish Draft" />
       <item value="validate Opt" />
@@ -50,12 +51,11 @@
       <item value="sys_rest_server_policy" />
       <item value="fd Policy" />
       <item value="# Problematic frame:" />
-      <item value="A fatal error has been detected by the Java Runtime Environment:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5062" />
-        <entry key="ENGLISH" value="5193" />
+        <entry key="CHINESE" value="5063" />
+        <entry key="ENGLISH" value="5194" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
