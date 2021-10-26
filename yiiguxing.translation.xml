@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="import Relate Party" />
       <item value="The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="escape" />
       <item value="after Company Changed" />
@@ -50,12 +51,11 @@
       <item value="Encountered illegal body of tag &quot;c:import&quot; tag, given its attributes." />
       <item value="a" />
       <item value="bbs" />
-      <item value="Cloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5071" />
-        <entry key="ENGLISH" value="5201" />
+        <entry key="CHINESE" value="5072" />
+        <entry key="ENGLISH" value="5202" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
