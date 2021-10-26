@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enterprises" />
       <item value="set Grouping Used" />
       <item value="get Relate Party By Credit Codes" />
       <item value="unify Social Credit Codes List" />
@@ -50,12 +51,11 @@
       <item value="draw By Even" />
       <item value="Security framework of XStream not explicitly initialized, using predefined black list on your own risk." />
       <item value="is exceeding the 65535 bytes limit" />
-      <item value="disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5076" />
-        <entry key="ENGLISH" value="5206" />
+        <entry key="CHINESE" value="5077" />
+        <entry key="ENGLISH" value="5207" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
