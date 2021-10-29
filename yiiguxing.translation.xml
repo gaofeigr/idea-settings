@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot start compilation: the output path is not specified for module &quot;szjyj&quot;. Specify the output path in the Project Structure dialog." />
       <item value="subscribe" />
       <item value="fd Vice Places Ids" />
       <item value="convert Metting To Mobile Json" />
@@ -50,7 +51,6 @@
       <item value="destroy Recursive" />
       <item value="destroy Loading" />
       <item value="on Complete" />
-      <item value="dependences" />
     </histories>
     <option name="languageScores">
       <map>
