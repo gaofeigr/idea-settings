@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.security.NoSuchAlgorithmException: Error constructing implementation (algorithm: DES, provider: BC, class: org.bouncycastle.jcajce.provider.symmetric.DES$KeyFactory" />
       <item value="fd Outer Interface Url" />
       <item value="Cannot start compilation: the output path is not specified for module &quot;szjyj&quot;. Specify the output path in the Project Structure dialog." />
       <item value="subscribe" />
@@ -50,7 +51,6 @@
       <item value="inherit" />
       <item value="mixin" />
       <item value="destroy Recursive" />
-      <item value="destroy Loading" />
     </histories>
     <option name="languageScores">
       <map>
