@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Outer Interface Url" />
       <item value="Cannot start compilation: the output path is not specified for module &quot;szjyj&quot;. Specify the output path in the Project Structure dialog." />
       <item value="subscribe" />
       <item value="fd Vice Places Ids" />
@@ -50,12 +51,11 @@
       <item value="mixin" />
       <item value="destroy Recursive" />
       <item value="destroy Loading" />
-      <item value="on Complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5089" />
-        <entry key="ENGLISH" value="5218" />
+        <entry key="CHINESE" value="5090" />
+        <entry key="ENGLISH" value="5219" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
