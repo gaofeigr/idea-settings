@@ -28,5 +28,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>common.js</mask>
   </component>
 </application>
