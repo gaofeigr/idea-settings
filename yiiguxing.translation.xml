@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manifest" />
+      <item value="Hibernate-Version" />
+      <item value="Manifest-Version" />
+      <item value="Dameng dialect of hibernate 3.1" />
+      <item value="Vendor" />
+      <item value="Implementation-Vendor: hibernate.org" />
+      <item value="Implementation-Version: 3.2.2.ga" />
+      <item value="Implementation" />
       <item value="hibernate open config update but not update table" />
       <item value="position" />
       <item value="refused" />
@@ -43,19 +51,11 @@
       <item value="resize Items" />
       <item value="_handle View Changed" />
       <item value="_chang View" />
-      <item value="_set Sibling Views In Motion" />
-      <item value="head Image Path" />
-      <item value="路径" />
-      <item value="地址" />
-      <item value="head Image Herf" />
-      <item value="head Image Href" />
-      <item value="creator Name" />
-      <item value="head Image Src" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5095" />
-        <entry key="ENGLISH" value="5224" />
+        <entry key="CHINESE" value="5105" />
+        <entry key="ENGLISH" value="5234" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
