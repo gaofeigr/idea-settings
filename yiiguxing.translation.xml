@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics Portal" />
+      <item value="annual Document Statistics" />
+      <item value="annual Official Document Statistics" />
+      <item value="Statistics" />
+      <item value="accumulate" />
       <item value="FactoryBean which is currently in creation returned null from getObject" />
       <item value="Support for obsolete DTD/XSD namespaces may be removed at any time." />
       <item value="sucktop" />
@@ -46,16 +51,11 @@
       <item value="import Relate Party" />
       <item value="The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="escape" />
-      <item value="after Company Changed" />
-      <item value="fd Job" />
-      <item value="fd Enterprise Name" />
-      <item value="doc Main" />
-      <item value="fd Relation Dignitary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5111" />
-        <entry key="ENGLISH" value="5239" />
+        <entry key="CHINESE" value="5117" />
+        <entry key="ENGLISH" value="5245" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
