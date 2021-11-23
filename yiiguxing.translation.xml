@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum redirects" />
       <item value="call" />
       <item value=" Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
       <item value="statistics Portal" />
@@ -50,7 +51,6 @@
       <item value="get Relate Party By Credit Codes" />
       <item value="unify Social Credit Codes List" />
       <item value="unify Social Credit Codes" />
-      <item value="import Relate Party" />
     </histories>
     <option name="languageScores">
       <map>
