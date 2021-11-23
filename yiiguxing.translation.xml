@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approval Callback" />
+      <item value="approvalCallback" />
       <item value="Duplicate local variable formValuesArray" />
       <item value="4194304" />
       <item value="4575071" />
@@ -49,8 +51,6 @@
       <item value="get Blank Style" />
       <item value="get Fd Is Dignitary" />
       <item value="get Fd Enterprise Name" />
-      <item value="SOLID FOREGROUND" />
-      <item value="Enterprises" />
     </histories>
     <option name="languageScores">
       <map>
