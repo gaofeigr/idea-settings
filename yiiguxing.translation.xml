@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Animation Frame" />
       <item value="quot" />
       <item value="调调调调调调调调调调调调调试" />
       <item value="debug" />
@@ -50,12 +51,11 @@
       <item value="Error constructing implementation (algorithm: DES, provider: BC, class: org.bouncycastle.jcajce.provider.symmetric.DES$KeyFactory)" />
       <item value="Invocation Target Exception" />
       <item value="Deprecated" />
-      <item value="java.security.NoSuchAlgorithmException: Error constructing implementation (algorithm: DES, provider: BC, class: org.bouncycastle.jcajce.provider.symmetric.DES$KeyFactory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5129" />
-        <entry key="ENGLISH" value="5258" />
+        <entry key="CHINESE" value="5130" />
+        <entry key="ENGLISH" value="5259" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
