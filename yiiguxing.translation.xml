@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调调调调调调调调调调调调调试" />
+      <item value="debug" />
+      <item value="deeeeeeeeeeeeeeeebug" />
+      <item value="de bug" />
+      <item value="deeeeeeeebug" />
       <item value="Presentations" />
       <item value="salary Archives Info Rsp" />
       <item value="no matching editors or conversion strategy found" />
@@ -46,16 +51,11 @@
       <item value="Deprecated" />
       <item value="java.security.NoSuchAlgorithmException: Error constructing implementation (algorithm: DES, provider: BC, class: org.bouncycastle.jcajce.provider.symmetric.DES$KeyFactory" />
       <item value="fd Outer Interface Url" />
-      <item value="Cannot start compilation: the output path is not specified for module &quot;szjyj&quot;. Specify the output path in the Project Structure dialog." />
-      <item value="subscribe" />
-      <item value="fd Vice Places Ids" />
-      <item value="convert Metting To Mobile Json" />
-      <item value="priority" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5128" />
-        <entry key="ENGLISH" value="5256" />
+        <entry key="ENGLISH" value="5257" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
