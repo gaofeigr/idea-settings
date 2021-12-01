@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd branch Type" />
+      <item value="fd barth" />
       <item value="indicator Description" />
       <item value="in Line With Expected" />
       <item value="in Line With Expectations" />
@@ -49,13 +51,11 @@
       <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
       <item value="fuck the regulations" />
       <item value="Not allowed to launch 'ksowpscloudsvr://start=RelayHttpServer' because a user gesture is required." />
-      <item value="fd Secretary" />
-      <item value="set Fd Receive Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5145" />
-        <entry key="ENGLISH" value="5276" />
+        <entry key="CHINESE" value="5147" />
+        <entry key="ENGLISH" value="5277" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
