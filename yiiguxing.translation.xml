@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicator Description" />
+      <item value="in Line With Expected" />
+      <item value="in Line With Expectations" />
+      <item value="lower Than Expected" />
+      <item value="far Below Expected" />
+      <item value="expected" />
+      <item value="challenge Value" />
+      <item value="guaranteed Value" />
+      <item value="权重" />
+      <item value="Weight" />
+      <item value="the Weight" />
+      <item value="目标分类" />
+      <item value="objective" />
       <item value="Active Workbook" />
       <item value="_blank" />
       <item value="request Animation Frame" />
@@ -38,24 +51,11 @@
       <item value="Not allowed to launch 'ksowpscloudsvr://start=RelayHttpServer' because a user gesture is required." />
       <item value="fd Secretary" />
       <item value="set Fd Receive Code" />
-      <item value="Manifest" />
-      <item value="Hibernate-Version" />
-      <item value="Manifest-Version" />
-      <item value="Dameng dialect of hibernate 3.1" />
-      <item value="Vendor" />
-      <item value="Implementation-Vendor: hibernate.org" />
-      <item value="Implementation-Version: 3.2.2.ga" />
-      <item value="Implementation" />
-      <item value="hibernate open config update but not update table" />
-      <item value="position" />
-      <item value="refused" />
-      <item value="This web container has not yet been started" />
-      <item value="Error constructing implementation (algorithm: DES, provider: BC, class: org.bouncycastle.jcajce.provider.symmetric.DES$KeyFactory)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5132" />
-        <entry key="ENGLISH" value="5261" />
+        <entry key="CHINESE" value="5145" />
+        <entry key="ENGLISH" value="5276" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
