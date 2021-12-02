@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hidden Input" />
+      <item value="hiden Input" />
       <item value="指标" />
       <item value="lbpm Handler Refuse Event" />
       <item value="ended Node Event" />
@@ -49,13 +51,11 @@
       <item value="annual Official Document Statistics" />
       <item value="Statistics" />
       <item value="accumulate" />
-      <item value="FactoryBean which is currently in creation returned null from getObject" />
-      <item value="Support for obsolete DTD/XSD namespaces may be removed at any time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5151" />
-        <entry key="ENGLISH" value="5282" />
+        <entry key="CHINESE" value="5153" />
+        <entry key="ENGLISH" value="5284" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
