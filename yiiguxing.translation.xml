@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DOC STATUS DISCARD" />
+      <item value="DOC STATUS REFUSE" />
       <item value="Task Ref Execution Is Null" />
       <item value="error.Task Ref Execution Is Null" />
       <item value="Task has been handled or cancelled" />
@@ -49,13 +51,11 @@
       <item value="deeeeeeeeeeeeeeeebug" />
       <item value="de bug" />
       <item value="deeeeeeeebug" />
-      <item value="Presentations" />
-      <item value="salary Archives Info Rsp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5167" />
-        <entry key="ENGLISH" value="5296" />
+        <entry key="CHINESE" value="5169" />
+        <entry key="ENGLISH" value="5298" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
