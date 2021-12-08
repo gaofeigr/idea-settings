@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accordionpanel" />
+      <item value="all Jeremy Levin" />
+      <item value="Jeremy Levin" />
+      <item value="i Typed" />
+      <item value="ityped" />
+      <item value="typed" />
       <item value="Performance Result" />
       <item value="Performance Result Util" />
       <item value="Oa Jxjg To Oehr Synchronous Scores Listener" />
@@ -45,17 +51,11 @@
       <item value="Weight" />
       <item value="the Weight" />
       <item value="目标分类" />
-      <item value="objective" />
-      <item value="Active Workbook" />
-      <item value="_blank" />
-      <item value="request Animation Frame" />
-      <item value="quot" />
-      <item value="调调调调调调调调调调调调调试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5174" />
-        <entry key="ENGLISH" value="5301" />
+        <entry key="CHINESE" value="5182" />
+        <entry key="ENGLISH" value="5308" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
