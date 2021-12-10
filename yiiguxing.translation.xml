@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weighted" />
+      <item value="加权计算" />
+      <item value="单选" />
+      <item value="callback" />
+      <item value="whether Callback" />
+      <item value="是否" />
+      <item value="if The Callback" />
       <item value="回调" />
       <item value="to Do List" />
       <item value="accordionpanel" />
@@ -44,18 +51,11 @@
       <item value="indicator Description" />
       <item value="in Line With Expected" />
       <item value="in Line With Expectations" />
-      <item value="lower Than Expected" />
-      <item value="far Below Expected" />
-      <item value="expected" />
-      <item value="challenge Value" />
-      <item value="guaranteed Value" />
-      <item value="权重" />
-      <item value="Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5183" />
-        <entry key="ENGLISH" value="5310" />
+        <entry key="CHINESE" value="5185" />
+        <entry key="ENGLISH" value="5316" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
