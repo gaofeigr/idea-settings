@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stringify" />
       <item value="weighted" />
       <item value="加权计算" />
       <item value="单选" />
@@ -50,11 +51,10 @@
       <item value="fd barth" />
       <item value="indicator Description" />
       <item value="in Line With Expected" />
-      <item value="in Line With Expectations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5185" />
+        <entry key="CHINESE" value="5186" />
         <entry key="ENGLISH" value="5316" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
