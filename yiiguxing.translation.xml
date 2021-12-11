@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether Callback" />
       <item value="set Scale" />
       <item value="ROUND HALF UP" />
       <item value="ROUND HALF DOWN" />
@@ -20,7 +21,6 @@
       <item value="加权计算" />
       <item value="单选" />
       <item value="callback" />
-      <item value="whether Callback" />
       <item value="是否" />
       <item value="if The Callback" />
       <item value="回调" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5202" />
-        <entry key="ENGLISH" value="5332" />
+        <entry key="CHINESE" value="5203" />
+        <entry key="ENGLISH" value="5333" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
