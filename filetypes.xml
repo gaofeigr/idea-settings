@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="temp/xml" type="PLAIN_TEXT" />
       <mapping pattern="方案20210512001.doc" type="PLAIN_TEXT" />
+      <mapping pattern="LRToken" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="2018-06-04" type="PLAIN_TEXT" />
       <mapping ext="cab" type="PLAIN_TEXT" />
