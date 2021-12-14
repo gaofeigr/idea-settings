@@ -21,12 +21,12 @@
     <mask>*view.jsp</mask>
     <mask>*mvc.xml</mask>
     <mask>*.hbm.xml</mask>
-    <mask>*.jsp</mask>
     <mask>common.js</mask>
     <mask>*.properties</mask>
     <mask>portlet.xml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
