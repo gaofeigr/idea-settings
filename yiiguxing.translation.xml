@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resource Not Found" />
       <item value="subscriber not found" />
       <item value="part" />
       <item value="yqq Signzq" />
@@ -50,7 +51,6 @@
       <item value="DOC STATUS REFUSE" />
       <item value="Task Ref Execution Is Null" />
       <item value="error.Task Ref Execution Is Null" />
-      <item value="Task has been handled or cancelled" />
     </histories>
     <option name="languageScores">
       <map>
