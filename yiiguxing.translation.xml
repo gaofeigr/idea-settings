@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="algorithm" />
       <item value="signature invalid" />
       <item value="Resource Not Found" />
       <item value="subscriber not found" />
@@ -50,12 +51,11 @@
       <item value="Oa Jxjg To Oehr Listener" />
       <item value="DOC STATUS DISCARD" />
       <item value="DOC STATUS REFUSE" />
-      <item value="Task Ref Execution Is Null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5206" />
-        <entry key="ENGLISH" value="5337" />
+        <entry key="CHINESE" value="5207" />
+        <entry key="ENGLISH" value="5338" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
