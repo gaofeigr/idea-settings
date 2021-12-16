@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="btn Imissive Province Seal" />
+      <item value="省" />
+      <item value="btn Imissive Sheng Seal" />
+      <item value="btn Imissive Seal" />
+      <item value="btn Imissive Insert Seal" />
       <item value="Mixed content: load all resources via HTTPS to improve the security of your site" />
       <item value="DES Encrypt" />
       <item value="unable to find valid certification path to requested target" />
@@ -46,16 +51,11 @@
       <item value="accordionpanel" />
       <item value="all Jeremy Levin" />
       <item value="Jeremy Levin" />
-      <item value="i Typed" />
-      <item value="ityped" />
-      <item value="typed" />
-      <item value="Performance Result" />
-      <item value="Performance Result Util" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5208" />
-        <entry key="ENGLISH" value="5338" />
+        <entry key="CHINESE" value="5213" />
+        <entry key="ENGLISH" value="5344" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
