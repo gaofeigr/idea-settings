@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*hbm.xml</mask>
@@ -25,8 +26,8 @@
     <mask>*.properties</mask>
     <mask>portlet.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>

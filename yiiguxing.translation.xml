@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialog" />
+      <item value="file Suffix" />
+      <item value="replace" />
+      <item value="replaceFileTypeName" />
+      <item value="replace File Type Name" />
       <item value="Sign True Province" />
       <item value="Sign True Send" />
       <item value="btn Imissive Province Seal" />
@@ -46,16 +51,11 @@
       <item value="加权计算" />
       <item value="单选" />
       <item value="callback" />
-      <item value="是否" />
-      <item value="if The Callback" />
-      <item value="回调" />
-      <item value="to Do List" />
-      <item value="accordionpanel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5215" />
-        <entry key="ENGLISH" value="5346" />
+        <entry key="CHINESE" value="5219" />
+        <entry key="ENGLISH" value="5350" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
