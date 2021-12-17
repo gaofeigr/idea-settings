@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use post message redirect " />
+      <item value="This request has been blocked; the content must be served over HTTPS." />
       <item value="province Upload Sign Url" />
       <item value="upload Sign Url" />
       <item value="download Ofd From Province Sign" />
@@ -49,8 +51,6 @@
       <item value="set Scale" />
       <item value="ROUND HALF UP" />
       <item value="ROUND HALF DOWN" />
-      <item value="HALF UP" />
-      <item value="rounding Mode" />
     </histories>
     <option name="languageScores">
       <map>
