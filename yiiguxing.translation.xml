@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="indent Factor" />
       <item value="carver.gu" />
       <item value="Third Ding Http Response Data" />
@@ -50,12 +51,11 @@
       <item value="Front" />
       <item value="前端" />
       <item value="后端" />
-      <item value="hone" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5239" />
-        <entry key="ENGLISH" value="5370" />
+        <entry key="ENGLISH" value="5371" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
