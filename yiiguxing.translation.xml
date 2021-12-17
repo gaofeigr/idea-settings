@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Already connected" />
       <item value="Sign" />
       <item value="province Sign True Call Back" />
       <item value="province Sign Treu Call Back" />
@@ -50,12 +51,11 @@
       <item value="history Node Score" />
       <item value="Score" />
       <item value="history Node Source" />
-      <item value="weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5227" />
-        <entry key="ENGLISH" value="5358" />
+        <entry key="CHINESE" value="5228" />
+        <entry key="ENGLISH" value="5359" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
