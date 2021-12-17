@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>version.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*hbm.xml</mask>
@@ -22,11 +21,11 @@
     <mask>*mvc.xml</mask>
     <mask>*.hbm.xml</mask>
     <mask>common.js</mask>
-    <mask>*.properties</mask>
     <mask>portlet.xml</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
