@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indent Factor" />
+      <item value="carver.gu" />
       <item value="Third Ding Http Response Data" />
       <item value=" Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
       <item value="取消" />
@@ -49,13 +51,11 @@
       <item value="前端" />
       <item value="后端" />
       <item value="hone" />
-      <item value="add" />
-      <item value="whether Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5237" />
-        <entry key="ENGLISH" value="5368" />
+        <entry key="CHINESE" value="5239" />
+        <entry key="ENGLISH" value="5370" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
