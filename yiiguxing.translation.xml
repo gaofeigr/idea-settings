@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ekp_cgj_greening" />
+      <item value="深圳市城市绿化资源情况" />
+      <item value="绿化水平" />
+      <item value="fd_green_plants" />
+      <item value="绿地植物" />
+      <item value="fd_the_green_area" />
+      <item value="绿地面积" />
+      <item value="fd_green_coverage_area" />
+      <item value="绿化覆盖面积" />
+      <item value="公园目录" />
+      <item value="区县" />
+      <item value="郊野公园" />
+      <item value="所在区" />
+      <item value="面积" />
+      <item value="序号" />
+      <item value="交换平台数据库用户" />
+      <item value="数据同步" />
+      <item value="备注" />
+      <item value="有无数据" />
+      <item value="分类" />
+      <item value="共享方式" />
+      <item value="同步周期" />
+      <item value="最后同步时间" />
+      <item value="责任单位" />
+      <item value="交换平台数据表名" />
+      <item value="目录名称" />
       <item value="sharing" />
       <item value="资源共享" />
       <item value="Sys Org Org" />
@@ -25,37 +51,11 @@
       <item value="Already connected" />
       <item value="Sign" />
       <item value="province Sign True Call Back" />
-      <item value="province Sign Treu Call Back" />
-      <item value="show Dialog" />
-      <item value="p Do Change To Other Doc Format And Rename" />
-      <item value="p Do Change To Other Doc Format And Re Name" />
-      <item value="dialog" />
-      <item value="file Suffix" />
-      <item value="replace" />
-      <item value="replaceFileTypeName" />
-      <item value="replace File Type Name" />
-      <item value="Sign True Province" />
-      <item value="Sign True Send" />
-      <item value="btn Imissive Province Seal" />
-      <item value="省" />
-      <item value="btn Imissive Sheng Seal" />
-      <item value="btn Imissive Seal" />
-      <item value="btn Imissive Insert Seal" />
-      <item value="Mixed content: load all resources via HTTPS to improve the security of your site" />
-      <item value="DES Encrypt" />
-      <item value="unable to find valid certification path to requested target" />
-      <item value=" unable to find valid certification path to requested target" />
-      <item value="algorithm" />
-      <item value="signature invalid" />
-      <item value="Resource Not Found" />
-      <item value="subscriber not found" />
-      <item value="part" />
-      <item value="yqq Signzq" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5245" />
-        <entry key="ENGLISH" value="5377" />
+        <entry key="ENGLISH" value="5383" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
