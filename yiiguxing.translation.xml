@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ekp_cgj_greening" />
-      <item value="深圳市城市绿化资源情况" />
-      <item value="绿化水平" />
-      <item value="fd_green_plants" />
-      <item value="绿地植物" />
-      <item value="fd_the_green_area" />
-      <item value="绿地面积" />
-      <item value="fd_green_coverage_area" />
-      <item value="绿化覆盖面积" />
-      <item value="公园目录" />
-      <item value="区县" />
-      <item value="郊野公园" />
-      <item value="所在区" />
-      <item value="面积" />
-      <item value="序号" />
-      <item value="交换平台数据库用户" />
-      <item value="数据同步" />
-      <item value="备注" />
-      <item value="有无数据" />
-      <item value="分类" />
-      <item value="共享方式" />
-      <item value="同步周期" />
-      <item value="最后同步时间" />
-      <item value="责任单位" />
-      <item value="交换平台数据表名" />
-      <item value="目录名称" />
-      <item value="sharing" />
-      <item value="资源共享" />
-      <item value="Sys Org Org" />
-      <item value="External" />
-      <item value="get Fd Is External" />
-      <item value="fd Is External" />
-      <item value="生成" />
-      <item value="indent Factor" />
-      <item value="carver.gu" />
-      <item value="Third Ding Http Response Data" />
-      <item value=" Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
-      <item value="取消" />
-      <item value="use post message redirect " />
-      <item value="This request has been blocked; the content must be served over HTTPS." />
-      <item value="province Upload Sign Url" />
-      <item value="upload Sign Url" />
-      <item value="download Ofd From Province Sign" />
-      <item value="uplodfile" />
-      <item value="callback" />
-      <item value="get File Stream From Request" />
-      <item value="get File Stream" />
-      <item value="Already connected" />
-      <item value="Sign" />
-      <item value="province Sign True Call Back" />
+      <item value="厕所信息" />
+      <item value="市政公共厕所信息" />
+      <item value="管理时间" />
+      <item value="是否有管理时间" />
+      <item value="开放时间" />
+      <item value="残座数" />
+      <item value="建筑面积" />
+      <item value="floor space" />
+      <item value="占地面积" />
+      <item value="男蹲便数" />
+      <item value="男小便数" />
+      <item value="Female crouch" />
+      <item value="女蹲便数" />
+      <item value="详细地址" />
+      <item value="厕所名称" />
+      <item value="厕名称" />
+      <item value="公厕名称" />
+      <item value="街道" />
+      <item value="区内编号" />
+      <item value="公园停车场信息" />
+      <item value="公园管理中心停车场信息" />
+      <item value="停车场名称" />
+      <item value="概况" />
+      <item value="城管局概况" />
+      <item value="城管局机构概况" />
+      <item value="机构名称" />
+      <item value="市" />
+      <item value="市执法通讯录" />
+      <item value="市城管执法监督处通讯录" />
+      <item value="Law enforcement Directory" />
+      <item value="执法通讯录" />
+      <item value="街道执法队通讯录" />
+      <item value="街道名称" />
+      <item value="Garbage disposal site information" />
+      <item value="垃圾处理场信息" />
+      <item value="生活垃圾无害化处理场信息" />
+      <item value="公司名称" />
+      <item value="企业不良记录" />
+      <item value="园林绿化企业不良行为记录" />
+      <item value="不良行为描述" />
+      <item value="不良行为形式" />
+      <item value="统一社会信用代码" />
+      <item value="注册号" />
+      <item value="法定代表人姓名" />
+      <item value="组织机构代码" />
+      <item value="工程名称" />
+      <item value="不良行为记分" />
+      <item value="不良行为类别" />
+      <item value="enterprise" />
+      <item value="企业名称" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5245" />
-        <entry key="ENGLISH" value="5383" />
+        <entry key="ENGLISH" value="5392" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
