@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol version" />
+      <item value="Received fatal alert" />
+      <item value="Received fatal alert: protocol_version" />
+      <item value="SSLContextImpl is not initialized" />
       <item value="市办公系统" />
       <item value="智能政务办公系统" />
       <item value="厕所信息" />
@@ -47,15 +51,11 @@
       <item value="统一社会信用代码" />
       <item value="注册号" />
       <item value="法定代表人姓名" />
-      <item value="组织机构代码" />
-      <item value="工程名称" />
-      <item value="不良行为记分" />
-      <item value="不良行为类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5245" />
-        <entry key="ENGLISH" value="5393" />
+        <entry key="CHINESE" value="5252" />
+        <entry key="ENGLISH" value="5400" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
