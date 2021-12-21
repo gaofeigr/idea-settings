@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHARSET" />
       <item value="get Sign Status" />
       <item value="Sign" />
       <item value="签收" />
@@ -50,12 +51,11 @@
       <item value="生活垃圾无害化处理场信息" />
       <item value="公司名称" />
       <item value="企业不良记录" />
-      <item value="园林绿化企业不良行为记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5253" />
-        <entry key="ENGLISH" value="5402" />
+        <entry key="CHINESE" value="5254" />
+        <entry key="ENGLISH" value="5403" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
