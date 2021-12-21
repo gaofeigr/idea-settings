@@ -26,8 +26,8 @@
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
