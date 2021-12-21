@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Sign Status" />
+      <item value="Sign" />
+      <item value="签收" />
+      <item value="imissive" />
+      <item value="municipal" />
       <item value="protocol version" />
       <item value="Received fatal alert" />
       <item value="Received fatal alert: protocol_version" />
@@ -46,16 +51,11 @@
       <item value="公司名称" />
       <item value="企业不良记录" />
       <item value="园林绿化企业不良行为记录" />
-      <item value="不良行为描述" />
-      <item value="不良行为形式" />
-      <item value="统一社会信用代码" />
-      <item value="注册号" />
-      <item value="法定代表人姓名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5252" />
-        <entry key="ENGLISH" value="5400" />
+        <entry key="CHINESE" value="5253" />
+        <entry key="ENGLISH" value="5402" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
