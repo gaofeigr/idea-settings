@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nature" />
+      <item value="set Fd Nature" />
+      <item value="外部" />
       <item value="REG TYPE RECEIVE" />
       <item value="receive" />
       <item value="Transaction rolled back because it has been marked as rollback-only" />
@@ -48,14 +51,11 @@
       <item value="街道" />
       <item value="区内编号" />
       <item value="公园停车场信息" />
-      <item value="公园管理中心停车场信息" />
-      <item value="停车场名称" />
-      <item value="概况" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5266" />
-        <entry key="ENGLISH" value="5417" />
+        <entry key="CHINESE" value="5268" />
+        <entry key="ENGLISH" value="5420" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
