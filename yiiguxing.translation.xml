@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Biz Id" />
+      <item value="batch Receive" />
+      <item value="接收" />
+      <item value="city Oa Result" />
       <item value="addressee personnel" />
       <item value="收文人员" />
       <item value="市integration" />
@@ -18,7 +22,6 @@
       <item value="refused" />
       <item value="done" />
       <item value="municipal Office" />
-      <item value="接收" />
       <item value="municipal Interface Log" />
       <item value="encode" />
       <item value="fd Nature" />
@@ -48,14 +51,11 @@
       <item value="建筑面积" />
       <item value="floor space" />
       <item value="占地面积" />
-      <item value="男蹲便数" />
-      <item value="男小便数" />
-      <item value="Female crouch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5271" />
-        <entry key="ENGLISH" value="5425" />
+        <entry key="CHINESE" value="5274" />
+        <entry key="ENGLISH" value="5428" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
