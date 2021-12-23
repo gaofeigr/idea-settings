@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Child And Array Element" />
+      <item value="convert XML 2 JSON" />
       <item value="destination" />
       <item value="Scriptable" />
       <item value="parsing" />
@@ -49,13 +51,11 @@
       <item value="厕所信息" />
       <item value="市政公共厕所信息" />
       <item value="管理时间" />
-      <item value="是否有管理时间" />
-      <item value="开放时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5281" />
-        <entry key="ENGLISH" value="5435" />
+        <entry key="CHINESE" value="5283" />
+        <entry key="ENGLISH" value="5437" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
