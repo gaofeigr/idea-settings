@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正文" />
+      <item value="文档" />
+      <item value="doc File Array" />
+      <item value="正文附件" />
       <item value="parse Child And Array Element" />
       <item value="convert XML 2 JSON" />
       <item value="destination" />
@@ -47,15 +51,11 @@
       <item value="Received fatal alert: protocol_version" />
       <item value="SSLContextImpl is not initialized" />
       <item value="市办公系统" />
-      <item value="智能政务办公系统" />
-      <item value="厕所信息" />
-      <item value="市政公共厕所信息" />
-      <item value="管理时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5283" />
-        <entry key="ENGLISH" value="5437" />
+        <entry key="CHINESE" value="5287" />
+        <entry key="ENGLISH" value="5441" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
