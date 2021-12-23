@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="addressee personnel" />
+      <item value="收文人员" />
       <item value="市integration" />
       <item value="市" />
       <item value="集成" />
@@ -49,13 +51,11 @@
       <item value="男蹲便数" />
       <item value="男小便数" />
       <item value="Female crouch" />
-      <item value="女蹲便数" />
-      <item value="详细地址" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5270" />
-        <entry key="ENGLISH" value="5424" />
+        <entry key="CHINESE" value="5271" />
+        <entry key="ENGLISH" value="5425" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
