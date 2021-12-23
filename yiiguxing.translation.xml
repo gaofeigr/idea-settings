@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="市integration" />
+      <item value="市" />
+      <item value="集成" />
+      <item value="集成市" />
+      <item value="has External" />
       <item value="escape" />
       <item value="Nature" />
       <item value="set Fd Nature" />
@@ -46,16 +51,11 @@
       <item value="Female crouch" />
       <item value="女蹲便数" />
       <item value="详细地址" />
-      <item value="厕所名称" />
-      <item value="厕名称" />
-      <item value="公厕名称" />
-      <item value="街道" />
-      <item value="区内编号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5269" />
-        <entry key="ENGLISH" value="5421" />
+        <entry key="CHINESE" value="5270" />
+        <entry key="ENGLISH" value="5424" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
