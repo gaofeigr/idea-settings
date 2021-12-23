@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="100% packet loss" />
       <item value="fd Biz Id" />
       <item value="batch Receive" />
       <item value="接收" />
@@ -50,7 +51,6 @@
       <item value="残座数" />
       <item value="建筑面积" />
       <item value="floor space" />
-      <item value="占地面积" />
     </histories>
     <option name="languageScores">
       <map>
