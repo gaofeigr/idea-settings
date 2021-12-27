@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unable to find valid certification path to requested target" />
+      <item value="No subject alternative names matching IP address 10.10.10.182 found" />
+      <item value="PKIX path validation failed: java.security.cert.CertPathValidatorException: timestamp chec" />
       <item value="Unexpected end of file from server" />
       <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
       <item value="delete On Exit" />
@@ -48,14 +51,11 @@
       <item value="REG TYPE RECEIVE" />
       <item value="receive" />
       <item value="Transaction rolled back because it has been marked as rollback-only" />
-      <item value="refused" />
-      <item value="municipal Office" />
-      <item value="municipal Interface Log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5306" />
-        <entry key="ENGLISH" value="5460" />
+        <entry key="CHINESE" value="5308" />
+        <entry key="ENGLISH" value="5462" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
