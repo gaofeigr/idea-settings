@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unrecognized SSL message, plaintext connection?" />
       <item value="Unexpected end of file from server" />
       <item value="RECEIVE" />
       <item value="签章" />
@@ -50,12 +51,11 @@
       <item value="市integration" />
       <item value="市" />
       <item value="集成" />
-      <item value="集成市" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5314" />
-        <entry key="ENGLISH" value="5469" />
+        <entry key="CHINESE" value="5315" />
+        <entry key="ENGLISH" value="5470" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
