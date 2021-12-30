@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="button" />
+      <item value="fd Is Filing" />
+      <item value="Archive" />
+      <item value="Cgj Archive Util" />
+      <item value="Cgj Archives Util" />
       <item value="档案" />
       <item value="archive" />
       <item value="归档" />
@@ -46,16 +51,11 @@
       <item value="convert XML 2 JSON" />
       <item value="destination" />
       <item value="Scriptable" />
-      <item value="parsing" />
-      <item value="100% packet loss" />
-      <item value="fd Biz Id" />
-      <item value="batch Receive" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5324" />
-        <entry key="ENGLISH" value="5482" />
+        <entry key="CHINESE" value="5329" />
+        <entry key="ENGLISH" value="5485" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
