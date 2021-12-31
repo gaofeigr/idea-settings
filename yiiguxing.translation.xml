@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="archive" />
       <item value="get Fragment" />
       <item value="canonical Path" />
       <item value="URI Util" />
@@ -14,7 +15,6 @@
       <item value="Cgj Archive Util" />
       <item value="Cgj Archives Util" />
       <item value="档案" />
-      <item value="archive" />
       <item value="归档" />
       <item value="pigeonhole" />
       <item value="query Sign Record List" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5336" />
-        <entry key="ENGLISH" value="5492" />
+        <entry key="CHINESE" value="5337" />
+        <entry key="ENGLISH" value="5493" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
