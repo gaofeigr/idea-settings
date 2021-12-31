@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接收" />
       <item value="button" />
       <item value="fd Is Filing" />
       <item value="Archive" />
@@ -50,12 +51,11 @@
       <item value="parse Child And Array Element" />
       <item value="convert XML 2 JSON" />
       <item value="destination" />
-      <item value="Scriptable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5329" />
-        <entry key="ENGLISH" value="5485" />
+        <entry key="ENGLISH" value="5486" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
