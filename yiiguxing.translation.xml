@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Fragment" />
+      <item value="canonical Path" />
+      <item value="URI Util" />
+      <item value="compact Path" />
       <item value="addressee Personnel Name" />
       <item value="fd Is Filing" />
       <item value="audit" />
@@ -47,16 +51,12 @@
       <item value="allow Log Oper" />
       <item value="available" />
       <item value="正文" />
-      <item value="文档" />
-      <item value="doc File Array" />
-      <item value="正文附件" />
-      <item value="parse Child And Array Element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5331" />
-        <entry key="ENGLISH" value="5488" />
-        <entry key="FRENCH" value="48" />
+        <entry key="CHINESE" value="5336" />
+        <entry key="ENGLISH" value="5492" />
+        <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
       </map>
