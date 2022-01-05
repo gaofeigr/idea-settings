@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an estimate of the number of bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. The next invocation * might be the same thread or another thread. A single read or skip of this * many bytes will not block, but may read or skip fewer bytes." />
       <item value="municipal Office" />
       <item value="archive" />
       <item value="well" />
@@ -50,12 +51,11 @@
       <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
       <item value="delete On Exit" />
       <item value="sign Refuse" />
-      <item value="sign Sefuse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5356" />
-        <entry key="ENGLISH" value="5512" />
+        <entry key="CHINESE" value="5357" />
+        <entry key="ENGLISH" value="5513" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
