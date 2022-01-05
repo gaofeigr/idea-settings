@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="well" />
       <item value="progress" />
       <item value="out Pdf To Base 64" />
       <item value="unwrap" />
@@ -50,7 +51,6 @@
       <item value="sign Refuse" />
       <item value="sign Sefuse" />
       <item value="sign Done" />
-      <item value="sign" />
     </histories>
     <option name="languageScores">
       <map>
