@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expired Wps Oaassit Edit Mark" />
+      <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
       <item value="query Body Att List" />
       <item value="find Body Att List" />
       <item value="find List By Model" />
       <item value="insert History Audit" />
-      <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
       <item value="&lt;p&gt;The warning chain is automatically cleared each time * a statement is (re)executed. This method may not be called on a closed * &lt;code&gt;Statement&lt;/code&gt; object; doing so will cause an &lt;code&gt;SQLException&lt;/code&gt; * to be thrown. *" />
       <item value="Retrieves the first warning reported by calls on this &lt;code&gt;Statement&lt;/code&gt; object. * Subsequent &lt;code&gt;Statement&lt;/code&gt; object warnings will be chained to this" />
       <item value="actual row count: 0; expected: 1" />
@@ -50,12 +51,11 @@
       <item value="header Parameters" />
       <item value="refused Why" />
       <item value="Cgj Imissive Sign Status Enum" />
-      <item value="sync Sign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5350" />
-        <entry key="ENGLISH" value="5506" />
+        <entry key="CHINESE" value="5351" />
+        <entry key="ENGLISH" value="5507" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
