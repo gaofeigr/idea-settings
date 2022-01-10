@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Packet for query is too large (48197443 &gt; 20971520). You can change this value on the server by setting the max_allowed_packet' variable." />
       <item value="customized" />
       <item value="done Archive Ids" />
       <item value="receive Main Archive Status Sql" />
@@ -50,12 +51,11 @@
       <item value="Unexpected end of file from server" />
       <item value="No subject alternative names matching IP address 10.10.10.182 found" />
       <item value="Unrecognized SSL message, plaintext connection?" />
-      <item value="RECEIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5367" />
-        <entry key="ENGLISH" value="5523" />
+        <entry key="CHINESE" value="5368" />
+        <entry key="ENGLISH" value="5524" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
