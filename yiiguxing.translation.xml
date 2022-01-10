@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Receive" />
+      <item value="ongoing" />
+      <item value="进行中" />
+      <item value="progress" />
+      <item value="being" />
+      <item value="正在" />
       <item value="compare" />
       <item value="Packet for query is too large (48197443 &gt; 20971520). You can change this value on the server by setting the max_allowed_packet' variable." />
       <item value="customized" />
@@ -19,7 +25,6 @@
       <item value="municipal Office" />
       <item value="archive" />
       <item value="well" />
-      <item value="progress" />
       <item value="out Pdf To Base 64" />
       <item value="unwrap" />
       <item value="expired Wps Oaassit Edit Mark" />
@@ -46,16 +51,11 @@
       <item value="Cgj Archives Util" />
       <item value="档案" />
       <item value="归档" />
-      <item value="pigeonhole" />
-      <item value="query Sign Record List" />
-      <item value="query Sign Record" />
-      <item value="Unexpected end of file from server" />
-      <item value="No subject alternative names matching IP address 10.10.10.182 found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5369" />
-        <entry key="ENGLISH" value="5525" />
+        <entry key="CHINESE" value="5371" />
+        <entry key="ENGLISH" value="5530" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
