@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The system cannot find the file specified" />
       <item value="forward" />
       <item value="is Process Restart" />
       <item value="Receive" />
@@ -50,7 +51,6 @@
       <item value="button" />
       <item value="Archive" />
       <item value="Cgj Archive Util" />
-      <item value="Cgj Archives Util" />
     </histories>
     <option name="languageScores">
       <map>
