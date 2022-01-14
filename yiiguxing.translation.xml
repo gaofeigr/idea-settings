@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revert changes" />
       <item value="Sys Org Post" />
       <item value="clean" />
       <item value="clear" />
@@ -50,7 +51,6 @@
       <item value="insert History Audit" />
       <item value="&lt;p&gt;The warning chain is automatically cleared each time * a statement is (re)executed. This method may not be called on a closed * &lt;code&gt;Statement&lt;/code&gt; object; doing so will cause an &lt;code&gt;SQLException&lt;/code&gt; * to be thrown. *" />
       <item value="Retrieves the first warning reported by calls on this &lt;code&gt;Statement&lt;/code&gt; object. * Subsequent &lt;code&gt;Statement&lt;/code&gt; object warnings will be chained to this" />
-      <item value="actual row count: 0; expected: 1" />
     </histories>
     <option name="languageScores">
       <map>
