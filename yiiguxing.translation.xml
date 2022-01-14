@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="While parsing a protocol message, the input ended unexpectedly in the middle of a field. This could mean either than the input has been truncated or that an embedded message misreported its own length." />
-      <item value="Truncated" />
       <item value="No subject alternative names present" />
+      <item value="Truncated" />
       <item value="trial" />
       <item value="except Files" />
       <item value="maintenance" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5379" />
-        <entry key="ENGLISH" value="5538" />
+        <entry key="CHINESE" value="5381" />
+        <entry key="ENGLISH" value="5540" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
