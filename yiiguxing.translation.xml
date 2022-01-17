@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post" />
       <item value="rtexprvalue" />
       <item value="revert changes" />
       <item value="Sys Org Post" />
@@ -50,12 +51,11 @@
       <item value="find Body Att List" />
       <item value="find List By Model" />
       <item value="insert History Audit" />
-      <item value="&lt;p&gt;The warning chain is automatically cleared each time * a statement is (re)executed. This method may not be called on a closed * &lt;code&gt;Statement&lt;/code&gt; object; doing so will cause an &lt;code&gt;SQLException&lt;/code&gt; * to be thrown. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5383" />
-        <entry key="ENGLISH" value="5542" />
+        <entry key="CHINESE" value="5384" />
+        <entry key="ENGLISH" value="5543" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
