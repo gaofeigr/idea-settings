@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sys Ws Org Service Imp" />
+      <item value="find Sys Org Element" />
+      <item value="No Such Element Exception" />
       <item value="Premature end of file." />
       <item value="an {@code int} that specifies the timeout * value to be used in milliseconds" />
       <item value="can Display" />
@@ -48,14 +51,11 @@
       <item value="well" />
       <item value="out Pdf To Base 64" />
       <item value="unwrap" />
-      <item value="expired Wps Oaassit Edit Mark" />
-      <item value="Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
-      <item value="query Body Att List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5388" />
-        <entry key="ENGLISH" value="5547" />
+        <entry key="CHINESE" value="5391" />
+        <entry key="ENGLISH" value="5550" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
