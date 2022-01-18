@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="call oa" />
+      <item value="flow" />
+      <item value="flow Creator Login Name" />
+      <item value="creator Login Name" />
+      <item value="template Id" />
       <item value="Sys Ws Org Service Imp" />
       <item value="find Sys Org Element" />
       <item value="No Such Element Exception" />
@@ -46,16 +51,11 @@
       <item value="query Finalized Att List" />
       <item value="query Att Track List" />
       <item value="Returns an estimate of the number of bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. The next invocation * might be the same thread or another thread. A single read or skip of this * many bytes will not block, but may read or skip fewer bytes." />
-      <item value="municipal Office" />
-      <item value="archive" />
-      <item value="well" />
-      <item value="out Pdf To Base 64" />
-      <item value="unwrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5391" />
-        <entry key="ENGLISH" value="5550" />
+        <entry key="CHINESE" value="5395" />
+        <entry key="ENGLISH" value="5553" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
