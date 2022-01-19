@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rule" />
       <item value="Filte" />
       <item value="call oa" />
       <item value="flow" />
@@ -50,12 +51,11 @@
       <item value="file Suffix" />
       <item value="batch Save Att" />
       <item value="query Finalized Att List" />
-      <item value="query Att Track List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5396" />
-        <entry key="ENGLISH" value="5553" />
+        <entry key="CHINESE" value="5397" />
+        <entry key="ENGLISH" value="5554" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
