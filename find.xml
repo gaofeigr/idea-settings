@@ -28,7 +28,7 @@
     <mask>*list.jsp</mask>
     <mask>*.jsp</mask>
     <mask>*mvc.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
