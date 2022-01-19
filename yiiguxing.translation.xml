@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DOC STATUS DISCARD" />
+      <item value="DOC STATUS REFUSE" />
+      <item value="lbpm Handler Refuse Event" />
+      <item value="ended Node Event" />
       <item value="fd Cost Time Display String" />
       <item value="efficiency" />
       <item value="milliseconds" />
@@ -16,8 +20,6 @@
       <item value="is Pass Option" />
       <item value="is Pass" />
       <item value="is Paas" />
-      <item value="DOC STATUS REFUSE" />
-      <item value="DOC STATUS DISCARD" />
       <item value="档案" />
       <item value="do Filter" />
       <item value="redirect" />
@@ -49,13 +51,11 @@
       <item value="except Files" />
       <item value="maintenance" />
       <item value="We're sorry but sms-platform-web doesn't work properly without JavaScript enabled. Please enable it to continue." />
-      <item value="The system cannot find the file specified" />
-      <item value="forward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5414" />
-        <entry key="ENGLISH" value="5572" />
+        <entry key="CHINESE" value="5425" />
+        <entry key="ENGLISH" value="5583" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
