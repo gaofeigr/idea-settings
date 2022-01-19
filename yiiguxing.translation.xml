@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Center Code" />
       <item value="get Fd Secretary" />
       <item value="DOC STATUS DISCARD" />
       <item value="DOC STATUS REFUSE" />
@@ -50,12 +51,11 @@
       <item value="Truncated" />
       <item value="trial" />
       <item value="except Files" />
-      <item value="maintenance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5426" />
-        <entry key="ENGLISH" value="5584" />
+        <entry key="CHINESE" value="5427" />
+        <entry key="ENGLISH" value="5585" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
