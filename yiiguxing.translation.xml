@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beta" />
+      <item value="Tampermonkey Stable" />
       <item value="唯一" />
       <item value="格式" />
       <item value="重定向" />
@@ -49,8 +51,6 @@
       <item value="No Such Element Exception" />
       <item value="Premature end of file." />
       <item value="an {@code int} that specifies the timeout * value to be used in milliseconds" />
-      <item value="can Display" />
-      <item value="post" />
     </histories>
     <option name="languageScores">
       <map>
