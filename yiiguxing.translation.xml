@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indent Factor" />
       <item value="lower Case" />
       <item value="You have been granted Guest access to the  OPPO group.  If this was a mistake you can leave the group.  " />
       <item value="You have been granted Guest access to the  OPPO项目群组 group.  If this was a mistake you can leave the group.  " />
@@ -50,12 +51,11 @@
       <item value="Filte" />
       <item value="call oa" />
       <item value="flow" />
-      <item value="flow Creator Login Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5440" />
-        <entry key="ENGLISH" value="5601" />
+        <entry key="CHINESE" value="5441" />
+        <entry key="ENGLISH" value="5602" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
