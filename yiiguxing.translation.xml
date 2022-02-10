@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sync Send Main Archive Status" />
+      <item value="sync Receive Main Archive Status" />
+      <item value="sync Receive Main Rejected Status" />
+      <item value="Rejected" />
+      <item value="sync Send Main Redirect Status" />
       <item value="activate Node Event" />
       <item value="indent Factor" />
       <item value="lower Case" />
@@ -46,16 +51,11 @@
       <item value="is Pass" />
       <item value="is Paas" />
       <item value="档案" />
-      <item value="do Filter" />
-      <item value="redirect" />
-      <item value="rule" />
-      <item value="Filte" />
-      <item value="call oa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5442" />
-        <entry key="ENGLISH" value="5603" />
+        <entry key="CHINESE" value="5447" />
+        <entry key="ENGLISH" value="5608" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
