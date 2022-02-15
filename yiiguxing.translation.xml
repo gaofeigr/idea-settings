@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameter Not Found Exception" />
+      <item value="archive" />
       <item value="Reason" />
       <item value="fd Rejected Reason" />
       <item value="is Boen Enable" />
@@ -9,7 +11,6 @@
       <item value="integrate" />
       <item value="A different object with the same identifier value was already associated with the session" />
       <item value="fd Is Off Line" />
-      <item value="archive" />
       <item value="sync Send Main Archive Status" />
       <item value="sync Receive Main Archive Status" />
       <item value="sync Receive Main Rejected Status" />
@@ -50,12 +51,11 @@
       <item value="reject" />
       <item value="驳回" />
       <item value="失败" />
-      <item value="done" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5456" />
-        <entry key="ENGLISH" value="5616" />
+        <entry key="CHINESE" value="5458" />
+        <entry key="ENGLISH" value="5618" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
