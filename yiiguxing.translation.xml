@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorization" />
+      <item value="authentication" />
       <item value="did you mean ‘NGX_HTTP_CONFLICT’?" />
       <item value="Parameter Not Found Exception" />
       <item value="archive" />
@@ -49,8 +51,6 @@
       <item value="fd Cost Time Display String" />
       <item value="efficiency" />
       <item value="milliseconds" />
-      <item value="reject" />
-      <item value="驳回" />
     </histories>
     <option name="languageScores">
       <map>
