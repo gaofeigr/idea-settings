@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter Invocation Interceptor" />
       <item value="authentication Processing Filter Entry Point" />
       <item value="exception Translation Filter" />
       <item value="anonymous Paths" />
@@ -50,12 +51,11 @@
       <item value="fd Center Code" />
       <item value="get Fd Secretary" />
       <item value="DOC STATUS DISCARD" />
-      <item value="DOC STATUS REFUSE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5461" />
-        <entry key="ENGLISH" value="5621" />
+        <entry key="CHINESE" value="5462" />
+        <entry key="ENGLISH" value="5622" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
