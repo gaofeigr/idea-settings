@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authentication Processing Filter Entry Point" />
+      <item value="exception Translation Filter" />
+      <item value="anonymous Paths" />
       <item value="back" />
       <item value="bak" />
       <item value="authorization" />
@@ -48,14 +51,11 @@
       <item value="get Fd Secretary" />
       <item value="DOC STATUS DISCARD" />
       <item value="DOC STATUS REFUSE" />
-      <item value="lbpm Handler Refuse Event" />
-      <item value="ended Node Event" />
-      <item value="fd Cost Time Display String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5458" />
-        <entry key="ENGLISH" value="5618" />
+        <entry key="CHINESE" value="5461" />
+        <entry key="ENGLISH" value="5621" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
