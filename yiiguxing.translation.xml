@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unauthorized" />
+      <item value="credential" />
       <item value="filter Invocation Interceptor" />
       <item value="authentication Processing Filter Entry Point" />
       <item value="exception Translation Filter" />
@@ -49,8 +51,6 @@
       <item value="fd element code" />
       <item value="id number" />
       <item value="fd Center Code" />
-      <item value="get Fd Secretary" />
-      <item value="DOC STATUS DISCARD" />
     </histories>
     <option name="languageScores">
       <map>
