@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="back" />
+      <item value="bak" />
       <item value="authorization" />
       <item value="authentication" />
       <item value="did you mean ‘NGX_HTTP_CONFLICT’?" />
@@ -49,8 +51,6 @@
       <item value="lbpm Handler Refuse Event" />
       <item value="ended Node Event" />
       <item value="fd Cost Time Display String" />
-      <item value="efficiency" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
