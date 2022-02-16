@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="did you mean ‘NGX_HTTP_CONFLICT’?" />
       <item value="Parameter Not Found Exception" />
       <item value="archive" />
       <item value="Reason" />
@@ -50,7 +51,6 @@
       <item value="milliseconds" />
       <item value="reject" />
       <item value="驳回" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
