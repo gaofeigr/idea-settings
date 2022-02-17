@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="application bundles need to be opened by /usr/bin/open" />
       <item value="unauthorized" />
       <item value="credential" />
       <item value="filter Invocation Interceptor" />
@@ -50,7 +51,6 @@
       <item value="fd Element Code" />
       <item value="fd element code" />
       <item value="id number" />
-      <item value="fd Center Code" />
     </histories>
     <option name="languageScores">
       <map>
