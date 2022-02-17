@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mobile" />
+      <item value="index_mobile.jsp" />
       <item value="since" />
       <item value="移动端" />
       <item value="application bundles need to be opened by /usr/bin/open" />
@@ -49,8 +51,6 @@
       <item value="id Code" />
       <item value="person Id Code" />
       <item value="fd Element Id Number" />
-      <item value="fd Element Code Id" />
-      <item value="fd Element Code" />
     </histories>
     <option name="languageScores">
       <map>
