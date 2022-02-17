@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="since" />
+      <item value="移动端" />
       <item value="application bundles need to be opened by /usr/bin/open" />
       <item value="unauthorized" />
       <item value="credential" />
@@ -49,13 +51,11 @@
       <item value="fd Element Id Number" />
       <item value="fd Element Code Id" />
       <item value="fd Element Code" />
-      <item value="fd element code" />
-      <item value="id number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5462" />
-        <entry key="ENGLISH" value="5622" />
+        <entry key="CHINESE" value="5463" />
+        <entry key="ENGLISH" value="5624" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
