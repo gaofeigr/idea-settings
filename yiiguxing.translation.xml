@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provisional headers are shown" />
       <item value="Not allowed to launch 'ksowpscloudsvr://start=RelayHttpServer' because a user gesture is required." />
       <item value="bind Yzy User Id" />
       <item value="Check If Trust Site Unknown Referer Filter" />
@@ -50,7 +51,6 @@
       <item value="Tampermonkey Stable" />
       <item value="唯一" />
       <item value="格式" />
-      <item value="重定向" />
     </histories>
     <option name="languageScores">
       <map>
