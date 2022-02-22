@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Amount" />
+      <item value="query Todo Amount" />
+      <item value="query Todo Amount Number" />
+      <item value="amount" />
+      <item value="数量" />
+      <item value="Count" />
+      <item value="query Todo Count Number" />
+      <item value="query Todo Cont Number" />
+      <item value="query" />
+      <item value="query To Do Cont Number" />
+      <item value="Api" />
+      <item value="cgj Yzy Api" />
       <item value="Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code." />
       <item value="water table" />
       <item value="流水表" />
@@ -39,23 +51,11 @@
       <item value="boen" />
       <item value="integrate" />
       <item value="A different object with the same identifier value was already associated with the session" />
-      <item value="fd Is Off Line" />
-      <item value="sync Send Main Archive Status" />
-      <item value="sync Receive Main Archive Status" />
-      <item value="sync Receive Main Rejected Status" />
-      <item value="Rejected" />
-      <item value="sync Send Main Redirect Status" />
-      <item value="activate Node Event" />
-      <item value="indent Factor" />
-      <item value="lower Case" />
-      <item value="You have been granted Guest access to the  OPPO group.  If this was a mistake you can leave the group.  " />
-      <item value="You have been granted Guest access to the  OPPO项目群组 group.  If this was a mistake you can leave the group.  " />
-      <item value="You have been granted Guest access to the 项目共创组 / OPPO项目群组 group.  If this was a mistake you can leave the group.  " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5466" />
-        <entry key="ENGLISH" value="5630" />
+        <entry key="CHINESE" value="5478" />
+        <entry key="ENGLISH" value="5641" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
