@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interactive Authentication Success Event" />
       <item value="Tests if this enumeration contains more elements." />
       <item value="Request Response Body Method Processor" />
       <item value="query Todo Amount" />
@@ -50,12 +51,11 @@
       <item value="archive" />
       <item value="Reason" />
       <item value="fd Rejected Reason" />
-      <item value="is Boen Enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5483" />
-        <entry key="ENGLISH" value="5646" />
+        <entry key="CHINESE" value="5484" />
+        <entry key="ENGLISH" value="5647" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
