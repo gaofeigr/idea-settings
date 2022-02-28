@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Period" />
+      <item value="period" />
+      <item value="fd Holiday Year" />
+      <item value="read Only" />
+      <item value="fd Duration" />
+      <item value="fd Specific Reason" />
       <item value="CLUSTERBTR" />
       <item value="STORAGE" />
       <item value="artifact id" />
@@ -45,17 +51,11 @@
       <item value="unauthorized" />
       <item value="credential" />
       <item value="filter Invocation Interceptor" />
-      <item value="authentication Processing Filter Entry Point" />
-      <item value="exception Translation Filter" />
-      <item value="anonymous Paths" />
-      <item value="back" />
-      <item value="bak" />
-      <item value="authorization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5484" />
-        <entry key="ENGLISH" value="5647" />
+        <entry key="CHINESE" value="5490" />
+        <entry key="ENGLISH" value="5653" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
