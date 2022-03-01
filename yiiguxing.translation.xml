@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an {@code int} that specifies the connect * timeout value in milliseconds" />
       <item value="Period" />
       <item value="period" />
       <item value="fd Holiday Year" />
@@ -50,12 +51,11 @@
       <item value="application bundles need to be opened by /usr/bin/open" />
       <item value="unauthorized" />
       <item value="credential" />
-      <item value="filter Invocation Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5490" />
-        <entry key="ENGLISH" value="5653" />
+        <entry key="CHINESE" value="5491" />
+        <entry key="ENGLISH" value="5654" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
