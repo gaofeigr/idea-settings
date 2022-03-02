@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distribute" />
+      <item value="my done" />
+      <item value="待办" />
+      <item value="todo" />
+      <item value="my todo" />
+      <item value="我的" />
+      <item value="do me todo" />
+      <item value="me todo" />
+      <item value="i todo" />
+      <item value="to me done" />
+      <item value="to me todo" />
       <item value="an {@code int} that specifies the connect * timeout value in milliseconds" />
       <item value="Period" />
       <item value="period" />
@@ -40,22 +51,11 @@
       <item value="OPERATIN" />
       <item value="Provisional headers are shown" />
       <item value="Not allowed to launch 'ksowpscloudsvr://start=RelayHttpServer' because a user gesture is required." />
-      <item value="bind Yzy User Id" />
-      <item value="Check If Trust Site Unknown Referer Filter" />
-      <item value="redis" />
-      <item value="YZY REDIS" />
-      <item value="mobile" />
-      <item value="index_mobile.jsp" />
-      <item value="since" />
-      <item value="移动端" />
-      <item value="application bundles need to be opened by /usr/bin/open" />
-      <item value="unauthorized" />
-      <item value="credential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5491" />
-        <entry key="ENGLISH" value="5654" />
+        <entry key="CHINESE" value="5492" />
+        <entry key="ENGLISH" value="5657" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
