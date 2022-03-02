@@ -2,10 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>version.xml</mask>
     <mask>*hbm.xml</mask>
-    <mask>design.xml</mask>
     <mask>*Request*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -28,5 +29,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>design.xml</mask>
   </component>
 </application>
