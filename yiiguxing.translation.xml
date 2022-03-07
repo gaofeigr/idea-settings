@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
+      <item value="I Cgj Archive Main Service" />
       <item value="des Encrypt" />
       <item value="last block incomplete in decryption" />
       <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
@@ -49,13 +51,11 @@
       <item value="数量" />
       <item value="Count" />
       <item value="query Todo Count Number" />
-      <item value="query Todo Cont Number" />
-      <item value="query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5501" />
-        <entry key="ENGLISH" value="5665" />
+        <entry key="CHINESE" value="5503" />
+        <entry key="ENGLISH" value="5667" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
