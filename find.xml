@@ -21,12 +21,12 @@
     <mask>*.json</mask>
     <mask>*list.jsp</mask>
     <mask>*mvc.xml</mask>
-    <mask>*.java</mask>
     <mask>plugin.xml</mask>
     <mask>*.properties</mask>
     <mask>design.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
