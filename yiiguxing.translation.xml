@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variable" />
+      <item value="introduce" />
       <item value="YZY REDIS KEY REDIRECT URI" />
       <item value="check Yzy Id Bind Status" />
       <item value=" Unable to acquire JDBC Connection " />
@@ -49,8 +51,6 @@
       <item value="cgj Yzy Api" />
       <item value="Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code." />
       <item value="water table" />
-      <item value="流水表" />
-      <item value="detail record" />
     </histories>
     <option name="languageScores">
       <map>
