@@ -26,9 +26,9 @@
     <mask>*.java</mask>
     <mask>plugin.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>design.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
