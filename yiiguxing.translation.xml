@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1" />
+      <item value="parameters" />
+      <item value="parameter" />
+      <item value="sangfor" />
       <item value="remark" />
       <item value="I Cgj Archive Main Service" />
       <item value="des Encrypt" />
@@ -47,15 +51,11 @@
       <item value="NOTIFY TODOTYPE MANUAL" />
       <item value="Amount" />
       <item value="query Todo Amount Number" />
-      <item value="amount" />
-      <item value="数量" />
-      <item value="Count" />
-      <item value="query Todo Count Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5503" />
-        <entry key="ENGLISH" value="5667" />
+        <entry key="CHINESE" value="5505" />
+        <entry key="ENGLISH" value="5669" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
