@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="september" />
+      <item value="offline seat duration" />
       <item value="catch a ip log" />
       <item value="catch" />
       <item value="Application Context Aware" />
@@ -49,8 +51,6 @@
       <item value="CLUSTERBTR" />
       <item value="STORAGE" />
       <item value="artifact id" />
-      <item value="artifactid" />
-      <item value="HP Image Archive" />
     </histories>
     <option name="languageScores">
       <map>
