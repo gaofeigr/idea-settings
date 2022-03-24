@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQL Injection " />
+      <item value="If the local storage value &quot;imgsrc&quot; is set to &quot;1 onerror=alert(1)&quot; will result in an alert prompt, demonstrating XSS " />
+      <item value="Prepending iFrame &quot;src&quot; Attribute to Prevent Malicious URI Schemes" />
+      <item value="Use Javascript to Construct DOM Elements, Rather Than Manually Concatenating Values" />
+      <item value="DOM XSS in img Attribute" />
       <item value="september" />
       <item value="offline seat duration" />
       <item value="catch a ip log" />
@@ -46,11 +51,6 @@
       <item value="period" />
       <item value="fd Holiday Year" />
       <item value="read Only" />
-      <item value="fd Duration" />
-      <item value="fd Specific Reason" />
-      <item value="CLUSTERBTR" />
-      <item value="STORAGE" />
-      <item value="artifact id" />
     </histories>
     <option name="languageScores">
       <map>
