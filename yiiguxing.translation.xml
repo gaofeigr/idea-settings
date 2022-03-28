@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="foxit" />
+      <item value="viewonline foxit" />
+      <item value="pdf Read By Foxit PC" />
       <item value="Object not available! Did you forget to build and register the server?" />
       <item value="esce" />
       <item value="编码" />
@@ -48,14 +51,11 @@
       <item value="我的" />
       <item value="do me todo" />
       <item value="me todo" />
-      <item value="i todo" />
-      <item value="to me done" />
-      <item value="to me todo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5516" />
-        <entry key="ENGLISH" value="5681" />
+        <entry key="CHINESE" value="5519" />
+        <entry key="ENGLISH" value="5683" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
