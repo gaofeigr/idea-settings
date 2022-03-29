@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="already Convered" />
+      <item value="already Converd" />
+      <item value="already Convertd" />
       <item value="has Suffix Temp File Path" />
       <item value="foxit" />
       <item value="viewonline foxit" />
@@ -48,14 +51,11 @@
       <item value="my done" />
       <item value="待办" />
       <item value="todo" />
-      <item value="my todo" />
-      <item value="我的" />
-      <item value="do me todo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5520" />
-        <entry key="ENGLISH" value="5684" />
+        <entry key="CHINESE" value="5524" />
+        <entry key="ENGLISH" value="5688" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="31" />
         <entry key="SPANISH" value="12" />
