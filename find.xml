@@ -25,10 +25,10 @@
     <mask>plugin.xml</mask>
     <mask>*.properties</mask>
     <mask>design.xml</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*mvc.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*mvc.xml</mask>
   </component>
 </application>
