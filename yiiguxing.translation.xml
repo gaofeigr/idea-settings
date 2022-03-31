@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fd Signer" />
       <item value="province Sign" />
       <item value="省" />
       <item value="get File Suffix" />
@@ -50,11 +51,10 @@
       <item value=" Unable to acquire JDBC Connection " />
       <item value="_blank" />
       <item value="verification" />
-      <item value="distribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5525" />
+        <entry key="CHINESE" value="5526" />
         <entry key="ENGLISH" value="5690" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="31" />
