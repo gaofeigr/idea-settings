@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mount.nfs: access denied by server while mounting (null)" />
       <item value="mount: /home/ekp/files/resource: bad option; for several filesystems (e.g. nfs, cifs) you might need a /sbin/mount.&lt;type&gt; helper program." />
       <item value="Wireshark" />
       <item value="Right" />
@@ -50,7 +51,6 @@
       <item value="Access denied for user 'root'@'localhost'" />
       <item value="revert" />
       <item value="variable" />
-      <item value="introduce" />
     </histories>
     <option name="languageScores">
       <map>
