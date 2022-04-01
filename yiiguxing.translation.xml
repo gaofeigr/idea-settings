@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]" />
+      <item value="future versions of Elasticsearch will require Java 11; your Java version from [/home/ekp/j2sdk1.8.0/jre] does not meet this requirement ERROR: [1] bootstrap checks failed [1]: max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]" />
       <item value="mount.nfs: access denied by server while mounting (null)" />
       <item value="mount: /home/ekp/files/resource: bad option; for several filesystems (e.g. nfs, cifs) you might need a /sbin/mount.&lt;type&gt; helper program." />
       <item value="Wireshark" />
@@ -49,8 +51,6 @@
       <item value="last block incomplete in decryption" />
       <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
       <item value="Access denied for user 'root'@'localhost'" />
-      <item value="revert" />
-      <item value="variable" />
     </histories>
     <option name="languageScores">
       <map>
