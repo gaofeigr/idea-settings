@@ -22,11 +22,11 @@
     <mask>*list.jsp</mask>
     <mask>plugin.xml</mask>
     <mask>design.xml</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*mvc.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
