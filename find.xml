@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>version.xml</mask>
     <mask>*hbm.xml</mask>
     <mask>*Request*</mask>
@@ -22,11 +23,11 @@
     <mask>*list.jsp</mask>
     <mask>plugin.xml</mask>
     <mask>design.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*mvc.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
