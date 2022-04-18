@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="公文接口文件, 签收直接用一级收文模板" />
-    <option name="defaultScopeName" value="公文接口文件, 签收直接用一级收文模板" />
-    <option name="SEARCH_SCOPE" value="公文接口文件, 签收直接用一级收文模板" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
