@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="290" />
+    <histories>
+      <item value="Secret" />
+      <item value="subscriber" />
+      <item value="subscriber not found" />
+      <item value="sign Link" />
+      <item value="init Adjustment Detail" />
+      <item value="Atomic Reference" />
+      <item value="fd Is Available" />
+      <item value="Effective" />
+      <item value="仅" />
+      <item value="highlight" />
+      <item value="highlig" />
+      <item value="highilg" />
+      <item value="highil" />
+      <item value="hig" />
+      <item value="hia" />
+      <item value="variable" />
+      <item value="vari" />
+      <item value="effects" />
+      <item value="e" />
+      <item value="error stripe mark" />
+      <item value="error s" />
+      <item value="state" />
+      <item value="fd Relevance Overtime Ids" />
+      <item value="Cannot evaluate methods after Pause action" />
+      <item value="period Type Value" />
+      <item value="has" />
+      <item value="is Model Merge" />
+      <item value="initial value" />
+      <item value="current value" />
+      <item value="current" />
+      <item value="initial val" />
+      <item value="initial" />
+      <item value="An error report file with more information is saved as: E:\ALL\Tool\Tomcat\��ɫ��\apache-tomcat-8.5.71\bin\hs_err_pid14828.log" />
+      <item value="If you would like to submit a bug report, please visit:" />
+      <item value="The crash happened outside the Java Virtual Machine in native code. See problematic frame for where to report the bug." />
+      <item value="OpenJDK 64-Bit Server VM warning: ignoring option PermSize=1024m; support was removed in 8.0" />
+      <item value="Exception invoking method manageApp" />
+      <item value="Fixed Issues" />
+      <item value="Soft Ref LRU Policy MS Per MB" />
+      <item value="文件夹" />
+      <item value="虚拟" />
+      <item value="修" />
+      <item value="xuni" />
+      <item value="template Id" />
+      <item value="Id" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1649837051678" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="790d8c17d9b6123c" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
