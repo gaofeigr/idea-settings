@@ -1,8 +1,0 @@
-<application>
-  <component name="svnConfig">
-    <option name="username" value="gaofei_sz" />
-    <option name="password" value="cwm1sIupEqDEFdo9" />
-    <option name="signFileOutputDir" value="D:\test.zip" />
-    <option name="needSign" value="true" />
-  </component>
-</application>
