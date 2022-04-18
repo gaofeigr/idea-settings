@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="290" />
     <histories>
+      <item value="staging" />
+      <item value="暂存" />
       <item value="confirm before exiting the ide" />
       <item value="confirm before exiting the " />
       <item value="confirm before ex" />
@@ -52,8 +54,6 @@
       <item value="current" />
       <item value="initial val" />
       <item value="initial" />
-      <item value="An error report file with more information is saved as: E:\ALL\Tool\Tomcat\��ɫ��\apache-tomcat-8.5.71\bin\hs_err_pid14828.log" />
-      <item value="If you would like to submit a bug report, please visit:" />
     </histories>
     <option name="languageScores">
       <map>
