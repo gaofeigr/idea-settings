@@ -1,0 +1,14 @@
+<application>
+  <component name="svnConfig">
+    <option name="signType" value="normal" />
+    <option name="username" value="gaofei_sz" />
+    <option name="password" value="cwm1sIupEqDEFdo9" />
+    <option name="license" value="LandrayV16" />
+    <option name="rememberPass" value="true" />
+    <option name="needSign" value="true" />
+    <option name="svnAddr" value="http://svnproject.landray.com.cn/SPRJ20211119_SZSCGJ" />
+    <option name="packType" value="zip" />
+    <option name="scope" value="files" />
+    <option name="signFileOutputDir" value="C:\Users\gaofei\Desktop" />
+  </component>
+</application>
