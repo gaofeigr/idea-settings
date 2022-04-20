@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="290" />
     <histories>
+      <item value="Connection failed (connect timed out). Please check network connection and try again." />
       <item value="Cgj Sharing Bad Sanitation P" />
       <item value="cgj Sharing Bad Sanitation P" />
       <item value="User Util" />
@@ -53,12 +54,11 @@
       <item value="highilg" />
       <item value="highil" />
       <item value="hig" />
-      <item value="hia" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="34" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
