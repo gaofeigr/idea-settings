@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="retry" />
+      <item value="重试" />
       <item value="do refactor" />
       <item value="都" />
       <item value="Executor Service" />
@@ -52,8 +54,6 @@
       <item value="terminate process " />
       <item value="terminate process" />
       <item value="terminate" />
-      <item value="when closing a tool window with a running process" />
-      <item value="when closing a tool window with a running pro" />
     </histories>
     <option name="languageScores">
       <map>
