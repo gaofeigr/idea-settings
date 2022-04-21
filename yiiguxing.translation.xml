@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="290" />
     <histories>
+      <item value="相对" />
       <item value="master Full File Path" />
       <item value="sync File To Slave File Server" />
       <item value="主从" />
@@ -53,7 +54,6 @@
       <item value="subscriber" />
       <item value="subscriber not found" />
       <item value="sign Link" />
-      <item value="init Adjustment Detail" />
     </histories>
     <option name="languageScores">
       <map>
