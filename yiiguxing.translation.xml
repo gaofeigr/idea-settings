@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Executor Service" />
       <item value="This directive specifies a list of port numbers or ranges to which the proxy CONNECT method may connect.&#10;&#10;By default, only the default https port (443) and the default snews port (563) are enabled.&#10;&#10;Using this directive will override this default and allow connections to the listed ports only.&#10;&#10;The value all will allow all ports to proxy.&#10;&#10;The value port will allow specified port to proxy.&#10;&#10;The value port-range will allow specified range of port to proxy, for example:&#10;-----------------------------------&#10;©著作权归作者所有：来自51CTO博客作者joshua317的原创作品，请联系作者获取转载授权，否则将追究法律责任&#10;nginx正向代理，支持https模块：ngx_http_proxy_connect_module&#10;https://blog.51cto.com/u_10401840/5172005" />
       <item value="path" />
       <item value="store" />
@@ -53,12 +54,11 @@
       <item value="when closing a tool window with a running pro" />
       <item value="when closing a tool window with a runn" />
       <item value="when closing a tool window with a run" />
-      <item value="when closing a tool window with " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
