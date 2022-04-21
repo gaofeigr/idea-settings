@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="290" />
     <histories>
+      <item value="切换" />
       <item value="主从" />
+      <item value="zhu" />
+      <item value="附件存储" />
+      <item value="fu" />
       <item value="zho" />
       <item value="Connection failed (connect timed out). Please check network connection and try again." />
       <item value="Cgj Sharing Bad Sanitation P" />
@@ -50,10 +54,6 @@
       <item value="Atomic Reference" />
       <item value="fd Is Available" />
       <item value="Effective" />
-      <item value="仅" />
-      <item value="highlight" />
-      <item value="highlig" />
-      <item value="highilg" />
     </histories>
     <option name="languageScores">
       <map>
