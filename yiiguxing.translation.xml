@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Paste" />
       <item value="Invalid argument or cannot assign requested address" />
       <item value="SYSROLE SYSADMIN" />
       <item value="SYSROLE USER" />
@@ -53,12 +54,11 @@
       <item value="suspen" />
       <item value="suspend" />
       <item value="susp" />
-      <item value="Caused by: java.lang.IllegalAccessError: class com.intellij.idea.StartupUtil (in unnamed module @0x495614f3) cannot access class sun.awt.AWTAutoShutdown (in module java.desktop) because module java.desktop does not export sun.awt to unnamed module @0x495614f3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="54" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
