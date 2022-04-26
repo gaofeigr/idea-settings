@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="filte Send Num By Submit Dept Id" />
+      <item value="filter" />
+      <item value="filter Send Num By Submit Dept Id" />
+      <item value="Send Num By Submit Dept Id" />
       <item value="fd Hierarchy Id" />
       <item value="Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories. Returns: true if and only if the directory was created, along with all necessary parent directories; false otherwise Throws: SecurityException – If a security manager exists and its SecurityManager.checkRead(String) method does not permit verification of the existence of the named directory and all necessary parent directories; or if the SecurityManager.checkWrite(String) method does not permit the named directory and all necessary parent directories to be created" />
       <item value="ROLE CGJVACATION ADJUSTMENT BATCH" />
@@ -50,15 +54,11 @@
       <item value="fu" />
       <item value="zho" />
       <item value="Connection failed (connect timed out). Please check network connection and try again." />
-      <item value="Cgj Sharing Bad Sanitation P" />
-      <item value="cgj Sharing Bad Sanitation P" />
-      <item value="User Util" />
-      <item value="get User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
