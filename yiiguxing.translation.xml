@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="inited" />
       <item value="filte Send Num By Submit Dept Id" />
       <item value="filter" />
       <item value="filter Send Num By Submit Dept Id" />
@@ -53,12 +54,11 @@
       <item value="附件存储" />
       <item value="fu" />
       <item value="zho" />
-      <item value="Connection failed (connect timed out). Please check network connection and try again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
