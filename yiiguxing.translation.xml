@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="I Cgj Sharing Sync Data Util" />
       <item value="Active: inactive (dead)" />
       <item value="principal Leader" />
       <item value="the Head Of Each Division" />
@@ -53,12 +54,11 @@
       <item value="store" />
       <item value="attachment" />
       <item value="Non-authoritative answer:&#10;public.szfb.sz.gov.cn&#9;canonical name = public-szfb-sz-gov-cn.cname.saaswaf.com.&#10;Name:&#9;public-szfb-sz-gov-cn.cname.saaswaf.com&#10;Address: 116.63.133.176" />
-      <item value="相对" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
