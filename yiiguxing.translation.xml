@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="use Suwell Plug In" />
       <item value="SENDER" />
       <item value="RECEIVERS" />
       <item value="Schema switch is not supported by driver" />
@@ -53,12 +54,11 @@
       <item value="SYNC TYPE FOLDER" />
       <item value="文件夹" />
       <item value="文件及" />
-      <item value="sync status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="81" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
