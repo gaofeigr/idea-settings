@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="切换" />
       <item value="use Suwell Plug In" />
       <item value="SENDER" />
       <item value="RECEIVERS" />
@@ -24,7 +25,6 @@
       <item value="leaders With Specific Duties" />
       <item value="audit Node" />
       <item value="audit Note" />
-      <item value="切换" />
       <item value="Cgj Person Main Swith Action" />
       <item value="exclude Me" />
       <item value="inited" />
