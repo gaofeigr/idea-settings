@@ -1,9 +1,30 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
-    <option name="newTranslationDialogX" value="472" />
-    <option name="newTranslationDialogY" value="350" />
+    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogX" value="690" />
+    <option name="newTranslationDialogY" value="391" />
     <histories>
+      <item value="tip Message" />
+      <item value="apply colors of round for all brackets" />
+      <item value="apply colors of round for all bra" />
+      <item value="apply colors of round for all" />
+      <item value="apply colors of ro" />
+      <item value="apply color" />
+      <item value="apply col" />
+      <item value="apply" />
+      <item value="appl" />
+      <item value="app" />
+      <item value="press any key to remove the highlighting effects" />
+      <item value="press any key to remove the highlighting " />
+      <item value="press any key to remove the highligh" />
+      <item value="press any key to remove the high" />
+      <item value="press any key to remove the hig" />
+      <item value="press any key to remo" />
+      <item value="rainbowify brackets without content" />
+      <item value="rainbowify brackets without conte" />
+      <item value="rainbowify brackets withou" />
+      <item value="number of colors" />
+      <item value="number of " />
       <item value="greaet news, we've released our next generation AI Code Completion" />
       <item value="greaet news, we've released our next generation AI Code Comple" />
       <item value="greaet news, we've released our next generation AI Code Compl" />
@@ -33,32 +54,11 @@
       <item value="whi" />
       <item value="Approval" />
       <item value="流水号" />
-      <item value="liu'shui" />
-      <item value="require" />
-      <item value="requi" />
-      <item value="requie" />
-      <item value="re" />
-      <item value="需要" />
-      <item value="必须" />
-      <item value="必填" />
-      <item value="agent" />
-      <item value="ag" />
-      <item value="capture.cpp:339:Print_Capture_Packet_Num Capture packet num = 0" />
-      <item value="切换" />
-      <item value="use Suwell Plug In" />
-      <item value="SENDER" />
-      <item value="RECEIVERS" />
-      <item value="Schema switch is not supported by driver" />
-      <item value="fd Deliver Type" />
-      <item value="LRBLXWQYMDYY" />
-      <item value="YCBLXWQYMDYY" />
-      <item value="LRBLXWQYMDRQ" />
-      <item value="BLXWLB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="83" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
