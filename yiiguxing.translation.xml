@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="iptables.service - IPv4 firewall with iptables&#10;   Loaded: loaded (/usr/lib/systemd/system/iptables.service; disabled; vendor preset: disabled)&#10;   Active: inactive (dead)" />
       <item value="signal process started" />
       <item value="record" />
       <item value="tracking" />
@@ -53,7 +54,6 @@
       <item value="enable deep comp" />
       <item value="enable deep co" />
       <item value="tabnine" />
-      <item value="tabni" />
     </histories>
     <option name="languageScores">
       <map>
