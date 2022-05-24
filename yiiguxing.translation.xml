@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="is Readable" />
       <item value="is Imissive" />
       <item value="relevance" />
       <item value="no Require Audit Opinion" />
@@ -54,12 +55,11 @@
       <item value="press any key to remove the hig" />
       <item value="press any key to remo" />
       <item value="rainbowify brackets without content" />
-      <item value="rainbowify brackets without conte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="100" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
