@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="No bean named 'globalConfig' available" />
       <item value="Unexpected update count received (Actual: 3, Expected: 1). All changes will be rolled back." />
       <item value="is Readable" />
       <item value="is Imissive" />
@@ -54,12 +55,11 @@
       <item value="press any key to remove the highligh" />
       <item value="press any key to remove the high" />
       <item value="press any key to remove the hig" />
-      <item value="press any key to remo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="102" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
