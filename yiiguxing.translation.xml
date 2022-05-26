@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="was not of the specified subclass" />
+      <item value="was not of the specified subclass [com.landray.kmss.sys.organization.model.SysOrgPost] : loaded object was of wrong class class com.landray.kmss.sys.organization.model.SysOrgPerson" />
+      <item value="was not of the specified subclass [com.landray.kmss.sys.organization.model.SysOrgPost] : loaded object was of wrong class class com.landray.kmss.sys.organization.model.SysOrgPerso" />
       <item value="No bean named 'globalConfig' available" />
       <item value="Unexpected update count received (Actual: 3, Expected: 1). All changes will be rolled back." />
       <item value="is Readable" />
@@ -52,9 +55,6 @@
       <item value="app" />
       <item value="press any key to remove the highlighting effects" />
       <item value="press any key to remove the highlighting " />
-      <item value="press any key to remove the highligh" />
-      <item value="press any key to remove the high" />
-      <item value="press any key to remove the hig" />
     </histories>
     <option name="languageScores">
       <map>
