@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="no Require" />
       <item value="archive Send Main" />
       <item value="an int that specifies the connect timeout value in milliseconds" />
       <item value="get Fd Doc Flow" />
@@ -54,12 +55,11 @@
       <item value="tip Message" />
       <item value="apply colors of round for all brackets" />
       <item value="apply colors of round for all bra" />
-      <item value="apply colors of round for all" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="107" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653899419900" />
+    <option name="lastTrimTime" value="1654496818872" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
