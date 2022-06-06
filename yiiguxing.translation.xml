@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="cancel" />
+      <item value="cgj Imissive.quartz.sync Receive Main.cancel.description" />
+      <item value="作废" />
+      <item value="municipal Office" />
       <item value="no Require" />
       <item value="archive Send Main" />
       <item value="an int that specifies the connect timeout value in milliseconds" />
@@ -51,15 +55,11 @@
       <item value="tracking" />
       <item value="tracking.record" />
       <item value="禁用" />
-      <item value="能用j" />
-      <item value="tip Message" />
-      <item value="apply colors of round for all brackets" />
-      <item value="apply colors of round for all bra" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="111" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
