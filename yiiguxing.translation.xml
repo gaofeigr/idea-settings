@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="没有" />
+      <item value="mei" />
+      <item value="yet" />
+      <item value="ye" />
+      <item value="尚未" />
+      <item value="s" />
+      <item value="detection" />
+      <item value="external Unit Names" />
       <item value="操作者" />
       <item value="cao" />
       <item value="Refuse reason" />
@@ -47,19 +55,11 @@
       <item value="relevance" />
       <item value="no Require Audit Opinion" />
       <item value="require Audit Opinion" />
-      <item value="O" />
-      <item value="audit" />
-      <item value="commission" />
-      <item value="Progress 4 / 1046" />
-      <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with.&#10;&#10;" />
-      <item value="progress" />
-      <item value="prog" />
-      <item value="center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
