@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Variable is already assigned to this value " />
       <item value="document Exchanged Unit List" />
       <item value="Document Exchanged Units" />
       <item value="没有" />
@@ -54,7 +55,6 @@
       <item value="Unexpected update count received (Actual: 3, Expected: 1). All changes will be rolled back." />
       <item value="is Readable" />
       <item value="is Imissive" />
-      <item value="relevance" />
     </histories>
     <option name="languageScores">
       <map>
