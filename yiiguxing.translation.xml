@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="detection External Units" />
+      <item value="check Out External Units" />
       <item value="fd Is Supervised" />
       <item value="oa" />
       <item value="goushi" />
@@ -53,13 +55,11 @@
       <item value="plugin" />
       <item value="母婴" />
       <item value="管理中心" />
-      <item value="gu" />
-      <item value="gun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="123" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
