@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="操作者" />
+      <item value="cao" />
+      <item value="Refuse reason" />
+      <item value="Refuse to reason" />
+      <item value="拒绝原因" />
       <item value="detection External Units" />
       <item value="check Out External Units" />
       <item value="fd Is Supervised" />
@@ -50,11 +55,6 @@
       <item value="progress" />
       <item value="prog" />
       <item value="center" />
-      <item value="center Server" />
-      <item value="中台" />
-      <item value="plugin" />
-      <item value="母婴" />
-      <item value="管理中心" />
     </histories>
     <option name="languageScores">
       <map>
