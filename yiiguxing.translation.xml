@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="document Exchanged Unit List" />
+      <item value="Document Exchanged Units" />
       <item value="没有" />
       <item value="mei" />
       <item value="yet" />
@@ -53,13 +55,11 @@
       <item value="is Readable" />
       <item value="is Imissive" />
       <item value="relevance" />
-      <item value="no Require Audit Opinion" />
-      <item value="require Audit Opinion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="127" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
