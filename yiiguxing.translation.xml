@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="original" />
       <item value="Launch date" />
       <item value="上线日期" />
       <item value="online" />
@@ -54,12 +55,11 @@
       <item value="subordinate View Validator" />
       <item value="was not of the specified subclass" />
       <item value="was not of the specified subclass [com.landray.kmss.sys.organization.model.SysOrgPost] : loaded object was of wrong class class com.landray.kmss.sys.organization.model.SysOrgPerson" />
-      <item value="was not of the specified subclass [com.landray.kmss.sys.organization.model.SysOrgPost] : loaded object was of wrong class class com.landray.kmss.sys.organization.model.SysOrgPerso" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="129" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
