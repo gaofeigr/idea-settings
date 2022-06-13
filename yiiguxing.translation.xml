@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="ADVICE" />
+      <item value="REGDETAIL STATUS ADVICE RECEIVED" />
       <item value="original" />
       <item value="Launch date" />
       <item value="上线日期" />
@@ -53,13 +55,11 @@
       <item value="Tercel" />
       <item value="Release" />
       <item value="subordinate View Validator" />
-      <item value="was not of the specified subclass" />
-      <item value="was not of the specified subclass [com.landray.kmss.sys.organization.model.SysOrgPost] : loaded object was of wrong class class com.landray.kmss.sys.organization.model.SysOrgPerson" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="131" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654496818872" />
+    <option name="lastTrimTime" value="1655089166020" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
