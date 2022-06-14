@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="flag" />
+      <item value="g'l" />
+      <item value="标志fla" />
+      <item value="标志flag" />
+      <item value="标志" />
+      <item value="flg" />
+      <item value="wait Flag" />
+      <item value="wait" />
       <item value="withdraw" />
       <item value="ADVICE" />
       <item value="REGDETAIL STATUS ADVICE RECEIVED" />
@@ -47,19 +55,11 @@
       <item value="cgj Imissive.quartz.sync Receive Main.cancel.description" />
       <item value="作废" />
       <item value="municipal Office" />
-      <item value="no Require" />
-      <item value="archive Send Main" />
-      <item value="an int that specifies the connect timeout value in milliseconds" />
-      <item value="get Fd Doc Flow" />
-      <item value="Release:&#10;Kylin Linux Advanced Server release V10 (Tercel)&#10;&#10;Kernel:&#10;4.19.90-23.8.v2101.ky10.aarch64&#10;&#10;Build:&#10;Kylin Linux Advanced Server&#10;release V10 (SP1) /(Tercel)-aarch64-Build20/20210518" />
-      <item value="Release:&#10;Kylin Linux Advanced Server release V10 (Tercel)" />
-      <item value="Tercel" />
-      <item value="Release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="134" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
