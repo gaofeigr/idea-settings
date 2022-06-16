@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogWidth" value="516" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Dear Fei Gao, &#10;Thank you for your interest in the Project Management Professional (PMP)® Credential. Our records indicate that you are scheduled to sit for the exam in approximately 45 days. This email is a courtesy to remind you about our exam rescheduling/cancellation policy. &#10;Rescheduling/Cancellation Policy for Exams &#10;You can reschedule or cancel your exam at any time, as long as you do so more than two full calendar days before your scheduled exam appointment. However, late rescheduling and cancellations will result in a fee. &#10;&#10;Attention: Currently, Rescheduling/Cancellation fees are waived indefinitely due to COVID-19. &#10;&#10;Within 2 Days of the Appointment &#10;If you wait until you are within two days of your exam appointment, you will be able to cancel your appointment and you will forfeit the entire exam fee. You will not be able to reschedule your appointment at this point and will need to pay associated reexamination fees to schedule a new exam. The two-day period does not include the day of the exam appointment. &#10;We encourage you to reschedule or cancel your exam appointment as soon as you know you are unable to make it to avoid fees and penalties. Full details on this policy can be found in your respective handbook. &#10;We wish you a successful testing experience. Please contact the Customer Care Centre in your region if you have questions or concerns. &#10;Thank you, &#10;PMI Customer Care &#10;" />
       <item value="Unsafe query: 'Update' statement without 'where' updates all table rows at once" />
       <item value="flag" />
       <item value="g'l" />
@@ -54,7 +55,6 @@
       <item value="短信" />
       <item value="cancel" />
       <item value="cgj Imissive.quartz.sync Receive Main.cancel.description" />
-      <item value="作废" />
     </histories>
     <option name="languageScores">
       <map>
