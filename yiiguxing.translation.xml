@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="次数" />
       <item value=" The request was rejected because the URL contained a potentially malicious String" />
       <item value="Not found extendsion from file" />
       <item value="transfer logic to" />
@@ -54,7 +55,6 @@
       <item value="detection External Units" />
       <item value="check Out External Units" />
       <item value="fd Is Supervised" />
-      <item value="oa" />
     </histories>
     <option name="languageScores">
       <map>
