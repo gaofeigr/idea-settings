@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogHeight" value="241" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="notifier" />
+      <item value="通知人" />
+      <item value="同志任" />
+      <item value="tong'zi" />
+      <item value="分隔符" />
+      <item value="fen'ge'fu" />
+      <item value="scale" />
       <item value="乘法" />
       <item value="cheng'fa" />
       <item value="cheng" />
@@ -48,18 +56,11 @@
       <item value="mei" />
       <item value="yet" />
       <item value="ye" />
-      <item value="尚未" />
-      <item value="s" />
-      <item value="detection" />
-      <item value="external Unit Names" />
-      <item value="操作者" />
-      <item value="cao" />
-      <item value="Refuse reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="147" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
