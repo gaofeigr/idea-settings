@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="241" />
-    <option name="newTranslationDialogWidth" value="510" />
+    <option name="newTranslationDialogHeight" value="233" />
+    <option name="newTranslationDialogWidth" value="508" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="require Validation Att" />
+      <item value="Validation" />
+      <item value="c" />
+      <item value="校验" />
+      <item value="jiao'yan" />
+      <item value="require" />
       <item value="tip no err notifier" />
       <item value="notifier" />
       <item value="通知人" />
@@ -50,17 +56,11 @@
       <item value="上线日期" />
       <item value="online" />
       <item value="上线" />
-      <item value="Variable is already assigned to this value " />
-      <item value="document Exchanged Unit List" />
-      <item value="Document Exchanged Units" />
-      <item value="没有" />
-      <item value="mei" />
-      <item value="yet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="151" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655792059873" />
+    <option name="lastTrimTime" value="1656406559138" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
