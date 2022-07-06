@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="PROPAGATION REQUIRES NEW" />
       <item value="fd Operating Time" />
       <item value="operating time" />
       <item value="操作时间" />
@@ -55,12 +56,11 @@
       <item value="标志fla" />
       <item value="标志flag" />
       <item value="标志" />
-      <item value="flg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
