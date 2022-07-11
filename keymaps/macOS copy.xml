@@ -1,0 +1,32 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="$ToggleQuickDocTranslationAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="$TranslateQuickDocAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="$TranslateRenderedDocSelectionAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="$TranslateTextComponent">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+</keymap>
