@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="The thread pool's task queue is full, limit: 4096" />
       <item value="refresh Notify Cgj Read" />
       <item value="PROPAGATION REQUIRES NEW" />
       <item value="fd Operating Time" />
@@ -55,7 +56,6 @@
       <item value="flag" />
       <item value="g'l" />
       <item value="标志fla" />
-      <item value="标志flag" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657075916645" />
+    <option name="lastTrimTime" value="1657530325536" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
