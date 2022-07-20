@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="tracking" />
+      <item value="Track" />
       <item value="历史记录" />
       <item value="li'shi'ji'l" />
       <item value="self" />
@@ -54,13 +56,11 @@
       <item value="confusion" />
       <item value="decrypt" />
       <item value="encrypt String" />
-      <item value="des Encrypt" />
-      <item value="checkNeedDocumentExchange is no defined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="168" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
