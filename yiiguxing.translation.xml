@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="223" />
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogHeight" value="216" />
+    <option name="newTranslationDialogWidth" value="496" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="模块" />
+      <item value="魔窟啊" />
       <item value="unique" />
       <item value="bind Click Event" />
       <item value="tracking" />
@@ -54,8 +56,6 @@
       <item value="次数" />
       <item value=" The request was rejected because the URL contained a potentially malicious String" />
       <item value="Not found extendsion from file" />
-      <item value="transfer logic to" />
-      <item value="confusion" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658299776203" />
+    <option name="lastTrimTime" value="1658736196950" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
