@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="209" />
-    <option name="newTranslationDialogWidth" value="490" />
+    <option name="newTranslationDialogWidth" value="488" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="缓存" />
       <item value="忽略" />
       <item value="hu'lu" />
       <item value="hu'l" />
@@ -55,7 +56,6 @@
       <item value="notifier" />
       <item value="通知人" />
       <item value="同志任" />
-      <item value="tong'zi" />
     </histories>
     <option name="languageScores">
       <map>
