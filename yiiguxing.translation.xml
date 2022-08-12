@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="upgrade" />
       <item value="缓存" />
       <item value="忽略" />
       <item value="hu'lu" />
@@ -55,12 +56,11 @@
       <item value="tip no err notifier" />
       <item value="notifier" />
       <item value="通知人" />
-      <item value="同志任" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="176" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659341033206" />
+    <option name="lastTrimTime" value="1660286144279" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
