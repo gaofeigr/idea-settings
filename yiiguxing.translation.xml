@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="fd signature algorithm" />
+      <item value="fd Certificate Citation" />
+      <item value="fd certificate" />
+      <item value="fd Signature Algorithm" />
+      <item value="signature Algorithm" />
+      <item value="certificate Citation" />
+      <item value="certificate Of Citation" />
       <item value="upgrade" />
       <item value="缓存" />
       <item value="忽略" />
@@ -49,18 +56,11 @@
       <item value="outer" />
       <item value="require Validation Att" />
       <item value="Validation" />
-      <item value="c" />
-      <item value="校验" />
-      <item value="jiao'yan" />
-      <item value="require" />
-      <item value="tip no err notifier" />
-      <item value="notifier" />
-      <item value="通知人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="183" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660286144279" />
+    <option name="lastTrimTime" value="1661159979633" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
