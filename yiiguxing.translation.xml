@@ -6,11 +6,12 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="fd Signature Algorithm" />
+      <item value="fd Certificate" />
       <item value="pass" />
       <item value="fd signature algorithm" />
       <item value="fd Certificate Citation" />
       <item value="fd certificate" />
-      <item value="fd Signature Algorithm" />
       <item value="signature Algorithm" />
       <item value="certificate Citation" />
       <item value="certificate Of Citation" />
@@ -55,12 +56,11 @@
       <item value="机制" />
       <item value="Mechanics" />
       <item value="outer" />
-      <item value="require Validation Att" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="186" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
