@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Couldn't detect pid" />
       <item value="child Price" />
       <item value="adult Price" />
       <item value="penalty Criteria" />
@@ -55,12 +56,11 @@
       <item value="operating time" />
       <item value="操作时间" />
       <item value="Operator" />
-      <item value="fd Operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="192" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
