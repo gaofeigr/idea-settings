@@ -1,52 +1,43 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="231" />
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogHeight" value="209" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
-      <item value="字段" />
-      <item value="ziduan " />
-      <item value="Field" />
-      <item value="fd Field" />
-      <item value="sort tabs alphabetically" />
-      <item value="sort tabs alphabetica" />
-      <item value="sort tabs alph" />
-      <item value="sort tabs al" />
-      <item value="sort " />
-      <item value="sort table" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool window, and files opened during debugging" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool window, and files opened during debugg" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool window, and files opened during" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool window, and files opened du" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool window, and files opened fu" />
-      <item value="the preview tab is reused to show files selected with a single click in the project tool win" />
-      <item value="the preview tab is reused to show files selected with a single" />
-      <item value="the preview tab is reused to show files selected with a si" />
-      <item value="the preview tab is reused to show files selected with" />
-      <item value="the preview tab is reused to show files selected th" />
-      <item value="the preview tab is reused to show files selected" />
-      <item value="the preview tab is reused to show files select" />
-      <item value="the preview tab is reused to show files selec" />
-      <item value="the preview tab is reused to show file" />
-      <item value="the preview tab is reused" />
-      <item value="the preview tab " />
-      <item value="the preview " />
-      <item value="when the current tab is closed, activate" />
-      <item value="when the current tab is closed, acti" />
-      <item value="when the current tab is closed, " />
-      <item value="when the current tab is closed " />
-      <item value="maximum number of recent expressions" />
-      <item value="maximum number of recent exp" />
-      <item value="maximum number of rece" />
-      <item value="maximum number " />
-      <item value="maximum" />
-      <item value="maximun" />
-      <item value="max" />
-      <item value="filed" />
-      <item value="file" />
-      <item value="fil" />
+      <item value="柳叶刀" />
+      <item value="data&#10;" />
+      <item value="fd Certificate" />
+      <item value="fd Signature Algorithm" />
+      <item value="pass" />
+      <item value="fd signature algorithm" />
+      <item value="fd Certificate Citation" />
+      <item value="fd certificate" />
+      <item value="signature Algorithm" />
+      <item value="certificate Citation" />
+      <item value="certificate Of Citation" />
+      <item value="upgrade" />
+      <item value="缓存" />
+      <item value="忽略" />
+      <item value="hu'lu" />
+      <item value="hu'l" />
+      <item value="need Async Load Data" />
+      <item value="async" />
+      <item value="异步" />
+      <item value="timestemp" />
+      <item value="Emergency Grade" />
+      <item value="execution" />
+      <item value="second Level Dept Long Id" />
+      <item value="is Module Admin" />
+      <item value="模块" />
+      <item value="魔窟啊" />
+      <item value="unique" />
+      <item value="bind Click Event" />
+      <item value="tracking" />
+      <item value="Track" />
+      <item value="历史记录" />
+      <item value="li'shi'ji'l" />
       <item value="self" />
       <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most {@code nThreads} threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly {@link ExecutorServiceshutdown shutdown}." />
       <item value="new Fixed Thread Pool" />
@@ -56,12 +47,21 @@
       <item value="target process not responding or HotSpot VM not loaded" />
       <item value="The thread pool's task queue is full, limit: 4096" />
       <item value="refresh Notify Cgj Read" />
+      <item value="PROPAGATION REQUIRES NEW" />
+      <item value="fd Operating Time" />
+      <item value="operating time" />
+      <item value="操作时间" />
+      <item value="Operator" />
+      <item value="fd Operator" />
+      <item value="操作者" />
+      <item value="mechanism" />
+      <item value="机制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="169" />
-        <entry key="DANISH" value="1" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="187" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="4" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658135015556" />
+    <option name="lastTrimTime" value="1661159979633" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
