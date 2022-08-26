@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="209" />
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="486" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="柳叶刀" />
       <item value="data&#10;" />
       <item value="fd Certificate" />
       <item value="fd Signature Algorithm" />
@@ -55,7 +56,6 @@
       <item value="操作者" />
       <item value="mechanism" />
       <item value="机制" />
-      <item value="Mechanics" />
     </histories>
     <option name="languageScores">
       <map>
