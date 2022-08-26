@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="data&#10;" />
       <item value="fd Certificate" />
       <item value="fd Signature Algorithm" />
       <item value="pass" />
@@ -55,7 +56,6 @@
       <item value="mechanism" />
       <item value="机制" />
       <item value="Mechanics" />
-      <item value="outer" />
     </histories>
     <option name="languageScores">
       <map>
