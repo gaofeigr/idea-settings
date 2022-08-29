@@ -10,6 +10,7 @@
   </action>
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="$TranslateQuickDocAction">
     <keyboard-shortcut first-keystroke="alt q" />
@@ -28,5 +29,6 @@
   </action>
   <action id="Editor TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
 </keymap>
