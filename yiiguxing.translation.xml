@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="show Auth Code" />
+      <item value="search Id" />
+      <item value="finished" />
+      <item value="search Criteria Token" />
+      <item value="best Choice Flights Force Top" />
+      <item value="{&quot;status&quot;:-3,&quot;msg&quot;:&quot;Could not read document: Unrecognized token 'v': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (PushbackInputStream); line: 1, column: 3]; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'v': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (PushbackInputStream); line: 1, column: 3]&quot;}" />
       <item value="Couldn't detect pid" />
       <item value="child Price" />
       <item value="adult Price" />
@@ -50,17 +56,11 @@
       <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with." />
       <item value="target process not responding or HotSpot VM not loaded" />
       <item value="The thread pool's task queue is full, limit: 4096" />
-      <item value="refresh Notify Cgj Read" />
-      <item value="PROPAGATION REQUIRES NEW" />
-      <item value="fd Operating Time" />
-      <item value="operating time" />
-      <item value="操作时间" />
-      <item value="Operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="199" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
