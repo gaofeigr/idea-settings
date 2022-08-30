@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="209" />
-    <option name="newTranslationDialogWidth" value="486" />
+    <option name="newTranslationDialogHeight" value="204" />
+    <option name="newTranslationDialogWidth" value="484" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="群星璀璨" />
+      <item value="Starry" />
       <item value="show Auth Code" />
       <item value="search Id" />
       <item value="finished" />
@@ -54,13 +56,11 @@
       <item value="timestamp" />
       <item value="&amp;amp;" />
       <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with." />
-      <item value="target process not responding or HotSpot VM not loaded" />
-      <item value="The thread pool's task queue is full, limit: 4096" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="200" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661159979633" />
+    <option name="lastTrimTime" value="1661847313780" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
