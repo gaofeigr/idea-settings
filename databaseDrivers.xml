@@ -1,8 +1,17 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlserver.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="10.2.1" />
+    </driver>
     <driver id="mysql.8">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql">
+      <artifact />
+      <library>
+        <url>file://D:/ideaproject/_WORK/msjr/WebContent/WEB-INF/lib/mysql-connector-java-5.1.19-bin.jar</url>
+      </library>
     </driver>
     <driver id="oracle.19">
       <library>

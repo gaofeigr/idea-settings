@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Application Server was not connected before run configuration stop, reason: Unable to ping server at localhost:1090" />
       <item value="群星璀璨" />
       <item value="Starry" />
       <item value="show Auth Code" />
@@ -55,7 +56,6 @@
       <item value="new Fixed Thread Pool" />
       <item value="timestamp" />
       <item value="&amp;amp;" />
-      <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with." />
     </histories>
     <option name="languageScores">
       <map>
