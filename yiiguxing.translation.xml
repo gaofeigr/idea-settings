@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="theme" />
       <item value="Can't find dependent libraries" />
       <item value="logging" />
       <item value="Unsupported major.minor version 52.0" />
@@ -55,12 +56,11 @@
       <item value="Track" />
       <item value="历史记录" />
       <item value="li'shi'ji'l" />
-      <item value="self" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="206" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
