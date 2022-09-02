@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="No WebApplicationContext found: no ContextLoaderListener registered" />
       <item value="fd Circulated Hands" />
       <item value="fd Circulated" />
       <item value="传阅" />
@@ -55,12 +56,11 @@
       <item value="忽略" />
       <item value="hu'lu" />
       <item value="hu'l" />
-      <item value="need Async Load Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="215" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="3" />
