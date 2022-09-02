@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="204" />
-    <option name="newTranslationDialogWidth" value="482" />
+    <option name="newTranslationDialogHeight" value="199" />
+    <option name="newTranslationDialogWidth" value="480" />
     <option name="newTranslationDialogX" value="561" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="fd Circulated Hands" />
+      <item value="fd Circulated" />
+      <item value="传阅" />
+      <item value="穿越" />
+      <item value="chuan" />
       <item value="authorization" />
       <item value="authentication" />
       <item value="If it is a valid URL, check whether service /sap/ekp/orgsync is active in transaction SICF." />
@@ -51,16 +56,11 @@
       <item value="hu'lu" />
       <item value="hu'l" />
       <item value="need Async Load Data" />
-      <item value="async" />
-      <item value="异步" />
-      <item value="timestemp" />
-      <item value="Emergency Grade" />
-      <item value="execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="214" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="3" />
