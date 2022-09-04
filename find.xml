@@ -6,10 +6,10 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>design.xml</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
