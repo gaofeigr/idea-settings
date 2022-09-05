@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="digest" />
       <item value="was expecting" />
       <item value="Could not read document: Unrecognized token 'flightWayEnum': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')\n at [Source: (PushbackInputStream); line: 1, column: 15" />
       <item value="flight Way Enum" />
@@ -55,12 +56,11 @@
       <item value="&amp;amp;" />
       <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with." />
       <item value="target process not responding or HotSpot VM not loaded" />
-      <item value="The thread pool's task queue is full, limit: 4096" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="193" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
