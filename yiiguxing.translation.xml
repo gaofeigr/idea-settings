@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="has Add Feedback Person Auth" />
       <item value="creator" />
       <item value="owner" />
       <item value="add Feedback Person Repeat" />
@@ -55,12 +56,11 @@
       <item value="new Fixed Thread Pool" />
       <item value="timestamp" />
       <item value="&amp;amp;" />
-      <item value="SetupVPN is searching a valid Server to communicate with. This process can take a while depending on your Internet Speed. If you are being blocked by isp/School/government it might take a while to find valid Server to communicate with." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="198" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
