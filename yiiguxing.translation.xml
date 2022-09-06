@@ -6,9 +6,9 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
-      <item value="departure City Id" />
       <item value="is Multiple Passenger Type" />
       <item value="segment No" />
+      <item value="departure City Id" />
       <item value="departure Province Id" />
       <item value="depart Province Id" />
       <item value="flight Way Enum" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="260" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
