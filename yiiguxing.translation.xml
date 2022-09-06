@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Generating project in Batch mode" />
       <item value="crawler" />
       <item value="爬虫" />
       <item value="airline ticket" />
@@ -55,12 +56,11 @@
       <item value="模块" />
       <item value="魔窟啊" />
       <item value="unique" />
-      <item value="bind Click Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="204" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
