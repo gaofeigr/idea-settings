@@ -6,13 +6,34 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="flight Way Enum" />
+      <item value="arrival City Id" />
+      <item value="departure Province Id" />
+      <item value="arrival City Time Zone" />
+      <item value="departure Country Id" />
+      <item value="departure City Id" />
+      <item value="arrival Country Id" />
+      <item value="departure City Time Zone" />
+      <item value="arrival Province Id" />
+      <item value="flight Way" />
+      <item value="time Zone" />
+      <item value="flight Segments" />
+      <item value="departure Date" />
+      <item value="D SINGLE 2_ROUND" />
+      <item value="FLIGHT" />
+      <item value="recommend Info List" />
+      <item value="recommend Product" />
+      <item value="best Choice Flights Force Top" />
+      <item value="gift Ids" />
+      <item value="flight Itinerary List" />
+      <item value="context" />
+      <item value="finished" />
       <item value="depart Country Name" />
       <item value="cabin Enum" />
       <item value="cabin" />
       <item value="arrival Country Name" />
       <item value="unfold Price List Switch" />
       <item value="use All Recommend Switch" />
-      <item value="flight Way Enum" />
       <item value="nano Time" />
       <item value="Unable to make protected final java.lang.Class java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain) throws java.lang.ClassFormatError accessible: module java.base does not &quot;opens java.lang&quot; to unnamed module @3ac42916" />
       <item value="km Review Archives" />
@@ -32,35 +53,14 @@
       <item value="ticket" />
       <item value="机票" />
       <item value="Failed to connect to github.com port 443 after 21099 ms: Timed out" />
-      <item value="departure Date" />
       <item value="arrival City Code" />
       <item value="departure City Code" />
       <item value="has Add Feedback Person Auth" />
-      <item value="creator" />
-      <item value="owner" />
-      <item value="add Feedback Person Repeat" />
-      <item value="重复" />
-      <item value="existsd" />
-      <item value="exists" />
-      <item value="subtract" />
-      <item value="减法" />
-      <item value="jian fa" />
-      <item value="乘法" />
-      <item value="惩罚" />
-      <item value="计算" />
-      <item value="柳叶刀" />
-      <item value="data&#10;" />
-      <item value="fd Certificate" />
-      <item value="fd Signature Algorithm" />
-      <item value="pass" />
-      <item value="fd signature algorithm" />
-      <item value="fd Certificate Citation" />
-      <item value="fd certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="253" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
