@@ -6,12 +6,15 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="departure City Id" />
+      <item value="is Multiple Passenger Type" />
+      <item value="segment No" />
+      <item value="departure Province Id" />
+      <item value="depart Province Id" />
       <item value="flight Way Enum" />
       <item value="arrival City Id" />
-      <item value="departure Province Id" />
       <item value="arrival City Time Zone" />
       <item value="departure Country Id" />
-      <item value="departure City Id" />
       <item value="arrival Country Id" />
       <item value="departure City Time Zone" />
       <item value="arrival Province Id" />
@@ -53,14 +56,11 @@
       <item value="ticket" />
       <item value="机票" />
       <item value="Failed to connect to github.com port 443 after 21099 ms: Timed out" />
-      <item value="arrival City Code" />
-      <item value="departure City Code" />
-      <item value="has Add Feedback Person Auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="258" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
