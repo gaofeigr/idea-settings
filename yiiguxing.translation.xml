@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="flight Itinerary List" />
+      <item value="flight Segments" />
+      <item value="itinerary Id" />
       <item value="is Multiple Passenger Type" />
       <item value="segment No" />
       <item value="departure City Id" />
@@ -20,7 +23,6 @@
       <item value="arrival Province Id" />
       <item value="flight Way" />
       <item value="time Zone" />
-      <item value="flight Segments" />
       <item value="departure Date" />
       <item value="D SINGLE 2_ROUND" />
       <item value="FLIGHT" />
@@ -28,7 +30,6 @@
       <item value="recommend Product" />
       <item value="best Choice Flights Force Top" />
       <item value="gift Ids" />
-      <item value="flight Itinerary List" />
       <item value="context" />
       <item value="finished" />
       <item value="depart Country Name" />
@@ -55,12 +56,11 @@
       <item value="airline ticket" />
       <item value="ticket" />
       <item value="机票" />
-      <item value="Failed to connect to github.com port 443 after 21099 ms: Timed out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="264" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
