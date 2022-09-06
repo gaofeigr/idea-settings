@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="depart Country Name" />
+      <item value="cabin Enum" />
+      <item value="cabin" />
+      <item value="arrival Country Name" />
+      <item value="unfold Price List Switch" />
+      <item value="use All Recommend Switch" />
+      <item value="flight Way Enum" />
       <item value="nano Time" />
       <item value="Unable to make protected final java.lang.Class java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain) throws java.lang.ClassFormatError accessible: module java.base does not &quot;opens java.lang&quot; to unnamed module @3ac42916" />
       <item value="km Review Archives" />
@@ -49,18 +56,11 @@
       <item value="fd signature algorithm" />
       <item value="fd Certificate Citation" />
       <item value="fd certificate" />
-      <item value="signature Algorithm" />
-      <item value="certificate Citation" />
-      <item value="certificate Of Citation" />
-      <item value="upgrade" />
-      <item value="缓存" />
-      <item value="忽略" />
-      <item value="hu'lu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="219" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
