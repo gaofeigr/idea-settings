@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="202" />
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogHeight" value="180" />
+    <option name="newTranslationDialogWidth" value="480" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="crawler" />
+      <item value="爬虫" />
+      <item value="airline ticket" />
+      <item value="ticket" />
+      <item value="机票" />
       <item value="Failed to connect to github.com port 443 after 21099 ms: Timed out" />
       <item value="departure Date" />
       <item value="arrival City Code" />
@@ -51,16 +56,11 @@
       <item value="魔窟啊" />
       <item value="unique" />
       <item value="bind Click Event" />
-      <item value="tracking" />
-      <item value="Track" />
-      <item value="历史记录" />
-      <item value="li'shi'ji'l" />
-      <item value="self" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="203" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
