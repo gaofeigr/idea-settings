@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="nano Time" />
       <item value="Unable to make protected final java.lang.Class java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain) throws java.lang.ClassFormatError accessible: module java.base does not &quot;opens java.lang&quot; to unnamed module @3ac42916" />
       <item value="km Review Archives" />
       <item value="auto Create Expense" />
@@ -55,12 +56,11 @@
       <item value="缓存" />
       <item value="忽略" />
       <item value="hu'lu" />
-      <item value="hu'l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="212" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
