@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="EKP Authentication Reload Event" />
       <item value="self Purchase" />
       <item value="to Purchase" />
       <item value="fd Is Transfer" />
@@ -55,12 +56,11 @@
       <item value="certificate Citation" />
       <item value="certificate Of Citation" />
       <item value="upgrade" />
-      <item value="缓存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="215" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
