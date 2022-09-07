@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="self Purchase" />
+      <item value="to Purchase" />
       <item value="fd Is Transfer" />
       <item value="read Lazy Field" />
       <item value="km Review Archives" />
@@ -54,13 +56,11 @@
       <item value="certificate Of Citation" />
       <item value="upgrade" />
       <item value="缓存" />
-      <item value="忽略" />
-      <item value="hu'lu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="214" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
