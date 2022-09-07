@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Expense" />
+      <item value="Level" />
+      <item value="Level Level Level Level" />
+      <item value="stair" />
       <item value="采购小计" />
       <item value="EKP Authentication Reload Event" />
       <item value="self Purchase" />
@@ -17,7 +21,6 @@
       <item value="报销" />
       <item value="fssc Expense" />
       <item value="fsc Expense" />
-      <item value="Expense" />
       <item value="km Review Archives Auto File Listener" />
       <item value="lbpm Process Finish Event" />
       <item value="Archetype org.apache.marmotta:marmotta-archetype-webapp:3.4.0 is not configured" />
@@ -53,14 +56,11 @@
       <item value="fd signature algorithm" />
       <item value="fd Certificate Citation" />
       <item value="fd certificate" />
-      <item value="signature Algorithm" />
-      <item value="certificate Citation" />
-      <item value="certificate Of Citation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="220" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
