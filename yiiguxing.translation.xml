@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="apply For Reimbursement" />
       <item value="Expense" />
       <item value="Level" />
       <item value="Level Level Level Level" />
@@ -55,12 +56,11 @@
       <item value="pass" />
       <item value="fd signature algorithm" />
       <item value="fd Certificate Citation" />
-      <item value="fd certificate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="221" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
