@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="apply For Payment" />
+      <item value="apply For Reimbursement" />
       <item value="fd Expense Item" />
       <item value="fd Cost Center" />
       <item value="purchase Person Id" />
@@ -19,7 +21,6 @@
       <item value="plain" />
       <item value="linkplain" />
       <item value="literal" />
-      <item value="apply For Reimbursement" />
       <item value="Expense" />
       <item value="Level" />
       <item value="Level Level Level Level" />
@@ -55,12 +56,11 @@
       <item value="add Feedback Person Repeat" />
       <item value="重复" />
       <item value="existsd" />
-      <item value="exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="241" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
