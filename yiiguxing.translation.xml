@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Interactive Authentication Success Event" />
       <item value="purchase Person Id" />
       <item value="self Purchase" />
       <item value="purchase" />
@@ -55,12 +56,11 @@
       <item value="爬虫" />
       <item value="airline ticket" />
       <item value="ticket" />
-      <item value="机票" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="255" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
