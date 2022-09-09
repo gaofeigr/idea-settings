@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="purchase Person Id" />
+      <item value="self Purchase" />
+      <item value="purchase" />
       <item value="arrival Date Time" />
       <item value="departure Date Time" />
       <item value="airline Name" />
@@ -19,7 +22,6 @@
       <item value="apply For Reimbursement" />
       <item value="fd Expense Item" />
       <item value="fd Cost Center" />
-      <item value="purchase Person Id" />
       <item value="inverse" />
       <item value="can Display" />
       <item value="can Relation" />
@@ -36,7 +38,6 @@
       <item value="stair" />
       <item value="采购小计" />
       <item value="EKP Authentication Reload Event" />
-      <item value="self Purchase" />
       <item value="to Purchase" />
       <item value="fd Is Transfer" />
       <item value="read Lazy Field" />
@@ -55,12 +56,11 @@
       <item value="airline ticket" />
       <item value="ticket" />
       <item value="机票" />
-      <item value="Failed to connect to github.com port 443 after 21099 ms: Timed out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="254" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
