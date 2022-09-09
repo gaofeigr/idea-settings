@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="need Skip" />
+      <item value="跳过" />
+      <item value="tiao" />
+      <item value="kip" />
+      <item value="nees Skip" />
       <item value="Interactive Authentication Success Event" />
       <item value="purchase Person Id" />
       <item value="self Purchase" />
@@ -51,16 +56,12 @@
       <item value="lbpm Process Finish Event" />
       <item value="Archetype org.apache.marmotta:marmotta-archetype-webapp:3.4.0 is not configured" />
       <item value="Property appName is missing." />
-      <item value="Generating project in Batch mode" />
-      <item value="crawler" />
-      <item value="爬虫" />
-      <item value="airline ticket" />
-      <item value="ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="257" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
@@ -68,6 +69,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
         <entry key="VIETNAMESE" value="2" />
