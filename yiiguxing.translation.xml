@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Returns a BigDecimal whose value is (this + augend), and whose scale is max(this.scale(), augend.scale()). Params: augend – value to be added to this BigDecimal. Returns: this + augend" />
+      <item value="total Money" />
       <item value="white" />
       <item value="filter Non White List" />
       <item value="非" />
@@ -54,13 +56,11 @@
       <item value="EKP Authentication Reload Event" />
       <item value="to Purchase" />
       <item value="fd Is Transfer" />
-      <item value="read Lazy Field" />
-      <item value="km Review Archives" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="270" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
