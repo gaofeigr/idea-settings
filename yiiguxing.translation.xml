@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="white List Person Name" />
       <item value="need Skip" />
       <item value="跳过" />
       <item value="tiao" />
@@ -55,12 +56,11 @@
       <item value="km Review Archives Auto File Listener" />
       <item value="lbpm Process Finish Event" />
       <item value="Archetype org.apache.marmotta:marmotta-archetype-webapp:3.4.0 is not configured" />
-      <item value="Property appName is missing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="261" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662346995714" />
+    <option name="lastTrimTime" value="1663122745251" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />

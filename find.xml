@@ -8,9 +8,9 @@
     <mask>design.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
