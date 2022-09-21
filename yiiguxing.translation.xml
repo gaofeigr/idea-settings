@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="170" />
-    <option name="newTranslationDialogWidth" value="476" />
+    <option name="newTranslationDialogWidth" value="474" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="匿名" />
       <item value="fd Required" />
       <item value="fd Requiret" />
       <item value="fd Social Security Account" />
@@ -55,7 +56,6 @@
       <item value="can Display" />
       <item value="can Relation" />
       <item value="initialize" />
-      <item value="Work Flow Parameter Initializer" />
     </histories>
     <option name="languageScores">
       <map>
