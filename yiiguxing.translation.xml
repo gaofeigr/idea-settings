@@ -2,10 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="170" />
-    <option name="newTranslationDialogWidth" value="476" />
+    <option name="newTranslationDialogWidth" value="474" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="上下午&#10;" />
+      <item value="shang" />
+      <item value="匿名" />
+      <item value="fd Required" />
+      <item value="fd Requiret" />
+      <item value="fd Social Security Account" />
+      <item value="fd Fund Account" />
+      <item value="apply edit table list" />
       <item value="delete Hard" />
       <item value="set Source Hander Person Info" />
       <item value="set Source Hander Info" />
@@ -48,19 +56,11 @@
       <item value="fd Cost Center" />
       <item value="inverse" />
       <item value="can Display" />
-      <item value="can Relation" />
-      <item value="initialize" />
-      <item value="Work Flow Parameter Initializer" />
-      <item value="future Node Id" />
-      <item value="inherit Doc" />
-      <item value="plain" />
-      <item value="linkplain" />
-      <item value="literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="286" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663122745251" />
+    <option name="lastTrimTime" value="1664175467091" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
