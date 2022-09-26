@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="上下午&#10;" />
+      <item value="shang" />
       <item value="匿名" />
       <item value="fd Required" />
       <item value="fd Requiret" />
@@ -54,8 +56,6 @@
       <item value="fd Cost Center" />
       <item value="inverse" />
       <item value="can Display" />
-      <item value="can Relation" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663569852277" />
+    <option name="lastTrimTime" value="1664175467091" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
