@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="X Form Calculation Funs man Days Distance" />
+      <item value="control Calculation func man Days Distance text" />
+      <item value="control Calculation func man Hours Hour Distance text" />
       <item value="上下午&#10;" />
       <item value="shang" />
       <item value="匿名" />
@@ -53,14 +56,11 @@
       <item value="apply For Payment" />
       <item value="apply For Reimbursement" />
       <item value="fd Expense Item" />
-      <item value="fd Cost Center" />
-      <item value="inverse" />
-      <item value="can Display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="291" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
