@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="170" />
-    <option name="newTranslationDialogWidth" value="472" />
-    <option name="newTranslationDialogX" value="497" />
-    <option name="newTranslationDialogY" value="331" />
+    <option name="newTranslationDialogHeight" value="374" />
+    <option name="newTranslationDialogWidth" value="651" />
+    <option name="newTranslationDialogX" value="490" />
+    <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="We believe that everyone has the right to online privacy, therefore we provide free VPN access to those who can't afford a paid plan.&#10;&#10;The Proton VPN free plan does not have a duration limit (you can use it as long as you want), and we do not sell your data unlike some other free VPN services.&#10;&#10;Proton VPN has Free servers in 3 countries, available for Free users.&#10;&#10;The Free VPN servers offer medium speed, and do not support any of the advanced features:" />
+      <item value="We believe privacy and security are fundamental human rights, so we also provide a free version of Proton VPN to the public. Unlike other free VPNs, there are no catches. We don't serve ads or secretly sell your browsing history. Proton VPN Free is subsidized by Proton VPN paid users. If you would like to support online privacy, please consider upgrading to a paid plan for faster speeds and more features." />
+      <item value="protected" />
+      <item value="protet" />
       <item value="aside" />
       <item value="encrypt" />
       <item value="sub List" />
@@ -52,10 +56,6 @@
       <item value="white" />
       <item value="filter Non White List" />
       <item value="非" />
-      <item value="force" />
-      <item value="send Meeting Notify To Attend Person Inner" />
-      <item value="mobile" />
-      <item value="filter Writer List" />
     </histories>
     <option name="languageScores">
       <map>
