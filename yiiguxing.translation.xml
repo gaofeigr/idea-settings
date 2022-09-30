@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="Paste" />
+      <item value="Whole Story" />
       <item value="Hello,&#10;&#10;We wanted to thank you for recently reviewing our product, JRebel. In an effort to improve ourselves, we&#10;wanted to reach out and ask what issues you had and see if there is anything we can do to help make your&#10;experience better.&#10;&#10;We are looking forward to your response, please let us know if you have any questions or concerns.&#10;&#10;Jan Kabayev, | Technical Support Engineer&#10;&#10;Perforce Software&#10;Visit us on: Twitter | LinkedIn | Facebook    &#10;" />
       <item value="We believe that everyone has the right to online privacy, therefore we provide free VPN access to those who can't afford a paid plan.&#10;&#10;The Proton VPN free plan does not have a duration limit (you can use it as long as you want), and we do not sell your data unlike some other free VPN services.&#10;&#10;Proton VPN has Free servers in 3 countries, available for Free users.&#10;&#10;The Free VPN servers offer medium speed, and do not support any of the advanced features:" />
       <item value="We believe privacy and security are fundamental human rights, so we also provide a free version of Proton VPN to the public. Unlike other free VPNs, there are no catches. We don't serve ads or secretly sell your browsing history. Proton VPN Free is subsidized by Proton VPN paid users. If you would like to support online privacy, please consider upgrading to a paid plan for faster speeds and more features." />
@@ -54,13 +56,11 @@
       <item value="orient" />
       <item value="Returns a BigDecimal whose value is (this + augend), and whose scale is max(this.scale(), augend.scale()). Params: augend – value to be added to this BigDecimal. Returns: this + augend" />
       <item value="total Money" />
-      <item value="white" />
-      <item value="filter Non White List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="318" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
