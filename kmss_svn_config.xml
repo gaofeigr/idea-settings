@@ -1,0 +1,10 @@
+<application>
+  <component name="svnConfig">
+    <option name="username" value="gaofei_sz" />
+    <option name="password" value="cwm1sIupEqDEFdo9" />
+    <option name="license" value="LandrayV16" />
+    <option name="description" value="Lancet_Book" />
+    <option name="signFileOutputDir" value="E:\ALL\g_工作\d_打包" />
+    <option name="needSign" value="true" />
+  </component>
+</application>
