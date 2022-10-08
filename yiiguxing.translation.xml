@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="306" />
-    <option name="newTranslationDialogWidth" value="631" />
+    <option name="newTranslationDialogWidth" value="629" />
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="Encrypt" />
+      <item value="des Encrypt" />
+      <item value="initiator" />
       <item value="patch" />
       <item value="startup" />
       <item value="start" />
@@ -53,18 +56,15 @@
       <item value="apply edit table list" />
       <item value="delete Hard" />
       <item value="set Source Hander Person Info" />
-      <item value="set Source Hander Info" />
-      <item value="set Source Hander Personq Info" />
-      <item value="capture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="323" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="CZECH" value="1" />
