@@ -6,6 +6,14 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="obtain Password" />
+      <item value="additional Authentication Checks" />
+      <item value="retrieve User" />
+      <item value="authenticate" />
+      <item value="authentication Manager" />
+      <item value="authentication Failure Url" />
+      <item value="session Authentication Strategy" />
+      <item value="authentication Success Handler" />
       <item value="Encrypt" />
       <item value="des Encrypt" />
       <item value="initiator" />
@@ -48,19 +56,11 @@
       <item value="control Calculation func man Hours Hour Distance text" />
       <item value="上下午&#10;" />
       <item value="shang" />
-      <item value="匿名" />
-      <item value="fd Required" />
-      <item value="fd Requiret" />
-      <item value="fd Social Security Account" />
-      <item value="fd Fund Account" />
-      <item value="apply edit table list" />
-      <item value="delete Hard" />
-      <item value="set Source Hander Person Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="331" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
