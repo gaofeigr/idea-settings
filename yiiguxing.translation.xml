@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="collapsed" />
       <item value="disconnect" />
       <item value="Whole Story" />
       <item value="Paste" />
@@ -55,12 +56,11 @@
       <item value="camera" />
       <item value="stop Propagation" />
       <item value="orient" />
-      <item value="Returns a BigDecimal whose value is (this + augend), and whose scale is max(this.scale(), augend.scale()). Params: augend – value to be added to this BigDecimal. Returns: this + augend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="321" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664647043519" />
+    <option name="lastTrimTime" value="1665211799192" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
