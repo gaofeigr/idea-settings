@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="374" />
-    <option name="newTranslationDialogWidth" value="651" />
+    <option name="newTranslationDialogHeight" value="306" />
+    <option name="newTranslationDialogWidth" value="631" />
     <option name="newTranslationDialogX" value="490" />
-    <option name="newTranslationDialogY" value="273" />
+    <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="patch" />
+      <item value="startup" />
+      <item value="start" />
       <item value="Whole Story" />
       <item value="collapsed" />
       <item value="disconnect" />
@@ -53,9 +56,6 @@
       <item value="set Source Hander Info" />
       <item value="set Source Hander Personq Info" />
       <item value="capture" />
-      <item value="camera" />
-      <item value="stop Propagation" />
-      <item value="orient" />
     </histories>
     <option name="languageScores">
       <map>
