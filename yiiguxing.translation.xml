@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="In some cases VPN extensions are not enough to bypass the firewall in your network. Extensions have only limited permissions on your computer and have limited capabilities.&#10;&#10;" />
       <item value="no ContextLoaderListener registered" />
       <item value="Execute Mso" />
       <item value="obtain Password" />
@@ -55,7 +56,6 @@
       <item value="Adds or subtracts the specified amount of time to the given calendar field, based on the calendar's rules. For example, to subtract 5 days from the current time of the calendar, you can achieve it by calling:" />
       <item value="X Form Calculation Funs man Days Distance" />
       <item value="control Calculation func man Days Distance text" />
-      <item value="control Calculation func man Hours Hour Distance text" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665211799192" />
+    <option name="lastTrimTime" value="1665712681422" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
