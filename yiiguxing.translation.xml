@@ -6,8 +6,8 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
-      <item value="Agent Id" />
       <item value="In some cases VPN extensions are not enough to bypass the firewall in your network. Extensions have only limited permissions on your computer and have limited capabilities.&#10;&#10;" />
+      <item value="Agent Id" />
       <item value="no ContextLoaderListener registered" />
       <item value="Execute Mso" />
       <item value="obtain Password" />
