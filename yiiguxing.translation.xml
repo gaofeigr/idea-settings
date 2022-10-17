@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="306" />
-    <option name="newTranslationDialogWidth" value="629" />
+    <option name="newTranslationDialogWidth" value="627" />
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="马云在哪" />
+      <item value="马云zai'na" />
       <item value="In some cases VPN extensions are not enough to bypass the firewall in your network. Extensions have only limited permissions on your computer and have limited capabilities.&#10;&#10;" />
       <item value="Agent Id" />
       <item value="no ContextLoaderListener registered" />
@@ -54,8 +56,6 @@
       <item value="Returns the week year represented by this Calendar. The week year is in sync with the week cycle. The first day of the first week is the first day of the week year." />
       <item value="holiday" />
       <item value="Field number for get and set indicating the day of the month. This is a synonym for DATE. The first day of the month has value 1." />
-      <item value="Adds or subtracts the specified amount of time to the given calendar field, based on the calendar's rules. For example, to subtract 5 days from the current time of the calendar, you can achieve it by calling:" />
-      <item value="X Form Calculation Funs man Days Distance" />
     </histories>
     <option name="languageScores">
       <map>
