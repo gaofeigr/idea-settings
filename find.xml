@@ -7,10 +7,10 @@
     <mask>design.xml</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.html</mask>
   </component>
 </application>
