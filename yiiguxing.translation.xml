@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="490" />
     <option name="newTranslationDialogY" value="244" />
     <histories>
+      <item value="reason" />
       <item value="consumer Items" />
       <item value="with The Contents" />
       <item value="car" />
@@ -55,12 +56,11 @@
       <item value="Sets what the first day of the week is; e.g., SUNDAY in the U.S., MONDAY in France." />
       <item value="weekend" />
       <item value="day Off" />
-      <item value="get Fd Patch Day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="340" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
