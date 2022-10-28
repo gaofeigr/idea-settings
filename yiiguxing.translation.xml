@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="RMI TCP Connection(3)-127.0.0.1: com.landray.kmss.sys.config.loader.KmssLookupXmlWebApplicationContext.refresh(490) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainTarget' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'hrRatifyMainDao' while setting bean property 'baseDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainDao' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'sysMetadataDao' while setting bean property 'sysMetadataDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataDao' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysMetadataParser' while setting bean property 'sysMetadataParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataParser' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysDictLoader' while setting bean property 'sysDictLoader'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormDictLoadService' defined in ServletContext resource [WEB-INFKmssConfigsysxformspring.xml]: Cannot resolve reference to bean 'sysFormTemplateHistoryDao' while setting bean property 'templateHistoryDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormTemplateHistoryDao' defined in ServletContext resource [WEB-INFKmssConfigsysxformbasespring.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are: PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'sessionFactory' threw exception; nested exception is java.lang.IllegalArgumentException: Property 'sessionFactory' is required" />
+      <item value="Invocation of destroy method failed on bean with name 'sessionFactory': java.lang.NullPointerException" />
       <item value="loan" />
       <item value="fssc Expense Offset Detail edit include" />
       <item value="fssc Expense Invoice Detail edit include" />
@@ -54,13 +56,11 @@
       <item value="protected" />
       <item value="protet" />
       <item value="aside" />
-      <item value="encrypt" />
-      <item value="sub List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="347" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
