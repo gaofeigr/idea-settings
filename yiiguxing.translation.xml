@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="loan" />
+      <item value="fssc Expense Offset Detail edit include" />
+      <item value="fssc Expense Invoice Detail edit include" />
       <item value="forever" />
       <item value="forrever" />
       <item value="fo'r" />
@@ -53,14 +56,11 @@
       <item value="aside" />
       <item value="encrypt" />
       <item value="sub List" />
-      <item value="parent List" />
-      <item value="sub Lists" />
-      <item value="subtraction List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="345" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
