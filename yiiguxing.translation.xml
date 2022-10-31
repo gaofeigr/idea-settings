@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="fd Is Remark" />
       <item value="fssc Payment Offset Loan" />
       <item value="doc Subject" />
       <item value="RMI TCP Connection(3)-127.0.0.1: com.landray.kmss.sys.config.loader.KmssLookupXmlWebApplicationContext.refresh(490) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainTarget' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'hrRatifyMainDao' while setting bean property 'baseDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainDao' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'sysMetadataDao' while setting bean property 'sysMetadataDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataDao' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysMetadataParser' while setting bean property 'sysMetadataParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataParser' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysDictLoader' while setting bean property 'sysDictLoader'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormDictLoadService' defined in ServletContext resource [WEB-INFKmssConfigsysxformspring.xml]: Cannot resolve reference to bean 'sysFormTemplateHistoryDao' while setting bean property 'templateHistoryDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormTemplateHistoryDao' defined in ServletContext resource [WEB-INFKmssConfigsysxformbasespring.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are: PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'sessionFactory' threw exception; nested exception is java.lang.IllegalArgumentException: Property 'sessionFactory' is required" />
@@ -55,12 +56,11 @@
       <item value="Hello,&#10;&#10;We wanted to thank you for recently reviewing our product, JRebel. In an effort to improve ourselves, we&#10;wanted to reach out and ask what issues you had and see if there is anything we can do to help make your&#10;experience better.&#10;&#10;We are looking forward to your response, please let us know if you have any questions or concerns.&#10;&#10;Jan Kabayev, | Technical Support Engineer&#10;&#10;Perforce Software&#10;Visit us on: Twitter | LinkedIn | Facebook    &#10;" />
       <item value="We believe that everyone has the right to online privacy, therefore we provide free VPN access to those who can't afford a paid plan.&#10;&#10;The Proton VPN free plan does not have a duration limit (you can use it as long as you want), and we do not sell your data unlike some other free VPN services.&#10;&#10;Proton VPN has Free servers in 3 countries, available for Free users.&#10;&#10;The Free VPN servers offer medium speed, and do not support any of the advanced features:" />
       <item value="We believe privacy and security are fundamental human rights, so we also provide a free version of Proton VPN to the public. Unlike other free VPNs, there are no catches. We don't serve ads or secretly sell your browsing history. Proton VPN Free is subsidized by Proton VPN paid users. If you would like to support online privacy, please consider upgrading to a paid plan for faster speeds and more features." />
-      <item value="protected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="359" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666603028191" />
+    <option name="lastTrimTime" value="1667198749228" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
