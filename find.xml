@@ -8,12 +8,12 @@
     <mask>*.css</mask>
     <mask>design.xml</mask>
     <mask>*.json</mask>
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.hbm.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
