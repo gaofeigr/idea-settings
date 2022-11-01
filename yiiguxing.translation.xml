@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="306" />
-    <option name="newTranslationDialogWidth" value="621" />
+    <option name="newTranslationDialogHeight" value="291" />
+    <option name="newTranslationDialogWidth" value="617" />
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="fd Asset Duty Person" />
+      <item value="Duty" />
+      <item value="责任" />
+      <item value="asset apply" />
+      <item value="ass" />
       <item value="After Doing Wf Node" />
       <item value="IDLE" />
       <item value="fd Is Remark" />
@@ -51,16 +56,11 @@
       <item value="patch" />
       <item value="startup" />
       <item value="start" />
-      <item value="Whole Story" />
-      <item value="collapsed" />
-      <item value="disconnect" />
-      <item value="Paste" />
-      <item value="Hello,&#10;&#10;We wanted to thank you for recently reviewing our product, JRebel. In an effort to improve ourselves, we&#10;wanted to reach out and ask what issues you had and see if there is anything we can do to help make your&#10;experience better.&#10;&#10;We are looking forward to your response, please let us know if you have any questions or concerns.&#10;&#10;Jan Kabayev, | Technical Support Engineer&#10;&#10;Perforce Software&#10;Visit us on: Twitter | LinkedIn | Facebook    &#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="363" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
