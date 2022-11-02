@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="end Noon" />
+      <item value="start Noon" />
       <item value="fd Asset Address" />
       <item value="fd Assign User" />
       <item value="assign User" />
@@ -54,13 +56,11 @@
       <item value="authentication Failure Url" />
       <item value="session Authentication Strategy" />
       <item value="authentication Success Handler" />
-      <item value="Encrypt" />
-      <item value="des Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="369" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
