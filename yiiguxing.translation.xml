@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="291" />
-    <option name="newTranslationDialogWidth" value="617" />
-    <option name="newTranslationDialogX" value="156" />
-    <option name="newTranslationDialogY" value="263" />
+    <option name="newTranslationDialogWidth" value="615" />
+    <option name="newTranslationDialogX" value="420" />
+    <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="Uncaught The editor instance &quot;docContent&quot; is already attached to the provided element." />
       <item value="fd Past Due" />
       <item value="Signing Date" />
       <item value="Signing The" />
@@ -55,7 +56,6 @@
       <item value="start Noon" />
       <item value="fd Asset Address" />
       <item value="fd Assign User" />
-      <item value="assign User" />
     </histories>
     <option name="languageScores">
       <map>
