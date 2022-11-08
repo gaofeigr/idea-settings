@@ -6,6 +6,40 @@
     <option name="newTranslationDialogX" value="156" />
     <option name="newTranslationDialogY" value="263" />
     <histories>
+      <item value="Signing Date" />
+      <item value="Signing The" />
+      <item value="fd With Whom To Sign Contract" />
+      <item value="fd With Whomto Sign Contract" />
+      <item value="With Whomto Sign The Contract" />
+      <item value="With Whom To Sign The Contract" />
+      <item value="Whom To Sign The Contract" />
+      <item value="Sign The Contract" />
+      <item value="with Whom To Sign The Contract" />
+      <item value="Term" />
+      <item value="fd Contract Term" />
+      <item value="Contract Term" />
+      <item value="term Contract" />
+      <item value="term Of Contract" />
+      <item value="fd Contract Amount" />
+      <item value="fd Budget" />
+      <item value="fd The Winning Unit" />
+      <item value="fd Winning Unit" />
+      <item value="Winning Unit" />
+      <item value="fd Agency Name" />
+      <item value="fd Bidding Method" />
+      <item value="Tendering" />
+      <item value="fd Tendering Bidding Unit" />
+      <item value="fd Tendering And Bidding Unit" />
+      <item value="fd Contract Name" />
+      <item value="fd Emergency Degree" />
+      <item value="fd Contract Contents" />
+      <item value="fd Method Bidding" />
+      <item value="fd Name Agency" />
+      <item value="fd Name Of Agency" />
+      <item value="fd Method Of Bidding" />
+      <item value="emergency Degree" />
+      <item value="ponderance" />
+      <item value="Ponderance" />
       <item value="szjyj Task Evaluate" />
       <item value="fd Appoint" />
       <item value="fd Is Foreign" />
@@ -22,47 +56,13 @@
       <item value="fd Assign User" />
       <item value="assign User" />
       <item value="km Assign Personnel Ids" />
-      <item value="fd Asset Duty Person" />
-      <item value="Duty" />
-      <item value="责任" />
-      <item value="asset apply" />
-      <item value="ass" />
-      <item value="After Doing Wf Node" />
-      <item value="IDLE" />
-      <item value="fd Is Remark" />
-      <item value="fssc Payment Offset Loan" />
-      <item value="doc Subject" />
-      <item value="RMI TCP Connection(3)-127.0.0.1: com.landray.kmss.sys.config.loader.KmssLookupXmlWebApplicationContext.refresh(490) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainTarget' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'hrRatifyMainDao' while setting bean property 'baseDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hrRatifyMainDao' defined in ServletContext resource [WEB-INFKmssConfighrratifyspring.xml]: Cannot resolve reference to bean 'sysMetadataDao' while setting bean property 'sysMetadataDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataDao' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysMetadataParser' while setting bean property 'sysMetadataParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysMetadataParser' defined in ServletContext resource [WEB-INFKmssConfigsysmetadataspring.xml]: Cannot resolve reference to bean 'sysDictLoader' while setting bean property 'sysDictLoader'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormDictLoadService' defined in ServletContext resource [WEB-INFKmssConfigsysxformspring.xml]: Cannot resolve reference to bean 'sysFormTemplateHistoryDao' while setting bean property 'templateHistoryDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sysFormTemplateHistoryDao' defined in ServletContext resource [WEB-INFKmssConfigsysxformbasespring.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are: PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'sessionFactory' threw exception; nested exception is java.lang.IllegalArgumentException: Property 'sessionFactory' is required" />
-      <item value="Invocation of destroy method failed on bean with name 'sessionFactory': java.lang.NullPointerException" />
-      <item value="loan" />
-      <item value="fssc Expense Offset Detail edit include" />
-      <item value="fssc Expense Invoice Detail edit include" />
-      <item value="forever" />
-      <item value="forrever" />
-      <item value="fo'r" />
-      <item value="never" />
-      <item value="坦克人" />
-      <item value="tanke" />
-      <item value="Tank man" />
-      <item value="position" />
-      <item value="reason" />
-      <item value="consumer Items" />
-      <item value="with The Contents" />
-      <item value="car" />
-      <item value="card" />
-      <item value="exception occurred inside getter " />
-      <item value="management Of Meetings" />
-      <item value="马云在哪" />
-      <item value="马云zai'na" />
-      <item value="In some cases VPN extensions are not enough to bypass the firewall in your network. Extensions have only limited permissions on your computer and have limited capabilities.&#10;&#10;" />
-      <item value="Agent Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="434" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="4" />
@@ -72,6 +72,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
