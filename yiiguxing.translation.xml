@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="assess" />
+      <item value="examine" />
+      <item value="review" />
+      <item value="review Monthly" />
       <item value="fd Direction Bureau" />
       <item value="Uncaught The editor instance &quot;docContent&quot; is already attached to the provided element." />
       <item value="fd Past Due" />
@@ -52,15 +56,11 @@
       <item value="Fssc Cashier Payment" />
       <item value="fd Paid Money" />
       <item value="paid Payment" />
-      <item value="auth Simple Category Reader Validator" />
-      <item value="end Noon" />
-      <item value="start Noon" />
-      <item value="fd Asset Address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="441" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
