@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="209" />
     <histories>
+      <item value="inited" />
       <item value="整个" />
       <item value="half" />
       <item value="half of the day" />
@@ -55,12 +56,11 @@
       <item value="fd Tendering And Bidding Unit" />
       <item value="fd Contract Name" />
       <item value="fd Emergency Degree" />
-      <item value="fd Contract Contents" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="449" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
