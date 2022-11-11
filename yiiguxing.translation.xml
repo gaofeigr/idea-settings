@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="209" />
     <histories>
+      <item value="hours" />
       <item value="verify Data" />
       <item value="verify" />
       <item value="hour count" />
@@ -55,12 +56,11 @@
       <item value="fd Agency Name" />
       <item value="fd Bidding Method" />
       <item value="Tendering" />
-      <item value="fd Tendering Bidding Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="453" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
