@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="209" />
     <histories>
+      <item value="row Href" />
       <item value="Acegi Filter Chain Proxy" />
       <item value="hours" />
       <item value="verify Data" />
@@ -55,12 +56,11 @@
       <item value="fd Winning Unit" />
       <item value="Winning Unit" />
       <item value="fd Agency Name" />
-      <item value="fd Bidding Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="455" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
