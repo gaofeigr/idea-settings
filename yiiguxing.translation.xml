@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="209" />
     <histories>
+      <item value="is Communicate Audit Note" />
+      <item value="handler communicate" />
+      <item value="prototype" />
       <item value="row Href" />
       <item value="Acegi Filter Chain Proxy" />
       <item value="hours" />
@@ -53,14 +56,11 @@
       <item value="fd Contract Amount" />
       <item value="fd Budget" />
       <item value="fd The Winning Unit" />
-      <item value="fd Winning Unit" />
-      <item value="Winning Unit" />
-      <item value="fd Agency Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="457" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
@@ -73,7 +73,7 @@
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="2" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
