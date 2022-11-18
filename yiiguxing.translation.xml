@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="270" />
-    <option name="newTranslationDialogWidth" value="613" />
+    <option name="newTranslationDialogWidth" value="611" />
     <option name="newTranslationDialogX" value="420" />
     <option name="newTranslationDialogY" value="209" />
     <histories>
+      <item value="using a password on the command line interface can be insecure" />
+      <item value="you must reset your password using alter user statement before executing this statement" />
       <item value="is Communicate Audit Note" />
       <item value="handler communicate" />
       <item value="prototype" />
@@ -54,8 +56,6 @@
       <item value="term Contract" />
       <item value="term Of Contract" />
       <item value="fd Contract Amount" />
-      <item value="fd Budget" />
-      <item value="fd The Winning Unit" />
     </histories>
     <option name="languageScores">
       <map>
