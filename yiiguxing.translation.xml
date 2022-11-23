@@ -2,10 +2,23 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="239" />
-    <option name="newTranslationDialogWidth" value="587" />
+    <option name="newTranslationDialogWidth" value="579" />
     <option name="newTranslationDialogX" value="405" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="phone" />
+      <item value="informant" />
+      <item value="邮箱" />
+      <item value="email" />
+      <item value="Informant" />
+      <item value="举报人" />
+      <item value="举报" />
+      <item value="date" />
+      <item value="data" />
+      <item value="da'ta" />
+      <item value="receipt" />
+      <item value="收件" />
+      <item value="shou" />
       <item value="业务单元" />
       <item value="y'w'w" />
       <item value="战区" />
@@ -43,19 +56,6 @@
       <item value="verify" />
       <item value="hour count" />
       <item value="inited" />
-      <item value="整个" />
-      <item value="half" />
-      <item value="half of the day" />
-      <item value="半天" />
-      <item value="ban't" />
-      <item value="night" />
-      <item value="夜晚" />
-      <item value="ye" />
-      <item value="evening" />
-      <item value="傍晚" />
-      <item value="afternoon" />
-      <item value="aAfternoon" />
-      <item value="Afternoon" />
     </histories>
     <option name="languageScores">
       <map>
