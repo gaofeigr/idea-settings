@@ -1,14 +1,51 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="183" />
-    <option name="newTranslationDialogWidth" value="571" />
+    <option name="newTranslationDialogHeight" value="145" />
+    <option name="newTranslationDialogWidth" value="547" />
     <option name="newTranslationDialogX" value="405" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="Basis" />
+      <item value="依据" />
+      <item value="yi'ju" />
+      <item value="gist" />
+      <item value="一句" />
+      <item value="condition" />
+      <item value="情况" />
+      <item value="correc情况" />
+      <item value="correct情况" />
+      <item value="correct" />
+      <item value="correct the situation" />
+      <item value="整改情况" />
+      <item value="整改" />
+      <item value="Rectify" />
+      <item value="mend" />
+      <item value="zhengga" />
+      <item value="dispose" />
+      <item value="处理" />
+      <item value="punish" />
+      <item value="处罚" />
+      <item value="chu'fa" />
+      <item value="blacklist" />
+      <item value="拉黑" />
+      <item value="block" />
+      <item value="la'b" />
+      <item value="punishment" />
+      <item value="处罚方式" />
+      <item value="chu'fa方式" />
+      <item value="触发方式" />
       <item value="analyse" />
+      <item value="infringe" />
+      <item value="违法" />
+      <item value="Illegal" />
+      <item value="责任" />
       <item value="分析" />
       <item value="案件分析" />
+      <item value="rank" />
+      <item value="职级" />
+      <item value="zhi'ji" />
+      <item value="zhiji" />
       <item value="CIRCULATE" />
       <item value="circulate" />
       <item value="circulated" />
@@ -19,48 +56,11 @@
       <item value="fd_persons_involved" />
       <item value="fd_persons involved" />
       <item value="fd_ersons involved" />
-      <item value="fd_Persons involved" />
-      <item value="Persons involved" />
-      <item value="涉及人员" />
-      <item value="涉及" />
-      <item value="设计ren" />
-      <item value="rank" />
-      <item value="职级" />
-      <item value="zhi'ji" />
-      <item value="举报" />
-      <item value="report" />
-      <item value="举报对象" />
-      <item value="受理" />
-      <item value="sponsor" />
-      <item value="主办" />
-      <item value="Host" />
-      <item value="phone" />
-      <item value="informant" />
-      <item value="邮箱" />
-      <item value="email" />
-      <item value="Informant" />
-      <item value="举报人" />
-      <item value="date" />
-      <item value="data" />
-      <item value="da'ta" />
-      <item value="receipt" />
-      <item value="收件" />
-      <item value="shou" />
-      <item value="业务单元" />
-      <item value="y'w'w" />
-      <item value="战区" />
-      <item value="war zone" />
-      <item value="区域" />
-      <item value="accept" />
-      <item value="is real name" />
-      <item value="is" />
-      <item value="实名" />
-      <item value="shi'ming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="480" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
