@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="145" />
-    <option name="newTranslationDialogWidth" value="543" />
+    <option name="newTranslationDialogHeight" value="135" />
+    <option name="newTranslationDialogWidth" value="539" />
     <option name="newTranslationDialogX" value="405" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="sketch" />
+      <item value="简述" />
+      <item value="background" />
+      <item value="背景" />
+      <item value="backdrop" />
+      <item value="bei'jing" />
+      <item value="survey" />
+      <item value="调查" />
       <item value="Close" />
       <item value="结案" />
       <item value="involved" />
@@ -48,19 +56,11 @@
       <item value="punishment" />
       <item value="处罚方式" />
       <item value="chu'fa方式" />
-      <item value="触发方式" />
-      <item value="analyse" />
-      <item value="infringe" />
-      <item value="违法" />
-      <item value="Illegal" />
-      <item value="责任" />
-      <item value="分析" />
-      <item value="案件分析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="485" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
