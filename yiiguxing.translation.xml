@@ -1,11 +1,29 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="138" />
-    <option name="newTranslationDialogWidth" value="527" />
+    <option name="newTranslationDialogHeight" value="135" />
+    <option name="newTranslationDialogWidth" value="523" />
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="describe" />
+      <item value="描述" />
+      <item value="blacklist" />
+      <item value="黑名单" />
+      <item value="supplier" />
+      <item value="供应商" />
+      <item value="evidence" />
+      <item value="证据" />
+      <item value="Request" />
+      <item value="要求" />
+      <item value="claim" />
+      <item value="奥球" />
+      <item value="Rectify" />
+      <item value="整改" />
+      <item value="是否" />
+      <item value="warning" />
+      <item value="告诫" />
+      <item value="gao'i'j" />
       <item value="事实" />
       <item value="shi'shi" />
       <item value="relation" />
@@ -25,8 +43,6 @@
       <item value="remark" />
       <item value="备注" />
       <item value="罚款" />
-      <item value="supplier" />
-      <item value="供应商" />
       <item value="总" />
       <item value="fine" />
       <item value="staff" />
@@ -40,27 +56,11 @@
       <item value="违规" />
       <item value="zong" />
       <item value="定性" />
-      <item value="qualitative" />
-      <item value="an" />
-      <item value="证据" />
-      <item value="finding" />
-      <item value="调查发现" />
-      <item value="发现" />
-      <item value="工作经历" />
-      <item value="职务" />
-      <item value="zhi'wu" />
-      <item value="zhiwu" />
-      <item value="age" />
-      <item value="a'ge" />
-      <item value="sex" />
-      <item value="w" />
-      <item value="respondent" />
-      <item value="调查对象" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="516" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
