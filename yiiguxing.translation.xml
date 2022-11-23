@@ -1,18 +1,38 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="239" />
-    <option name="newTranslationDialogWidth" value="579" />
+    <option name="newTranslationDialogHeight" value="201" />
+    <option name="newTranslationDialogWidth" value="573" />
     <option name="newTranslationDialogX" value="405" />
-    <option name="newTranslationDialogY" value="309" />
+    <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="fd_persons_involved_path" />
+      <item value="fd_persons_involved_dept" />
+      <item value="fd_persons_involved_" />
+      <item value="fd_persons_involved" />
+      <item value="fd_persons involved" />
+      <item value="fd_ersons involved" />
+      <item value="fd_Persons involved" />
+      <item value="Persons involved" />
+      <item value="涉及人员" />
+      <item value="涉及" />
+      <item value="设计ren" />
+      <item value="rank" />
+      <item value="职级" />
+      <item value="zhi'ji" />
+      <item value="举报" />
+      <item value="report" />
+      <item value="举报对象" />
+      <item value="受理" />
+      <item value="sponsor" />
+      <item value="主办" />
+      <item value="Host" />
       <item value="phone" />
       <item value="informant" />
       <item value="邮箱" />
       <item value="email" />
       <item value="Informant" />
       <item value="举报人" />
-      <item value="举报" />
       <item value="date" />
       <item value="data" />
       <item value="da'ta" />
@@ -25,7 +45,6 @@
       <item value="war zone" />
       <item value="区域" />
       <item value="accept" />
-      <item value="受理" />
       <item value="is real name" />
       <item value="is" />
       <item value="实名" />
@@ -37,30 +56,11 @@
       <item value="线索" />
       <item value="廉正监察" />
       <item value="Surveillance of integrity" />
-      <item value="监察廉正监察" />
-      <item value="监察lian'zheng" />
-      <item value="监察" />
-      <item value="Surveillance" />
-      <item value="integrity" />
-      <item value="廉正" />
-      <item value="廉正jian'cha" />
-      <item value="using a password on the command line interface can be insecure" />
-      <item value="you must reset your password using alter user statement before executing this statement" />
-      <item value="is Communicate Audit Note" />
-      <item value="handler communicate" />
-      <item value="prototype" />
-      <item value="row Href" />
-      <item value="Acegi Filter Chain Proxy" />
-      <item value="hours" />
-      <item value="verify Data" />
-      <item value="verify" />
-      <item value="hour count" />
-      <item value="inited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="464" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
