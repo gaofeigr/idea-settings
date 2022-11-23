@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="196" />
-    <option name="newTranslationDialogWidth" value="573" />
+    <option name="newTranslationDialogHeight" value="183" />
+    <option name="newTranslationDialogWidth" value="571" />
     <option name="newTranslationDialogX" value="405" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="analyse" />
+      <item value="分析" />
+      <item value="案件分析" />
       <item value="CIRCULATE" />
       <item value="circulate" />
       <item value="circulated" />
@@ -53,14 +56,11 @@
       <item value="is" />
       <item value="实名" />
       <item value="shi'ming" />
-      <item value="来源" />
-      <item value="laiyuan" />
-      <item value="clue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="465" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
