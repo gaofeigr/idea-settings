@@ -1,11 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="135" />
-    <option name="newTranslationDialogWidth" value="539" />
-    <option name="newTranslationDialogX" value="405" />
-    <option name="newTranslationDialogY" value="273" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="535" />
+    <option name="newTranslationDialogX" value="485" />
+    <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="发现" />
+      <item value="调查发现" />
+      <item value="工作经历" />
+      <item value="职务" />
+      <item value="zhi'wu" />
+      <item value="zhiwu" />
+      <item value="age" />
+      <item value="a'ge" />
+      <item value="sex" />
+      <item value="w" />
+      <item value="respondent" />
+      <item value="调查对象" />
       <item value="sketch" />
       <item value="简述" />
       <item value="background" />
@@ -44,23 +56,11 @@
       <item value="Rectify" />
       <item value="mend" />
       <item value="zhengga" />
-      <item value="dispose" />
-      <item value="处理" />
-      <item value="punish" />
-      <item value="处罚" />
-      <item value="chu'fa" />
-      <item value="blacklist" />
-      <item value="拉黑" />
-      <item value="block" />
-      <item value="la'b" />
-      <item value="punishment" />
-      <item value="处罚方式" />
-      <item value="chu'fa方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="486" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
