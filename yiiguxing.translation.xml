@@ -1,11 +1,36 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="270" />
-    <option name="newTranslationDialogWidth" value="611" />
-    <option name="newTranslationDialogX" value="420" />
-    <option name="newTranslationDialogY" value="209" />
+    <option name="newTranslationDialogHeight" value="239" />
+    <option name="newTranslationDialogWidth" value="587" />
+    <option name="newTranslationDialogX" value="405" />
+    <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="业务单元" />
+      <item value="y'w'w" />
+      <item value="战区" />
+      <item value="war zone" />
+      <item value="区域" />
+      <item value="accept" />
+      <item value="受理" />
+      <item value="is real name" />
+      <item value="is" />
+      <item value="实名" />
+      <item value="shi'ming" />
+      <item value="来源" />
+      <item value="laiyuan" />
+      <item value="clue" />
+      <item value="clues" />
+      <item value="线索" />
+      <item value="廉正监察" />
+      <item value="Surveillance of integrity" />
+      <item value="监察廉正监察" />
+      <item value="监察lian'zheng" />
+      <item value="监察" />
+      <item value="Surveillance" />
+      <item value="integrity" />
+      <item value="廉正" />
+      <item value="廉正jian'cha" />
       <item value="using a password on the command line interface can be insecure" />
       <item value="you must reset your password using alter user statement before executing this statement" />
       <item value="is Communicate Audit Note" />
@@ -31,36 +56,11 @@
       <item value="afternoon" />
       <item value="aAfternoon" />
       <item value="Afternoon" />
-      <item value="下午" />
-      <item value="forenoon" />
-      <item value="上午" />
-      <item value="assess" />
-      <item value="examine" />
-      <item value="review" />
-      <item value="review Monthly" />
-      <item value="fd Direction Bureau" />
-      <item value="Uncaught The editor instance &quot;docContent&quot; is already attached to the provided element." />
-      <item value="fd Past Due" />
-      <item value="Signing Date" />
-      <item value="Signing The" />
-      <item value="fd With Whom To Sign Contract" />
-      <item value="fd With Whomto Sign Contract" />
-      <item value="With Whomto Sign The Contract" />
-      <item value="With Whom To Sign The Contract" />
-      <item value="Whom To Sign The Contract" />
-      <item value="Sign The Contract" />
-      <item value="with Whom To Sign The Contract" />
-      <item value="Term" />
-      <item value="fd Contract Term" />
-      <item value="Contract Term" />
-      <item value="term Contract" />
-      <item value="term Of Contract" />
-      <item value="fd Contract Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="459" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668416367687" />
+    <option name="lastTrimTime" value="1669168449764" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
