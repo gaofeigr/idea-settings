@@ -1,70 +1,70 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="374" />
-    <option name="newTranslationDialogWidth" value="651" />
-    <option name="newTranslationDialogX" value="490" />
-    <option name="newTranslationDialogY" value="273" />
+    <option name="newTranslationDialogHeight" value="437" />
+    <option name="newTranslationDialogWidth" value="523" />
+    <option name="newTranslationDialogX" value="485" />
+    <option name="newTranslationDialogY" value="288" />
     <histories>
-      <item value="disconnect" />
-      <item value="Whole Story" />
-      <item value="Paste" />
-      <item value="Hello,&#10;&#10;We wanted to thank you for recently reviewing our product, JRebel. In an effort to improve ourselves, we&#10;wanted to reach out and ask what issues you had and see if there is anything we can do to help make your&#10;experience better.&#10;&#10;We are looking forward to your response, please let us know if you have any questions or concerns.&#10;&#10;Jan Kabayev, | Technical Support Engineer&#10;&#10;Perforce Software&#10;Visit us on: Twitter | LinkedIn | Facebook    &#10;" />
-      <item value="We believe that everyone has the right to online privacy, therefore we provide free VPN access to those who can't afford a paid plan.&#10;&#10;The Proton VPN free plan does not have a duration limit (you can use it as long as you want), and we do not sell your data unlike some other free VPN services.&#10;&#10;Proton VPN has Free servers in 3 countries, available for Free users.&#10;&#10;The Free VPN servers offer medium speed, and do not support any of the advanced features:" />
-      <item value="We believe privacy and security are fundamental human rights, so we also provide a free version of Proton VPN to the public. Unlike other free VPNs, there are no catches. We don't serve ads or secretly sell your browsing history. Proton VPN Free is subsidized by Proton VPN paid users. If you would like to support online privacy, please consider upgrading to a paid plan for faster speeds and more features." />
-      <item value="protected" />
-      <item value="protet" />
-      <item value="aside" />
-      <item value="encrypt" />
-      <item value="sub List" />
-      <item value="parent List" />
-      <item value="sub Lists" />
-      <item value="subtraction List" />
-      <item value="subtraction" />
-      <item value="SUNDAY" />
-      <item value="Params: value – the given first day of the week" />
-      <item value="Field number for get and set indicating the ordinal number of the day of the week within the current month. Together with the DAY_OF_WEEK field, this uniquely specifies a day within a month. Unlike WEEK_OF_MONTH and WEEK_OF_YEAR, this field's value does not depend on getFirstDayOfWeek() or getMinimalDaysInFirstWeek(). DAY_OF_MONTH 1 through 7 always correspond to DAY_OF_WEEK_IN_MONTH 1; 8 through 14 correspond to DAY_OF_WEEK_IN_MONTH 2, and so on. DAY_OF_WEEK_IN_MONTH 0 indicates the week before DAY_OF_WEEK_IN_MONTH 1. Negative values count back from the end of the month, so the last Sunday of a month is specified as DAY_OF_WEEK = SUNDAY, DAY_OF_WEEK_IN_MONTH = -1. Because negative values count backward they will usually be aligned differently within the month than positive values. For example, if a month has 31 days, DAY_OF_WEEK_IN_MONTH -1 will overlap DAY_OF_WEEK_IN_MONTH 5 and the end of 4." />
-      <item value="MONDAY" />
-      <item value="Sets what the first day of the week is; e.g., SUNDAY in the U.S., MONDAY in France." />
-      <item value="weekend" />
-      <item value="day Off" />
-      <item value="get Fd Patch Day" />
-      <item value="expand Time Interval List" />
-      <item value="区间" />
-      <item value="if any week year numbering isn't supported in this" />
-      <item value="Returns the week year represented by this Calendar. The week year is in sync with the week cycle. The first day of the first week is the first day of the week year." />
-      <item value="holiday" />
-      <item value="Field number for get and set indicating the day of the month. This is a synonym for DATE. The first day of the month has value 1." />
-      <item value="Adds or subtracts the specified amount of time to the given calendar field, based on the calendar's rules. For example, to subtract 5 days from the current time of the calendar, you can achieve it by calling:" />
-      <item value="X Form Calculation Funs man Days Distance" />
-      <item value="control Calculation func man Days Distance text" />
-      <item value="control Calculation func man Hours Hour Distance text" />
-      <item value="上下午&#10;" />
-      <item value="shang" />
-      <item value="匿名" />
-      <item value="fd Required" />
-      <item value="fd Requiret" />
-      <item value="fd Social Security Account" />
-      <item value="fd Fund Account" />
-      <item value="apply edit table list" />
-      <item value="delete Hard" />
-      <item value="set Source Hander Person Info" />
-      <item value="set Source Hander Info" />
-      <item value="set Source Hander Personq Info" />
-      <item value="capture" />
-      <item value="camera" />
-      <item value="stop Propagation" />
-      <item value="orient" />
-      <item value="Returns a BigDecimal whose value is (this + augend), and whose scale is max(this.scale(), augend.scale()). Params: augend – value to be added to this BigDecimal. Returns: this + augend" />
+      <item value="Project Management Institute&#10;14 Campus Boulevard&#10;Newtown Square, PA 19073-3299&#10;USA&#10;Scan code Query&#10;Test Site Information&#10;Dear Fei Gao&#10;You recently became eligible for the Project Management Professional (PMP)® Certification and registered&#10;for a paper-based testing examination. This correspondence serves as final confirmation of your&#10;registration for this paper-based testing examination and details are as follows:&#10;Your Name As It Should Appear On Your Government Issued Identification:&#10;Fei Gao&#10;Your PMI Eligibility ID&#10;6983747E3&#10;Exam&#10;Project Management Professional (PMP)®&#10;First Language/Language Aid&#10;English/Simplified Chinese&#10;Exam Date and Time&#10;14:30 PM, Nov 27, 2022&#10;Test Site Code&#10;1360&#10;Test Site Address&#10;Shenzhen Vocational and Technical College (Xilihu Campus), No.4089 West Shahe Road, Nanshan District,&#10;Shenzhen, Guangdong&#10;Xilihu Campus, Shenzhen Vocational and Technical College, 4089 Shahe West Road, Nanshan District, Shenzhen City, Guangdong Province&#10;Contact Person&#10;Sun, Xiling&#10;400 1628 768&#10;sunnypmp@sztc.org&#10;All candidates are strongly recommended to arrive at the test site before 14:00 pm on the date of the&#10;examination for registration. The exam will start promptly at 14:30 pm and will last 230 minutes with no&#10;breaks. No one will be admitted to the testing room after 14:45 pm. Please note that late candidates will&#10;not get a makeup time nor will they receive instructions for filling in the answer card.&#10;Best wishes on your examination. Thank you!" />
+      <item value="Project Management Institute&#10;14 Campus Boulevard&#10;Newtown Square, PA 19073-3299&#10;USA&#10;扫码查询&#10;考场信息&#10;Dear Fei Gao&#10;You recently became eligible for the Project Management Professional (PMP)® Certification and registered&#10;for a paper-based testing examination. This correspondence serves as final confirmation of your&#10;registration for this paper-based testing examination and details are as follows:&#10;Your Name As It Should Appear On Your Government Issued Identification:&#10;Fei Gao&#10;Your PMI Eligibility ID&#10;6983747E3&#10;Exam&#10;Project Management Professional (PMP)®&#10;First Language/Language Aid&#10;English/Simplified Chinese&#10;Exam Date and Time&#10;14:30 PM, Nov 27, 2022&#10;Test Site Code&#10;1360&#10;Test Site Address&#10;Shenzhen Vocational and Technical College (Xilihu Campus), No.4089 West Shahe Road, Nanshan District,&#10;Shenzhen, Guangdong&#10;广东省深圳市南山区沙河西路4089号 深圳职业技术学院西丽湖校区&#10;Contact Person&#10;Sun, Xiling&#10;400 1628 768&#10;sunnypmp@sztc.org&#10;All candidates are strongly recommended to arrive at the test site before 14:00 pm on the date of the&#10;examination for registration. The exam will start promptly at 14:30 pm and will last 230 minutes with no&#10;breaks. No one will be admitted to the testing room after 14:45 pm. Please note that late candidates will&#10;not get a makeup time nor will they receive instructions for filling in the answer card.&#10;Best wishes on your examination. Thank you!" />
+      <item value="describe" />
+      <item value="描述" />
+      <item value="blacklist" />
+      <item value="黑名单" />
+      <item value="supplier" />
+      <item value="供应商" />
+      <item value="evidence" />
+      <item value="证据" />
+      <item value="Request" />
+      <item value="要求" />
+      <item value="claim" />
+      <item value="奥球" />
+      <item value="Rectify" />
+      <item value="整改" />
+      <item value="是否" />
+      <item value="warning" />
+      <item value="告诫" />
+      <item value="gao'i'j" />
+      <item value="事实" />
+      <item value="shi'shi" />
+      <item value="relation" />
+      <item value="关系" />
+      <item value="责任" />
+      <item value="岗位专业" />
+      <item value="Processing result" />
+      <item value="Process result" />
+      <item value="Processing results" />
+      <item value="Processing the results" />
+      <item value="处理结果" />
+      <item value="issue" />
+      <item value="问题" />
+      <item value="结果" />
+      <item value="survey" />
+      <item value="调查" />
+      <item value="remark" />
+      <item value="备注" />
+      <item value="罚款" />
+      <item value="总" />
+      <item value="fine" />
+      <item value="staff" />
+      <item value="员工" />
+      <item value="追回" />
+      <item value="zhui'hui" />
+      <item value="坠毁" />
+      <item value="company" />
+      <item value="公司" />
+      <item value="Violation" />
+      <item value="违规" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="517" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="1" />
         <entry key="CZECH" value="1" />
@@ -72,12 +72,13 @@
         <entry key="TURKISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664647043519" />
+    <option name="lastTrimTime" value="1669168449764" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
