@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="I Sys Circulation Model" />
       <item value="infringe" />
       <item value="违法" />
       <item value="Illegal" />
@@ -55,12 +56,11 @@
       <item value="Process result" />
       <item value="Processing results" />
       <item value="Processing the results" />
-      <item value="处理结果" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="528" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
