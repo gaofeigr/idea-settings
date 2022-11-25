@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="accumulate" />
+      <item value="async" />
       <item value="update Sponsor" />
       <item value="次数" />
       <item value="accept" />
@@ -54,13 +56,11 @@
       <item value="备注" />
       <item value="罚款" />
       <item value="总" />
-      <item value="fine" />
-      <item value="staff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="522" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
