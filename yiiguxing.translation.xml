@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="update Sponsor" />
       <item value="次数" />
       <item value="accept" />
       <item value="accept and hear a case" />
@@ -55,12 +56,11 @@
       <item value="总" />
       <item value="fine" />
       <item value="staff" />
-      <item value="员工" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="520" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
