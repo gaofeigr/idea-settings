@@ -1,11 +1,42 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="313" />
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogHeight" value="213" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="date" />
+      <item value="da'te" />
+      <item value="case" />
+      <item value="案件" />
+      <item value="an'jian" />
+      <item value="report" />
+      <item value="报告" />
+      <item value="risk" />
+      <item value="风险" />
+      <item value="喝" />
+      <item value="喝茶" />
+      <item value="Basis" />
+      <item value="has" />
+      <item value="ha's" />
+      <item value="依据" />
+      <item value="gist" />
+      <item value="overachievement" />
+      <item value="超预期" />
+      <item value="chao'yu'qi" />
+      <item value="condition" />
+      <item value="情况" />
+      <item value="plan" />
+      <item value="进度" />
+      <item value="duty officer" />
+      <item value="责任人" />
+      <item value="责任" />
+      <item value="finish" />
+      <item value="完成" />
+      <item value="rectify " />
+      <item value="rectify and reform" />
+      <item value="整改" />
       <item value="Infringe" />
       <item value="处罚" />
       <item value="chufa" />
@@ -22,45 +53,14 @@
       <item value="违规" />
       <item value="nature" />
       <item value="性质" />
-      <item value="责任" />
       <item value="accumulate" />
       <item value="async" />
       <item value="update Sponsor" />
-      <item value="次数" />
-      <item value="accept" />
-      <item value="accept and hear a case" />
-      <item value="受理" />
-      <item value="字段" />
-      <item value="Fild" />
-      <item value="area Fild" />
-      <item value="Project Management Institute&#10;14 Campus Boulevard&#10;Newtown Square, PA 19073-3299&#10;USA&#10;Scan code Query&#10;Test Site Information&#10;Dear Fei Gao&#10;You recently became eligible for the Project Management Professional (PMP)® Certification and registered&#10;for a paper-based testing examination. This correspondence serves as final confirmation of your&#10;registration for this paper-based testing examination and details are as follows:&#10;Your Name As It Should Appear On Your Government Issued Identification:&#10;Fei Gao&#10;Your PMI Eligibility ID&#10;6983747E3&#10;Exam&#10;Project Management Professional (PMP)®&#10;First Language/Language Aid&#10;English/Simplified Chinese&#10;Exam Date and Time&#10;14:30 PM, Nov 27, 2022&#10;Test Site Code&#10;1360&#10;Test Site Address&#10;Shenzhen Vocational and Technical College (Xilihu Campus), No.4089 West Shahe Road, Nanshan District,&#10;Shenzhen, Guangdong&#10;Xilihu Campus, Shenzhen Vocational and Technical College, 4089 Shahe West Road, Nanshan District, Shenzhen City, Guangdong Province&#10;Contact Person&#10;Sun, Xiling&#10;400 1628 768&#10;sunnypmp@sztc.org&#10;All candidates are strongly recommended to arrive at the test site before 14:00 pm on the date of the&#10;examination for registration. The exam will start promptly at 14:30 pm and will last 230 minutes with no&#10;breaks. No one will be admitted to the testing room after 14:45 pm. Please note that late candidates will&#10;not get a makeup time nor will they receive instructions for filling in the answer card.&#10;Best wishes on your examination. Thank you!" />
-      <item value="describe" />
-      <item value="描述" />
-      <item value="blacklist" />
-      <item value="黑名单" />
-      <item value="supplier" />
-      <item value="供应商" />
-      <item value="evidence" />
-      <item value="证据" />
-      <item value="Request" />
-      <item value="要求" />
-      <item value="claim" />
-      <item value="奥球" />
-      <item value="Rectify" />
-      <item value="整改" />
-      <item value="是否" />
-      <item value="warning" />
-      <item value="告诫" />
-      <item value="gao'i'j" />
-      <item value="事实" />
-      <item value="shi'shi" />
-      <item value="relation" />
-      <item value="关系" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="578" />
+        <entry key="ENGLISH" value="543" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
