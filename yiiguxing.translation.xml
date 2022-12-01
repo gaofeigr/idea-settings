@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="scroll" />
+      <item value="overflow" />
+      <item value="long Table" />
       <item value="calculate Year" />
       <item value="round" />
       <item value="案件" />
@@ -53,14 +56,11 @@
       <item value="进度" />
       <item value="duty officer" />
       <item value="责任人" />
-      <item value="责任" />
-      <item value="finish" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="588" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="592" />
+        <entry key="ENGLISH" value="557" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
