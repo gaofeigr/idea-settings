@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="open Window Via Dynamic Form" />
+      <item value="tbdraggable" />
       <item value="add Event Listener" />
       <item value="attach Event" />
       <item value="scroll" />
@@ -54,13 +56,11 @@
       <item value="chao'yu'qi" />
       <item value="condition" />
       <item value="情况" />
-      <item value="plan" />
-      <item value="进度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="594" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="561" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
