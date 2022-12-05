@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="supplier data can not null" />
+      <item value="不能为空&#10;" />
+      <item value="supplier data dos'nt null" />
       <item value="no record data" />
       <item value="non record data" />
       <item value="transaction" />
@@ -53,14 +56,11 @@
       <item value="风险" />
       <item value="喝" />
       <item value="喝茶" />
-      <item value="Basis" />
-      <item value="has" />
-      <item value="ha's" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="602" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="569" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
