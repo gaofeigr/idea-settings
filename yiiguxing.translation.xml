@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="Unexpected end of ZLIB input stream" />
       <item value="Package should contain a content type part [M1.13]" />
       <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
       <item value="set Drafter Id" />
@@ -55,12 +56,11 @@
       <item value="da'te" />
       <item value="case" />
       <item value="an'jian" />
-      <item value="report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="576" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
