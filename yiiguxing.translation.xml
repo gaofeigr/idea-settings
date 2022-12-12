@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="replace Text" />
+      <item value="Range" />
       <item value="Unexpected end of ZLIB input stream" />
       <item value="Package should contain a content type part [M1.13]" />
       <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
@@ -54,13 +56,11 @@
       <item value="评审" />
       <item value="date" />
       <item value="da'te" />
-      <item value="case" />
-      <item value="an'jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="578" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670203911911" />
+    <option name="lastTrimTime" value="1670828098782" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
