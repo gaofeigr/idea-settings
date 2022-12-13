@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="Paragraph" />
+      <item value="add After" />
       <item value="replace Text" />
       <item value="Range" />
       <item value="Unexpected end of ZLIB input stream" />
@@ -54,13 +56,11 @@
       <item value="记录" />
       <item value="review" />
       <item value="评审" />
-      <item value="date" />
-      <item value="da'te" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="615" />
+        <entry key="ENGLISH" value="580" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
