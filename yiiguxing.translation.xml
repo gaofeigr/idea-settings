@@ -6,11 +6,11 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="Range" />
       <item value="replace Bookmarks To Text" />
       <item value="Paragraph" />
       <item value="add After" />
       <item value="replace Text" />
-      <item value="Range" />
       <item value="Unexpected end of ZLIB input stream" />
       <item value="Package should contain a content type part [M1.13]" />
       <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="617" />
+        <entry key="ENGLISH" value="582" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
