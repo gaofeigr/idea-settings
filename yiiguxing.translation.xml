@@ -88,4 +88,12 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671020554571" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="chaofanhb" />
+    </histories>
+  </component>
 </application>
