@@ -1,68 +1,68 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="437" />
-    <option name="newTranslationDialogWidth" value="523" />
+    <option name="newTranslationDialogHeight" value="187" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="485" />
-    <option name="newTranslationDialogY" value="288" />
+    <option name="newTranslationDialogY" value="142" />
     <histories>
-      <item value="Project Management Institute&#10;14 Campus Boulevard&#10;Newtown Square, PA 19073-3299&#10;USA&#10;Scan code Query&#10;Test Site Information&#10;Dear Fei Gao&#10;You recently became eligible for the Project Management Professional (PMP)® Certification and registered&#10;for a paper-based testing examination. This correspondence serves as final confirmation of your&#10;registration for this paper-based testing examination and details are as follows:&#10;Your Name As It Should Appear On Your Government Issued Identification:&#10;Fei Gao&#10;Your PMI Eligibility ID&#10;6983747E3&#10;Exam&#10;Project Management Professional (PMP)®&#10;First Language/Language Aid&#10;English/Simplified Chinese&#10;Exam Date and Time&#10;14:30 PM, Nov 27, 2022&#10;Test Site Code&#10;1360&#10;Test Site Address&#10;Shenzhen Vocational and Technical College (Xilihu Campus), No.4089 West Shahe Road, Nanshan District,&#10;Shenzhen, Guangdong&#10;Xilihu Campus, Shenzhen Vocational and Technical College, 4089 Shahe West Road, Nanshan District, Shenzhen City, Guangdong Province&#10;Contact Person&#10;Sun, Xiling&#10;400 1628 768&#10;sunnypmp@sztc.org&#10;All candidates are strongly recommended to arrive at the test site before 14:00 pm on the date of the&#10;examination for registration. The exam will start promptly at 14:30 pm and will last 230 minutes with no&#10;breaks. No one will be admitted to the testing room after 14:45 pm. Please note that late candidates will&#10;not get a makeup time nor will they receive instructions for filling in the answer card.&#10;Best wishes on your examination. Thank you!" />
-      <item value="Project Management Institute&#10;14 Campus Boulevard&#10;Newtown Square, PA 19073-3299&#10;USA&#10;扫码查询&#10;考场信息&#10;Dear Fei Gao&#10;You recently became eligible for the Project Management Professional (PMP)® Certification and registered&#10;for a paper-based testing examination. This correspondence serves as final confirmation of your&#10;registration for this paper-based testing examination and details are as follows:&#10;Your Name As It Should Appear On Your Government Issued Identification:&#10;Fei Gao&#10;Your PMI Eligibility ID&#10;6983747E3&#10;Exam&#10;Project Management Professional (PMP)®&#10;First Language/Language Aid&#10;English/Simplified Chinese&#10;Exam Date and Time&#10;14:30 PM, Nov 27, 2022&#10;Test Site Code&#10;1360&#10;Test Site Address&#10;Shenzhen Vocational and Technical College (Xilihu Campus), No.4089 West Shahe Road, Nanshan District,&#10;Shenzhen, Guangdong&#10;广东省深圳市南山区沙河西路4089号 深圳职业技术学院西丽湖校区&#10;Contact Person&#10;Sun, Xiling&#10;400 1628 768&#10;sunnypmp@sztc.org&#10;All candidates are strongly recommended to arrive at the test site before 14:00 pm on the date of the&#10;examination for registration. The exam will start promptly at 14:30 pm and will last 230 minutes with no&#10;breaks. No one will be admitted to the testing room after 14:45 pm. Please note that late candidates will&#10;not get a makeup time nor will they receive instructions for filling in the answer card.&#10;Best wishes on your examination. Thank you!" />
-      <item value="describe" />
-      <item value="描述" />
-      <item value="blacklist" />
-      <item value="黑名单" />
-      <item value="supplier" />
-      <item value="供应商" />
-      <item value="evidence" />
-      <item value="证据" />
-      <item value="Request" />
-      <item value="要求" />
-      <item value="claim" />
-      <item value="奥球" />
-      <item value="Rectify" />
-      <item value="整改" />
-      <item value="是否" />
-      <item value="warning" />
-      <item value="告诫" />
-      <item value="gao'i'j" />
+      <item value="Unexpected end of ZLIB input stream" />
+      <item value="Package should contain a content type part [M1.13]" />
+      <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
+      <item value="set Drafter Id" />
+      <item value="Found shared references to a collection" />
+      <item value="analyse" />
+      <item value="supplier data can not null" />
+      <item value="不能为空&#10;" />
+      <item value="supplier data dos'nt null" />
+      <item value="no record data" />
+      <item value="non record data" />
+      <item value="transaction" />
+      <item value="事务" />
+      <item value="Connection refused: connect" />
+      <item value="argument type mismatch" />
+      <item value="serialize" />
+      <item value="open Window Via Dynamic Form" />
+      <item value="tbdraggable" />
+      <item value="add Event Listener" />
+      <item value="attach Event" />
+      <item value="scroll" />
+      <item value="overflow" />
+      <item value="long Table" />
+      <item value="calculate Year" />
+      <item value="round" />
+      <item value="案件" />
+      <item value="anjian " />
+      <item value="motive" />
+      <item value="动机" />
+      <item value="冬季" />
+      <item value="fact" />
       <item value="事实" />
       <item value="shi'shi" />
-      <item value="relation" />
-      <item value="关系" />
-      <item value="责任" />
-      <item value="岗位专业" />
-      <item value="Processing result" />
-      <item value="Process result" />
-      <item value="Processing results" />
-      <item value="Processing the results" />
-      <item value="处理结果" />
-      <item value="issue" />
-      <item value="问题" />
-      <item value="结果" />
-      <item value="survey" />
-      <item value="调查" />
-      <item value="remark" />
-      <item value="备注" />
-      <item value="罚款" />
-      <item value="总" />
-      <item value="fine" />
-      <item value="staff" />
-      <item value="员工" />
-      <item value="追回" />
-      <item value="zhui'hui" />
-      <item value="坠毁" />
-      <item value="company" />
-      <item value="公司" />
-      <item value="Violation" />
-      <item value="违规" />
+      <item value="decide" />
+      <item value="决定" />
+      <item value="qualitative" />
+      <item value="定性" />
+      <item value="violate" />
+      <item value="rule" />
+      <item value="违反" />
+      <item value="assessor" />
+      <item value="评审人" />
+      <item value="record" />
+      <item value="记录" />
+      <item value="review" />
+      <item value="评审" />
+      <item value="date" />
+      <item value="da'te" />
+      <item value="case" />
+      <item value="an'jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="576" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="7" />
+        <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="4" />
@@ -72,13 +72,13 @@
         <entry key="TURKISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669168449764" />
+    <option name="lastTrimTime" value="1670203911911" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
