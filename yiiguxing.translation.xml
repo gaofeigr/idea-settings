@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="1 vulnerability" />
       <item value="Convert the well formed XHTML contained in file to a list of WML objects." />
       <item value="compatibility Mode" />
       <item value="free" />
@@ -55,7 +56,6 @@
       <item value="定性" />
       <item value="violate" />
       <item value="rule" />
-      <item value="违反" />
     </histories>
     <option name="languageScores">
       <map>
