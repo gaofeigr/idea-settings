@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="free" />
+      <item value="spire" />
       <item value="Unexpected end of ZLIB input stream" />
       <item value="rich Text" />
       <item value="Range" />
@@ -54,8 +56,6 @@
       <item value="违反" />
       <item value="assessor" />
       <item value="评审人" />
-      <item value="record" />
-      <item value="记录" />
     </histories>
     <option name="languageScores">
       <map>
