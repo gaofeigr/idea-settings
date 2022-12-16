@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="hitoy" type="AUTO_DETECTED" />
       <mapping ext="log_2022-07-11t17-03-46" type="PLAIN_TEXT" />
+      <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
