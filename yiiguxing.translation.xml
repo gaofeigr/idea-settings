@@ -88,4 +88,39 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671020554571" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="790d8c17d9b6123c" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="1108" />
+    <option name="newTranslationDialogY" value="623" />
+    <histories>
+      <item value="show what's new in the editor after an ide update" />
+      <item value="show what's new in the editor after an ide " />
+      <item value="show what" />
+      <item value="show " />
+      <item value="check for plugin updates" />
+      <item value="check" />
+      <item value="check ide updates for stable releases" />
+      <item value="check ide updates for" />
+      <item value="check ide update" />
+      <item value="check ide u" />
+      <item value="chaofanhb" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
