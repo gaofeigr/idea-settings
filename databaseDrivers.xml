@@ -19,8 +19,9 @@
       </library>
     </driver>
     <driver id="oracle" name="DM" driver-class="dm.jdbc.driver.DmDriver">
+      <artifact />
       <library>
-        <url>file://D:/ideaproject/_WORK/szcgj/WebContent/WEB-INF/lib/DmJdbcDriver18.jar</url>
+        <url>file://F:/_history/20221208/ideaproject/_WORK/szcgj/WebContent/WEB-INF/lib/DmJdbcDriver18.jar</url>
       </library>
     </driver>
   </component>
