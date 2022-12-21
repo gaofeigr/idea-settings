@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="suspend" />
+      <item value="susp" />
+      <item value="sup" />
+      <item value="su" />
       <item value="Traversal Util" />
       <item value="attachment Point" />
       <item value="Content Accessor" />
@@ -52,10 +56,6 @@
       <item value="long Table" />
       <item value="calculate Year" />
       <item value="round" />
-      <item value="案件" />
-      <item value="anjian " />
-      <item value="motive" />
-      <item value="动机" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670828098782" />
+    <option name="lastTrimTime" value="1671604881294" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
