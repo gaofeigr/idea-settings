@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="rich Text" />
+      <item value="richText" />
+      <item value="ric  hText" />
+      <item value="ric hText" />
+      <item value="rich" />
       <item value="word" />
       <item value="origin" />
       <item value="suspend" />
@@ -28,7 +33,6 @@
       <item value="free" />
       <item value="spire" />
       <item value="Unexpected end of ZLIB input stream" />
-      <item value="rich Text" />
       <item value="Range" />
       <item value="replace Bookmarks To Text" />
       <item value="Paragraph" />
@@ -52,10 +56,6 @@
       <item value="open Window Via Dynamic Form" />
       <item value="tbdraggable" />
       <item value="add Event Listener" />
-      <item value="attach Event" />
-      <item value="scroll" />
-      <item value="overflow" />
-      <item value="long Table" />
     </histories>
     <option name="languageScores">
       <map>
