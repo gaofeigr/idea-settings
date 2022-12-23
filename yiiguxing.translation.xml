@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="word" />
+      <item value="origin" />
       <item value="suspend" />
       <item value="susp" />
       <item value="sup" />
@@ -54,8 +56,6 @@
       <item value="scroll" />
       <item value="overflow" />
       <item value="long Table" />
-      <item value="calculate Year" />
-      <item value="round" />
     </histories>
     <option name="languageScores">
       <map>
