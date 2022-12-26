@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="get Criterion" />
       <item value="leader Participate" />
       <item value="Participate" />
       <item value="参与" />
@@ -55,12 +56,11 @@
       <item value="supplier data dos'nt null" />
       <item value="no record data" />
       <item value="non record data" />
-      <item value="transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="601" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
