@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="485" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="leader Participate" />
+      <item value="Participate" />
+      <item value="参与" />
+      <item value="参会" />
+      <item value="canyu" />
+      <item value="leader Participation" />
+      <item value="leadership Meeting" />
       <item value="rich Text" />
       <item value="richText" />
       <item value="ric  hText" />
@@ -49,18 +56,11 @@
       <item value="no record data" />
       <item value="non record data" />
       <item value="transaction" />
-      <item value="事务" />
-      <item value="Connection refused: connect" />
-      <item value="argument type mismatch" />
-      <item value="serialize" />
-      <item value="open Window Via Dynamic Form" />
-      <item value="tbdraggable" />
-      <item value="add Event Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="595" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="600" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671604881294" />
+    <option name="lastTrimTime" value="1672041693647" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
@@ -89,7 +89,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671957276612" />
+    <option name="lastTrimTime" value="1671020554571" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -104,8 +104,6 @@
     <option name="newTranslationDialogX" value="1108" />
     <option name="newTranslationDialogY" value="623" />
     <histories>
-      <item value="Mark" />
-      <item value="book Mark" />
       <item value="show what's new in the editor after an ide update" />
       <item value="show what's new in the editor after an ide " />
       <item value="show what" />
@@ -120,8 +118,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="1" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
