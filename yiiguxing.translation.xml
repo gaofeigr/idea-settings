@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="524" />
-    <option name="newTranslationDialogX" value="485" />
-    <option name="newTranslationDialogY" value="142" />
+    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogX" value="477" />
+    <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="offline seat duration" />
+      <item value="offline seat " />
+      <item value="offline sear" />
+      <item value="june" />
       <item value="step" />
       <item value="upload After Select" />
       <item value="get Criterion" />
@@ -52,10 +56,6 @@
       <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
       <item value="set Drafter Id" />
       <item value="Found shared references to a collection" />
-      <item value="analyse" />
-      <item value="supplier data can not null" />
-      <item value="不能为空&#10;" />
-      <item value="supplier data dos'nt null" />
     </histories>
     <option name="languageScores">
       <map>
