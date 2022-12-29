@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="Payment Stage" />
       <item value="seal" />
       <item value="unique" />
       <item value="offline seat duration" />
@@ -55,12 +56,11 @@
       <item value="add After" />
       <item value="replace Text" />
       <item value="Package should contain a content type part [M1.13]" />
-      <item value="does not contain handler parameter named 'method'. This may be caused by whitespace in the label text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="606" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
