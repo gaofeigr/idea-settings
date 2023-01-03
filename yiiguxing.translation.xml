@@ -2,10 +2,31 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="520" />
+    <option name="newTranslationDialogWidth" value="518" />
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="fd Family Plan Leave Desc" />
+      <item value="fd Breastfeed Leave Desc" />
+      <item value="Desc" />
+      <item value="fd Work Injured Leave Days" />
+      <item value="injured" />
+      <item value="受伤" />
+      <item value="fd Family Plan Leave Days" />
+      <item value="Family Plan" />
+      <item value="fd Family Plan Leave Description" />
+      <item value="fd One Child Care Leave Days" />
+      <item value="fd Only Child Care Leave Days" />
+      <item value="breastfeeding Leave" />
+      <item value="lactation Leave" />
+      <item value="fd F Plan S Leave Days" />
+      <item value="fd F Plan Surgery Leave Days" />
+      <item value="fd Family Plan Surgery Leave Days" />
+      <item value="family Plann Surgery Leave" />
+      <item value="family Planning Surgery" />
+      <item value="family Planning Surgery Leave" />
+      <item value="only Child Care Leave" />
+      <item value="fd Paternity Leave Days" />
       <item value="用印" />
       <item value="over Time" />
       <item value="Payment Stage" />
@@ -35,32 +56,11 @@
       <item value="suspend" />
       <item value="susp" />
       <item value="sup" />
-      <item value="su" />
-      <item value="Traversal Util" />
-      <item value="attachment Point" />
-      <item value="Content Accessor" />
-      <item value="add Alt Chunk" />
-      <item value="outer Html" />
-      <item value="rich Content" />
-      <item value="rech Content" />
-      <item value="Unsupported major.minor version 52.0" />
-      <item value="Cannot resolve Received fatal alert: protocol_version" />
-      <item value="Could not transfer artifact org.docx4j:docx4j-core:pom:8.2.6 fromto central (https:repo.maven.apache.orgmaven2): transfer failed for https:repo.maven.apache.orgmaven2orgdocx4jdocx4j-core8.2.6docx4j-core-8.2.6.pom" />
-      <item value="1 vulnerability" />
-      <item value="Convert the well formed XHTML contained in file to a list of WML objects." />
-      <item value="compatibility Mode" />
-      <item value="free" />
-      <item value="spire" />
-      <item value="Unexpected end of ZLIB input stream" />
-      <item value="Range" />
-      <item value="replace Bookmarks To Text" />
-      <item value="Paragraph" />
-      <item value="add After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="630" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672041693647" />
+    <option name="lastTrimTime" value="1672735056183" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
