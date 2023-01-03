@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="Unsuccessful" />
       <item value="fd Family Plan Leave Desc" />
       <item value="fd Breastfeed Leave Desc" />
       <item value="Desc" />
@@ -55,12 +56,11 @@
       <item value="origin" />
       <item value="suspend" />
       <item value="susp" />
-      <item value="sup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="631" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
