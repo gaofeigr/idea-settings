@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="get Object Boolean Value" />
+      <item value="get Object Bool Value" />
       <item value="get Object Date Value" />
       <item value="temp Cell Value" />
       <item value="temp Cell Vale" />
@@ -54,13 +56,11 @@
       <item value="richText" />
       <item value="ric  hText" />
       <item value="ric hText" />
-      <item value="rich" />
-      <item value="word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="636" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
