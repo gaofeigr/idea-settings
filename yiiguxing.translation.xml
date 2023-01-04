@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="187" />
-    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogHeight" value="182" />
+    <option name="newTranslationDialogWidth" value="516" />
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="temp Counter" />
+      <item value="计数器" />
       <item value="get Object Boolean Value" />
       <item value="get Object Bool Value" />
       <item value="get Object Date Value" />
@@ -54,13 +56,11 @@
       <item value="leadership Meeting" />
       <item value="rich Text" />
       <item value="richText" />
-      <item value="ric  hText" />
-      <item value="ric hText" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="637" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
