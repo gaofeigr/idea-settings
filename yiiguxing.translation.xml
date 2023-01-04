@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="get Object Date Value" />
+      <item value="temp Cell Value" />
+      <item value="temp Cell Vale" />
       <item value="Unsuccessful" />
       <item value="fd Family Plan Leave Desc" />
       <item value="fd Breastfeed Leave Desc" />
@@ -53,14 +56,11 @@
       <item value="ric hText" />
       <item value="rich" />
       <item value="word" />
-      <item value="origin" />
-      <item value="suspend" />
-      <item value="susp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="634" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="1" />
