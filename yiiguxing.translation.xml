@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="fd dusk" />
+      <item value="fd at Dusk" />
+      <item value="fd night Shift" />
+      <item value="fd evening" />
+      <item value="half" />
       <item value="temp Counter" />
       <item value="计数器" />
       <item value="get Object Boolean Value" />
@@ -51,18 +56,13 @@
       <item value="Participate" />
       <item value="参与" />
       <item value="参会" />
-      <item value="canyu" />
-      <item value="leader Participation" />
-      <item value="leadership Meeting" />
-      <item value="rich Text" />
-      <item value="richText" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="641" />
         <entry key="AFRIKAANS" value="1" />
-        <entry key="DANISH" value="8" />
+        <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="4" />
