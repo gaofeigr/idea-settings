@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="is Readable" />
       <item value="fixed Height" />
       <item value="Communicate Scope Parent Id" />
       <item value="except Value" />
@@ -55,12 +56,11 @@
       <item value="unique" />
       <item value="offline seat duration" />
       <item value="offline seat " />
-      <item value="offline sear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="651" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="1" />
