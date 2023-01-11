@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="173" />
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogWidth" value="512" />
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="355" />
     <histories>
+      <item value="戒烟" />
       <item value="assort inquiry" />
       <item value="ass" />
       <item value="配合" />
@@ -55,7 +56,6 @@
       <item value="lactation Leave" />
       <item value="fd F Plan S Leave Days" />
       <item value="fd F Plan Surgery Leave Days" />
-      <item value="fd Family Plan Surgery Leave Days" />
     </histories>
     <option name="languageScores">
       <map>
