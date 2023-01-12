@@ -1,11 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="173" />
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogHeight" value="151" />
+    <option name="newTranslationDialogWidth" value="506" />
     <option name="newTranslationDialogX" value="477" />
-    <option name="newTranslationDialogY" value="355" />
+    <option name="newTranslationDialogY" value="347" />
     <histories>
+      <item value="send orders" />
+      <item value="派单" />
+      <item value="six" />
+      <item value="si'x" />
+      <item value="满足的因素" />
+      <item value="meet factor" />
+      <item value="factor" />
+      <item value="要素" />
+      <item value="meet" />
+      <item value="满足" />
+      <item value="initiator" />
+      <item value="牵头" />
       <item value="戒烟" />
       <item value="assort inquiry" />
       <item value="ass" />
@@ -44,23 +56,11 @@
       <item value="fd Family Plan Leave Desc" />
       <item value="fd Breastfeed Leave Desc" />
       <item value="Desc" />
-      <item value="fd Work Injured Leave Days" />
-      <item value="injured" />
-      <item value="受伤" />
-      <item value="fd Family Plan Leave Days" />
-      <item value="Family Plan" />
-      <item value="fd Family Plan Leave Description" />
-      <item value="fd One Child Care Leave Days" />
-      <item value="fd Only Child Care Leave Days" />
-      <item value="breastfeeding Leave" />
-      <item value="lactation Leave" />
-      <item value="fd F Plan S Leave Days" />
-      <item value="fd F Plan Surgery Leave Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="659" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="1" />
