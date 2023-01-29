@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="biz Scene Name" />
       <item value="scene" />
       <item value="BIZ" />
       <item value="业务" />
@@ -55,12 +56,11 @@
       <item value="meet factor" />
       <item value="factor" />
       <item value="要素" />
-      <item value="meet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="716" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="679" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
