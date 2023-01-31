@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="性别" />
+      <item value="sex Field" />
       <item value="bind Leader Result Change" />
       <item value="bind Manage Result Change" />
       <item value="bind Decide Result Change" />
@@ -54,13 +56,11 @@
       <item value="filed Name" />
       <item value="accumulate" />
       <item value="auto Create Analyse By Clue" />
-      <item value="establish" />
-      <item value="成立" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="734" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="735" />
+        <entry key="ENGLISH" value="697" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
