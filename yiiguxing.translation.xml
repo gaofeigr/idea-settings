@@ -2,10 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="135" />
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="476" />
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="fd outer persons involved name" />
+      <item value="fd Outer Persons Involved Name" />
+      <item value="fdouter Persons Involved Name" />
+      <item value="outer" />
+      <item value="out" />
+      <item value="外面" />
+      <item value="外部" />
+      <item value="fd Persons Involved Name" />
+      <item value="fd Persons Involved Nameq" />
+      <item value="fd Persons Involved" />
+      <item value="String Buffer" />
       <item value="get Model Name By Model Obj" />
       <item value="Flow" />
       <item value="流程" />
@@ -45,22 +56,11 @@
       <item value="found" />
       <item value="leader-member relation" />
       <item value="上下级关系" />
-      <item value="inquiry" />
-      <item value="Stable" />
-      <item value="定性" />
-      <item value="xing" />
-      <item value="顶i修改n" />
-      <item value="确定" />
-      <item value="qualitative" />
-      <item value="ensure" />
-      <item value="fix" />
-      <item value="enter" />
-      <item value="reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="691" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
