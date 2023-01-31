@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="fd Persons Involved" />
       <item value="fd Persons Involved Path" />
       <item value="fd outer persons involved name" />
       <item value="fd Outer Persons Involved Name" />
@@ -16,7 +17,6 @@
       <item value="外部" />
       <item value="fd Persons Involved Name" />
       <item value="fd Persons Involved Nameq" />
-      <item value="fd Persons Involved" />
       <item value="String Buffer" />
       <item value="get Model Name By Model Obj" />
       <item value="Flow" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="731" />
+        <entry key="ENGLISH" value="693" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
