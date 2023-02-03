@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="135" />
-    <option name="newTranslationDialogWidth" value="476" />
-    <option name="newTranslationDialogX" value="477" />
-    <option name="newTranslationDialogY" value="325" />
+    <option name="newTranslationDialogHeight" value="303" />
+    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogX" value="449" />
+    <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="安卓模拟器&#10;" />
+      <item value="ChatGPT is a language model trained by OpenAI and can be used for a variety of tasks, including dialogue and text generation. ChatGPT is a neural network-based model that is trained on large amounts of human language data and is able to generate natural language text that is meaningful in a given context. The model can be used for many applications, such as natural language processing (NLP) and dialogue systems." />
       <item value="java tcp mysql performance network docker Linux" />
       <item value="set Partition" />
       <item value="性别" />
@@ -54,8 +56,6 @@
       <item value="get Field Values" />
       <item value="字段" />
       <item value="ziduan" />
-      <item value="filed" />
-      <item value="filed Name" />
     </histories>
     <option name="languageScores">
       <map>

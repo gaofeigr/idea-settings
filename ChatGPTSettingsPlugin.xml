@@ -1,0 +1,6 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.SettingsState">
+    <option name="customizeUrl" value="http://chat.h2ai.cn/api/trilateral/openAi/completions" />
+    <option name="urlType" value="CUSTOMIZE" />
+  </component>
+</application>
