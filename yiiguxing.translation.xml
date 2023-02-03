@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="477" />
     <option name="newTranslationDialogY" value="325" />
     <histories>
+      <item value="java tcp mysql performance network docker Linux" />
       <item value="set Partition" />
       <item value="性别" />
       <item value="sex Field" />
@@ -55,7 +56,6 @@
       <item value="ziduan" />
       <item value="filed" />
       <item value="filed Name" />
-      <item value="accumulate" />
     </histories>
     <option name="languageScores">
       <map>
