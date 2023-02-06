@@ -1,6 +1,6 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.SettingsState">
-    <option name="accessToken" value="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" />
+    <option name="accessToken" value="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" />
     <option name="customizeUrl" value="http://chat.h2ai.cn/api/trilateral/openAi/completions" />
     <option name="urlType" value="OFFICIAL" />
     <option name="readTimeout" value="1000000" />
