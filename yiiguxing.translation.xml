@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="303" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="449" />
-    <option name="newTranslationDialogY" value="257" />
+    <option name="newTranslationDialogY" value="229" />
     <histories>
+      <item value="GPT&#10;" />
+      <item value="chat" />
+      <item value="cha't" />
+      <item value="Access denied&#10;You do not have access to chat.openai.com.&#10;&#10;The site owner may have set restrictions that prevent you from accessing the site.&#10;&#10;Ray ID: 795097480ac99e64&#10;Timestamp: 2023-02-06 02:52:39 UTC&#10;Your IP address: 59.37.31.162&#10;Requested URL: chat.openai.com/chat/cf14267f-55ac-449d-b22b-ccdab58467b6&#10;Error reference number: 1020&#10;Server ID: FL_464F115&#10;User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" />
       <item value="安卓模拟器&#10;" />
       <item value="ChatGPT is a language model trained by OpenAI and can be used for a variety of tasks, including dialogue and text generation. ChatGPT is a neural network-based model that is trained on large amounts of human language data and is able to generate natural language text that is meaningful in a given context. The model can be used for many applications, such as natural language processing (NLP) and dialogue systems." />
       <item value="java tcp mysql performance network docker Linux" />
@@ -52,10 +56,6 @@
       <item value="changjing" />
       <item value="split" />
       <item value="分隔" />
-      <item value="spild" />
-      <item value="get Field Values" />
-      <item value="字段" />
-      <item value="ziduan" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1674979104891" />
+    <option name="lastTrimTime" value="1675652012532" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
