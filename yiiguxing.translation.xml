@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="449" />
     <option name="newTranslationDialogY" value="229" />
     <histories>
+      <item value="sync Sponsor To Analyse" />
       <item value="organizer" />
       <item value="fd Clue Flowing Other" />
       <item value="GPT&#10;" />
@@ -55,12 +56,11 @@
       <item value="业务" />
       <item value="场景" />
       <item value="changjinga" />
-      <item value="changjing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="739" />
+        <entry key="ENGLISH" value="701" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
