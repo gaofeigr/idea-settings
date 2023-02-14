@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="449" />
     <option name="newTranslationDialogY" value="229" />
     <histories>
+      <item value="Cannot retrieve mapping for action /" />
+      <item value="popup" />
       <item value="fork" />
       <item value="begin Survey" />
       <item value="sync Sponsor To Analyse" />
@@ -54,13 +56,11 @@
       <item value="anji" />
       <item value="biz Scene Name" />
       <item value="scene" />
-      <item value="BIZ" />
-      <item value="业务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="741" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="704" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="1" />
